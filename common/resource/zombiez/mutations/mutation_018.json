@@ -1,0 +1,21 @@
+//접촉감염
+//접촉하는 것만으로 감염 발생
+{
+  "team": 2
+  , "weight": 5
+  , "param1" :  // 데미지 주기
+  {
+    "base_value" :	0.4
+    , "increment" : 0
+  }
+  , "param2" :  // 범위 (반지름)
+  {
+    "base_value" :	1.8
+    , "increment" : 0
+  }
+  , "param3" :  // 틱당 데미지
+  {
+    "base_value" :	200
+    , "increment" : 20
+  }
+}

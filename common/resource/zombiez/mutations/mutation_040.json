@@ -1,0 +1,23 @@
+﻿//이카루스
+//공중에서 천천히 하강
+{
+	"team": 0
+	, "weight": 25
+	, "param1" :  // 하강 속도 변화
+	{
+		"base_value" :	30
+		, "increment" : 0.05
+	}
+	, "param2" :  // 하강에 필요한 키 입력 시간
+	{
+		"base_value" : 0.4
+	}
+	, "param3" :  // 하강 시 전진 속도
+	{
+		"base_value" : 500
+	}
+	, "param4" :  // 쿨타임
+	{
+		"base_value" : 2
+	}
+}

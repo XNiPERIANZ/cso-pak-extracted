@@ -1,0 +1,481 @@
+{
+  "weaponPref": {
+    "diff": [
+      [
+        {
+          "weaponID": 250,
+          "prop": 7
+        },
+        {
+          "weaponID": 298,
+          "prop": 7
+        },
+        {
+          "weaponID": 203,
+          "prop": 7
+        },
+        {
+          "weaponID": 112,
+          "prop": 7
+        },
+        {
+          "weaponID": 369,
+          "prop": 7
+        },
+        {
+          "weaponID": 388,
+          "prop": 9
+        },
+        {
+          "weaponID": 430,
+          "prop": 7
+        },
+        {
+          "weaponID": 400,
+          "prop": 7
+        },
+        {
+          "weaponID": 401,
+          "prop": 7
+        },
+        {
+          "weaponID": 181,
+          "prop": 7
+        },
+        {
+          "weaponID": 381,
+          "prop": 7
+        },
+        {
+          "weaponID": 398,
+          "prop": 7
+        },
+        {
+          "weaponID": 201,
+          "prop": 7
+        },
+        {
+          "weaponID": 207,
+          "prop": 7
+        }
+      ],
+      [
+        {
+          "weaponID": 277,
+          "prop": 6
+        },
+        {
+          "weaponID": 306,
+          "prop": 6
+        },
+        {
+          "weaponID": 233,
+          "prop": 6
+        },
+        {
+          "weaponID": 473,
+          "prop": 6
+        },
+        {
+          "weaponID": 378,
+          "prop": 6
+        },
+        {
+          "weaponID": 193,
+          "prop": 6
+        },
+        {
+          "weaponID": 307,
+          "prop": 6
+        },
+        {
+          "weaponID": 144,
+          "prop": 6
+        },
+        {
+          "weaponID": 111,
+          "prop": 6
+        },
+        {
+          "weaponID": 385,
+          "prop": 6
+        },
+        {
+          "weaponID": 402,
+          "prop": 6
+        },
+        {
+          "weaponID": 459,
+          "prop": 6
+        },
+        {
+          "weaponID": 338,
+          "prop": 6
+        },
+        {
+          "weaponID": 440,
+          "prop": 6
+        },
+        {
+          "weaponID": 450,
+          "prop": 6
+        },
+        {
+          "weaponID": 449,
+          "prop": 5
+        },
+        {
+          "weaponID": 441,
+          "prop": 5
+        }
+      ],
+      [
+        {
+          "weaponID": 403,
+          "prop": 10
+        },
+        {
+          "weaponID": 399,
+          "prop": 10
+        },
+        {
+          "weaponID": 390,
+          "prop": 10
+        },
+        {
+          "weaponID": 405,
+          "prop": 10
+        },
+        {
+          "weaponID": 397,
+          "prop": 10
+        },
+        {
+          "weaponID": 386,
+          "prop": 10
+        },
+        {
+          "weaponID": 396,
+          "prop": 10
+        },
+        {
+          "weaponID": 472,
+          "prop": 10
+        },
+        {
+          "weaponID": 319,
+          "prop": 10
+        },
+        {
+          "weaponID": 367,
+          "prop": 10
+        }
+      ]
+	],
+	"classic": [
+      [
+        {
+          "weaponID": 22,
+          "prop": 7
+        },
+        {
+          "weaponID": 28,
+          "prop": 7
+        },
+        {
+          "weaponID": 19,
+          "prop": 7
+        },
+        {
+          "weaponID": 20,
+          "prop": 7
+        },
+        {
+          "weaponID": 41,
+          "prop": 7
+        }
+      ],
+      [
+        {
+          "weaponID": 5,
+          "prop": 7
+        },
+        {
+          "weaponID": 22,
+          "prop": 7
+        },
+        {
+          "weaponID": 28,
+          "prop": 7
+        },
+        {
+          "weaponID": 19,
+          "prop": 7
+        },
+        {
+          "weaponID": 20,
+          "prop": 10
+        },
+        {
+          "weaponID": 41,
+          "prop": 10
+        }
+      ],
+      [
+        {
+          "weaponID": 5,
+          "prop": 10
+        },
+        {
+          "weaponID": 22,
+          "prop": 5
+        },
+        {
+          "weaponID": 28,
+          "prop": 5
+        },
+        {
+          "weaponID": 19,
+          "prop": 5
+        },
+        {
+          "weaponID": 20,
+          "prop": 10
+        },
+        {
+          "weaponID": 41,
+          "prop": 10
+        }
+      ]
+	],
+	"new_classic": [
+      [
+        {
+          "weaponID": 5,
+          "prop": 10
+        },
+        {
+          "weaponID": 19,
+          "prop": 7
+        },
+        {
+          "weaponID": 20,
+          "prop": 10
+        },
+        {
+          "weaponID": 41,
+          "prop": 10
+        },
+        {
+          "weaponID": 59,
+          "prop": 10
+        },
+        {
+          "weaponID": 73,
+          "prop": 10
+        },
+        {
+          "weaponID": 74,
+          "prop": 10
+        },
+        {
+          "weaponID": 45,
+          "prop": 10
+        },
+        {
+          "weaponID": 115,
+          "prop": 10
+        },
+        {
+          "weaponID": 197,
+          "prop": 7
+        }
+      ],
+      [
+        {
+          "weaponID": 5,
+          "prop": 6
+        },
+        {
+          "weaponID": 20,
+          "prop": 6
+        },
+        {
+          "weaponID": 197,
+          "prop": 6
+        },
+        {
+          "weaponID": 125,
+          "prop": 6
+        },
+        {
+          "weaponID": 109,
+          "prop": 6
+        },
+        {
+          "weaponID": 121,
+          "prop": 6
+        },
+        {
+          "weaponID": 48,
+          "prop": 6
+        },
+        {
+          "weaponID": 186,
+          "prop": 6
+        },
+        {
+          "weaponID": 212,
+          "prop": 6
+        },
+        {
+          "weaponID": 230,
+          "prop": 6
+        },
+        {
+          "weaponID": 239,
+          "prop": 6
+        },
+        {
+          "weaponID": 253,
+          "prop": 6
+        }
+      ],
+      [
+        {
+          "weaponID": 239,
+          "prop": 10
+        },
+        {
+          "weaponID": 266,
+          "prop": 10
+        },
+        {
+          "weaponID": 308,
+          "prop": 10
+        },
+        {
+          "weaponID": 337,
+          "prop": 10
+        },
+        {
+          "weaponID": 361,
+          "prop": 10
+        },
+        {
+          "weaponID": 275,
+          "prop": 10
+        },
+        {
+          "weaponID": 236,
+          "prop": 10
+        }
+      ]
+    ]
+  },
+  "class": [
+    49,
+    50,
+    51,
+    52,
+    53,
+    150,
+    151,
+    152,
+    253,
+    328,
+    418,
+    419,
+    593,
+    692,
+    709,
+    735,
+    759,
+    943,
+    1055,
+    8084,
+    8128,
+    8134,
+    40,
+    41,
+    42,
+    43,
+    44,
+    153,
+    154,
+    155,
+    254,
+    329,
+    433,
+    592,
+    944,
+    1056,
+    8085,
+    8107,
+    8129,
+    8135,
+    8167
+  ],
+  "costume": [
+    471,
+    472,
+    473,
+    476,
+    477,
+    478,
+    479,
+    526,
+    527,
+    528,
+    541,
+    542,
+    543,
+    515,
+    516,
+    557,
+    558,
+    559,
+    704,
+    705,
+    731,
+    772,
+    785,
+    786,
+    819,
+    820,
+    797,
+    798,
+    948,
+    949,
+    8089,
+    8090,
+    8168
+  ],
+  "title": [
+    1,
+    2,
+    3,
+    7,
+    11,
+    12,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    80,
+    81,
+    82,
+    83,
+    84,
+    104,
+    105,
+    107,
+    154,
+    155,
+    156,
+    157,
+    158
+  ]
+}
