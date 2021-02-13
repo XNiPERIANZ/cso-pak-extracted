@@ -1,0 +1,12 @@
+﻿//고통의 기억 
+//자신을 죽인 플레이어로부터 받는 피해 감소
+{
+	"team": 2
+	, "weight": 25
+	, "param1" :  // 받는 피해 감소
+	{
+		"base_value" :	0.5
+		, "increment" : 0
+		, "is_percent" : true
+	}
+}

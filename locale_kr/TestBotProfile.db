@@ -1,0 +1,1732 @@
+//----------------------------------------------------------------------------
+// BotProfile.db
+// Author: Michael S. Booth, Turtle Rock Studios (www.turtlerockstudios.com)
+//
+// This database defines bot "personalities". 
+// Feel free to edit it and define your own bots.
+//
+
+
+//----------------------------------------------------------------------------
+
+//
+// All profiles begin with this data and overwrite their own
+//
+Default
+	Skill = 50
+	Aggression = 50
+	ReactionTime = 0.3
+	AttackDelay = 0
+	Teamwork = 75
+	WeaponPreference = none
+	Cost = 0
+	Difficulty = NORMAL
+	VoicePitch = 100
+	Skin = 0
+End
+
+//----------------------------------------------------------------------------
+
+//
+// These templates inherit from Default and override with their values
+// The name of the template defines a type that is used by individual bot profiles
+//
+
+// weapon preference templates
+Template Rifle
+	WeaponPreference = m4a1
+	WeaponPreference = ak47
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template RifleT
+	WeaponPreference = ak47
+	WeaponPreference = m4a1
+	WeaponPreference = galil
+	WeaponPreference = famas
+	WeaponPreference = mp5
+End
+
+Template Punch
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template PunchT
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Sniper
+	WeaponPreference = awp
+	WeaponPreference = sg550
+	WeaponPreference = g3sg1
+	WeaponPreference = scout
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Power
+	WeaponPreference = m249
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Shotgun
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Spray
+	WeaponPreference = p90
+	WeaponPreference = tmp
+	WeaponPreference = mac10
+	WeaponPreference = mp5
+End
+
+
+// skill templates
+Template Elite
+	Skill = 100
+	Aggression = 100
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = ELITE
+	VoicePitch = 85
+End
+
+Template Expert
+	Skill = 90
+	Aggression = 90
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = EXPERT
+	VoicePitch = 88
+End
+
+Template VeryHard
+	Skill = 80
+	Aggression = 80
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = VERYHARD
+	VoicePitch = 92
+End
+
+Template Hard
+	Skill = 75
+	Aggression = 75
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = HARD
+	VoicePitch = 94
+End
+
+Template Tough
+	Skill = 60
+	Aggression = 60
+	ReactionTime = 0.3
+	AttackDelay = 0.35
+	Cost = 2
+	Difficulty = TOUGH
+	VoicePitch = 96
+End
+
+Template Normal
+	Skill = 50
+	Aggression = 50
+	ReactionTime = 0.4
+	AttackDelay = 0.7
+	Cost = 2
+	Difficulty = NORMAL
+End
+
+Template Fair
+	Skill = 25
+	Aggression = 30
+	ReactionTime = 0.4
+	AttackDelay = 1.0
+	Cost = 1
+	Difficulty = FAIR
+	VoicePitch = 105
+End
+
+Template Easy
+	Skill = 0
+	Aggression = 20
+	ReactionTime = 0.5
+	AttackDelay = 1.5
+	Cost = 1
+	Difficulty = EASY
+	VoicePitch = 110
+End
+
+//---------------------------------------------------------------------------- Elite
+// These are the individual bot profiles, which inherit first from 
+// Default and then the specified Template(s), in order
+//
+		
+Elite+Power "폭탄어디설치해요"
+	VoicePitch = 100	
+End		
+		
+Elite+Sniper "닉네임추천받아요"
+	VoicePitch = 110	
+End		
+		
+Elite+Rifle "대머리고래"
+	VoicePitch = 120	
+End		
+		
+Elite+RifleT "혼자신난개똥벌레"
+	VoicePitch = 99	
+End		
+		
+Elite+Shotgun "사격중지아군이다"
+	VoicePitch = 120	
+End		
+		
+Elite+PunchT "최종병기치킨"
+	VoicePitch = 125	
+End		
+		
+Elite+Spray "치킨이냐피자냐"
+	VoicePitch = 110	
+End		
+		
+Elite "제가봐드림"
+	VoicePitch = 100	
+End		
+		
+Elite "님들밥먹고하죠"
+	VoicePitch = 112	
+End		
+		
+Elite "좀비좀비켜라"
+	VoicePitch = 121	
+End		
+		
+Elite "무기좀뿌려주세요"
+	VoicePitch = 99	
+End		
+		
+Elite "썸바디헬프미"
+	VoicePitch = 119	
+End			
+		
+Elite "폭탄전문가봄버맨"
+	VoicePitch = 116	
+End		
+		
+Elite "최강용사빅카스맨"
+	VoicePitch = 115	
+End		
+		
+Elite "내애인에리카"
+	VoicePitch = 114	
+End		
+		
+Elite "안아프게살살쏴줘"
+	VoicePitch = 112	
+End		
+		
+Elite "정말쏘실건가요"
+	VoicePitch = 111	
+End		
+		
+Elite "죽이면본캐로옴"
+	VoicePitch = 110	
+End		
+		
+Elite "목마른사슴이죽음"
+	VoicePitch = 109	
+End		
+		
+Elite "나완전쌘듯"
+	VoicePitch = 108	
+End		
+		
+Elite "이거부계정이다"
+	VoicePitch = 122	
+End		
+		
+Elite "대세는카스다"
+	VoicePitch = 120	
+End		
+		
+Elite "렉있어요원랜잘함"
+	VoicePitch = 125	
+End		
+		
+Elite "무기들고손버려"
+	VoicePitch = 92	
+End		
+		
+Elite "우리카스평생가자"
+	VoicePitch = 100	
+End		
+		
+Elite "저축왕인터넷뱅킹"
+	VoicePitch = 102	
+End		
+		
+Elite "내가총만있었어도"
+	VoicePitch = 104	
+End		
+		
+Elite "바주카스온라인"
+	VoicePitch = 108	
+End		
+		
+Elite "돌잔치에엠포잡음"
+	VoicePitch = 95	
+End		
+		
+Elite "미안한남자고맨"
+	VoicePitch = 100	
+End		
+		
+Elite "카스온라인공지능"
+	VoicePitch = 120	
+End		
+		
+Elite "총이고장났어요"
+	VoicePitch = 112	
+End		
+		
+Elite "미래의탑랭커"
+	VoicePitch = 99	
+End		
+		
+Elite "닉네임은닉"
+	VoicePitch = 110	
+End		
+
+Elite	"적절한닉네임"
+	VoicePitch = 99
+End	
+
+Elite	"목넘김좋은카스온"
+	VoicePitch = 93
+End		
+
+Elite	"완전정확한에임"
+	VoicePitch = 93
+End		
+
+Elite	"파티하실분"
+	VoicePitch = 93
+End		
+
+Elite	"아저씨랑친구할래"
+	VoicePitch = 98
+End	
+	
+Elite	"내죽음을알리지마"
+	VoicePitch = 86
+End	
+
+Elite	"큰힘에큰책임"
+	VoicePitch = 96	
+End		
+
+Elite	 "특이한아이디"
+	VoicePitch = 89	
+End	
+
+Elite	 "마약같은카스"	
+	VoicePitch = 93	
+End	
+		
+Elite "해독기알림실화냐"
+	VoicePitch = 104	
+End	
+
+Elite "불꽃같은캐리머신"	
+	VoicePitch = 113	
+End	
+
+Elite "얌욜맨따라다따"
+	VoicePitch = 90
+End	
+
+Elite "카스나이퍼"
+	VoicePitch = 100	
+End		
+
+Elite "팝콘이나가져와라"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Expert
+		
+Expert+Power "폭탄어디설치해요"
+	VoicePitch = 100	
+End		
+		
+Expert+Sniper "닉네임추천받아요"
+	VoicePitch = 110	
+End		
+		
+Expert+Rifle "대머리고래"
+	VoicePitch = 120	
+End		
+		
+Expert+RifleT "혼자신난개똥벌레"
+	VoicePitch = 99	
+End		
+		
+Expert+Shotgun "사격중지아군이다"
+	VoicePitch = 120	
+End		
+		
+Expert+PunchT "최종병기치킨"
+	VoicePitch = 125	
+End		
+		
+Expert "치킨이냐피자냐"
+	VoicePitch = 110	
+End		
+		
+Expert "제가봐드림"
+	VoicePitch = 100	
+End		
+		
+Expert "님들밥먹고하죠"
+	VoicePitch = 112	
+End		
+		
+Expert "좀비좀비켜라"
+	VoicePitch = 121	
+End		
+		
+Expert "무기좀뿌려주세요"
+	VoicePitch = 99	
+End		
+		
+Expert "썸바디헬프미"
+	VoicePitch = 119	
+End			
+		
+Expert "폭탄전문가봄버맨"
+	VoicePitch = 116	
+End		
+		
+Expert "최강용사빅카스맨"
+	VoicePitch = 115	
+End		
+		
+Expert "내애인에리카"
+	VoicePitch = 114	
+End		
+		
+Expert "안아프게살살쏴줘"
+	VoicePitch = 112	
+End		
+		
+Expert "정말쏘실건가요"
+	VoicePitch = 111	
+End		
+		
+Expert "죽이면본캐로옴"
+	VoicePitch = 110	
+End		
+		
+Expert "목마른사슴이죽음"
+	VoicePitch = 109	
+End		
+		
+Expert "나완전쌘듯"
+	VoicePitch = 108	
+End		
+		
+Expert "이거부계정이다"
+	VoicePitch = 122	
+End		
+		
+Expert "대세는카스다"
+	VoicePitch = 120	
+End		
+		
+Expert "렉있어요원랜잘함"
+	VoicePitch = 125	
+End		
+		
+Expert "무기들고손버려"
+	VoicePitch = 92	
+End		
+		
+Expert "우리카스평생가자"
+	VoicePitch = 100	
+End		
+		
+Expert "저축왕인터넷뱅킹"
+	VoicePitch = 102	
+End		
+		
+Expert "내가총만있었어도"
+	VoicePitch = 104	
+End		
+		
+Expert "바주카스온라인"
+	VoicePitch = 108	
+End		
+		
+Expert "돌잔치에엠포잡음"
+	VoicePitch = 95	
+End		
+		
+Expert "미안한남자고맨"
+	VoicePitch = 100	
+End		
+		
+Expert "카스온라인공지능"
+	VoicePitch = 120	
+End		
+		
+Expert "총이고장났어요"
+	VoicePitch = 112	
+End		
+		
+Expert "미래의탑랭커"
+	VoicePitch = 99	
+End		
+		
+Expert "닉네임은닉"
+	VoicePitch = 110	
+End		
+
+Expert	"적절한닉네임"
+	VoicePitch = 99
+End	
+
+Expert	"목넘김좋은카스온"
+	VoicePitch = 93
+End		
+
+Expert	"완전정확한에임"
+	VoicePitch = 93
+End		
+
+Expert	"파티하실분"
+	VoicePitch = 93
+End		
+
+Expert	"아저씨랑친구할래"
+	VoicePitch = 98
+End	
+	
+Expert	"내죽음을알리지마"
+	VoicePitch = 86
+End	
+
+Expert	"큰힘에큰책임"
+	VoicePitch = 96	
+End		
+
+Expert	 "특이한아이디"
+	VoicePitch = 89	
+End	
+
+Expert	 "마약같은카스"	
+	VoicePitch = 93	
+End	
+		
+Expert "해독기알림실화냐"
+	VoicePitch = 104	
+End	
+
+Expert "불꽃같은캐리머신"	
+	VoicePitch = 113	
+End	
+
+Expert "얌욜맨따라다따"
+	VoicePitch = 90
+End	
+
+Expert "카스나이퍼"
+	VoicePitch = 100	
+End		
+
+Expert "팝콘이나가져와라"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	VeryHard
+		
+VeryHard+Power "폭탄어디설치해요"
+	VoicePitch = 100	
+End		
+		
+VeryHard+Sniper "닉네임추천받아요"
+	VoicePitch = 110	
+End		
+		
+VeryHard+Rifle "대머리고래"
+	VoicePitch = 120	
+End		
+		
+VeryHard+RifleT "혼자신난개똥벌레"
+	VoicePitch = 99	
+End		
+		
+VeryHard "사격중지아군이다"
+	VoicePitch = 120	
+End		
+		
+VeryHard "최종병기치킨"
+	VoicePitch = 125	
+End		
+		
+VeryHard "치킨이냐피자냐"
+	VoicePitch = 110	
+End		
+		
+VeryHard "제가봐드림"
+	VoicePitch = 100	
+End		
+		
+VeryHard "님들밥먹고하죠"
+	VoicePitch = 112	
+End		
+		
+VeryHard "좀비좀비켜라"
+	VoicePitch = 121	
+End		
+		
+VeryHard "무기좀뿌려주세요"
+	VoicePitch = 99	
+End		
+		
+VeryHard "썸바디헬프미"
+	VoicePitch = 119	
+End			
+		
+VeryHard "폭탄전문가봄버맨"
+	VoicePitch = 116	
+End		
+		
+VeryHard "최강용사빅카스맨"
+	VoicePitch = 115	
+End		
+		
+VeryHard "내애인에리카"
+	VoicePitch = 114	
+End		
+		
+VeryHard "안아프게살살쏴줘"
+	VoicePitch = 112	
+End		
+		
+VeryHard "정말쏘실건가요"
+	VoicePitch = 111	
+End		
+		
+VeryHard "죽이면본캐로옴"
+	VoicePitch = 110	
+End		
+		
+VeryHard "목마른사슴이죽음"
+	VoicePitch = 109	
+End		
+		
+VeryHard "나완전쌘듯"
+	VoicePitch = 108	
+End		
+		
+VeryHard "이거부계정이다"
+	VoicePitch = 122	
+End		
+		
+VeryHard "대세는카스다"
+	VoicePitch = 120	
+End		
+		
+VeryHard "렉있어요원랜잘함"
+	VoicePitch = 125	
+End		
+		
+VeryHard "무기들고손버려"
+	VoicePitch = 92	
+End		
+		
+VeryHard "우리카스평생가자"
+	VoicePitch = 100	
+End		
+		
+VeryHard "저축왕인터넷뱅킹"
+	VoicePitch = 102	
+End		
+		
+VeryHard "내가총만있었어도"
+	VoicePitch = 104	
+End		
+		
+VeryHard "바주카스온라인"
+	VoicePitch = 108	
+End		
+		
+VeryHard "돌잔치에엠포잡음"
+	VoicePitch = 95	
+End		
+		
+VeryHard "미안한남자고맨"
+	VoicePitch = 100	
+End		
+		
+VeryHard "카스온라인공지능"
+	VoicePitch = 120	
+End		
+		
+VeryHard "총이고장났어요"
+	VoicePitch = 112	
+End		
+		
+VeryHard "미래의탑랭커"
+	VoicePitch = 99	
+End		
+		
+VeryHard "닉네임은닉"
+	VoicePitch = 110	
+End		
+
+VeryHard	"적절한닉네임"
+	VoicePitch = 99
+End	
+
+VeryHard	"목넘김좋은카스온"
+	VoicePitch = 93
+End		
+
+VeryHard	"완전정확한에임"
+	VoicePitch = 93
+End		
+
+VeryHard	"파티하실분"
+	VoicePitch = 93
+End		
+
+VeryHard	"아저씨랑친구할래"
+	VoicePitch = 98
+End	
+	
+VeryHard	"내죽음을알리지마"
+	VoicePitch = 86
+End	
+
+VeryHard	"큰힘에큰책임"
+	VoicePitch = 96	
+End		
+
+VeryHard	 "특이한아이디"
+	VoicePitch = 89	
+End	
+
+VeryHard	 "마약같은카스"	
+	VoicePitch = 93	
+End	
+		
+VeryHard "해독기알림실화냐"
+	VoicePitch = 104	
+End	
+
+VeryHard "불꽃같은캐리머신"	
+	VoicePitch = 113	
+End	
+
+VeryHard "얌욜맨따라다따"
+	VoicePitch = 90
+End	
+
+VeryHard "카스나이퍼"
+	VoicePitch = 100	
+End		
+
+VeryHard "팝콘이나가져와라"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Hard
+		
+Hard+Rifle "폭탄어디설치해요"
+	VoicePitch = 100	
+End		
+		
+Hard+Rifle "닉네임추천받아요"
+	VoicePitch = 110	
+End		
+		
+Hard+Rifle "대머리고래"
+	VoicePitch = 120	
+End		
+		
+Hard+Rifle "혼자신난개똥벌레"
+	VoicePitch = 99	
+End		
+		
+Hard+Rifle "사격중지아군이다"
+	VoicePitch = 120	
+End		
+		
+Hard+Rifle "최종병기치킨"
+	VoicePitch = 125	
+End		
+		
+Hard+Rifle "치킨이냐피자냐"
+	VoicePitch = 110	
+End		
+		
+Hard+Rifle "제가봐드림"
+	VoicePitch = 100	
+End		
+		
+Hard+RifleT "님들밥먹고하죠"
+	VoicePitch = 112	
+End		
+		
+Hard+RifleT "좀비좀비켜라"
+	VoicePitch = 121	
+End		
+		
+Hard+RifleT "무기좀뿌려주세요"
+	VoicePitch = 99	
+End		
+		
+Hard+RifleT "썸바디헬프미"
+	VoicePitch = 119	
+End			
+		
+Hard+RifleT "폭탄전문가봄버맨"
+	VoicePitch = 116	
+End		
+		
+Hard+RifleT "최강용사빅카스맨"
+	VoicePitch = 115	
+End		
+		
+Hard+RifleT "내애인에리카"
+	VoicePitch = 114	
+End		
+		
+Hard+RifleT "안아프게살살쏴줘"
+	VoicePitch = 112	
+End		
+		
+Hard+Spray "정말쏘실건가요"
+	VoicePitch = 111	
+End		
+		
+Hard+Spray "죽이면본캐로옴"
+	VoicePitch = 110	
+End		
+		
+Hard+Shotgun "목마른사슴이죽음"
+	VoicePitch = 109	
+End		
+		
+Hard+Shotgun "나완전쌘듯"
+	VoicePitch = 108	
+End		
+		
+Hard+Punch "이거부계정이다"
+	VoicePitch = 122	
+End		
+		
+Hard+Punch "대세는카스다"
+	VoicePitch = 120	
+End		
+		
+Hard+Sniper "렉있어요원랜잘함"
+	VoicePitch = 125	
+End		
+		
+Hard+Sniper "무기들고손버려"
+	VoicePitch = 92	
+End		
+		
+Hard "우리카스평생가자"
+	VoicePitch = 100	
+End		
+		
+Hard "저축왕인터넷뱅킹"
+	VoicePitch = 102	
+End		
+		
+Hard "내가총만있었어도"
+	VoicePitch = 104	
+End		
+		
+Hard "바주카스온라인"
+	VoicePitch = 108	
+End		
+		
+Hard "돌잔치에엠포잡음"
+	VoicePitch = 95	
+End		
+		
+Hard "미안한남자고맨"
+	VoicePitch = 100	
+End		
+		
+Hard "카스온라인공지능"
+	VoicePitch = 120	
+End		
+		
+Hard "총이고장났어요"
+	VoicePitch = 112	
+End		
+		
+Hard "미래의탑랭커"
+	VoicePitch = 99	
+End		
+		
+Hard "닉네임은닉"
+	VoicePitch = 110	
+End		
+
+Hard	"적절한닉네임"
+	VoicePitch = 99
+End	
+
+Hard	"목넘김좋은카스온"
+	VoicePitch = 93
+End		
+
+Hard	"완전정확한에임"
+	VoicePitch = 93
+End		
+
+Hard	"파티하실분"
+	VoicePitch = 93
+End		
+
+Hard	"아저씨랑친구할래"
+	VoicePitch = 98
+End	
+	
+Hard	"내죽음을알리지마"
+	VoicePitch = 86
+End	
+
+Hard	"큰힘에큰책임"
+	VoicePitch = 96	
+End		
+
+Hard	 "특이한아이디"
+	VoicePitch = 89	
+End	
+
+Hard	 "마약같은카스"	
+	VoicePitch = 93	
+End	
+		
+Hard "해독기알림실화냐"
+	VoicePitch = 104	
+End	
+
+Hard "불꽃같은캐리머신"	
+	VoicePitch = 113	
+End	
+
+Hard "얌욜맨따라다따"
+	VoicePitch = 90
+End	
+
+Hard "카스나이퍼"
+	VoicePitch = 100	
+End		
+
+Hard "팝콘이나가져와라"
+	VoicePitch = 102
+End		
+
+//----------------------------------------		Tough
+		
+Tough+Sniper "폭탄어디설치해요"
+	VoicePitch = 100	
+End		
+		
+Tough+Sniper "닉네임추천받아요"
+	VoicePitch = 110	
+End		
+		
+Tough+Rifle "대머리고래"
+	VoicePitch = 120	
+End		
+		
+Tough+Rifle "혼자신난개똥벌레"
+	VoicePitch = 99	
+End		
+		
+Tough+Rifle "사격중지아군이다"
+	VoicePitch = 120	
+End		
+		
+Tough+RifleT "최종병기치킨"
+	VoicePitch = 125	
+End		
+		
+Tough+RifleT "치킨이냐피자냐"
+	VoicePitch = 110	
+End		
+		
+Tough+RifleT "제가봐드림"
+	VoicePitch = 100	
+End		
+		
+Tough+Shotgun "님들밥먹고하죠"
+	VoicePitch = 112	
+End		
+		
+Tough+Shotgun "좀비좀비켜라"
+	VoicePitch = 121	
+End		
+		
+Tough+Rifle "무기좀뿌려주세요"
+	VoicePitch = 99	
+End		
+		
+Tough+Rifle "썸바디헬프미"
+	VoicePitch = 119	
+End			
+		
+Tough+RifleT "폭탄전문가봄버맨"
+	VoicePitch = 116	
+End		
+		
+Tough+RifleT "최강용사빅카스맨"
+	VoicePitch = 115	
+End		
+		
+Tough "내애인에리카"
+	VoicePitch = 114	
+End		
+		
+Tough "안아프게살살쏴줘"
+	VoicePitch = 112	
+End		
+		
+Tough "정말쏘실건가요"
+	VoicePitch = 111	
+End		
+		
+Tough "죽이면본캐로옴"
+	VoicePitch = 110	
+End		
+		
+Tough "목마른사슴이죽음"
+	VoicePitch = 109	
+End		
+		
+Tough "나완전쌘듯"
+	VoicePitch = 108	
+End		
+		
+Tough "이거부계정이다"
+	VoicePitch = 122	
+End		
+		
+Tough "대세는카스다"
+	VoicePitch = 120	
+End		
+		
+Tough "렉있어요원랜잘함"
+	VoicePitch = 125	
+End		
+		
+Tough "무기들고손버려"
+	VoicePitch = 92	
+End		
+		
+Tough "우리카스평생가자"
+	VoicePitch = 100	
+End		
+		
+Tough "저축왕인터넷뱅킹"
+	VoicePitch = 102	
+End		
+		
+Tough "내가총만있었어도"
+	VoicePitch = 104	
+End		
+		
+Tough "바주카스온라인"
+	VoicePitch = 108	
+End		
+		
+Tough "돌잔치에엠포잡음"
+	VoicePitch = 95	
+End		
+		
+Tough "미안한남자고맨"
+	VoicePitch = 100	
+End		
+		
+Tough "카스온라인공지능"
+	VoicePitch = 120	
+End		
+		
+Tough "총이고장났어요"
+	VoicePitch = 112	
+End		
+		
+Tough "미래의탑랭커"
+	VoicePitch = 99	
+End		
+		
+Tough "닉네임은닉"
+	VoicePitch = 110	
+End		
+
+Tough	"적절한닉네임"
+	VoicePitch = 99
+End	
+
+Tough	"목넘김좋은카스온"
+	VoicePitch = 93
+End		
+
+Tough	"완전정확한에임"
+	VoicePitch = 93
+End		
+
+Tough	"파티하실분"
+	VoicePitch = 93
+End		
+
+Tough	"아저씨랑친구할래"
+	VoicePitch = 98
+End	
+	
+Tough	"내죽음을알리지마"
+	VoicePitch = 86
+End	
+
+Tough	"큰힘에큰책임"
+	VoicePitch = 96	
+End		
+
+Tough	 "특이한아이디"
+	VoicePitch = 89	
+End	
+
+Tough	 "마약같은카스"	
+	VoicePitch = 93	
+End	
+		
+Tough "해독기알림실화냐"
+	VoicePitch = 104	
+End	
+
+Tough "불꽃같은캐리머신"	
+	VoicePitch = 113	
+End	
+
+Tough "얌욜맨따라다따"
+	VoicePitch = 90
+End	
+
+Tough "카스나이퍼"
+	VoicePitch = 100	
+End		
+
+Tough "팝콘이나가져와라"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Normal: 31
+		
+Normal+Rifle "폭탄어디설치해요"
+	VoicePitch = 100	
+End		
+		
+Normal+Rifle "닉네임추천받아요"
+	VoicePitch = 110	
+End		
+		
+Normal+PunchT "대머리고래"
+	VoicePitch = 120	
+End		
+		
+Normal+Sniper "혼자신난개똥벌레"
+	VoicePitch = 99	
+End		
+		
+Normal "사격중지아군이다"
+	VoicePitch = 120	
+End		
+		
+Normal "최종병기치킨"
+	VoicePitch = 125	
+End		
+		
+Normal "치킨이냐피자냐"
+	VoicePitch = 110	
+End		
+		
+Normal "제가봐드림"
+	VoicePitch = 100	
+End		
+		
+Normal "님들밥먹고하죠"
+	VoicePitch = 112	
+End		
+		
+Normal "좀비좀비켜라"
+	VoicePitch = 121	
+End		
+		
+Normal "무기좀뿌려주세요"
+	VoicePitch = 99	
+End		
+		
+Normal "썸바디헬프미"
+	VoicePitch = 119	
+End			
+		
+Normal "폭탄전문가봄버맨"
+	VoicePitch = 116	
+End		
+		
+Normal "최강용사빅카스맨"
+	VoicePitch = 115	
+End		
+		
+Normal "내애인에리카"
+	VoicePitch = 114	
+End		
+		
+Normal "안아프게살살쏴줘"
+	VoicePitch = 112	
+End		
+		
+Normal "정말쏘실건가요"
+	VoicePitch = 111	
+End		
+		
+Normal "죽이면본캐로옴"
+	VoicePitch = 110	
+End		
+		
+Normal "목마른사슴이죽음"
+	VoicePitch = 109	
+End		
+		
+Normal "나완전쌘듯"
+	VoicePitch = 108	
+End		
+		
+Normal "이거부계정이다"
+	VoicePitch = 122	
+End		
+		
+Normal "대세는카스다"
+	VoicePitch = 120	
+End		
+		
+Normal "렉있어요원랜잘함"
+	VoicePitch = 125	
+End		
+		
+Normal "무기들고손버려"
+	VoicePitch = 92	
+End		
+		
+Normal "우리카스평생가자"
+	VoicePitch = 100	
+End		
+		
+Normal "저축왕인터넷뱅킹"
+	VoicePitch = 102	
+End		
+		
+Normal "내가총만있었어도"
+	VoicePitch = 104	
+End		
+		
+Normal "바주카스온라인"
+	VoicePitch = 108	
+End		
+		
+Normal "돌잔치에엠포잡음"
+	VoicePitch = 95	
+End		
+		
+Normal "미안한남자고맨"
+	VoicePitch = 100	
+End		
+		
+Normal "카스온라인공지능"
+	VoicePitch = 120	
+End		
+		
+Normal "총이고장났어요"
+	VoicePitch = 112	
+End		
+		
+Normal "미래의탑랭커"
+	VoicePitch = 99	
+End		
+		
+Normal "닉네임은닉"
+	VoicePitch = 110	
+End		
+
+Normal	"적절한닉네임"
+	VoicePitch = 99
+End	
+
+Normal	"목넘김좋은카스온"
+	VoicePitch = 93
+End		
+
+Normal	"완전정확한에임"
+	VoicePitch = 93
+End		
+
+Normal	"파티하실분"
+	VoicePitch = 93
+End		
+
+Normal	"아저씨랑친구할래"
+	VoicePitch = 98
+End	
+	
+Normal	"내죽음을알리지마"
+	VoicePitch = 86
+End	
+
+Normal	"큰힘에큰책임"
+	VoicePitch = 96	
+End		
+
+Normal	 "특이한아이디"
+	VoicePitch = 89	
+End	
+
+Normal	 "마약같은카스"	
+	VoicePitch = 93	
+End	
+		
+Normal "해독기알림실화냐"
+	VoicePitch = 104	
+End	
+
+Normal "불꽃같은캐리머신"	
+	VoicePitch = 113	
+End	
+
+Normal "얌욜맨따라다따"
+	VoicePitch = 90
+End	
+
+Normal "카스나이퍼"
+	VoicePitch = 100	
+End		
+
+Normal "팝콘이나가져와라"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Fair
+		
+Fair "폭탄어디설치해요"
+	VoicePitch = 100	
+End		
+		
+Fair "닉네임추천받아요"
+	VoicePitch = 110	
+End		
+		
+Fair "대머리고래"
+	VoicePitch = 120	
+End		
+		
+Fair "혼자신난개똥벌레"
+	VoicePitch = 99	
+End		
+		
+Fair "사격중지아군이다"
+	VoicePitch = 120	
+End		
+		
+Fair "최종병기치킨"
+	VoicePitch = 125	
+End		
+		
+Fair "치킨이냐피자냐"
+	VoicePitch = 110	
+End		
+		
+Fair "제가봐드림"
+	VoicePitch = 100	
+End		
+		
+Fair "님들밥먹고하죠"
+	VoicePitch = 112	
+End		
+		
+Fair "좀비좀비켜라"
+	VoicePitch = 121	
+End		
+		
+Fair "무기좀뿌려주세요"
+	VoicePitch = 99	
+End		
+		
+Fair "썸바디헬프미"
+	VoicePitch = 119	
+End			
+		
+Fair "폭탄전문가봄버맨"
+	VoicePitch = 116	
+End		
+		
+Fair "최강용사빅카스맨"
+	VoicePitch = 115	
+End		
+		
+Fair "내애인에리카"
+	VoicePitch = 114	
+End		
+		
+Fair "안아프게살살쏴줘"
+	VoicePitch = 112	
+End		
+		
+Fair "정말쏘실건가요"
+	VoicePitch = 111	
+End		
+		
+Fair "죽이면본캐로옴"
+	VoicePitch = 110	
+End		
+		
+Fair "목마른사슴이죽음"
+	VoicePitch = 109	
+End		
+		
+Fair "나완전쌘듯"
+	VoicePitch = 108	
+End		
+		
+Fair "이거부계정이다"
+	VoicePitch = 122	
+End		
+		
+Fair "대세는카스다"
+	VoicePitch = 120	
+End		
+		
+Fair "렉있어요원랜잘함"
+	VoicePitch = 125	
+End		
+		
+Fair "무기들고손버려"
+	VoicePitch = 92	
+End		
+		
+Fair "우리카스평생가자"
+	VoicePitch = 100	
+End		
+		
+Fair "저축왕인터넷뱅킹"
+	VoicePitch = 102	
+End		
+		
+Fair "내가총만있었어도"
+	VoicePitch = 104	
+End		
+		
+Fair "바주카스온라인"
+	VoicePitch = 108	
+End		
+		
+Fair "돌잔치에엠포잡음"
+	VoicePitch = 95	
+End		
+		
+Fair "미안한남자고맨"
+	VoicePitch = 100	
+End		
+		
+Fair "카스온라인공지능"
+	VoicePitch = 120	
+End		
+		
+Fair "총이고장났어요"
+	VoicePitch = 112	
+End		
+		
+Fair "미래의탑랭커"
+	VoicePitch = 99	
+End		
+		
+Fair "닉네임은닉"
+	VoicePitch = 110	
+End		
+
+Fair	"적절한닉네임"
+	VoicePitch = 99
+End	
+
+Fair	"목넘김좋은카스온"
+	VoicePitch = 93
+End		
+
+Fair	"완전정확한에임"
+	VoicePitch = 93
+End		
+
+Fair	"파티하실분"
+	VoicePitch = 93
+End		
+
+Fair	"아저씨랑친구할래"
+	VoicePitch = 98
+End	
+	
+Fair	"내죽음을알리지마"
+	VoicePitch = 86
+End	
+
+Fair	"큰힘에큰책임"
+	VoicePitch = 96	
+End		
+
+Fair	 "특이한아이디"
+	VoicePitch = 89	
+End	
+
+Fair	 "마약같은카스"	
+	VoicePitch = 93	
+End	
+		
+Fair "해독기알림실화냐"
+	VoicePitch = 104	
+End	
+
+Fair "불꽃같은캐리머신"	
+	VoicePitch = 113	
+End	
+
+Fair "얌욜맨따라다따"
+	VoicePitch = 90
+End	
+
+Fair "카스나이퍼"
+	VoicePitch = 100	
+End		
+
+Fair "팝콘이나가져와라"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Easy: 36
+		
+Easy "폭탄어디설치해요"
+	VoicePitch = 100	
+End		
+		
+Easy "닉네임추천받아요"
+	VoicePitch = 110	
+End		
+		
+Easy "대머리고래"
+	VoicePitch = 120	
+End		
+		
+Easy "혼자신난개똥벌레"
+	VoicePitch = 99	
+End		
+		
+Easy "사격중지아군이다"
+	VoicePitch = 120	
+End		
+		
+Easy "최종병기치킨"
+	VoicePitch = 125	
+End		
+		
+Easy "치킨이냐피자냐"
+	VoicePitch = 110	
+End		
+		
+Easy "제가봐드림"
+	VoicePitch = 100	
+End		
+		
+Easy "님들밥먹고하죠"
+	VoicePitch = 112	
+End		
+		
+Easy "좀비좀비켜라"
+	VoicePitch = 121	
+End		
+		
+Easy "무기좀뿌려주세요"
+	VoicePitch = 99	
+End		
+		
+Easy "썸바디헬프미"
+	VoicePitch = 119	
+End			
+		
+Easy "폭탄전문가봄버맨"
+	VoicePitch = 116	
+End		
+		
+Easy "최강용사빅카스맨"
+	VoicePitch = 115	
+End		
+		
+Easy "내애인에리카"
+	VoicePitch = 114	
+End		
+		
+Easy "안아프게살살쏴줘"
+	VoicePitch = 112	
+End		
+		
+Easy "정말쏘실건가요"
+	VoicePitch = 111	
+End		
+		
+Easy "죽이면본캐로옴"
+	VoicePitch = 110	
+End		
+		
+Easy "목마른사슴이죽음"
+	VoicePitch = 109	
+End		
+		
+Easy "나완전쌘듯"
+	VoicePitch = 108	
+End		
+		
+Easy "이거부계정이다"
+	VoicePitch = 122	
+End		
+		
+Easy "대세는카스다"
+	VoicePitch = 120	
+End		
+		
+Easy "렉있어요원랜잘함"
+	VoicePitch = 125	
+End		
+		
+Easy "무기들고손버려"
+	VoicePitch = 92	
+End		
+		
+Easy "우리카스평생가자"
+	VoicePitch = 100	
+End		
+		
+Easy "저축왕인터넷뱅킹"
+	VoicePitch = 102	
+End		
+		
+Easy "내가총만있었어도"
+	VoicePitch = 104	
+End		
+		
+Easy "바주카스온라인"
+	VoicePitch = 108	
+End		
+		
+Easy "돌잔치에엠포잡음"
+	VoicePitch = 95	
+End		
+		
+Easy "미안한남자고맨"
+	VoicePitch = 100	
+End		
+		
+Easy "카스온라인공지능"
+	VoicePitch = 120	
+End		
+		
+Easy "총이고장났어요"
+	VoicePitch = 112	
+End		
+		
+Easy "미래의탑랭커"
+	VoicePitch = 99	
+End		
+		
+Easy "닉네임은닉"
+	VoicePitch = 110	
+End		
+
+Easy	"적절한닉네임"
+	VoicePitch = 99
+End	
+
+Easy	"목넘김좋은카스온"
+	VoicePitch = 93
+End		
+
+Easy	"완전정확한에임"
+	VoicePitch = 93
+End		
+
+Easy	"파티하실분"
+	VoicePitch = 93
+End		
+
+Easy	"아저씨랑친구할래"
+	VoicePitch = 98
+End	
+	
+Easy	"내죽음을알리지마"
+	VoicePitch = 86
+End	
+
+Easy	"큰힘에큰책임"
+	VoicePitch = 96	
+End		
+
+Easy	 "특이한아이디"
+	VoicePitch = 89	
+End	
+
+Easy	 "마약같은카스"	
+	VoicePitch = 93	
+End	
+		
+Easy "해독기알림실화냐"
+	VoicePitch = 104	
+End	
+
+Easy "불꽃같은캐리머신"	
+	VoicePitch = 113	
+End	
+
+Easy "얌욜맨따라다따"
+	VoicePitch = 90
+End	
+
+Easy "카스나이퍼"
+	VoicePitch = 100	
+End		
+
+Easy "팝콘이나가져와라"
+	VoicePitch = 102
+End		
