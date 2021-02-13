@@ -1,0 +1,63 @@
+;기본 매너점수
+manner_point_base = 50
+manner_point_min = 0
+manner_point_max = 100
+
+;매너 로직을 타는 일일 신고하기 최대횟수로 이 횟수 이후의 신고는 매너점수 로직을 타지 않는다.
+max_give_report_cnt_a_day = 5;
+
+;신고타입별 매너점수 차감
+sub_point_auto_hack = 2			; 클라에서 자동으로 신고하는 타입
+sub_point_hack_tool = "0.2"			; 유저가 핵으로 신고
+sub_point_curse_word = "0.1"		; 욕설
+sub_point_force_leaving = "0.1"		; 강제퇴장
+sub_point_bug_abusing = "0.1"		; 버그어뷰징
+sub_point_system_abusing = "0.1"		; 시스템어뷰징
+sub_point_etc = "0.05"				; 기타
+
+;매너점수별 상태
+best_manner_point = 80
+good_manner_point = 60
+normal_manner_point = 40
+bad_manner_point = 20
+worst_manner_point = 0
+
+;신고 유저의 매너점수별 차감 가중치
+sub_weight_value_best = 2
+sub_weight_value_good = "1.5"
+sub_weight_value_normal = 1
+sub_weight_value_bad = "0.1"
+sub_weight_value_worst = "0.01"
+
+;신고 상황별 카운트 횟수
+report_cnt_ingame = 1
+report_cnt_waiting = "0.5"
+report_cnt_outgame_hack = "0.25"	; 이 수치는 신고타입중에 sub_point_hack_tool 일 경우에만 적용 된다.
+
+;신고 상황별 카운트 가중치 적용 기준
+report_accum_cnt_for_applying_weight_value = "0.5"
+
+;신고 상황별 카운트 횟수 초기화 시간 second
+reset_time_report_cnt = 3600
+
+;매너점수 자동 회복, 차감량
+auto_recovery_point = "0.1"	; 아래에 auto_recovery_trigger_time 이 시간마다
+auto_sub_point = "0.5"	; 아래에 auto_sub_trigger_day 이후 하루당
+
+;매너점수 자동 회복, 차감 발동시간
+auto_recovery_trigger_time = 1800 ; second
+auto_sub_trigger_day = 7	; day
+
+;1회 칭찬으로 최대증가 수치, 일일 획득가능한 최대 수치
+max_inc_point_at_once = "0.2"
+max_point_a_day = "2.0"
+
+;신고유저, 받는유저 둘중 한명이라도 playDT가 아래 시간 미만일 경우 칭찬 무시
+penalty_time = 300 ; second
+
+;방 입장제한 옵션, 기본은 제한없음
+room_limit_point_manner = 60	; 좋은매너 이상 입장가능
+room_limit_point_normal = 40	; 일반매너 이상 입장가능
+
+;매너점수가 아래 수치이상 일 경우 훈장 획득(감소하면 훈장 뺏음)
+best_manner_honor_point = 80

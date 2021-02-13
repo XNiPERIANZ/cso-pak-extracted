@@ -1,0 +1,1732 @@
+﻿//----------------------------------------------------------------------------
+// BotProfile.db
+// Author: Michael S. Booth, Turtle Rock Studios (www.turtlerockstudios.com)
+//
+// This database defines bot "personalities". 
+// Feel free to edit it and define your own bots.
+//
+
+
+//----------------------------------------------------------------------------
+
+//
+// All profiles begin with this data and overwrite their own
+//
+Default
+	Skill = 50
+	Aggression = 50
+	ReactionTime = 0.3
+	AttackDelay = 0
+	Teamwork = 75
+	WeaponPreference = none
+	Cost = 0
+	Difficulty = NORMAL
+	VoicePitch = 100
+	Skin = 0
+End
+
+//----------------------------------------------------------------------------
+
+//
+// These templates inherit from Default and override with their values
+// The name of the template defines a type that is used by individual bot profiles
+//
+
+// weapon preference templates
+Template Rifle
+	WeaponPreference = m4a1
+	WeaponPreference = ak47
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template RifleT
+	WeaponPreference = ak47
+	WeaponPreference = m4a1
+	WeaponPreference = galil
+	WeaponPreference = famas
+	WeaponPreference = mp5
+End
+
+Template Punch
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template PunchT
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Sniper
+	WeaponPreference = awp
+	WeaponPreference = sg550
+	WeaponPreference = g3sg1
+	WeaponPreference = scout
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Power
+	WeaponPreference = m249
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Shotgun
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Spray
+	WeaponPreference = p90
+	WeaponPreference = tmp
+	WeaponPreference = mac10
+	WeaponPreference = mp5
+End
+
+
+// skill templates
+Template Elite
+	Skill = 100
+	Aggression = 100
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = ELITE
+	VoicePitch = 85
+End
+
+Template Expert
+	Skill = 90
+	Aggression = 90
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = EXPERT
+	VoicePitch = 88
+End
+
+Template VeryHard
+	Skill = 80
+	Aggression = 80
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = VERYHARD
+	VoicePitch = 92
+End
+
+Template Hard
+	Skill = 75
+	Aggression = 75
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = HARD
+	VoicePitch = 94
+End
+
+Template Tough
+	Skill = 60
+	Aggression = 60
+	ReactionTime = 0.3
+	AttackDelay = 0.35
+	Cost = 2
+	Difficulty = TOUGH
+	VoicePitch = 96
+End
+
+Template Normal
+	Skill = 50
+	Aggression = 50
+	ReactionTime = 0.4
+	AttackDelay = 0.7
+	Cost = 2
+	Difficulty = NORMAL
+End
+
+Template Fair
+	Skill = 25
+	Aggression = 30
+	ReactionTime = 0.4
+	AttackDelay = 1.0
+	Cost = 1
+	Difficulty = FAIR
+	VoicePitch = 105
+End
+
+Template Easy
+	Skill = 0
+	Aggression = 20
+	ReactionTime = 0.5
+	AttackDelay = 1.5
+	Cost = 1
+	Difficulty = EASY
+	VoicePitch = 110
+End
+
+//---------------------------------------------------------------------------- Elite
+// These are the individual bot profiles, which inherit first from 
+// Default and then the specified Template(s), in order
+//
+		
+Elite+Power "BOT_不小心路过"
+	VoicePitch = 100	
+End		
+		
+Elite+Sniper "BOT_无聊的死鱼"
+	VoicePitch = 110	
+End		
+		
+Elite+Rifle "BOT_昨天的昨天"
+	VoicePitch = 120	
+End		
+		
+Elite+RifleT "BOT_冒牌哒英雄"
+	VoicePitch = 99	
+End		
+		
+Elite+Shotgun "BOT_拾荒者"
+	VoicePitch = 120	
+End		
+		
+Elite+PunchT "BOT_寻找小恒恒"
+	VoicePitch = 125	
+End		
+		
+Elite+Spray "BOT_蒙蔽了双眼"
+	VoicePitch = 110	
+End		
+		
+Elite "BOT_划过星火"
+	VoicePitch = 100	
+End		
+		
+Elite "BOT_萌面超人"
+	VoicePitch = 112	
+End		
+		
+Elite "BOT_发光体"
+	VoicePitch = 121	
+End		
+		
+Elite "BOT_傀儡人"
+	VoicePitch = 99	
+End		
+		
+Elite "BOT_触手可及"
+	VoicePitch = 119	
+End			
+		
+Elite "BOT_您过来一下"
+	VoicePitch = 116	
+End		
+		
+Elite "BOT_笑比哭难看"
+	VoicePitch = 115	
+End		
+		
+Elite "BOT_天空依旧蓝"
+	VoicePitch = 114	
+End		
+		
+Elite "BOT_背后有人"
+	VoicePitch = 112	
+End		
+		
+Elite "BOT_倾尽全力"
+	VoicePitch = 111	
+End		
+		
+Elite "BOT_挂空挡"
+	VoicePitch = 110	
+End		
+		
+Elite "BOT_说多了嘴疼"
+	VoicePitch = 109	
+End		
+		
+Elite "BOT_幕后黑手"
+	VoicePitch = 108	
+End		
+		
+Elite "BOT_在路口"
+	VoicePitch = 122	
+End		
+		
+Elite "BOT_独丶释怀"
+	VoicePitch = 120	
+End		
+		
+Elite "BOT_天热了"
+	VoicePitch = 125	
+End		
+		
+Elite "BOT_人生要乐观"
+	VoicePitch = 92	
+End		
+		
+Elite "BOT_何足挂齿"
+	VoicePitch = 100	
+End		
+		
+Elite "BOT_走太远"
+	VoicePitch = 102	
+End		
+		
+Elite "BOT_允许你"
+	VoicePitch = 104	
+End		
+		
+Elite "BOT_无比执着"
+	VoicePitch = 108	
+End		
+		
+Elite "BOT_正在输入"
+	VoicePitch = 95	
+End		
+		
+Elite "BOT_追风老男孩"
+	VoicePitch = 100	
+End		
+		
+Elite "BOT_我不是宅男"
+	VoicePitch = 120	
+End		
+		
+Elite "BOT_平淡如水"
+	VoicePitch = 112	
+End		
+		
+Elite "BOT_人满为患"
+	VoicePitch = 99	
+End		
+		
+Elite "BOT_乘风破浪"
+	VoicePitch = 110	
+End		
+
+Elite	"BOT_为主公待命"
+	VoicePitch = 99
+End	
+
+Elite	"BOT_动作真慢"
+	VoicePitch = 93
+End		
+
+Elite	"BOT_自导自演"
+	VoicePitch = 93
+End		
+
+Elite	"BOT_全员带恶人"
+	VoicePitch = 93
+End		
+
+Elite	"BOT_延续"
+	VoicePitch = 98
+End	
+	
+Elite	"BOT_就剩复仇了"
+	VoicePitch = 86
+End	
+
+Elite	"BOT_日蚀"
+	VoicePitch = 96	
+End		
+
+Elite	 "BOT_承包所有鱼塘"
+	VoicePitch = 89	
+End	
+
+Elite	 "BOT_单曲循环"
+	VoicePitch = 93	
+End	
+		
+Elite "BOT_爱笑的眼睛"
+	VoicePitch = 104	
+End	
+
+Elite "BOT_你慌什么哎"
+	VoicePitch = 113	
+End	
+
+Elite "BOT_什么丶我忘了"
+	VoicePitch = 90
+End	
+
+Elite "BOT_高冷独行"
+	VoicePitch = 100	
+End		
+
+Elite "BOT_退役魔法少女"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Expert
+		
+Expert+Power "BOT_这道题无解"
+	VoicePitch = 100	
+End		
+		
+Expert+Sniper "BOT_一杯白开水"
+	VoicePitch = 110	
+End		
+		
+Expert+Rifle "BOT_简简单单"
+	VoicePitch = 120	
+End		
+		
+Expert+RifleT "BOT_逃不掉了"
+	VoicePitch = 99	
+End		
+		
+Expert+Shotgun "BOT_单程客车"
+	VoicePitch = 120	
+End		
+		
+Expert+PunchT "BOT_吃了糖就笑"
+	VoicePitch = 125	
+End		
+		
+Expert "BOT_空白式毁灭"
+	VoicePitch = 110	
+End		
+		
+Expert "BOT_盯我看什么"
+	VoicePitch = 100	
+End		
+		
+Expert "BOT_白茫烟雾"
+	VoicePitch = 112	
+End		
+		
+Expert "BOT_凡夫俗子"
+	VoicePitch = 121	
+End		
+		
+Expert "BOT_一个人演戏"
+	VoicePitch = 99	
+End		
+		
+Expert "BOT_续丶信仰"
+	VoicePitch = 119	
+End			
+		
+Expert "BOT_黑色的白天"
+	VoicePitch = 116	
+End		
+		
+Expert "BOT_适者生存"
+	VoicePitch = 115	
+End		
+		
+Expert "BOT_聊表歉意"
+	VoicePitch = 114	
+End		
+		
+Expert "BOT_烧烤品鉴师"
+	VoicePitch = 112	
+End		
+		
+Expert "BOT_命比纸薄"
+	VoicePitch = 111	
+End		
+		
+Expert "BOT_大人时代变了"
+	VoicePitch = 110	
+End		
+		
+Expert "BOT_笔芯"
+	VoicePitch = 109	
+End		
+		
+Expert "BOT_如果可以"
+	VoicePitch = 108	
+End		
+		
+Expert "BOT_把掌声送给你"
+	VoicePitch = 122	
+End		
+		
+Expert "BOT_今天下雪了"
+	VoicePitch = 120	
+End		
+		
+Expert "BOT_你吃饭了没"
+	VoicePitch = 125	
+End		
+		
+Expert "BOT_辰轩"
+	VoicePitch = 92	
+End		
+		
+Expert "BOT_改变不了的"
+	VoicePitch = 100	
+End		
+		
+Expert "BOT_偏执怪人"
+	VoicePitch = 102	
+End		
+		
+Expert "BOT_星星好吃嘛"
+	VoicePitch = 104	
+End		
+		
+Expert "BOT_会痛的石头、"
+	VoicePitch = 108	
+End		
+		
+Expert "BOT_今晚打老虎"
+	VoicePitch = 95	
+End		
+		
+Expert "BOT_无知的凡人"
+	VoicePitch = 100	
+End		
+		
+Expert "BOT_空虚丨誓言"
+	VoicePitch = 120	
+End		
+		
+Expert "BOT_满目山河"
+	VoicePitch = 112	
+End		
+		
+Expert "BOT_抬头看烟花"
+	VoicePitch = 99	
+End		
+		
+Expert "BOT_对着僵尸跳舞"
+	VoicePitch = 110	
+End		
+
+Expert	"BOT_伤痕累累"
+	VoicePitch = 99
+End	
+
+Expert	"BOT_对不起咋说"
+	VoicePitch = 93
+End		
+
+Expert	"BOT_沧桑"
+	VoicePitch = 93
+End		
+
+Expert	"BOT_挡在你前面"
+	VoicePitch = 93
+End		
+
+Expert	"BOT_流断了前世"
+	VoicePitch = 98
+End	
+	
+Expert	"BOT_一片光明"
+	VoicePitch = 86
+End	
+
+Expert	"BOT_守一座空城"
+	VoicePitch = 96	
+End		
+
+Expert	 "BOT_仅此而已"
+	VoicePitch = 89	
+End	
+
+Expert	 "BOT_假动作"
+	VoicePitch = 93	
+End	
+		
+Expert "BOT_莫得感情"
+	VoicePitch = 104	
+End	
+
+Expert "BOT_独领风骚"
+	VoicePitch = 113	
+End	
+
+Expert "BOT_最后一局"
+	VoicePitch = 90
+End	
+
+Expert "BOT_不是胜者"
+	VoicePitch = 100	
+End		
+
+Expert "BOT_一世繁华丶"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	VeryHard
+		
+VeryHard+Power "BOT_我尽力了"
+	VoicePitch = 100	
+End		
+		
+VeryHard+Sniper "BOT_橙子哪买的"
+	VoicePitch = 110	
+End		
+		
+VeryHard+Rifle "BOT_繁花入梦"
+	VoicePitch = 120	
+End		
+		
+VeryHard+RifleT "BOT_百川东到海"
+	VoicePitch = 99	
+End		
+		
+VeryHard "BOT_爱吃小土豆"
+	VoicePitch = 120	
+End		
+		
+VeryHard "BOT_加冕为王之日"
+	VoicePitch = 125	
+End		
+		
+VeryHard "BOT_给点力阿"
+	VoicePitch = 110	
+End		
+		
+VeryHard "BOT_雨打不湿承诺"
+	VoicePitch = 100	
+End		
+		
+VeryHard "BOT_金鱼记忆大师"
+	VoicePitch = 112	
+End		
+		
+VeryHard "BOT_去掉外壳"
+	VoicePitch = 121	
+End		
+		
+VeryHard "BOT_陌丶"
+	VoicePitch = 99	
+End		
+		
+VeryHard "BOT_藐视天下下雨"
+	VoicePitch = 119	
+End			
+		
+VeryHard "BOT_艰难旅程"
+	VoicePitch = 116	
+End		
+		
+VeryHard "BOT_这是什么"
+	VoicePitch = 115	
+End		
+		
+VeryHard "BOT_心痛分解"
+	VoicePitch = 114	
+End		
+		
+VeryHard "BOT_双手揣兜"
+	VoicePitch = 112	
+End		
+		
+VeryHard "BOT_严肃点"
+	VoicePitch = 111	
+End		
+		
+VeryHard "BOT_与吾为敌"
+	VoicePitch = 110	
+End		
+		
+VeryHard "BOT_还活着真好"
+	VoicePitch = 109	
+End		
+		
+VeryHard "BOT_最佳损友"
+	VoicePitch = 108	
+End		
+		
+VeryHard "BOT_话题终结者"
+	VoicePitch = 122	
+End		
+		
+VeryHard "BOT_花式作死冠军"
+	VoicePitch = 120	
+End		
+		
+VeryHard "BOT_扬名不能立万"
+	VoicePitch = 125	
+End		
+		
+VeryHard "BOT_最后一秒哎"
+	VoicePitch = 92	
+End		
+		
+VeryHard "BOT_这就很奈斯"
+	VoicePitch = 100	
+End		
+		
+VeryHard "BOT_委婉的交流"
+	VoicePitch = 102	
+End		
+		
+VeryHard "BOT_无奈苦笑"
+	VoicePitch = 104	
+End		
+		
+VeryHard "BOT_忘记起名字了"
+	VoicePitch = 108	
+End		
+		
+VeryHard "BOT_沙漏"
+	VoicePitch = 95	
+End		
+		
+VeryHard "BOT_最长的时间"
+	VoicePitch = 100	
+End		
+		
+VeryHard "BOT_穿着拖鞋跑步"
+	VoicePitch = 120	
+End		
+		
+VeryHard "BOT_我还在"
+	VoicePitch = 112	
+End		
+		
+VeryHard "BOT_是他们的萝莉"
+	VoicePitch = 99	
+End		
+		
+VeryHard "BOT_永不作声"
+	VoicePitch = 110	
+End		
+
+VeryHard	"BOT_梦的方向真美"
+	VoicePitch = 99
+End	
+
+VeryHard	"BOT_真怕认错人"
+	VoicePitch = 93
+End		
+
+VeryHard	"BOT_可曾有过遗憾"
+	VoicePitch = 93
+End		
+
+VeryHard	"BOT_越走越远"
+	VoicePitch = 93
+End		
+
+VeryHard	"BOT_没有个性"
+	VoicePitch = 98
+End	
+	
+VeryHard	"BOT_上善若水"
+	VoicePitch = 86
+End	
+
+VeryHard	"BOT_新的开始"
+	VoicePitch = 96	
+End		
+
+VeryHard	 "BOT_如烟消逝"
+	VoicePitch = 89	
+End	
+
+VeryHard	 "BOT_纯手动玩游戏"
+	VoicePitch = 93	
+End	
+		
+VeryHard "BOT_糟糕的发型"
+	VoicePitch = 104	
+End	
+
+VeryHard "BOT_站住不许走"
+	VoicePitch = 113	
+End	
+
+VeryHard "BOT_心作祟"
+	VoicePitch = 90
+End	
+
+VeryHard "BOT_低调登场"
+	VoicePitch = 100	
+End		
+
+VeryHard "BOT_绝对硬核"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Hard
+		
+Hard+Rifle "BOT_遗忘星河"
+	VoicePitch = 100	
+End		
+		
+Hard+Rifle "BOT_江米小枣"
+	VoicePitch = 110	
+End		
+		
+Hard+Rifle "BOT_握不住的沙子"
+	VoicePitch = 120	
+End		
+		
+Hard+Rifle "BOT_峥嵘"
+	VoicePitch = 99	
+End		
+		
+Hard+Rifle "BOT_我不是英雄"
+	VoicePitch = 120	
+End		
+		
+Hard+Rifle "BOT_维他命"
+	VoicePitch = 125	
+End		
+		
+Hard+Rifle "BOT_任你告别"
+	VoicePitch = 110	
+End		
+		
+Hard+Rifle "BOT_退堂鼓手"
+	VoicePitch = 100	
+End		
+		
+Hard+RifleT "BOT_掠夺者"
+	VoicePitch = 112	
+End		
+		
+Hard+RifleT "BOT_知名吃饭选手"
+	VoicePitch = 121	
+End		
+		
+Hard+RifleT "BOT_年少无知的我"
+	VoicePitch = 99	
+End		
+		
+Hard+RifleT "BOT_游戏时间到"
+	VoicePitch = 119	
+End			
+		
+Hard+RifleT "BOT_零度"
+	VoicePitch = 116	
+End		
+		
+Hard+RifleT "BOT_一笑泯恩仇"
+	VoicePitch = 115	
+End		
+		
+Hard+RifleT "BOT_在网上冲浪"
+	VoicePitch = 114	
+End		
+		
+Hard+RifleT "BOT_小丑降临"
+	VoicePitch = 112	
+End		
+		
+Hard+Spray "BOT_精神领袖"
+	VoicePitch = 111	
+End		
+		
+Hard+Spray "BOT_战斗力又爆了"
+	VoicePitch = 110	
+End		
+		
+Hard+Shotgun "BOT_造梦师"
+	VoicePitch = 109	
+End		
+		
+Hard+Shotgun "BOT_入戏太深"
+	VoicePitch = 108	
+End		
+		
+Hard+Punch "BOT_型时代"
+	VoicePitch = 122	
+End		
+		
+Hard+Punch "BOT_遍地演员"
+	VoicePitch = 120	
+End		
+		
+Hard+Sniper "BOT_摇摆不定"
+	VoicePitch = 125	
+End		
+		
+Hard+Sniper "BOT_抬杠运动员"
+	VoicePitch = 92	
+End		
+		
+Hard "BOT_激动澎湃"
+	VoicePitch = 100	
+End		
+		
+Hard "BOT_玩不来哦"
+	VoicePitch = 102	
+End		
+		
+Hard "BOT_都是浮云哦"
+	VoicePitch = 104	
+End		
+		
+Hard "BOT_帅的雅痞"
+	VoicePitch = 108	
+End		
+		
+Hard "BOT_默默地离开"
+	VoicePitch = 95	
+End		
+		
+Hard "BOT_久故"
+	VoicePitch = 100	
+End		
+		
+Hard "BOT_节日惊喜"
+	VoicePitch = 120	
+End		
+		
+Hard "BOT_情绪混乱"
+	VoicePitch = 112	
+End		
+		
+Hard "BOT_年轻小伙"
+	VoicePitch = 99	
+End		
+		
+Hard "BOT_忽然间起飞"
+	VoicePitch = 110	
+End		
+
+Hard	"BOT_气人小说家"
+	VoicePitch = 99
+End	
+
+Hard	"BOT_心比天高"
+	VoicePitch = 93
+End		
+
+Hard	"BOT_四季平常"
+	VoicePitch = 93
+End		
+
+Hard	"BOT_只为你独唱"
+	VoicePitch = 93
+End		
+
+Hard	"BOT_消失的一"
+	VoicePitch = 98
+End	
+	
+Hard	"BOT_碎了一地"
+	VoicePitch = 86
+End	
+
+Hard	"BOT_无话可说"
+	VoicePitch = 96	
+End		
+
+Hard	 "BOT_走走走停"
+	VoicePitch = 89	
+End	
+
+Hard	 "BOT_别皱眉头"
+	VoicePitch = 93	
+End	
+		
+Hard "BOT_禁止入内"
+	VoicePitch = 104	
+End	
+
+Hard "BOT_叼花硬汉"
+	VoicePitch = 113	
+End	
+
+Hard "BOT_再战颠峰"
+	VoicePitch = 90
+End	
+
+Hard "BOT_无能为力"
+	VoicePitch = 100	
+End		
+
+Hard "BOT_我有一个梦想"
+	VoicePitch = 102
+End		
+
+//----------------------------------------		Tough
+		
+Tough+Sniper "BOT_风也声寂寥"
+	VoicePitch = 100	
+End		
+		
+Tough+Sniper "BOT_倒时差"
+	VoicePitch = 110	
+End		
+		
+Tough+Rifle "BOT_突然成了困兽"
+	VoicePitch = 120	
+End		
+		
+Tough+Rifle "BOT_独行在路上"
+	VoicePitch = 99	
+End		
+		
+Tough+Rifle "BOT_戎马万世"
+	VoicePitch = 120	
+End		
+		
+Tough+RifleT "BOT_无所谓黑夜"
+	VoicePitch = 125	
+End		
+		
+Tough+RifleT "BOT_不小心路过"
+	VoicePitch = 110	
+End		
+		
+Tough+RifleT "BOT_无聊的死鱼"
+	VoicePitch = 100	
+End		
+		
+Tough+Shotgun "BOT_昨天的昨天"
+	VoicePitch = 112	
+End		
+		
+Tough+Shotgun "BOT_冒牌哒英雄"
+	VoicePitch = 121	
+End		
+		
+Tough+Rifle "BOT_拾荒者"
+	VoicePitch = 99	
+End		
+		
+Tough+Rifle "BOT_寻找小恒恒"
+	VoicePitch = 119	
+End			
+		
+Tough+RifleT "BOT_蒙蔽了双眼"
+	VoicePitch = 116	
+End		
+		
+Tough+RifleT "BOT_划过星火"
+	VoicePitch = 115	
+End		
+		
+Tough "BOT_萌面超人"
+	VoicePitch = 114	
+End		
+		
+Tough "BOT_发光体"
+	VoicePitch = 112	
+End		
+		
+Tough "BOT_傀儡人"
+	VoicePitch = 111	
+End		
+		
+Tough "BOT_触手可及"
+	VoicePitch = 110	
+End		
+		
+Tough "BOT_您过来一下"
+	VoicePitch = 109	
+End		
+		
+Tough "BOT_笑比哭难看"
+	VoicePitch = 108	
+End		
+		
+Tough "BOT_天空依旧蓝"
+	VoicePitch = 122	
+End		
+		
+Tough "BOT_背后有人"
+	VoicePitch = 120	
+End		
+		
+Tough "BOT_倾尽全力"
+	VoicePitch = 125	
+End		
+		
+Tough "BOT_挂空挡"
+	VoicePitch = 92	
+End		
+		
+Tough "BOT_说多了嘴疼"
+	VoicePitch = 100	
+End		
+		
+Tough "BOT_幕后黑手"
+	VoicePitch = 102	
+End		
+		
+Tough "BOT_在路口"
+	VoicePitch = 104	
+End		
+		
+Tough "BOT_独丶释怀"
+	VoicePitch = 108	
+End		
+		
+Tough "BOT_天热了"
+	VoicePitch = 95	
+End		
+		
+Tough "BOT_人生要乐观"
+	VoicePitch = 100	
+End		
+		
+Tough "BOT_何足挂齿"
+	VoicePitch = 120	
+End		
+		
+Tough "BOT_走太远"
+	VoicePitch = 112	
+End		
+		
+Tough "BOT_允许你"
+	VoicePitch = 99	
+End		
+		
+Tough "BOT_无比执着"
+	VoicePitch = 110	
+End		
+
+Tough	"BOT_正在输入"
+	VoicePitch = 99
+End	
+
+Tough	"BOT_追风老男孩"
+	VoicePitch = 93
+End		
+
+Tough	"BOT_我不是宅男"
+	VoicePitch = 93
+End		
+
+Tough	"BOT_平淡如水"
+	VoicePitch = 93
+End		
+
+Tough	"BOT_人满为患"
+	VoicePitch = 98
+End	
+	
+Tough	"BOT_乘风破浪"
+	VoicePitch = 86
+End	
+
+Tough	"BOT_为主公待命"
+	VoicePitch = 96	
+End		
+
+Tough	 "BOT_动作真慢"
+	VoicePitch = 89	
+End	
+
+Tough	 "BOT_自导自演"
+	VoicePitch = 93	
+End	
+		
+Tough "BOT_全员带恶人"
+	VoicePitch = 104	
+End	
+
+Tough "BOT_什么丶我忘了"
+	VoicePitch = 113	
+End	
+
+Tough "BOT_延续"
+	VoicePitch = 90
+End	
+
+Tough "BOT_就剩复仇了"
+	VoicePitch = 100	
+End		
+
+Tough "BOT_日蚀"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Normal: 31
+		
+Normal+Rifle "BOT_承包所有鱼塘"
+	VoicePitch = 100	
+End		
+		
+Normal+Rifle "BOT_单曲循环"
+	VoicePitch = 110	
+End		
+		
+Normal+PunchT "BOT_爱笑的眼睛"
+	VoicePitch = 120	
+End		
+		
+Normal+Sniper "BOT_你慌什么哎"
+	VoicePitch = 99	
+End		
+		
+Normal "BOT_高冷独行"
+	VoicePitch = 120	
+End		
+		
+Normal "BOT_退役魔法少女"
+	VoicePitch = 125	
+End		
+		
+Normal "BOT_这道题无解"
+	VoicePitch = 110	
+End		
+		
+Normal "BOT_一杯白开水"
+	VoicePitch = 100	
+End		
+		
+Normal "BOT_简简单单"
+	VoicePitch = 112	
+End		
+		
+Normal "BOT_逃不掉了"
+	VoicePitch = 121	
+End		
+		
+Normal "BOT_单程客车"
+	VoicePitch = 99	
+End		
+		
+Normal "BOT_吃了糖就笑"
+	VoicePitch = 119	
+End			
+		
+Normal "BOT_空白式毁灭"
+	VoicePitch = 116	
+End		
+		
+Normal "BOT_盯我看什么"
+	VoicePitch = 115	
+End		
+		
+Normal "BOT_白茫烟雾"
+	VoicePitch = 114	
+End		
+		
+Normal "BOT_凡夫俗子"
+	VoicePitch = 112	
+End		
+		
+Normal "BOT_一个人演戏"
+	VoicePitch = 111	
+End		
+		
+Normal "BOT_续丶信仰"
+	VoicePitch = 110	
+End		
+		
+Normal "BOT_黑色的白天"
+	VoicePitch = 109	
+End		
+		
+Normal "BOT_适者生存"
+	VoicePitch = 108	
+End		
+		
+Normal "BOT_聊表歉意"
+	VoicePitch = 122	
+End		
+		
+Normal "BOT_烧烤品鉴师"
+	VoicePitch = 120	
+End		
+		
+Normal "BOT_命比纸薄"
+	VoicePitch = 125	
+End		
+		
+Normal "BOT_大人时代变了"
+	VoicePitch = 92	
+End		
+		
+Normal "BOT_笔芯"
+	VoicePitch = 100	
+End		
+		
+Normal "BOT_如果可以"
+	VoicePitch = 102	
+End		
+		
+Normal "BOT_把掌声送给你"
+	VoicePitch = 104	
+End		
+		
+Normal "BOT_今天下雪了"
+	VoicePitch = 108	
+End		
+		
+Normal "BOT_你吃饭了没"
+	VoicePitch = 95	
+End		
+		
+Normal "BOT_辰轩"
+	VoicePitch = 100	
+End		
+		
+Normal "BOT_改变不了的"
+	VoicePitch = 120	
+End		
+		
+Normal "BOT_偏执怪人"
+	VoicePitch = 112	
+End		
+		
+Normal "BOT_星星好吃嘛"
+	VoicePitch = 99	
+End		
+		
+Normal "BOT_会痛的石头、"
+	VoicePitch = 110	
+End		
+
+Normal	"BOT_今晚打老虎"
+	VoicePitch = 99
+End	
+
+Normal	"BOT_无知的凡人"
+	VoicePitch = 93
+End		
+
+Normal	"BOT_空虚丨誓言"
+	VoicePitch = 93
+End		
+
+Normal	"BOT_满目山河"
+	VoicePitch = 93
+End		
+
+Normal	"BOT_抬头看烟花"
+	VoicePitch = 98
+End	
+	
+Normal	"BOT_对着僵尸跳舞"
+	VoicePitch = 86
+End	
+
+Normal	"BOT_伤痕累累"
+	VoicePitch = 96	
+End		
+
+Normal	 "BOT_对不起咋说"
+	VoicePitch = 89	
+End	
+
+Normal	 "BOT_沧桑"
+	VoicePitch = 93	
+End	
+		
+Normal "BOT_挡在你前面"
+	VoicePitch = 104	
+End	
+
+Normal "BOT_流断了前世"
+	VoicePitch = 113	
+End	
+
+Normal "BOT_一片光明"
+	VoicePitch = 90
+End	
+
+Normal "BOT_守一座空城"
+	VoicePitch = 100	
+End		
+
+Normal "BOT_仅此而已"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Fair
+		
+Fair "BOT_假动作"
+	VoicePitch = 100	
+End		
+		
+Fair "BOT_莫得感情"
+	VoicePitch = 110	
+End		
+		
+Fair "BOT_独领风骚"
+	VoicePitch = 120	
+End		
+		
+Fair "BOT_最后一局"
+	VoicePitch = 99	
+End		
+		
+Fair "BOT_不是胜者"
+	VoicePitch = 120	
+End		
+		
+Fair "BOT_一世繁华丶"
+	VoicePitch = 125	
+End		
+		
+Fair "BOT_我尽力了"
+	VoicePitch = 110	
+End		
+		
+Fair "BOT_橙子哪买的"
+	VoicePitch = 100	
+End		
+		
+Fair "BOT_繁花入梦"
+	VoicePitch = 112	
+End		
+		
+Fair "BOT_百川东到海"
+	VoicePitch = 121	
+End		
+		
+Fair "BOT_爱吃小土豆"
+	VoicePitch = 99	
+End		
+		
+Fair "BOT_加冕为王之日"
+	VoicePitch = 119	
+End			
+		
+Fair "BOT_给点力阿"
+	VoicePitch = 116	
+End		
+		
+Fair "BOT_雨打不湿承诺"
+	VoicePitch = 115	
+End		
+		
+Fair "BOT_金鱼记忆大师"
+	VoicePitch = 114	
+End		
+		
+Fair "BOT_藐视天下下雨"
+	VoicePitch = 112	
+End		
+		
+Fair "BOT_艰难旅程"
+	VoicePitch = 111	
+End		
+		
+Fair "BOT_这是什么"
+	VoicePitch = 110	
+End		
+		
+Fair "BOT_去掉外壳"
+	VoicePitch = 109	
+End		
+		
+Fair "BOT_陌丶"
+	VoicePitch = 108	
+End		
+		
+Fair "BOT_心痛分解"
+	VoicePitch = 122	
+End		
+		
+Fair "BOT_双手揣兜"
+	VoicePitch = 120	
+End		
+		
+Fair "BOT_严肃点"
+	VoicePitch = 125	
+End		
+		
+Fair "BOT_与吾为敌"
+	VoicePitch = 92	
+End		
+		
+Fair "BOT_还活着真好"
+	VoicePitch = 100	
+End		
+		
+Fair "BOT_最佳损友"
+	VoicePitch = 102	
+End		
+		
+Fair "BOT_话题终结者"
+	VoicePitch = 104	
+End		
+		
+Fair "BOT_花式作死冠军"
+	VoicePitch = 108	
+End		
+		
+Fair "BOT_扬名不能立万"
+	VoicePitch = 95	
+End		
+		
+Fair "BOT_最后一秒哎"
+	VoicePitch = 100	
+End		
+		
+Fair "BOT_这就很奈斯"
+	VoicePitch = 120	
+End		
+		
+Fair "BOT_委婉的交流"
+	VoicePitch = 112	
+End		
+		
+Fair "BOT_无奈苦笑"
+	VoicePitch = 99	
+End		
+		
+Fair "BOT_忘记起名字了"
+	VoicePitch = 110	
+End		
+
+Fair	"BOT_沙漏"
+	VoicePitch = 99
+End	
+
+Fair	"BOT_最长的时间"
+	VoicePitch = 93
+End		
+
+Fair	"BOT_穿着拖鞋跑步"
+	VoicePitch = 93
+End		
+
+Fair	"BOT_我还在"
+	VoicePitch = 93
+End		
+
+Fair	"BOT_是他们的萝莉"
+	VoicePitch = 98
+End	
+	
+Fair	"BOT_永不作声"
+	VoicePitch = 86
+End	
+
+Fair	"BOT_梦的方向真美"
+	VoicePitch = 96	
+End		
+
+Fair	 "BOT_真怕认错人"
+	VoicePitch = 89	
+End	
+
+Fair	 "BOT_可曾有过遗憾"
+	VoicePitch = 93	
+End	
+		
+Fair "BOT_越走越远"
+	VoicePitch = 104	
+End	
+
+Fair "BOT_没有个性"
+	VoicePitch = 113	
+End	
+
+Fair "BOT_上善若水"
+	VoicePitch = 90
+End	
+
+Fair "BOT_新的开始"
+	VoicePitch = 100	
+End		
+
+Fair "BOT_如烟消逝"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Easy: 36
+		
+Easy "BOT_纯手动玩游戏"
+	VoicePitch = 100	
+End		
+		
+Easy "BOT_糟糕的发型"
+	VoicePitch = 110	
+End		
+		
+Easy "BOT_站住不许走"
+	VoicePitch = 120	
+End		
+		
+Easy "BOT_低调登场"
+	VoicePitch = 99	
+End		
+		
+Easy "BOT_绝对硬核"
+	VoicePitch = 120	
+End		
+		
+Easy "BOT_遗忘星河"
+	VoicePitch = 125	
+End		
+		
+Easy "BOT_握不住的沙子"
+	VoicePitch = 110	
+End		
+		
+Easy "BOT_我不是英雄"
+	VoicePitch = 100	
+End		
+		
+Easy "BOT_任你告别"
+	VoicePitch = 112	
+End		
+		
+Easy "BOT_退堂鼓手"
+	VoicePitch = 121	
+End		
+		
+Easy "BOT_掠夺者"
+	VoicePitch = 99	
+End		
+		
+Easy "BOT_知名吃饭选手"
+	VoicePitch = 119	
+End			
+		
+Easy "BOT_年少无知的我"
+	VoicePitch = 116	
+End		
+		
+Easy "BOT_游戏时间到"
+	VoicePitch = 115	
+End		
+		
+Easy "BOT_零度"
+	VoicePitch = 114	
+End		
+		
+Easy "BOT_一笑泯恩仇"
+	VoicePitch = 112	
+End		
+		
+Easy "BOT_精神领袖"
+	VoicePitch = 111	
+End		
+		
+Easy "BOT_战斗力又爆了"
+	VoicePitch = 110	
+End		
+		
+Easy "BOT_入戏太深"
+	VoicePitch = 109	
+End		
+		
+Easy "BOT_遍地演员"
+	VoicePitch = 108	
+End		
+		
+Easy "BOT_摇摆不定"
+	VoicePitch = 122	
+End		
+		
+Easy "BOT_抬杠运动员"
+	VoicePitch = 120	
+End		
+		
+Easy "BOT_玩不来哦"
+	VoicePitch = 125	
+End		
+		
+Easy "BOT_都是浮云哦"
+	VoicePitch = 92	
+End		
+		
+Easy "BOT_默默地离开"
+	VoicePitch = 100	
+End		
+		
+Easy "BOT_久故"
+	VoicePitch = 102	
+End		
+		
+Easy "BOT_节日惊喜"
+	VoicePitch = 104	
+End		
+		
+Easy "BOT_情绪混乱"
+	VoicePitch = 108	
+End		
+		
+Easy "BOT_忽然间起飞"
+	VoicePitch = 95	
+End		
+		
+Easy "BOT_气人小说家"
+	VoicePitch = 100	
+End		
+		
+Easy "BOT_心比天高"
+	VoicePitch = 120	
+End		
+		
+Easy "BOT_只为你独唱"
+	VoicePitch = 112	
+End		
+		
+Easy "BOT_消失的一"
+	VoicePitch = 99	
+End		
+		
+Easy "BOT_碎了一地"
+	VoicePitch = 110	
+End		
+
+Easy	"BOT_无话可说"
+	VoicePitch = 99
+End	
+
+Easy	"BOT_别皱眉头"
+	VoicePitch = 93
+End		
+
+Easy	"BOT_禁止入内"
+	VoicePitch = 93
+End		
+
+Easy	"BOT_再战颠峰"
+	VoicePitch = 93
+End		
+
+Easy	"BOT_无能为力"
+	VoicePitch = 98
+End	
+	
+Easy	"BOT_风也声寂寥"
+	VoicePitch = 86
+End	
+
+Easy	"BOT_倒时差"
+	VoicePitch = 96	
+End		
+
+Easy	 "BOT_突然成了困兽"
+	VoicePitch = 89	
+End	
+
+Easy	 "BOT_独行在路上"
+	VoicePitch = 93	
+End	
+		
+Easy "BOT_戎马万世"
+	VoicePitch = 104	
+End	
+
+Easy "BOT_来了他们来了"	
+	VoicePitch = 113	
+End	
+
+Easy "BOT_无所谓黑夜"
+	VoicePitch = 90
+End	
+
+Easy "BOT_嘟嘟请让一让"
+	VoicePitch = 100	
+End		
+
+Easy "BOT_我是职业的"
+	VoicePitch = 102
+End		

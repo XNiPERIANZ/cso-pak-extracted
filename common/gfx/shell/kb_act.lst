@@ -70,7 +70,6 @@
 "impulse 201"	"#Valve_Spray_Logo"
 "snapshot"		"#Valve_Take_Screen_Shot"
 "capturevideo"	"#CSO_VideoCapture"
-"livestreaming"	"#CSO_LiveStream"
 "resetthirdcam"	"#CSO_ResetThirdCam"
 "cheer"			"#Valve_Cheer"
 "+showscores2"  "#CSO_Display_Scores"

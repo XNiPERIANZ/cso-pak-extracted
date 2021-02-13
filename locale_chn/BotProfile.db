@@ -1,0 +1,831 @@
+﻿//----------------------------------------------------------------------------
+// BotProfile.db
+// Author: Michael S. Booth, Turtle Rock Studios (www.turtlerockstudios.com)
+//
+// This database defines bot "personalities". 
+// Feel free to edit it and define your own bots.
+//
+
+
+//----------------------------------------------------------------------------
+
+//
+// All profiles begin with this data and overwrite their own
+//
+Default
+	Skill = 50
+	Aggression = 50
+	ReactionTime = 0.3
+	AttackDelay = 0
+	Teamwork = 75
+	WeaponPreference = none
+	Cost = 0
+	Difficulty = NORMAL
+	VoicePitch = 100
+	Skin = 0
+End
+
+//----------------------------------------------------------------------------
+
+//
+// These templates inherit from Default and override with their values
+// The name of the template defines a type that is used by individual bot profiles
+//
+
+// weapon preference templates
+Template Rifle
+	WeaponPreference = m4a1
+	WeaponPreference = ak47
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template RifleT
+	WeaponPreference = ak47
+	WeaponPreference = m4a1
+	WeaponPreference = galil
+	WeaponPreference = famas
+	WeaponPreference = mp5
+End
+
+Template Punch
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template PunchT
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Sniper
+	WeaponPreference = awp
+	WeaponPreference = sg550
+	WeaponPreference = g3sg1
+	WeaponPreference = scout
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Power
+	WeaponPreference = m249
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Shotgun
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Spray
+	WeaponPreference = p90
+	WeaponPreference = tmp
+	WeaponPreference = mac10
+	WeaponPreference = mp5
+End
+
+
+// skill templates
+Template Elite
+	Skill = 100
+	Aggression = 100
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = EXPERT
+	VoicePitch = 85
+End
+
+Template Expert
+	Skill = 90
+	Aggression = 90
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = EXPERT
+	VoicePitch = 88
+End
+
+Template VeryHard
+	Skill = 80
+	Aggression = 80
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = HARD
+	VoicePitch = 92
+End
+
+Template Hard
+	Skill = 75
+	Aggression = 75
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = HARD
+	VoicePitch = 94
+End
+
+Template Tough
+	Skill = 60
+	Aggression = 60
+	ReactionTime = 0.3
+	AttackDelay = 0.35
+	Cost = 2
+	Difficulty = NORMAL+HARD
+	VoicePitch = 96
+End
+
+Template Normal
+	Skill = 50
+	Aggression = 50
+	ReactionTime = 0.4
+	AttackDelay = 0.7
+	Cost = 2
+	Difficulty = NORMAL
+End
+
+Template Fair
+	Skill = 25
+	Aggression = 30
+	ReactionTime = 0.4
+	AttackDelay = 1.0
+	Cost = 1
+	Difficulty = EASY+NORMAL
+	VoicePitch = 105
+End
+
+Template Easy
+	Skill = 0
+	Aggression = 20
+	ReactionTime = 0.5
+	AttackDelay = 1.5
+	Cost = 1
+	Difficulty = EASY
+	VoicePitch = 110
+End
+
+//----------------------------------------------------------------------------
+//
+// These are the individual bot profiles, which inherit first from 
+// Default and then the specified Template(s), in order
+//
+
+Elite+Rifle "[BOT]Cliffe"
+	Skin = 1	
+	VoicePitch = 95	
+End		
+		
+Elite+Spray "[BOT]Minh"
+	Skin = 2	
+	VoicePitch = 105	
+End		
+		
+Elite+Shotgun "[BOT]Crusher"
+	Skin = 4	
+	VoicePitch = 84	
+End		
+		
+Elite+Punch "[BOT]Pheonix"
+	Skin = 4	
+	VoicePitch = 110	
+End		
+		
+Elite+Power "[BOT]Rock"
+	Skin = 2	
+	VoicePitch = 80	
+End		
+		
+Elite+PunchT "[BOT]Shark"
+	Skin = 4	
+	VoicePitch = 90	
+End		
+		
+Elite+Rifle "[BOT]Wolf"
+	Skin = 2	
+	VoicePitch = 98	
+End		
+		
+Elite+RifleT "[BOT]Gunner"
+	Skin = 1	
+	VoicePitch = 96	
+End		
+		
+Elite+Sniper "[BOT]Zed"
+	Skin = 3	
+	VoicePitch = 105	
+End		
+		
+Elite+RifleT "[BOT]Steel"
+	Skin = 1	
+	VoicePitch = 84	
+End		
+		
+Elite+PunchT "[BOT]Stone"
+	Skin = 4	
+	VoicePitch = 86	
+End		
+		
+		
+//----------------------------------------		
+		
+Expert+RifleT "[BOT]Arnold"
+	VoicePitch = 85	
+End		
+		
+Expert+Rifle "[BOT]Brett"
+	VoicePitch = 100	
+End		
+		
+Expert+Punch "[BOT]Kurt"
+	VoicePitch = 95	
+End		
+		
+Expert+Sniper "[BOT]Kyle"
+	Cost = 5	
+	VoicePitch = 115	
+End		
+		
+Expert+Shotgun "[BOT]Moe"
+	VoicePitch = 87	
+End		
+		
+Expert+Rifle "[BOT]Quade"
+	VoicePitch = 91	
+End		
+		
+Expert+Rifle "[BOT]Quintin"
+	VoicePitch = 101	
+End		
+		
+Expert "[BOT]Ringo"
+	VoicePitch = 112	
+End		
+		
+Expert+PunchT "[BOT]Rip"
+	VoicePitch = 99	
+End		
+		
+Expert+Rifle "[BOT]Zach"
+	VoicePitch = 100	
+End		
+		
+//----------------------------------------		
+		
+VeryHard+Power "[BOT]Cory"
+	Skin = 1	
+	VoicePitch = 110	
+End		
+		
+VeryHard+Sniper "[BOT]Quinn"
+	Skin = 3	
+	VoicePitch = 93	
+End		
+		
+VeryHard+Rifle "[BOT]Seth"
+	Skin = 2	
+	VoicePitch = 100	
+End		
+		
+VeryHard+RifleT "[BOT]Vinny"
+	Skin = 4	
+	VoicePitch = 86	
+End		
+		
+		
+//----------------------------------------		
+		
+Hard+Rifle "[BOT]Chad"
+	Skin = 1	
+	VoicePitch = 95	
+End		
+		
+Hard+RifleT "[BOT]Chet"
+	Skin = 2	
+	VoicePitch = 90	
+End		
+		
+Hard+Spray "[BOT]Gabe"
+	Skin = 4	
+	VoicePitch = 102	
+End		
+		
+Hard+Shotgun "[BOT]Hank"
+	Skin = 1	
+	VoicePitch = 98	
+End		
+		
+Hard+RifleT "[BOT]Ivan"
+	Skin = 2	
+	VoicePitch = 96	
+End		
+		
+Hard+Punch "[BOT]Jim"
+	Skin = 4	
+	VoicePitch = 103	
+End		
+		
+Hard+PunchT "[BOT]Joe"
+	Skin = 1	
+	VoicePitch = 105	
+End		
+		
+Hard+Rifle "[BOT]John"
+	Skin = 2	
+	VoicePitch = 97	
+End		
+		
+Hard+Rifle "[BOT]Tony"
+	Skin = 4	
+	VoicePitch = 84	
+End		
+		
+Hard+PunchT "[BOT]Tyler"
+	Skin = 1	
+	VoicePitch = 90	
+End		
+		
+Hard+Rifle "[BOT]Victor"
+	Skin = 2	
+	VoicePitch = 98	
+End		
+		
+Hard+Sniper "[BOT]Vladimir"
+	Skin = 3	
+	VoicePitch = 110	
+End		
+		
+Hard+Spray "[BOT]Zane"
+	Skin = 4	
+	VoicePitch = 103	
+End		
+		
+Hard+Rifle "[BOT]Zim"
+	Skin = 2	
+	VoicePitch = 110	
+End		
+		
+//----------------------------------------		
+		
+Tough+Sniper "[BOT]Adrian"
+	Skin = 3	
+	VoicePitch = 120	
+End		
+		
+Tough+Rifle "[BOT]Brad"
+	Skin = 1	
+	VoicePitch = 100	
+End		
+		
+Tough+Rifle "[BOT]Connor"
+	Skin = 2	
+	VoicePitch = 104	
+End		
+		
+Tough+RifleT "[BOT]Dave"
+	Skin = 4	
+	VoicePitch = 98	
+End		
+		
+Tough "[BOT]Dan"
+	Skin = 1	
+	VoicePitch = 100	
+End		
+		
+Tough+Rifle "[BOT]Derek"
+	Skin = 2	
+	VoicePitch = 102	
+End		
+		
+Tough+Shotgun "[BOT]Don"
+	Skin = 4	
+	VoicePitch = 95	
+End		
+		
+Tough+Rifle "[BOT]Eric"
+	Skin = 1	
+	VoicePitch = 95	
+End		
+		
+Tough+RifleT "[BOT]Erik"
+	Skin = 2	
+	VoicePitch = 110	
+End		
+		
+Tough+Rifle "[BOT]Finn"
+	Skin = 4	
+	VoicePitch = 112	
+End		
+		
+Tough "[BOT]Jeff"
+	Skin = 1	
+	VoicePitch = 90	
+End		
+		
+Tough+Rifle "[BOT]Kevin"
+	Skin = 2	
+	VoicePitch = 115	
+End		
+		
+Tough+RifleT "[BOT]Reed"
+	Skin = 4	
+	VoicePitch = 107	
+End		
+		
+Tough+Rifle "[BOT]Rick"
+	Skin = 2	
+	VoicePitch = 102	
+End		
+		
+Tough "[BOT]Ted"
+	Skin = 1	
+	VoicePitch = 98	
+End		
+		
+Tough+Rifle "[BOT]Troy"
+	Skin = 2	
+	VoicePitch = 100	
+End		
+		
+Tough+RifleT "[BOT]Wade"
+	Skin = 4	
+	VoicePitch = 95	
+End		
+		
+Tough+Rifle "[BOT]Wayne"
+	Skin = 1	
+	VoicePitch = 86	
+End		
+		
+Tough+RifleT "[BOT]Xander"
+	Skin = 2	
+	VoicePitch = 100	
+End		
+		
+Tough+Rifle "[BOT]Xavier"
+	Skin = 4	
+	VoicePitch = 95	
+End		
+		
+//----------------------------------------		
+		
+Normal+Rifle "[BOT]Adam"
+	Skin = 1	
+	VoicePitch = 105	
+End		
+		
+Normal+PunchT "[BOT]Andy"
+	Skin = 2	
+	VoicePitch = 90	
+End		
+		
+Normal "[BOT]Chris"
+	Skin = 3	
+	VoicePitch = 100	
+End		
+		
+Normal "[BOT]Colin"
+	Skin = 4	
+	VoicePitch = 107	
+End		
+		
+Normal "[BOT]Dennis"
+	Skin = 1	
+	VoicePitch = 104	
+End		
+		
+Normal "[BOT]Doug"
+	Skin = 2	
+	VoicePitch = 110	
+End		
+		
+Normal "[BOT]Gary"
+	Skin = 3	
+	VoicePitch = 95	
+End		
+		
+Normal "[BOT]Grant"
+	Skin = 4	
+	VoicePitch = 112	
+End		
+		
+Normal "[BOT]Greg"
+	Skin = 1	
+	VoicePitch = 111	
+End		
+		
+Normal+Sniper "[BOT]Ian"
+	Skin = 3	
+	VoicePitch = 115	
+End		
+		
+Normal "[BOT]Jerry"
+	Skin = 4	
+	VoicePitch = 112	
+End		
+		
+Normal "[BOT]Jon"
+	Skin = 1	
+	VoicePitch = 96	
+End		
+		
+Normal "[BOT]Keith"
+	Skin = 2	
+	VoicePitch = 98	
+End		
+		
+Normal "[BOT]Mark"
+	Skin = 4	
+	VoicePitch = 110	
+End		
+		
+Normal "[BOT]Matt"
+	Skin = 1	
+	VoicePitch = 95	
+End		
+		
+Normal+RifleT "[BOT]Mike"
+	Skin = 2	
+	VoicePitch = 100	
+End		
+		
+Normal "[BOT]Nate"
+	Skin = 4	
+	VoicePitch = 99	
+End		
+		
+Normal "[BOT]Paul"
+	Skin = 3	
+	VoicePitch = 98	
+End		
+		
+Normal "[BOT]Scott"
+	Skin = 1	
+	VoicePitch = 105	
+End		
+		
+Normal "[BOT]Steve"
+	Skin = 2	
+	VoicePitch = 115	
+End		
+		
+Normal "[BOT]Tom"
+	Skin = 3	
+	VoicePitch = 110	
+End		
+		
+Normal "[BOT]Yahn"
+	Skin = 4	
+	VoicePitch = 92	
+End		
+		
+//----------------------------------------		
+		
+Fair "[BOT]Alfred"
+	VoicePitch = 110	
+End		
+		
+Fair "[BOT]Bill"
+	VoicePitch = 100	
+End		
+		
+Fair "[BOT]Brandon"
+	VoicePitch = 99	
+End		
+		
+Fair+Spray "[BOT]Calvin"
+	VoicePitch = 120	
+End		
+		
+Fair "[BOT]Dean"
+	VoicePitch = 111	
+End		
+		
+Fair "[BOT]Dustin"
+	VoicePitch = 98	
+End		
+		
+Fair "[BOT]Ethan"
+	VoicePitch = 112	
+End		
+		
+Fair "[BOT]Harold"
+	VoicePitch = 90	
+End		
+		
+Fair "[BOT]Henry"
+	VoicePitch = 120	
+End		
+		
+Fair "[BOT]Irving"
+	VoicePitch = 118	
+End		
+		
+Fair "[BOT]Jason"
+	VoicePitch = 116	
+End		
+		
+Fair "[BOT]Josh"
+	VoicePitch = 114	
+End		
+		
+Fair "[BOT]Martin"
+	VoicePitch = 110	
+End		
+		
+Fair "[BOT]Nick"
+	VoicePitch = 98	
+End		
+		
+Fair "[BOT]Norm"
+	VoicePitch = 92	
+End		
+		
+Fair "[BOT]Orin"
+	VoicePitch = 113	
+End		
+		
+Fair "[BOT]Pat"
+	VoicePitch = 114	
+End		
+		
+Fair "[BOT]Perry"
+	VoicePitch = 115	
+End		
+		
+Fair "[BOT]Ron"
+	VoicePitch = 100	
+End		
+		
+Fair "[BOT]Shawn"
+	VoicePitch = 102	
+End		
+		
+Fair "[BOT]Tim"
+	VoicePitch = 98	
+End		
+		
+Fair "[BOT]Will"
+	VoicePitch = 96	
+End		
+		
+Fair "[BOT]Wyatt"
+	VoicePitch = 94	
+End		
+		
+//----------------------------------------		
+		
+Easy "[BOT]Albert"
+	VoicePitch = 100	
+End		
+		
+Easy "[BOT]Allen"
+	VoicePitch = 110	
+End		
+		
+Easy "[BOT]Bert"
+	VoicePitch = 120	
+End		
+		
+Easy "[BOT]Bob"
+	VoicePitch = 99	
+End		
+		
+Easy "[BOT]Cecil"
+	VoicePitch = 120	
+End		
+		
+Easy "[BOT]Clarence"
+	VoicePitch = 125	
+End		
+		
+Easy "[BOT]Elliot"
+	VoicePitch = 110	
+End		
+		
+Easy "[BOT]Elmer"
+	VoicePitch = 100	
+End		
+		
+Easy "[BOT]Ernie"
+	VoicePitch = 112	
+End		
+		
+Easy "[BOT]Eugene"
+	VoicePitch = 121	
+End		
+		
+Easy "[BOT]Fergus"
+	VoicePitch = 99	
+End		
+		
+Easy "[BOT]Ferris"
+	VoicePitch = 119	
+End		
+		
+Easy "[BOT]Frank"
+	VoicePitch = 118	
+End		
+		
+Easy "[BOT]Frasier"
+	VoicePitch = 117	
+End		
+		
+Easy "[BOT]Fred"
+	VoicePitch = 116	
+End		
+		
+Easy "[BOT]George"
+	VoicePitch = 115	
+End		
+		
+Easy "[BOT]Graham"
+	VoicePitch = 114	
+End		
+		
+Easy "[BOT]Harvey"
+	VoicePitch = 112	
+End		
+		
+Easy "[BOT]Irwin"
+	VoicePitch = 111	
+End		
+		
+Easy "[BOT]Lester"
+	VoicePitch = 110	
+End		
+		
+Easy "[BOT]Marvin"
+	VoicePitch = 109	
+End		
+		
+Easy "[BOT]Neil"
+	VoicePitch = 108	
+End		
+		
+Easy "[BOT]Niles"
+	VoicePitch = 122	
+End		
+		
+Easy "[BOT]Oliver"
+	VoicePitch = 120	
+End		
+		
+Easy "[BOT]Opie"
+	VoicePitch = 125	
+End		
+		
+Easy "[BOT]Toby"
+	VoicePitch = 92	
+End		
+		
+Easy "[BOT]Ulric"
+	VoicePitch = 100	
+End		
+		
+Easy "[BOT]Ulysses"
+	VoicePitch = 102	
+End		
+		
+Easy "[BOT]Uri"
+	VoicePitch = 104	
+End		
+		
+Easy "[BOT]Waldo"
+	VoicePitch = 108	
+End		
+		
+Easy "[BOT]Wally"
+	VoicePitch = 95	
+End		
+		
+Easy "[BOT]Walt"
+	VoicePitch = 100	
+End		
+		
+Easy "[BOT]Wesley"
+	VoicePitch = 120	
+End		
+		
+Easy "[BOT]Yanni"
+	VoicePitch = 112	
+End		
+		
+Easy "[BOT]Yogi"
+	VoicePitch = 99	
+End		
+		
+Easy "[BOT]Yuri"
+	VoicePitch = 110	
+End		
