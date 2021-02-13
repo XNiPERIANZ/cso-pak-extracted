@@ -1,0 +1,8 @@
+﻿決戰哈瓦那(Havana) - 救援人質
+遊戲圖製作
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+武裝份子: 回合結束時逃走用的直升機將會抵達,脅持哈瓦那政府機關人員做為人質直到回合結束,.
+
+反恐小組: 在武裝份子們逃走前要救援所有的人質.

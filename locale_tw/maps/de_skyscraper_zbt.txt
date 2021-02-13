@@ -1,0 +1,7 @@
+﻿沙漠遺跡2(Dust2) - 殭屍大亂鬥
+地圖製作: DaveJ (http://www.johnsto.co.uk/)
+Texture製作: MacMan (MacManInfi@aol.com)
+
+-擊殺地圖上的所有敵人,將我方的分數提高.
+-達成指定射殺數時獲得勝利.
+-獲得道具箱子時會追加射殺數.

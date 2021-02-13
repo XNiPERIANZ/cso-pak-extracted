@@ -1,0 +1,14 @@
+// overview description file for de_dazzlingTW.bsp
+
+global 
+{
+	ZOOM	1.12
+	ORIGIN	284.23 	-849.91	354
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_dazzlingTW.bmp"
+	HEIGHT	-1156
+}

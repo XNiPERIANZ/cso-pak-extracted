@@ -1,0 +1,7 @@
+﻿浴血隧道(Tunnel) - 死鬥模式
+企劃/製作 : Machine (Machine@Nexon.co.kr)
+原文/修正 : Muba (abumjang@Nexon.co.kr) / Hacc (hacc@Nexon.co.kr) / ANIFACTORY(leejm@Nexon.co.kr)
+
+武裝份子企圖炸毀火車隧道後搶奪放在火車裡的現金和武器後逃逸.
+反恐小組: 攻擊武裝份子們以阻止像他們恐怖的行為.
+武裝份子: 攻擊反恐小組以達成武裝份子的計劃.

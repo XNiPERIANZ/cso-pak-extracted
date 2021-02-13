@@ -1,0 +1,11 @@
+﻿小型機場(Airstrip) – 拆除炸彈
+
+遊戲圖製作: Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+反恐小組: 阻止武裝份子在小型機場裝置炸藥.
+
+武裝份子: 在停放小型飛機的地方安裝C4以炸毀飛機和貨倉.
+
+其他: 在此地圖中有2個可以裝置炸彈的地點.

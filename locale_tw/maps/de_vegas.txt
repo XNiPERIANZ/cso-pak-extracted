@@ -1,0 +1,9 @@
+﻿賭城風雲(Vegas) – 拆除炸彈
+製作 : +Cadaver+
+texture : George_Pooshoes, JOeSmOe
+修正 : Nexon
+
+
+武裝份子:利用C4炸開保險箱或者獅身人面像
+
+反恐小組:防止武裝份子所安置的C4爆炸
