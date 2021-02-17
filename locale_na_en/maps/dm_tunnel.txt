@@ -1,0 +1,11 @@
+﻿Tunnel - Deathmatch
+
+Planning/Production: NEXON
+Texture/Revision: NEXON
+
+The Terrorists are planning to blow up a tunnel that a train passes through in order to steal the cash and weapons it is transporting.
+
+- Counter-Terrorists: Attack the Terrorists to prevent them from achieving their goal.
+- Terrorists: Attack the Counter-Terrorists so that the Terrorist mission goes according to plan.
+
+Note: Each team has two reinforcement locations on this map.

@@ -1,0 +1,6 @@
+﻿Nuke - Ölüm Maçı
+
+Haritayı Yapan: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Yakındaki tüm düşmanları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.

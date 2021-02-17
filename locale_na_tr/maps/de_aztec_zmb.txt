@@ -1,0 +1,9 @@
+﻿Aztec - Zombi
+
+Haritayı yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuları yapan: Macman
+
+Teröristler ve Anti-Teröristler arasındaki çatışma sırasında, tanımlanayaman varlıklar keşfedildi. Rex Laboratuvarından kaçmış olan Zombiler gibi görünüyorlar. İnsanlar hayatta kalmak için birlikte hareket etmeliler.
+
+- İnsanlar: Kalan süre içinde hayatta kal ya da tüm zombileri öldür.
+- Zombiler: Zombiye dönüşenler, insanları öldürüp, onları zombiye dönüştürmeliler. Zombiler insanlardan daha çok Sağlık Puanına sahiptirler ve onlardan daha hızlı hareket ederler.

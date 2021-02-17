@@ -1,0 +1,7 @@
+﻿Office - Annihilation
+Mappa creata da: Hobbit (Hobbit@nodream.net)	
+Texture creata da: Sphinx and George_Pooshoes.
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

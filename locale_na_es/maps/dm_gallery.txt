@@ -1,0 +1,8 @@
+﻿Galería - Aniquilación
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+Los Terroristas en camino a la batalla del Museo Greesia se encuentran con Antiterroristas en la galería de arte al lado de donde se libra la batalla.
+
+- Elimina al otro equipo.

@@ -1,0 +1,23 @@
+Log updated: 	12/03/2020 18:09:15 
+Media: 		C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\emotion\Anger1.wav 
+Log file: 	C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\emotion\Anger1_loud.txt 
+Format: 	8-bit PCM data, 1 channels @ 22050 Hz
+Algorithm: 	Surround processing turned: OFF
+
+
+Loudness calculations: 
+
+              Pos.	     Time	Mom.(LUFS)	Short(LUFS)	Integ.(LUFS)	Dyn.(LU)
+
+            8192	00:00:00.371	-14.60		-23.35		-15.70		 21.00
+           16384	00:00:00.743	-14.56		-21.77		-15.90		  4.90
+           24576	00:00:01.114	-14.75		-20.04		-15.72		  6.70
+           32768	00:00:01.486	-14.87		-18.46		-15.73		  7.70
+           40864	00:00:01.853	-14.86		-17.99		-15.68		  5.90
+
+
+---------------------------
+Results:
+
+Mom. (max): 	-14.56 (LUFS) at 00:00:00.743
+Short (max): 	-17.99 (LUFS) at 00:00:01.853

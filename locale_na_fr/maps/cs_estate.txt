@@ -1,0 +1,7 @@
+﻿Estate - Hostage Rescue
+Carte créée par : Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+Antiterroristes : Libérez les 3 otages piégés dans la propriété.
+
+Terroristes : Empêchez les Antiterroristes de sauver les otages.

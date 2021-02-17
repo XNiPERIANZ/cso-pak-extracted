@@ -1,0 +1,11 @@
+RISING - Escape Zombi
+Planificado, diseñado y desarrollado por: Nexon 
+Gráficos: Nexon
+
+A todos sobrevivientes: 
+Hay un helicóptero de rescate cerca. 
+Por favor, correr al helipuerto y activen la señal de rescate con luces de faro y de escape.
+
+Objetivo
+Humanos: Escapen al helipuerto dentro del límite de tiempo. Debe seguir siendo humano.
+Zombies: infectar a todos los seres humanos restantes o no dejar que lleguen al helipuerto dentro del límite de tiempo.

@@ -1,0 +1,9 @@
+﻿Dust 0 - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+- Anti-Teröristler: Orta Doğuda Stratejik öneme sahip bir konumda terörist aktiviteleri belirlendi. Takım üyeleri bomba bölgelerine yerleştirilmiş bombaları etkisizleştirmeli ve Teröristleri ortadan kaldırmalı.
+- Teröristler: Anti-Terörist aktivitelerini engellemeli ve iki bomba bölgesinden birini bombalamalıdır
+
+Not: Bu haritada iki bomba bölgesi vardır.

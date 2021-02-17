@@ -1,0 +1,7 @@
+﻿Village - Takım Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Haritadaki düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Belirlenmiş öldürme sayısına ulaşarak oyunu kazan.

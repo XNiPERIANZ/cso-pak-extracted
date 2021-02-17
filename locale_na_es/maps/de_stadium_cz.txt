@@ -1,0 +1,6 @@
+﻿Estadio - Colocación/Desactivación de bomba
+
+- Antiterroristas: Eviten que los Terroristas bombardeen el estadio.
+- Terroristas: Bombardeen el estadio.
+
+Nota: Hay dos sitios de bomba en esta misión.

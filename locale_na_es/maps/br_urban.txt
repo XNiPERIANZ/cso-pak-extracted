@@ -1,0 +1,11 @@
+﻿Asalto urbano (Urban Assault) - Fiebre de batalla
+
+Mapa creado por: NEXON
+Textura creada por: NEXON
+
+El jefe de un grupo terrorista condenado a muerte se usará como espécimen en el experimento de un laboratorio especial.
+Las Fuerzas de Élite de los Antiterroristas tienen la misión de transportar al prisionero a otra ubicación.
+Los Terroristas recibieron inteligencia sobre el método de transporte y están intentando bloquear el camino y rescatar al jefe.
+
+- Antiterroristas: Destruyan todos los obstáculos en el camino y transporten al prisionero a salvo hasta la ubicación de destino.
+- Terroristas: Desactiven todos los dispositivos de restricción del vehículo que transporta al jefe.

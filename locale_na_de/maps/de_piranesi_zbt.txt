@@ -1,0 +1,12 @@
+﻿Piranesi
+Fingers - iikkak@valvesoftware.com
+Danke an Ido Magal für die Texturen
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgesehene Anzahl Tötungen erreichst.
+- Der Tötungs-Zähler erhöht sich, wenn eine Item-Box erhalten wurde.
+
+
+
+
+

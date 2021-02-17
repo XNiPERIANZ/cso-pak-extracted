@@ -1,0 +1,7 @@
+﻿Cobble- Bomb Planting/Defusing
+
+Map Created By: DaveJ (http://www.johnsto.co.uk/)
+Texture Created By: MacMan (MacManInfi@aol.com)
+
+- Counter-Terrorists: Prevent the Terrorists from bombing Lord William's garden estate. He has recently been targeted for assassination for political reasons. 
+- Terrorists: A Terrorist in possession of a C4 must plant a bomb in one of two bombing sites located on the map. Lord William must be eliminated.

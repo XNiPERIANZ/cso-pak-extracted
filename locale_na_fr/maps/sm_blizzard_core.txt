@@ -1,0 +1,23 @@
+﻿Cold Fear - Core: Beast 
+Planning et Production : Nexon
+Graphiques : Nexon
+
+Après des conflits répétés en région polaire, Terroristes et Antiterroristes
+ont découvert par hasard des roches mystérieuses.
+
+Après avoir réalisé que ces roches renfermaient un pouvoir mystérieux,
+chaque camp a engagé des recherches tout en élaborant des plans
+pour détruire les roches de l'autre et en détenir le monopole.
+
+Toutefois, les barrières de contrôle installées pour maîtriser
+la puissante énergie du minerai ont prolongé l'affrontement et...
+
+en prenant part au combat, les agents ayant eu un contact physique
+avec les fragments de roche ont commencé à muter,
+entrainant la guerre dans une direction inattendue...
+
+Objectif :
+Détruisez le noyau ennemi.
+La roche est protégée par une barrière de contrôle.
+Attaquez le dispositif de contrôle et vous pourrez temporairement attaquer la roche.
+Le dispositif de contrôle se réactive après 20 secondes.

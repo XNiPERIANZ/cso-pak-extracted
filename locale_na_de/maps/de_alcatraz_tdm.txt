@@ -1,0 +1,6 @@
+﻿Alcatraz (alcatraz) - Team-Deathmatch
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+– Erhöhe das Teamergebnis, indem du alle Mitglieder des Gegnerteams auf der Map tötest.
+– Erringe einen Sieg, indem du die benötigte Anzahl an Kills erreichst.

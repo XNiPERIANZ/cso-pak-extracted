@@ -1,0 +1,8 @@
+﻿Chateau - Podkładanie/Rozbrajanie Bomby
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+Terroryści: Po incydencie w posiadłości, Lord William postanowił przerobić swój letni pałacyk. Powstrzymaj przebudowę podkładając ładunek C4 w przednim lub tylnym ogrodzie.
+
+Antyterroryści: Powstrzymaj terrorystów przed podłożeniem bomby i chroń posiadłość Lorda Williama.

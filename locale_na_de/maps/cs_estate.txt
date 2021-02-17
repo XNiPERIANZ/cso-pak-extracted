@@ -1,0 +1,12 @@
+﻿Estate - Hostage Rescue
+Map erstellt von: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+Counter-Terroristen: Rettet die 3 Geiseln, die in dem Gebäude gefangen sind.
+
+Terroristen: Verhindert, dass die Counter-Terroristen die Geiseln befreien.
+
+
+
+
+

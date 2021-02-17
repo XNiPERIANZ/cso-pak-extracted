@@ -1,0 +1,11 @@
+﻿Jump 1 - Challenge
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+- Der Spieler mit dem schnellsten Ergebnis innerhalb der vorgegebenen Zeit gewinnt.
+- Du wirst zu deinem letzten Checkpoint gebracht, wenn du getötet oder verletzt wirst.
+- Es sind keine Spielerkonflikte vorgesehen.
+
+
+
+

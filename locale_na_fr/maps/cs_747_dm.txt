@@ -1,0 +1,8 @@
+﻿747 - Deathmatch
+Carte créée par : Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture créée par : "The Postman" 
+(heavengame@yahoo.com)
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

@@ -1,0 +1,6 @@
+﻿Stadium - Plantar/desarmar a bomba
+
+- Contraterroristas: Impeça a tentativa dos terroristas de explodir o estádio.
+- Terroristas: Exploda o estádio.
+
+Observação: Há dois locais para detonar nesta missão.

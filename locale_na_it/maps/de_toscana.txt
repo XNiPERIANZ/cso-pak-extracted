@@ -1,0 +1,12 @@
+﻿Toscana - Bomb Planting/Defusing
+Mappa creata da: Nexon
+Texture creata da: Nexon
+
+Antiterroristi: La base nella Toscana, la quale era usata dai Terroristi come il loro quartier generale, è stata scoperta. Ora i Terroristi stanno cercando di bombardarla per distruggere qualsiasi prova.
+I membri del team devono disinnescare tutte le bombe piazzate nei posti di bombardamento.
+Eseguite un piano di sabotaggio per impedire ai Terroristi di raggiungere il loro obiettivo!
+
+Terroristi: I Terroristi in possesso di C4 devono farlo esplodere in uno dei due posti di bombardamento. 
+Fermate il piano di sabotaggio degli Antiterroristi e distruggete tutte le prove della base!
+
+Nota: Ci sono due posti di bombardamento in questa mappa.

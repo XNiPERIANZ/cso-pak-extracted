@@ -1,0 +1,7 @@
+﻿Rascacielos - Combate Mortal de Arma
+Desarrollado y producido por: Nexon
+Textura/Modelado/Editado por: Nexon
+
+Objetivo
+- Se otorga una nueva arma cada vez que alcanza un cierto número de asesinatos del enemigo con el arma dada.
+- Para ganar, elimina al equipo enemigo con la granada final, que se reparte durante el último momento del juego.

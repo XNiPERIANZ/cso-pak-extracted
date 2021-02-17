@@ -1,0 +1,7 @@
+﻿Havana - Hostage Rescue
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Terrorists: Political hostages are being held at Havana Vieja. Stand your ground until the round ends and a helicopter will arrive for your escape.
+- Counter-Terrorists: All nearby areas have been secured. Now you must rescue all the hostages before the Terrorists escape.

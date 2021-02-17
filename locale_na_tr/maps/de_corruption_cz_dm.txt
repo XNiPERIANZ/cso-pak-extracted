@@ -1,0 +1,6 @@
+﻿Corruptio - Ölüm Maçı
+
+Haritayı yapan: Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

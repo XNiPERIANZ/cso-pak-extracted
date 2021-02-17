@@ -1,0 +1,18 @@
+﻿Urban Assault (Urban Assault) - Battle Rush
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+Szenario
+
+Der Boss einer bewaffneten Terroristengruppe, der jetzt in der Todeszelle sitzt, wird als Versuchsobjekt für ein Experiment genutzt, das von einem speziellen Labor durchgeführt wird.
+Elitetruppen der Counter-Terroristen wurde der Auftrag erteilt, den Gefangenen an einen anderen Ort zu bringen.
+Die Terroristen haben geheime Informationen über den Einsatz erhalten und versuchen, den Weg abzuschneiden und ihren Boss zu befreien.
+
+Zielvorgabe
+
+Counter-Terroristen: Zerstört alle Hindernisse entlang des Weges und bringt den Gefangenen sicher zum Zielort.
+
+Terroristen: Setzt alle zurückgebliebenen Vorrichtungen am Fahrzeug das den Boss transportiert außer Gefecht.
+
+ 
+ 

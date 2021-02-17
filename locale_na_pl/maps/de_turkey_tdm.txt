@@ -1,0 +1,5 @@
+﻿Sanctuary - Drużynowy Deathmatch
+Produkcja: Nexon
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

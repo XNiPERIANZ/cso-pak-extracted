@@ -1,0 +1,6 @@
+﻿Siege - Sojusz Zombie Anihilacja
+Autor Mapy: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

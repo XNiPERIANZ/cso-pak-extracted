@@ -1,0 +1,11 @@
+﻿Inferno - Gun Deathmatch
+Carte créée par : Chris Auty (Barney) (narby@counter-strike.net)
+Texture créée par : Valve software
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.
+
+Objectif
+- L'équipe qui tue un membre de l'équipe adverse avec la grenade finale remporte la victoire.
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Atteignez le nombre indiqué de victimes dans le temps imparti pour gagner.

@@ -1,0 +1,6 @@
+﻿Ice World (Ice World) - Fight Yard
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+- Utilisez les armes par terre pour tuer tous les adversaires.
+- Il y a une Zone d'achat dans un lieu spécifique, ainsi que des grenades HE, grenades smoke et signaux lumineux.

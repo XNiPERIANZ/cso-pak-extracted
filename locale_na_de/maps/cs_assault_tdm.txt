@@ -1,0 +1,6 @@
+﻿Assault - Team Deathmatch
+Map erstellt von: CryptR (lmuur@dlc.fi)
+
+- Erhöhe den Team-Punktestand indem Du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem Du eine vorgegebene Anzahl Tötungen erreichst.
+

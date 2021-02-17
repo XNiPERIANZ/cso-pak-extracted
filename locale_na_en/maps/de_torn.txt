@@ -1,0 +1,9 @@
+﻿Torn - Bomb Planting/Defusing
+
+Map Created By: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Terrorists: Leak nerve gas into the town's reservoir so that it can spread to all nearby cities.
+- Counter-Terrorists: Subdue the situation. Prevent the enemy from achieving their goal.
+
+Note: There are two bombing sites on this map.

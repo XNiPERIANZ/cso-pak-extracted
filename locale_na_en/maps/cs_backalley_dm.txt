@@ -1,0 +1,6 @@
+﻿Back Alley - Deathmatch
+
+Map Created By: TYR (tyr@barking-dog.com)
+
+- Kill all nearby players.
+- The player with the most kills wins.

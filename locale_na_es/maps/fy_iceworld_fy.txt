@@ -1,0 +1,6 @@
+﻿Mundo de Hielo (Mundo de Hielo) - Patio de Lucha
+Planificación/Producción: Nexon
+Textura/Modelado/Revisión: Nexon
+
+- Usa las armas en el suelo para matar a todos los rivales.
+- Hay una Zona de Compra en un lugar específico, además de granadas AE, granadas de humo y luces de emergencia.

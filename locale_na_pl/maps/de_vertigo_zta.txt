@@ -1,0 +1,7 @@
+﻿Vertigo - Sojusz Zombie Anihilacja
+Autor Mapy: Chris Auty (Barney) (fragged101@yahoo.com)
+Autor Tekstury: Telnets and J0esm0e
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

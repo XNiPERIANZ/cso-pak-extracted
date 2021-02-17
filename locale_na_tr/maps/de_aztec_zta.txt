@@ -1,0 +1,8 @@
+﻿Aztec - Yok Etme
+
+Haritayı yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuları yapan: Macman
+
+- Haritadaki tüm düşmanları öldür.
+- Belirtilen sayıdaki rauntu tamamlayarak kazan.
+- Bir sonraki raunt başlayana kadar canlanmayacaksın.

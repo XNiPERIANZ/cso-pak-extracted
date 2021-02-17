@@ -1,0 +1,6 @@
+﻿Corruption - Takım Ölüm Maçı
+
+Haritayı yapan: Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takımının skorunu yükselt.
+- Düşmanı belirtilen sayıda öldürerek kazan.

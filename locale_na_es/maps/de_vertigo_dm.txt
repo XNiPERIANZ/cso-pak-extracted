@@ -1,0 +1,7 @@
+﻿Vértigo - Combate mortal
+
+Mapa creado por: Chris Auty (Barney) (fragged101@yahoo.com)
+Textura creada por: Telnets y J0esm0e
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

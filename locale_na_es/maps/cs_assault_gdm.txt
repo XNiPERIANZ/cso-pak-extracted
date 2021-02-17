@@ -1,0 +1,7 @@
+﻿Asalto - Combate mortal con arma
+
+Mapa creado por: CryptR (lmuur@dlc.fi)
+
+- Gana el equipo que mate a un miembro del equipo enemigo con una granada final.
+- Para elevar la puntuación de tu equipo, mata a todos los enemigos que se encuentren en el mapa.
+- Para ganar, obtén el conteo de muertes designado dentro del límite de tiempo.

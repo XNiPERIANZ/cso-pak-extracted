@@ -1,0 +1,11 @@
+﻿747 - Hostage Rescue
+Mappa creata da: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture creata da: "The Postman" 
+(heavengame@yahoo.com)
+
+Antiterroristi: Infiltratevi nell'aeroplano e salvate gli ostaggi rimanenti.
+
+Terroristi: Impedite agli Antiterroristi di salvare gli ostaggi.
+
+Nota: Ci sono 5 ostaggi nell'aeroplano.

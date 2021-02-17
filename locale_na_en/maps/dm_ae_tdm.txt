@@ -1,0 +1,9 @@
+﻿Another Episode - Team Deathmatch
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+Intelligence indicates that Terrorists have infiltrated Rex Laboratory II in order to conduct additional acts of terror following the attack on Rex Laboratory I.  In order to stop the Terrorists, the government dispatched a force to the rooftop where they now face the Terrorist group.
+
+- Counter-Terrorists: Prevent the Terrorists from causing damage to the laboratory.
+- Terrorists: Eliminate the Counter-Terrorists and infiltrate the laboratory.

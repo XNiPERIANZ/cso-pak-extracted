@@ -1,0 +1,6 @@
+﻿Asedio - Combate mortal
+
+Mapa creado por: N0TH1NG (n0th1ng@mailcity.com)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

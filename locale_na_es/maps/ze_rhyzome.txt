@@ -1,0 +1,13 @@
+Rhyzome(RHYZOME) - Escape Zombi
+Planificado, diseñado y desarrollado por: Nexon 
+Gráficos: Nexon
+
+Después del brote de virus zombi,
+los grupos sobrevivientes de civiles, soldados y policías
+escaparon hacia las afueras de la ciudad y crearon su propio refugio para quedarse por el momento.
+
+Sin embargo, no pudieron evadir el virus zombi para siempre...
+
+Objetivo
+Humanos: Escapen al helipuerto en el borde externo del acantilado dentro del tiempo límite. Deben seguir siendo humanos.
+Zombis: infecten a todos los seres humanos restantes o no dejen que lleguen al helipuerto dentro del límite de tiempo.

@@ -1,0 +1,11 @@
+﻿Corruption - Deathmatch
+Von Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+
+

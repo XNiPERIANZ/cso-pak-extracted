@@ -1,0 +1,8 @@
+﻿Nuke - Bomb Planting/Defusing
+Carte créée par : Jo Bieg (MEEEEDIC@gmx.net)
+
+Antiterroristes : Empêchez les Terroristes de faire exploser le missile nucléaire. L'ennemi peut frapper du haut ou du bas. Les membres de l'équipe doivent désamorcer toute bombe placée sur les sites prévus.
+
+Terroristes : Un terroriste en possession de C4 doit faire exploser le missile nucléaire.
+
+Note : Il y a deux sites de bombe dans cette mission.

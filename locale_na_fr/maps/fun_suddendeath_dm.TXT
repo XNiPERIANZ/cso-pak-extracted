@@ -1,0 +1,8 @@
+﻿Mobius - Mort subite
+Carte développée par : Nexon
+Textures développées par : Nexon
+
+ - Éliminez les joueurs aux alentours et survivez jusqu'à la fin.
+- Récupérez une arme et utilisez-la pendant un certain temps.
+- Au bout d'une minute, une explosion tuera tous les joueurs.
+- Le joueur avec le plus d'éliminations à la fin de la partie gagne.

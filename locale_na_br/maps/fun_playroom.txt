@@ -1,0 +1,7 @@
+Esconderijo (Sala de Jogos)
+
+- Decodificadores podem ser usados, e quando itens que estão sendo exibidos são obtidos, outros usuários podem experimentá-los.
+
+- Usuários obtêm milhagem extra quando itens que eles obtiveram são usados por outros usuários.
+
+- Armas podem ser testadas no estande de tiro.

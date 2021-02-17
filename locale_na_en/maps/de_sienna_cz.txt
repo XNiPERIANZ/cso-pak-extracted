@@ -1,0 +1,2 @@
+﻿Sienna - Bombing/Defusing
+The town of Sienna is currently in a state of emergency due to newly collected intelligence. Entrances and exits to the city have been restricted in order to prevent Terrorist threats.- Terrorists: Enter the city by discovering the city's two entry weak points and bombing them.- Counter-Terrorists: Prevent the Terrorists from bombing the gates and entering the city. Note: There are two locations that the terrorists can attack.

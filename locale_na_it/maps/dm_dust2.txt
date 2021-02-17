@@ -1,0 +1,7 @@
+﻿Dust 2 Annihilation - Annihilation
+Mappa creata da: DaveJ (http://www.johnsto.co.uk/)
+Texture creata da: MacMan (MacManInfi@aol.com)
+Revisione della mappa: Nexon
+
+- Uccidete tutti i membri del team nemico nella mappa.
+- Quando un team viene annichilito, il team rimanente vince.

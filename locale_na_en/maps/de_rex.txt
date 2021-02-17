@@ -1,0 +1,11 @@
+﻿Rex - Bomb Planting/Defusing
+
+Planning/Production: NEXON
+Texture/Revision: NEXON
+
+When the base of a remnant terrorist force is discovered, the Terrorists attack a laboratory conducting the "Rex" project and kidnap its scientists. After learning the truth behind the government's bio-weapons that had been hidden in this laboratory, they decide to destroy the documents to hinder its development.
+
+- Counter-Terrorists: Prevent the Terrorists from planting bombs in this laboratory. Team members must defuse any bombs that become planted at the bomb sites.
+- Terrorists: A Terrorist in possession of a C4 must bomb one of the two designated bomb sites.
+
+Note: There are two bombing sites on this map.

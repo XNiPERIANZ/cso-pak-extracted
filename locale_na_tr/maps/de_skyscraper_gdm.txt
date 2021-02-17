@@ -1,0 +1,7 @@
+﻿Gökdelen - Silahlı Ölüm Maçı
+Geliştiren ve üreten : Nexon
+Doku/Modelleme/Düzenleme : Nexon
+
+Hedef
+- Verilen silahla belirli sayıda düşmanı her öldürdüğünüzde yeni bir silah verilir.
+- Kazanmak için, oyunun son dakikasında verilen son el bombası ile düşman takımı etkisiz hale getirmelisiniz.

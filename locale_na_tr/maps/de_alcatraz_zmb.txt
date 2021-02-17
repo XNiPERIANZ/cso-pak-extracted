@@ -1,0 +1,8 @@
+﻿Alcatraz (alcatraz) - Zombi
+Geliştiren ve üreten: Nexon
+Doku/Modelleme/Düzenleme: Nexon
+
+Teröristler ve terörle mücadele timi arasındaki savaş sırasında tuhaf, zombi yaratıklar Rex Laboratuvarından kaçmaya başladı. Hayatta kalmak için insanların birlikte çalışmaktan başka seçeneği yok.
+
+İnsanlar: Kalan süre boyunca zombi saldırılarında hayatta kalın veya tüm zombileri öldürün.
+Zombiler: Tüm insanları öldürmeli ve onları zombiye dönüştürmelidir. Zombiler, insanlardan daha hızlıdır ve daha çok sağlığa sahiptir.

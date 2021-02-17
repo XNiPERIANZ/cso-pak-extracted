@@ -1,0 +1,6 @@
+﻿Train - Bomba Yerleştirme/Etkisizleştirme
+
+- Anti-Teröristler: Teröristlerin ayrılmış ve 2 trene yüklenmiş olan nükleer savaş başlıklarını bombalamalarını engelleyin. Takım üyeleri bombalama bölgelerine yerleştirilmiş olan tüm bombaları etkisizleştirmeli.
+- Teröristler: C4 sahibi bir terörist iki nükleer savaş başlığından birini bombalamalı.
+
+Not: Bu haritada iki bombalama bölgesi var.

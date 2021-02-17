@@ -1,0 +1,6 @@
+﻿Champion - Annihilation
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+- Tötet alle Mitglieder des feindlichen Teams.
+- Wenn ein Team ausgelöscht wurde, hat das andere Team gewonnen.

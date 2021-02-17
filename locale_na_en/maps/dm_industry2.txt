@@ -1,0 +1,9 @@
+﻿Industry 2 - Annihilation
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+The Terrorists and Counter-Terrorists face a confrontation in the vacant lot of a factory.
+
+- Kill all enemy team members on the map.
+- When one team is annihilated, the remaining team wins.

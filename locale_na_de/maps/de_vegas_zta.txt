@@ -1,0 +1,8 @@
+﻿Vegas - Annihilation
+Produktion: +Cadaver+
+Textur: George_Pooshoes, JOeSmOe
+Bearbeitung: Nexon
+
+- Töte alle Feinde.
+- Gewinne, indem du die vorgegebene Rundenanzahl erreichst.
+- Du kannst nicht erneut starten, bis die nächste Runde beginnt.

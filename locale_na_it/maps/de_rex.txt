@@ -1,0 +1,8 @@
+﻿Rex - Bomb Planting/Defusing
+Pianificazione/Produzione: Nexon
+Texture/Revisione: Nexon
+
+Quando la base di un'unità Terrorista è stata scoperta, i Terroristi hanno attaccato un laboratorio che effettuava il progetto "Rex" e hanno sequestrato gli scienziati. Dopo aver scoperto la verità sulle arme biologiche del governo, le quali erano state nascoste in questo laboratorio, essi hanno deciso di distruggere i documenti per impedire lo sviluppo delle armi.
+Antiterroristi: Impedite ai Terroristi di piazzare bombe in questo laboratorio. I membri del team devono disinnescare qualsiasi bomba piazzata nei posti di bombardamento.
+Terroristi: I Terroristi in possesso di C4 devono bombardare uno dei due posti di bombardamento designati.
+Nota: Ci sono due posti di bombardamento in questa mappa.

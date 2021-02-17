@@ -1,0 +1,4 @@
+﻿Estadio - Combate mortal
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

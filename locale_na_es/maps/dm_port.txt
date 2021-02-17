@@ -1,0 +1,9 @@
+﻿El puerto - Aniquilación
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+Tiroteo con los Terroristas en un puerto lleno de contenedores de carga.
+
+- Mata a todos los enemigos en el mapa.
+- Cuando se aniquila a un equipo, gana el equipo contrario.

@@ -1,0 +1,8 @@
+﻿Chateau - Aniquilação
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

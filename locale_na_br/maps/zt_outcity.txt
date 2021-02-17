@@ -1,0 +1,15 @@
+﻿OutCity (OutCity) - [Esconde-esconde Zumbi]
+Editor: Nexon
+□                                   ####### Favor ler para se divertir ainda mais com o Esconde-esconde! #######
+□         <@> Humano <@>                  
+                >> As forças humanas precisar encontrar o zumbi verdadeiro dentre os chamarizes!!                 
+                >> [Olá, Zumbi!] pode eliminar zumbis com uma tentativa e isso lhe dará um aumento nos pontos de saúde e pontos extras!
+                >> PV será perdido depois de se eliminar um chamariz.
+                >> Os humanos pode andar pressionando SHIFT.
+□                                                                                        
+□         <@> Zumbi <@>             
+                >> Zumbis devem chegar a zona de escape dentro do limite de tempo.
+                >> É importante copiar a ação mostrada durante o Tempo de Febre.
+                >> Zumbis podem correr pressionando SHIFT.
+                   (A Rosa do Desejo pode correr mais rápido do que os Zumbis Leves.)
+

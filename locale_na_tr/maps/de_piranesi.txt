@@ -1,0 +1,9 @@
+﻿Piranesi - Bomba Yerleştirme/Etkisizleştirme
+
+Ulaşmak için - iikkak@valvesoftware.com
+Doku kaynakları için Ido Magal'a teşekkürler
+
+Arka plan: Piranesi Villası bir müzeye dönüştürülmüş ve halka açılmış güzel bir saraydır. Sayısız antika mobilya ve sanat çalışmaları bu binaya gönderilir.
+
+- Teröristler: Müzenin en önemli iki sergisini (ön bahçedeki güneş saati ve arka bahçedeki solar sistem) yok edin böylece müze tekrar halka açılamayacak.
+- Anti-Teröristler: Bu tarihi bölgeyi Teröristlerden koruyun.

@@ -1,0 +1,6 @@
+﻿Train - Bomb Planting/Defusing
+
+- Counter-Terrorists: Prevent the Terrorists from bombing the nuclear warhead that has been disassembled and placed on 2 trains. The team members must defuse all bombs planted at the bomb sites.
+- Terrorists: A Terrorist in possession of a C4 must bomb one of the two nuclear warheads.
+
+Note: There are two bombing sites on this map.

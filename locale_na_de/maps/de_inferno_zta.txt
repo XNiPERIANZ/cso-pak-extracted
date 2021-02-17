@@ -1,0 +1,9 @@
+﻿Inferno - Annihilation
+Map erstellt von: Chris Auty (Barney) (narby@counter-strike.net)
+Textur erstellt von: Valve software
+
+- Töte alle sichtbaren Feinde.
+- Gewinne, indem du die vorgegebene Rundenanzahl erreichst.
+- Du kannst nicht erneut starten, bis die nächste Runde beginnt.
+
+

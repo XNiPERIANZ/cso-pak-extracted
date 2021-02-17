@@ -1,0 +1,7 @@
+﻿Camouflage 2 - Duelo de Equipes
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

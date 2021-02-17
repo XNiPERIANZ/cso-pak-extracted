@@ -1,0 +1,9 @@
+﻿Sienna - Podkładanie/Rozbrajanie Bomby
+
+Opis: Miasto Sjena jest obecnie w stanie pogotowia w związku z nowo zebranym wywiadem. Wejścia i wyjścia do miasta zostały ograniczone w celu powstrzymania zagrożenia terrorystycznego.
+
+Terroryści: Wejdźcie do miasta odkrywając jego dwa słabe miejsca i zbombardujcie je.
+
+Antyterroryści: Powstrzymaj Terrorystów przed zbombardowaniem bram i wejściem do miasta.
+
+Uwaga: Są dwa miejsca, które mogą zaatakować Terroryści.

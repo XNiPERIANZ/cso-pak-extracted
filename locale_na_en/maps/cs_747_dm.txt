@@ -1,0 +1,7 @@
+﻿747 - Deathmatch
+
+Map Created By: Stephen "Judas" Superville (witchdawn@hotmail.com)
+Texture Created By: "The Postman" (heavengame@yahoo.com)
+
+- Kill all nearby players.
+- The player with the most kills wins.

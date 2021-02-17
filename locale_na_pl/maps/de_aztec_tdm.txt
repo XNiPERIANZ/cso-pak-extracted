@@ -1,0 +1,6 @@
+﻿Aztec - Drużynowy Deathmatch
+Autor Mapy: Chris Auty (Barney) (narby@counter-strike.net)
+Autor Tekstury: Macman 
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

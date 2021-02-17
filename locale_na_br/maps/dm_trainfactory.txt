@@ -1,0 +1,8 @@
+﻿Train Shed - Aniquilação
+Planejado, desenhado e desenvolvido por: Nexon
+Textura, modelagem e edições por: Nexon
+
+Uma estação de trem. Aqui, uma perigosa luta entre terroristas e contra-terroristas está acontecendo.
+
+- Elimine todos os membros da equipe inimiga no mapa.
+- Quando uma das equipes for eliminada, a outra equipe vence.

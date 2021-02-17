@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Drużynowy Deathmatch
+
+Autor Mapy: Ritual Entertainment
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

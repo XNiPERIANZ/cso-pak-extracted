@@ -1,0 +1,10 @@
+﻿Assault - Resgate de Reféns
+
+Mapa criado por: CryptR (lmuur@dlc.fi)
+
+Elimine os terroristas e impeça qualquer dano aos reféns. Cuidado com as câmeras escondidas instaladas por toda a parte.
+
+- Contraterroristas: Resgate os reféns.
+- Terroristas: Evite que os contraterroristas resgatem os reféns usando todos os meios necessários.
+
+Observação: Há 4 reféns nesta missão. Resgate todos eles!

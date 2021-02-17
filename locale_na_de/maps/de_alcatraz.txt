@@ -1,0 +1,12 @@
+﻿Alcatraz (alcatraz) - Bombe platzieren / entschärfen
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+Counter-Terrorist: Terroristische Aktivitäten in der Nähe eines bekannten Gefängnisses entdeckt.
+Team-Mitglieder müssen die Terroristen ausschalten und die Bomben in den Zielgebieten entschärfen.
+
+Terrorist: Schlagt die Counter-Terroristen zurück
+und zerstöre eines der beiden Zielgebiete.
+
+
+Etc: Es gibt auf dieser Map zwei Stellen, um Sprengstoff zu legen.

@@ -1,0 +1,10 @@
+﻿Santorini - Bomb Planting/Defusing
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Antiterroristes : Des activités terroristes ont été détectées dans la région de Santorini.
+Les membres de l'équipe doivent désamorcer les bombes qui ont été posées dans les sites prévus, et éliminer les Terroristes
+
+Terroristes : Vous devez contenir l'opération antiterroriste et faire exploser une bombe dans l'un des deux sites indiqués.
+
+Note : Il y a deux sites de bombe dans cette mission.

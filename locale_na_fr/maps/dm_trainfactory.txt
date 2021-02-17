@@ -1,0 +1,8 @@
+﻿Train Shed - Annihilation 
+Pensé, élaboré et développé par : Nexon
+Texture, modélisation et édition par : Nexon 
+
+Un hangar pour les trains. Ici, un combat périlleux entre les unités terroristes et anti-terroristes a lieu.
+
+- Tuez tous les membres de l'équipe ennemie présents sur la carte.
+- Lorsque l'une des équipes a été éliminée, l'équipe survivante gagne.

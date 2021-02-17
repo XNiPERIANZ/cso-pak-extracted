@@ -1,0 +1,9 @@
+﻿Azteca - Colocación/Desactivación de bomba
+
+Mapa creado por: Chris Auty (Barney) (narby@counter-strike.net)
+Textura creada por: Macman 
+
+- Antiterroristas: Eviten que los Terroristas hagan explotar este sitio histórico.
+- Terroristas: Destruyan el sitio histórico azteca.
+
+Nota: Hay dos sitios de bomba en este mapa.

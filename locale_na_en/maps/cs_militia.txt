@@ -1,0 +1,8 @@
+﻿Militia - Hostage Rescue
+
+Map Created By: Andrew Aumann (andrewja@home.com)
+
+- Counter-Terrorists: Infiltrate Cliff's Estate and rescue the hostages. Eliminate the Terrorist while making sure that the hostages are not harmed.
+- Terrorists: Prevent the Counter-Terrorists from rescuing the hostages.
+
+Note: There are 4 hostages in this mission. 

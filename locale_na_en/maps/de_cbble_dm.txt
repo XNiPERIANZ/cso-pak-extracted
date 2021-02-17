@@ -1,0 +1,7 @@
+﻿Cobble - Deathmatch
+
+Map Created By: DaveJ (http://www.johnsto.co.uk/)
+Texture Created By: MacMan (MacManInfi@aol.com)
+
+- Kill all nearby players.
+- The player with the most kills wins.

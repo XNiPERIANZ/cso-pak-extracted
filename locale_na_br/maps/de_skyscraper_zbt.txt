@@ -1,0 +1,7 @@
+﻿Dust II (Dust 2) - Aliança Zumbi
+Mapa criado por: DaveJ (http://www.johnsto.co.uk/)
+Textura criada por: MacMan (MacManInfi@aol.com)
+
+- Marque pontos para sua equipe eliminando todos os membros da equipe inimiga no mapa.
+- Vença atingindo um determinado número de eliminações.
+- Obtenha caixas de itens para aumentar o número de eliminações.

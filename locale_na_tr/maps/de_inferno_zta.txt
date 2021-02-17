@@ -1,0 +1,8 @@
+﻿Inferno - Yok Etme
+
+Haritayı Yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuları Yapan: Valve software
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş sayıdaki rauntları tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar canlanmayacaksın.

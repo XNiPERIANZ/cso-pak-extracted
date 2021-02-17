@@ -1,0 +1,9 @@
+﻿747 - Rehine Kurtarma
+
+Haritayı Yapan:  Stephen "Judas" Superville (witchdawn@hotmail.com)
+Dokuları Yapan: "The Postman" (heavengame@yahoo.com)
+
+- Anti-Teröristler: Uçağa sız ve kalan rehineleri kurtar.
+- Teröristler: Anti-Teröristlerin rehineleri kurtarmasına engel ol.
+
+Not: Uçakta 5 rehine var.

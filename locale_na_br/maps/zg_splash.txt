@@ -1,0 +1,12 @@
+﻿Splash (Splash) - Zombie Giant
+Produção e Planejamento: Nexon
+Gráficos: Nexon
+
+Barragem Velha
+A aparição de Zumbis Gigantes fez os trabalhadores abandonarem seus postos. As instalações da barragem foram deixadas sem supervisão e a água começou a fluir com muita força.
+
+Agora, essa velha barragem protege os únicos humanos restantes na luta contra os Zumbis Gigantes.
+
+Missão:
+- Humanos devem matar zumbis e zumbis devem matar humanos para ganhar pontos.
+- A primeira equipe a chegar à pontuação especificada, ganha.

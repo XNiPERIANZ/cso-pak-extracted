@@ -1,0 +1,8 @@
+﻿Vértigo - Aniquilación
+
+Mapa creado por: Chris Auty (Barney) (fragged101@yahoo.com)
+Textura creada por: Telnets y J0esm0e
+
+- Mata a todos los enemigos en el mapa.
+- Para ganar, completa la cantidad designada de rondas.
+- No resucitarás hasta que comience la ronda siguiente.

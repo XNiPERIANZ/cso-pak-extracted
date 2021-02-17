@@ -1,0 +1,13 @@
+﻿Urban Assault (Urban Assault) - Battle Rush
+
+Map Created By: NEXON
+Texture Created By: NEXON
+
+The boss of an armed terrorist group, who is now on death row, will be used as a specimen for an experiment conducted by a special laboratory.
+Counter-Terrorist Elite Forces have been given the mission of transporting the prisoner to a different location.
+The Terrorists have received intelligence about the transportation method and are  attempting to block the path and rescue their boss.
+
+- Counter-Terrorists: Destroy any obstacles along the route and safely transport the prisoner to the target location.
+- Terrorists: Disable all the restraining devices on the vehicle transporting the boss.
+ 
+ 

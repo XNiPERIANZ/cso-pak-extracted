@@ -1,0 +1,12 @@
+﻿Siege
+Map erstellt von: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgesehene Anzahl Tötungen erreichst.
+- Der Tötungs-Zähler erhöht sich, wenn eine Item-Box erhalten wurde.
+
+
+
+
+
+

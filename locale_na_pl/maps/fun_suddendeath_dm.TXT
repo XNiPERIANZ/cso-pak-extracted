@@ -1,0 +1,8 @@
+﻿Mobius - Nagła Śmierć
+Mapa autorstwa: Nexon
+Tekstury autorstwa: Nexon
+
+ - Zabij wszystkich pobliskich przeciwników i przetrwaj do końca.
+- Wykorzystuj bronie pojawiające się sporadycznie na mapie.
+- Po upływie minuty wybuch zabije wszystkich na mapie.
+- Wygra gracz z największą ilością zabójstw na koniec gry.

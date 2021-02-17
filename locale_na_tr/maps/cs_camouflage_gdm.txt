@@ -1,0 +1,8 @@
+﻿Camouflage - Silah Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Düşman takım oyuncusunu son el bombasıyla öldüren takım kazanır.
+- Haritadaki düşman takım oyuncularının hepsini öldürerek takım skorunu arttır.
+- Kazanmak için belirli bir süre içerisinde belirtilen öldürme sayısına ulaş.

@@ -1,0 +1,11 @@
+﻿Bunny Yard – Gun Deathmatch
+Direct / Production: Nexon
+Texture/Modelling/Edit: Nexon
+
+After ending the previous operation in success, the government plans additional operations to eliminate the remaining terrorist force. 
+The terrorist violently resists this, and goes into a stand-off.
+
+Objective
+- The team emerges victorious if a player manages to kill the enemy player with the Final Grenade.
+- In order to increase the team score, the players must eliminate enemy players.
+- The team emerges victorious if the team reaches the goal score first.

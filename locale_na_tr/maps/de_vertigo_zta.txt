@@ -1,0 +1,8 @@
+﻿Vertigo - Yok Etme
+
+Haritayı Yapan: Chris Auty (Barney) (fragged101@yahoo.com)
+Dokuları Yapan: Telnets ve J0esm0e
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş raunt sayısını tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar yeniden canlanmayacaksın.

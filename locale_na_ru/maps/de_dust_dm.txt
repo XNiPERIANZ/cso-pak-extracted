@@ -1,0 +1,6 @@
+﻿Dust - Deathmatch
+Создатель карты: DaveJ (http://www.johnsto.co.uk/)
+Создатель графики карты: MacMan (MacManInfi@aol.com)
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

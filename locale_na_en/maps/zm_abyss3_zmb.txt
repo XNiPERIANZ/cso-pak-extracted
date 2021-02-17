@@ -1,0 +1,9 @@
+﻿Abyss 3 - Zombie
+
+Planning/Production: NEXON
+Texture/Revision: NEXON
+
+A year after the incident at Rex Laboratory, the unidentified sound of machines was heard coming from the closed factory located near the laboratory. In order to investigate the noise, members of the security team entered the factory but radio contact was lost for over an hour. In response, government agents infiltrated the factory only to find that it had already become a facility for transforming deceased corpses into Zombies. The secret behind the increasing number of Zombies was the factory itself. 
+
+- Humans: Survive the Zombie attacks until reinforcements arrive. Watch for fellow comrades who may turn into Zombies. You are authorized to kill all Zombies. 
+- Zombies: Those who have turned into Zombies must kill the Humans and turn them into Zombies. Zombies have higher HP and faster speeds than Humans.

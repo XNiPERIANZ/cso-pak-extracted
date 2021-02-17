@@ -1,0 +1,5 @@
+﻿Militia - Deathmatch
+Carte créée par : Andrew Aumann (andrewja@home.com)
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

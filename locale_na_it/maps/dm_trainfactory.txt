@@ -1,0 +1,8 @@
+﻿Train Shed - Annientamento
+Pianificazione/Progettazione/Sviluppo: Nexon
+Texture/Modelli/Editing: Nexon
+
+Un deposito treni. Una violenta battaglia tra Terroristi e Anti-Terroristi è in corso.
+
+- Uccidi tutti i giocatori della squadra avversaria.
+- Vince la squadra che uccide per prima tutti i membri di quella avversaria.

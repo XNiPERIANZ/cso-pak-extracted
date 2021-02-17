@@ -1,0 +1,4 @@
+﻿Vostok: Deathmatch
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.

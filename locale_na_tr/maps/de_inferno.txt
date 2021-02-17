@@ -1,0 +1,11 @@
+﻿Inferno - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuları Yapan: Valve software
+
+Teröristler iki küçük kasabanın içinden geçen bir petrol borusunu bombalamayı planlıyor.
+
+- Anti-Teröristler: Teröristlerin petrol borusunu bombalamalarını engelleyin.
+- Teröristler: Petrol borusundaki iki konumu bombalayın.
+
+Not: Bu haritada iki bombalama bölgesi vardır.

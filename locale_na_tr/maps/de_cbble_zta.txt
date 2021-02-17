@@ -1,0 +1,8 @@
+﻿Cobble - Yok Etme
+
+Haritayı yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları yapan: MacMan (MacManInfi@aol.com)
+
+- Haritadaki tüm düşmanları öldür.
+- Belirtilen sayıdaki rauntu tamamlayarak kazan.
+- Bir sonraki raunt başlayana kadar canlanmayacaksın.

@@ -1,0 +1,5 @@
+﻿Assault - Deathmatch
+Map erstellt von: CryptR (lmuur@dlc.fi)
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.

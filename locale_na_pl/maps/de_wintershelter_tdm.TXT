@@ -1,0 +1,6 @@
+﻿Snow Base - Drużynowy Deathmatch
+Mapa autorstwa: Nexon
+Tekstury autorstwa: Nexon
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

@@ -1,0 +1,7 @@
+﻿Storm - Mata-mata
+
+Mapa criado por: FLiPMoDE|Daank (daankvirus420k@icqmail.com)
+Texturas criadas por:  Fingers - jOeSmOe - MattC
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

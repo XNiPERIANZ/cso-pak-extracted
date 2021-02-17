@@ -1,0 +1,11 @@
+﻿Survivor - Bomb Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: Michael Visser nam-ı diğer 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com) www.lanmaniax.com
+
+Ağır bir kar fırtınası sırasında, gizli bir kargo taşıyan uçak yere çakıldı. Uçaktaki personel paraşüt kullanarak kazadan kurtuldu ve kargoyu uçaktan bir kamyona aktarabildiler. Fakat büyük miktardaki kar nedeniyle tüm kargoyu taşıyamadılar.
+
+Uçağı takip eden teröristler kamyon ve uçaktaki kargonun taşınamayacağından emin olmalılar.
+
+- Teröristler: Kamyonu veya uçak enkazını bombalayın.
+- Anti-Teröristler: Teröristlerin hedefleri bombalamasını engelleyin.

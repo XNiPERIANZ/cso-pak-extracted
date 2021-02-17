@@ -1,0 +1,12 @@
+﻿Abyss 2 - Zombie
+Planung/Produktion: Nexon
+Textur/Bearbeitung: Nexon
+
+Das Rettungsteam, das die Überlebenden aus dem Rex-Labor B-1 retten soll, hatte geplant, über die Abteilung C, einer Soldaten-Trainings-Einrichtung,
+dorthin zu gelangen. C-5 wurde allerdings schon von unidentifizierten Lebensformen angegriffen.
+Das Rettungsteam und die Überlebenden haben einen Fluchtversuch unternommen, aber ihre Bemühungen haben lediglich die schlafenden Kreaturen aufgeweckt...
+
+Menschen: Überlebt die Zombie-Angriffe, bis ihr Verstärkung bekommt. Achtet auf Kameraden, die möglicherweise zu Zombies werden.
+Ihr seid autorisiert, alle Zombies zu töten.
+Zombies: Die, die in Zombies verwandelt wurden, müssen Menschen töten und sie zu Zombies machen.
+Zombies haben höhere HP und sind schneller als Menschen.

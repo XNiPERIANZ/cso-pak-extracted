@@ -1,0 +1,7 @@
+﻿Pedrera - Colocación/Desactivación de bomba
+
+Mapa creado por: DaveJ (http://www.johnsto.co.uk/)
+Textura creada por: MacMan (MacManInfi@aol.com)
+
+- Antiterroristas: Eviten que los Terroristas hagan explotar la residencia de campo de Lord William. Él ya recibió amenazas de asesinato por razones políticas. 
+- Terroristas: Un Terrorista que posea C-4 debe plantar una bomba en uno de los dos sitios de bomba ubicados en el mapa. Deben eliminar a Lord William.

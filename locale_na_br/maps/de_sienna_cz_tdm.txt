@@ -1,0 +1,4 @@
+﻿Sienna - Duelo de Equipes
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

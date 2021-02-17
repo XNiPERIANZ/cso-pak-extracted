@@ -1,0 +1,6 @@
+﻿Train Shed (Hala Peronowa) - Drużynowy Deathmatch
+Zaplanowana, zaprojektowana i opracowana przez: Nexon
+Tekstury, modelowanie i edycja: Nexon
+
+- Celem mapy jest zwiększanie wyniku drużynowego poprzez zabijanie członków drużyny przeciwnej znajdujących na mapie.
+- By wygrać, osiągnij odpowiednią liczbę zabójstw.

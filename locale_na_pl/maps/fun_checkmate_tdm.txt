@@ -1,0 +1,9 @@
+﻿Checkmate - Drużynowy Deathmatch Bitwa Przedmiotów
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+W miejscu, które wydawało się być małym pokojem młodego chłopca, wybuchło małe zamieszanie.
+
+Cel: Osiągnij wynik docelowy zabijając przeciwników!
+
+Rada: Możesz używać przedmiotów by zadawać obrażenia obszarowe i innych specjalnych umiejętności na przeciwnikach.

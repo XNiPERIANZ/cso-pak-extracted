@@ -1,0 +1,12 @@
+﻿Snow Base - Instalar / Desactivar Bombas
+Mapa desarrollado por: Nexon 
+Textura desarrollada por: Nexon
+
+Anti-Terroristas: se han detectado actividades terroristas en Snow Base.
+Los miembros del equipo deben eliminar todas las bombas instaladas en la zona objetivo y exterminar a los terroristas.
+
+Terroristas: Comprobar el sabotaje de los anti-terroristas
+y deben hacer estallar uno de los dos objetivos de bombardeo.
+
+
+Nota: Este mapa tiene dos objetivos de bombardeo.

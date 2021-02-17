@@ -1,0 +1,7 @@
+﻿Chateau - Sojusz Zombie Anihilacja
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

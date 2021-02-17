@@ -1,0 +1,8 @@
+﻿The Port - Annihilation
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+Une fusillade oppose Terroristes et Antiterroristes dans un port rempli de conteneurs de fret.
+
+- Tuez tous les membres de l'équipe adverse sur la carte.
+- Quand une équipe est totalement décimée, l'équipe restante remporte la victoire.

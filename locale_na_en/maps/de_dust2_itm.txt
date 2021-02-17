@@ -1,0 +1,6 @@
+﻿Dust II (Dust 2) – Team Item Deathmatch
+Map creator: Dave J (http://www.johnsto.co.uk)
+Texture creator: MacMan (MacManInfi@aol.com)
+
+Objective: Get to the target point by eliminating enemy players
+Tip: An Area-of-Effect attack or special skills can be used upon using an item.

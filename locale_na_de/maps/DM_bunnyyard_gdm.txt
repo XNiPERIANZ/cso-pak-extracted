@@ -1,0 +1,11 @@
+﻿Bunny Yard – Gun Deathmatch
+Planung/Produktion: Nexon
+Texturen/Modelle/Bearbeitung: Nexon
+
+Nach dem erfolgreichen Abschluss der letzten Operation plant die Regierung weitere Einsätze zur Eliminierung der restlichen Einheiten der Terroristen. 
+Die Terroristen wehren sich erbittert. Es kommt zu einer Pattsituation.
+
+Ziel
+- Ein Team ist siegreich, wenn ein Spieler es schafft, den Gegenspieler mit der Letzten Granate zu töten.
+- Um den Punktestand des Teams zu verbessern, müssen die Spieler gegnerische Spieler ausschalten.
+- Ein Team ist siegreich, wenn das Team zuerst den festgelegten Zielpunktestand erreicht.

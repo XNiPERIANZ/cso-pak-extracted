@@ -1,0 +1,6 @@
+﻿Militia - Sojusz Zombie Anihilacja
+Autor Mapy: Andrew Aumann (andrewja@home.com)
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

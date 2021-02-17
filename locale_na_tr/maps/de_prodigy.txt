@@ -1,0 +1,8 @@
+﻿Prodigy - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: Hobbit (hobbit@nodream.net)
+
+- Anti-Teröristler: Teröristlerin Bilgisayar Odasını veya Petrol Borusu Kontrol Odasını bombalamasını engelleyin. Takım Üyeleri bombalama bölgelerine yerleştirilmiş olan tüm bombaları etkisizleştirmeli.
+- Teröristler: C4 sahibi olan bir terörist iki hedeften birini bombalamalıdır.
+
+Not: Bu haritada iki bombalama bölgesi vardır.

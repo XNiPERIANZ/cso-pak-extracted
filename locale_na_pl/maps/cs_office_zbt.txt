@@ -1,0 +1,6 @@
+﻿Office - Sojusz Zombie
+Autor Mapy: Hobbit (Hobbit@nodream.net)	
+Autor Tekstury: Sphinx and George_Pooshoes.
+
+- Zwiększ wynik drużynowy zabijając wszystkich członków przeciwnej drużyny.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

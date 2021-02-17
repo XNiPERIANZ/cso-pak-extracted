@@ -1,0 +1,11 @@
+﻿747 - Ratowanie Zakładników
+Autor Mapy: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Autor Tekstury: "The Postman" 
+(heavengame@yahoo.com)
+
+Antyterroryści: Zinfiltrujcie samolot i uratujcie pozostałych zakładników.
+
+Terroryści: Przerwijcie akcję ratunkową.
+
+Uwaga: W samolocie jest 5 zakładników.

@@ -1,0 +1,6 @@
+﻿Nuke - Mata-mata
+
+Mapa criado por: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

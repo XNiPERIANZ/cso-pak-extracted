@@ -1,0 +1,8 @@
+﻿Nuke - Plantar/desarmar a bomba
+
+Mapa criado por: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Contraterroristas: Evite que os terroristas explodam o míssil nuclear. O inimigo pode atacar de baixo ou de cima. Membros da equipe devem desarmar qualquer bomba que for plantada nos locais de detonação.
+- Terroristas: Terroristas em posse de um C4 devem explodir o míssil nuclear.
+
+Observação: Há dois locais para plantar bombas neste mapa.

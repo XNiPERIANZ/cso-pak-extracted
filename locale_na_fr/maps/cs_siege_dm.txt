@@ -1,0 +1,5 @@
+﻿Siege - Deathmatch
+Carte créée par : N0TH1NG  (n0th1ng@mailcity.com)
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

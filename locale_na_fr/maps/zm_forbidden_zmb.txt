@@ -1,0 +1,12 @@
+﻿Forbidden - Zombie
+Planning/Production : Nexon
+Texture/Révision : Nexon
+
+Non loin d'un laboratoire chimique illégal...
+se trouvait une installation de traitement chimique qui s'occupait de déchets expérimentaux.
+Toutefois, son activité a cessé il y a fort longtemps.
+Aujourd'hui, elle est devenue un sanctuaire pour les Zombies,
+qui n'ont cessé de se renforcer grâce aux nombreux déchets chimiques.
+
+Humains : Survivez aux attaques zombies pendant toute la période, ou tuez tous les Zombies.
+Zombies : Ceux qui se sont changés en Zombies doivent tuer les Humains et les transformer en Zombies. Les Zombies ont plus de PV et sont plus rapides que les Humains.

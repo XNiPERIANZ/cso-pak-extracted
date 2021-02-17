@@ -1,0 +1,9 @@
+﻿Mirage (Mirage) - Zombie
+Map created by: Nexon
+Texture created by: Nexon
+
+The undead hordes have finally made their way to the arid deserts of the world. Those humans who have taken refuge there must once again fight for survival.
+
+
+Humans: Survive the zombie attacks until time runs out or kill all the zombies.
+Zombies: Once you become a zombie, try to kill the remaining humans and turn them into zombies. Zombies have higher HP and greater speed than humans.

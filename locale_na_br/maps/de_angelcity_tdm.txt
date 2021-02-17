@@ -1,0 +1,8 @@
+﻿Angel City - Duelo de Equipes
+
+Criador original: Desconhecido
+Mapa criado por: NEXON
+Texturas criadas por: NEXON
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

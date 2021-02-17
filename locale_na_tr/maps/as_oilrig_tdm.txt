@@ -1,0 +1,8 @@
+﻿Oil Rig - Takım Ölüm Maçı
+
+Haritayı Yapan: MacMan (macmaninfi@aol.com)
+Dokuları Yapan: MacMan
+Westland Wessex Helikopterini Yapan: Agent Orange [agentorange@freemail.nl]
+ 
+- Haritadaki düşman takım oyuncularının hepsini öldürerek takım skorunu arttır.
+- Oyunu belirli sayıdaki düşmanı öldürmeyi başararak kazan.

@@ -1,0 +1,8 @@
+﻿Checkmate – Team Item Deathmatch
+Map creator: Nexon
+Texture creator: Nexon
+
+A small disturbance occurs in a peaceful room.
+
+Objective: Get to the target point by eliminating enemy players.
+Tip: An Area-of-Effect attack or special skills can be used upon using an item.

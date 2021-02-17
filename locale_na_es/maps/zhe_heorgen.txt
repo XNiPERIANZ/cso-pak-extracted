@@ -1,0 +1,12 @@
+﻿Heorgen: escape
+Desarrollo y producción: Nexon
+Textura, modelado y edición: Nexon
+
+La epidemia comenzó en el pueblo de Heorgen.
+
+La modesta quietud del pueblo, bañado por la luz de la luna y envuelto en niebla, oculta la gran cantidad de inocentes que perdieron la vida allí.
+La calma de la noche solo se ve interrumpida por el aullido del viento frío y la tenue luz del mausoleo.
+
+Objetivo
+- Humanos: Activar todos los generadores ubicados en el pueblo de Heorgen, abrir la ruta de escape y huir a las afueras del pueblo.
+- Zombi: Encontrar a todos los sobrevivientes e incapacitarlos para que no puedan escapar.

@@ -1,0 +1,9 @@
+﻿Dust - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları yapan: MacMan (MacManInfi@aol.com)
+
+- Anti-Teröristler: Teröristlerin kimyasal silah kutularını bombalamalarını engelleyin. Takım üyeleri, bomba bölgelerindeki tüm bombaları etkisizleştirmelidir.
+- Teröristler: C4 sahibi bir Terörist, kimyasal silah kutularının bulunduğu bölgelerden birini patlatmalıdır.
+
+Not: Bu haritada iki bomba bölgesi vardır.

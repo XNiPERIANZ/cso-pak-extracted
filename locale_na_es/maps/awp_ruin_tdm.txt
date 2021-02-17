@@ -1,0 +1,7 @@
+﻿Ruinas - Combate mortal en equipo
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+- Para elevar la puntuación de tu equipo, mata a todos los enemigos que se encuentren en el mapa.
+- Para ganar, debes alcanzar un número designado de muertes.

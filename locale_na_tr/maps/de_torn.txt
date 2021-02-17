@@ -1,0 +1,9 @@
+﻿Torn - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Teröristler: Kasabanın rezervuarındaki sinir gazını sızdırın, böylece diğer şehirlere de yayılabilir.
+- Anti-Teröristler: Durumu kontrol altına alın. Düşmanın hedefine ulaşmasını engelleyin.
+
+Not: Bu haritada iki bombalama bölgesi vardır.

@@ -1,0 +1,6 @@
+﻿Nuke - Sojusz Zombie
+Autor Mapy: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

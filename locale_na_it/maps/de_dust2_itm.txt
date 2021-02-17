@@ -1,0 +1,6 @@
+﻿Dust II (Dust 2) – Team DeathMatch con Oggetti
+Mappa creata da: Dave J (http://www.johnsto.co.uk)
+Texture creata da: MacMan (MacManInfi@aol.com)
+
+Obbiettivo: Raggiungi il punteggio limite eliminando gli altri giocatori.
+Consiglio: Un Attacco ad Area o Abilità Speciali saranno disponibili con l'utilizzo di un oggetto.

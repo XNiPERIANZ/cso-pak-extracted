@@ -1,0 +1,11 @@
+﻿Survivor - Bomb Planting/Defusing
+Carte créée par : Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+Synopsis : Au cours d'une violente tempête de neige, un avion qui transportait une cargaison secrète s'est écrasé. L'équipage a pu échapper à la catastrophe grâce à leurs parachutes, et transféré la cargaison sur un camion. Néanmoins, ils n'ont pu charger toute la cargaison à cause des importantes chutes de neige.
+Les Terroristes qui ont suivi la trace de l'avion élaborent un plan pour que l'ensemble de la cargaison, aussi bien sur le camion que dans l'avion, ne parviennent pas à destination.
+
+Antiterroristes : Empêchez les Terroristes de faire exploser les cibles.
+
+Terroristes : Faites exploser le camion ou l'avion accidenté.

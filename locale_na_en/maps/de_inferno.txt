@@ -1,0 +1,11 @@
+﻿Inferno - Bomb Planting/Defusing
+
+Map Created By: Chris Auty (Barney) (narby@counter-strike.net)
+Texture Created By: Valve software
+
+The Terrorists are planning to bomb an oil pipeline that passes through two small towns.
+
+- Counter-Terrorists: Prevent the Terrorists from bombing the oil pipeline.
+- Terrorists: Bomb two locations on the oil pipeline.
+
+Note: There are two bombing sites on this map.

@@ -1,0 +1,14 @@
+﻿Greesia (Greesia) - [Zombie Hide and Seek]
+Publisher: Nexon
+□                                   ####### Please read for a more entertaining game of Hide and Seek! #######
+□         <@> Human <@>                  
+                >> Human forces need to find the real zombie from the decoys!!                 
+                >> [Hello, Zombie!] can kill zombies in one try and will give you a health boost and extra points!
+                >> HP will be lost upon killing a decoy.
+                >> Humans can walk by pressing SHIFT.
+□                                                                                        
+□         <@> Zombie <@>             
+                >> Zombies must reach the escape zone within the time limit.
+                >> It’s important to copy the given action during Fever Time.
+                >> Zombies can run by pressing SHIFT.
+                   (Lusty Rose can run faster than Light Zombies.)

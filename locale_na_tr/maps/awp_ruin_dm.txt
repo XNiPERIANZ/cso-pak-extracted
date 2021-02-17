@@ -1,0 +1,7 @@
+﻿Ruins - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Etrafındaki bütün oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

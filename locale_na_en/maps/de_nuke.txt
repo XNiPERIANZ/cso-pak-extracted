@@ -1,0 +1,8 @@
+﻿Nuke - Bomb Planting/Defusing
+
+Map Created By: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Counter-Terrorists: Prevent the Terrorists from bombing the nuclear missile. The enemy may attack from top or bottom. Team members must defuse any bombs that become planted at the bombing sites.
+- Terrorists: Terrorists in possession of a C4 must bomb the nuclear missile.
+
+Note: There are two bombing sites on this map.

@@ -1,0 +1,7 @@
+﻿Angel City - Drużynowy Deathmatch
+Oryginalny Autor: Nieznany
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

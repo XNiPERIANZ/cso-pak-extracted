@@ -1,0 +1,7 @@
+﻿Jump 1 - Challenge
+Pianificazione/Produzione: Nexon
+Texture/Modelli/Revisione: Nexon
+
+- Vincerà il giocatore che raggiunga il record per primo entro la durata designata.
+- Sarete spostati al vostro checkpoint più recente se morite o cadete.
+- Non ci sono conflitti tra giocatori in questa mappa.

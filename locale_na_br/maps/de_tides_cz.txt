@@ -1,0 +1,6 @@
+﻿Tide - Plantar/desarmar a bomba
+
+- Contraterroristas: Impeça a tentativa de ataque a bomba dos terroristas.
+- Terroristas: Plante e detone bombas.
+
+Observação: Há dois locais para detonar nesta missão.

@@ -1,0 +1,7 @@
+﻿Inferno - Takım Ölüm Maçı
+
+Haritayı Yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuları Yapan: Valve software
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Kazanmak için belirlenmiş öldürme sayısına ulaşın.

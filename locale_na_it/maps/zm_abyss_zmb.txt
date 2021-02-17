@@ -1,0 +1,10 @@
+﻿Abyss - Zombie
+Pianificazione/Produzione: Nexon
+Texture/Revisione: Nexon
+
+Mentre effettuavano una missione nell'area B-2 del laboratorio Rex, alcuni membri del team di missione sono caduti nell'area B-1 a causa di un'esplosione di C4.
+Essi hanno trovato dei soggetti sigillati di un esperimento fallito.
+Purtroppo, gli oggetti sigillati sono stati svegliati dall'esplosione...
+
+Umani: Sopravvivete gli attacchi Zombie fino a che arrivino i rinforzi. Fate attenzione ai compagni di team che potrebbero trasformarsi in Zombie. Siete autorizzati a uccidere tutti gli Zombie. 
+Zombie: Quelli che sono diventati Zombie devono uccidere gli Umani e trasformarli in Zombie. Gli Zombie hanno PF più alti e sono più veloci degli Umani.

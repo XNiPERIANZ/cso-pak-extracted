@@ -1,0 +1,9 @@
+﻿Airstrip - Plantar/desarmar a bomba
+
+Mapa criado por: Barney (aka narby) (narby@counter-strike.net)
+Agradecimento especial à Iikka Keranen, John Morello e Minh Le
+
+- Contraterroristas: Impeça que os terroristas plantem uma bomba dentro do galpão da pista de pouso.
+- Terroristas: Plante um C4 no galpão da pista de pouso para explodir o tanque de combustível e o armazém de carga.
+
+Observação: Há dois locais para plantar bombas neste mapa.

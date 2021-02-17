@@ -1,0 +1,9 @@
+﻿Ruinas - Aniquilación
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+Un equipo de francotiradores con la misión de asaltar una base terrorista escondida en la jungla es emboscado por un equipo de francotiradores que se escondían cerca de las ruinas.
+Las comunicaciones de apoyo a las tropas se perdieron y ahora ambos equipos deben enfrentarse valiéndose solo de sus armas de francotirador.
+
+- Elimina todos los francotiradores del enemigo.

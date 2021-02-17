@@ -1,0 +1,6 @@
+﻿Chateau - Deathmatch
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

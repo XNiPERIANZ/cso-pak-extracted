@@ -1,0 +1,9 @@
+﻿747 - Sojusz Zombie
+Autor Mapy: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Autor Tekstury: "The Postman" 
+(heavengame@yahoo.com)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

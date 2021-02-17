@@ -1,0 +1,11 @@
+RISING - Zombie Escape
+Pensé, élaboré et développé par : Nexon
+Graphismes : Nexon
+
+À tous les survivants, 
+Il y a un hélicoptère de sauvetage pas loin d'ici. 
+Dépêchez-vous d'aller à l'héliport et faites en sorte que l'on vienne vous secourir grâce aux signaux lumineux, puis échappez-vous.
+
+Objectif
+Humains : Échappez-vous jusqu'à l'héliport avant que le temps soit écoulé. Vous devez rester humain.
+Zombies : Infectez tous les humains restants ou empêchez-les d'atteindre l'héliport avant que le temps soit écoulé.

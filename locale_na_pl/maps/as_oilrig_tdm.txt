@@ -1,0 +1,8 @@
+﻿Oil Rig - Drużynowy Deathmatch
+Autor Mapy: MacMan (macmaninfi@aol.com)
+Autor Tekstury: MacMan
+Westland Wessex Helicopter Stworzony przez: Agent Orange 
+[agentorange@freemail.nl]
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

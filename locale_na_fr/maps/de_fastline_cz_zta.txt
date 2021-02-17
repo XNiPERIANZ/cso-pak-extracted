@@ -1,0 +1,6 @@
+﻿Fastline - Annihilation
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Tuez tous les ennemis sur la carte.
+- Gagnez en remportant le nombre indiqué de manches.
+- Le respawn n'a lieu qu'à la manche suivante.

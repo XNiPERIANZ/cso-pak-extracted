@@ -1,0 +1,11 @@
+﻿747 - Hostage Rescue
+Carte créée par : Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture créée par : "The Postman" 
+(heavengame@yahoo.com)
+
+Antiterroristes : Infiltrez l'avion et sauvez les otages restants.
+
+Terroristes : Empêchez les Antiterroristes de sauver les otages.
+
+Note : Il y a 5 otages dans l'avion.

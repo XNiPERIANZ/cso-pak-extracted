@@ -1,0 +1,10 @@
+﻿Alcatraz (alcatraz) - Zombie
+Developed and produced by: Nexon
+Texture/Modeling/Edited by: Nexon
+
+During the battle between Terrorists and Counter-Terrorists, strange, undead creatures have emerged from the Rex Laboratory. The humans have no choice but to work together to survive.
+
+Humans: Survive the zombie attacks until time runs out, or kill all the zombies.
+Zombies: Kill all the humans and turn them into zombies. Zombies have more HP and are faster than humans.
+
+

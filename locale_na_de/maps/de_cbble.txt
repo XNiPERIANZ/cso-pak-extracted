@@ -1,0 +1,14 @@
+﻿Cobble- Bomb Planting/Defusing
+Map erstellt von: DaveJ (http://www.johnsto.co.uk/)
+Textur erstellt von: MacMan (MacManInfi@aol.com)
+
+
+Counter-Terroristen: Verhindert, dass die Terroristen Lord Williams Landsitz bombardieren.
+Er wurde in letzter Zeit zum Ziel politisch motivierter Mordanschläge.
+
+
+Terroristen: Ein Terrorist, der C4 bei sich hat, muss an einem der zwei vorgesehenen Explosionsorte eine Bombe platzieren. 
+Lord William muss eliminiert werden.
+
+
+

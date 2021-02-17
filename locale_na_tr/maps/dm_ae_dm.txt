@@ -1,0 +1,7 @@
+﻿Another Episode - Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzeltme: NEXON
+
+- Yakındaki tüm düşmanları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.

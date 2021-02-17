@@ -1,0 +1,6 @@
+﻿Office - Team Deathmatch
+Carte créée par : Hobbit (Hobbit@nodream.net)	
+Texture créée par : Sphinx and George_Pooshoes.
+
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en tuant un certain nombre d'ennemis.

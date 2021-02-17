@@ -1,0 +1,9 @@
+﻿Italy - Noel - Zombi İttifakı
+
+Haritayı tasarlayan: Nexon
+Dokuları/grafikleri tasarlayan: Nexon
+
+Hedef
+- Haritadaki tüm düşman takım üyelerini öldürerek takım puanınızı arttırın.
+- Hedeflenen öldürme sayısına ulaşarak oyunu kazanın.
+- Öldürme sayınızı artırmak için eşya kutularını elde edin.

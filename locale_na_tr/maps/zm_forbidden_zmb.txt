@@ -1,0 +1,9 @@
+﻿Forbidden - Zombi
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+İllegal kimya laboratuvarının yakınında... deney atıklarını dönüştüren bir kimyasal arıtım tesisi vardı. Ancak, tesis çalışmayı uzun bir süre önce durdurmuştu. Şimdiyse tesis çeşitli kimyasal atıklar sayesinde güçlenen Zombiler için bir yuva oldu.
+
+- İnsanlar: Tüm Zombileri öldürün ya da süre bitene kadar hayatta kalın.
+- Zombiler: Zombiye dönüşenler İnsanları öldürmek ve onları da Zombiye dönüştürmek zorundalar. Zombiler daha yüksek Sağlık Puanına sahiptir ve İnsanlardan daha hızlıdırlar.

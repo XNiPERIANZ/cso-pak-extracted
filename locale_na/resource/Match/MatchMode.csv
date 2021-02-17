@@ -1,0 +1,17 @@
+Mode,Image,Mode UI Order (1~7 Main Mode),"Mode Group (1: zb, 2: zbs, 3: non-zb pvp 4: etc)",Title,Type,Difficulty,PlayTime,Desc
+38,resource/Icon/Studio,1,4,#CSO_GameMode_Voxel,PvE,Easy,60,#CSO_GameMode_VoxelCreate_Tooltip
+32,resource/Icon/Zombieannihilate,2,1,#CSO_GameMode_Zombi_Exterminate,PvP,Hard,9,#CSO_GameMode_Zombi_Exterminate_Tooltip
+14,resource/Icon/Zombi3,3,1,#CSO_GameMode_Zombi_3,PvP,Normal,15,#CSO_GameMode_Zombi_3_Tooltip
+0,resource/Icon/Original,4,3,#CSO_GameMode_Original,PvP,Hard,12,#CSO_GameMode_Original_Tooltip
+2,resource/Icon/TDeath,5,3,#CSO_GameMode_TeamDeathMatch,PvP,Normal,10,#CSO_GameMode_TeamDeathMatch_Tooltip
+22,resource/Icon/GunDeath,6,3,#CSO_GameMode_GunDeath,PvP,Normal,11,#CSO_GameMode_GunDeath_Tooltip
+24,resource/Icon/botzombi,7,1,#CSO_GameMode_BotZombie,PvP,Easy,9,#CSO_GameMode_BotZombie_Tooltip
+23,resource/Icon/basic,8,3,#CSO_GameMode_LightOri,PvP,Hard,12,#CSO_GameMode_LightOri_Tooltip
+15,resource/Icon/ZombiSurvival,9,2,#CSO_GameMode_Zombi_Survival,PvE,Easy,13,#CSO_GameMode_Zombi_Survival_Tooltip
+28,resource/Icon/ZombieShelter,10,2,#CSO_GameMode_ZombieShelter_Team,PvE,Hard,35,#CSO_GameMode_ZombieShelter_Team_Tooltip
+40,resource/Icon/Allstar,11,3,#CSO_GameMode_Allstar,PvP,Normal,12,#CSO_GameMode_Allstar_Tooltip
+5,resource/Icon/BotTDM,12,4,#CSO_GameMode_BotTDM,PvP,Easy,10,#CSO_GameMode_BotTDM_Tooltip
+3,resource/Icon/Bot,13,4,#CSO_GameMode_Bot,PvP,Easy,13,#CSO_GameMode_Bot_Tooltip
+1,resource/Icon/Death,14,3,#CSO_GameMode_DeathMatch,PvP,Normal,12,#CSO_GameMode_DeathMatch_Tooltip
+9,resource/Icon/ZombiExpand,15,1,#CSO_GameMode_Zombi_Expand,PvP,Normal,10,#CSO_GameMode_Zombi_Expand_Tooltip
+4,resource/Icon/BotDM,16,4,#CSO_GameMode_BotDM,PvP,Easy,8,#CSO_GameMode_BotDM_Tooltip

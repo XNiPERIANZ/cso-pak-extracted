@@ -1,0 +1,28 @@
+Log updated: 	12/03/2020 19:13:30 
+Media: 		C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\lose1.wav 
+Log file: 	C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\lose1_loud.txt 
+Format: 	8-bit PCM data, 1 channels @ 22050 Hz
+Algorithm: 	Surround processing turned: OFF
+
+
+Loudness calculations: 
+
+              Pos.	     Time	Mom.(LUFS)	Short(LUFS)	Integ.(LUFS)	Dyn.(LU)
+
+            8192	00:00:00.371	-Inf.		-Inf.		-Inf.		  0.00
+           16384	00:00:00.743	-Inf.		-Inf.		-Inf.		  0.00
+           24576	00:00:01.114	-Inf.		-Inf.		-Inf.		  0.00
+           32768	00:00:01.486	-Inf.		-Inf.		-Inf.		  0.00
+           40960	00:00:01.857	-Inf.		-Inf.		-Inf.		  0.00
+           49152	00:00:02.229	-Inf.		-Inf.		-Inf.		  0.00
+           57344	00:00:02.600	-20.02		-28.77		-20.00		 19.90
+           65536	00:00:02.972	-10.95		-19.19		-13.85		  9.60
+           73728	00:00:03.343	-10.03		-17.75		-12.60		 11.00
+           81038	00:00:03.675	-10.52		-15.73		-12.10		 13.10
+
+
+---------------------------
+Results:
+
+Mom. (max): 	-10.03 (LUFS) at 00:00:03.343
+Short (max): 	-15.73 (LUFS) at 00:00:03.675

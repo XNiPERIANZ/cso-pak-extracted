@@ -1,0 +1,12 @@
+﻿Snow Base - Bombaları Yerleştirin / İmha Edin
+Geliştirici: Nexon 
+Dokular: Nexon
+
+Anti-Teröristler: Snow Base'de terörist hareketliliği gözlemlendi.
+Takım üyeleri hedef bölgeye yerleştirilen bütün bombaları imha edip teröristleri yok etmelidir.
+
+Teröristler: Anti-Teröristlere sabotaj düzenleyip 
+iki bomba bölgesinden bir tanesini patlatmalıdır. 
+
+
+Not: Bu haritada iki tane bomba bölgesi vardır. 

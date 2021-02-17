@@ -1,0 +1,6 @@
+﻿Gökdelen - Takımla Ölüm Maçı
+Geliştiren ve üreten : Nexon
+Doku/Modelleme/Düzenleme : Nexon
+
+- Haritadaki tüm düşman oyuncuları öldürerek takım puanını artırmalısınız.
+- Belirli sayıda düşmanı öldürerek oyunu kazanın.

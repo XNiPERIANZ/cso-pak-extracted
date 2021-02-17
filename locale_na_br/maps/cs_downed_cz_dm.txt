@@ -1,0 +1,4 @@
+﻿Downed - Mata-mata
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

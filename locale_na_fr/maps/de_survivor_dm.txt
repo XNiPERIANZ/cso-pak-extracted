@@ -1,0 +1,7 @@
+﻿Survivor - Deathmatch
+Carte créée par : Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

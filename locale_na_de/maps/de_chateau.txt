@@ -1,0 +1,13 @@
+﻿Chateau - Bomb Planting/Defusing
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+Terroristen: Verfolgt die Geschehnisse auf Cobble. Lord William hat beschlossen, sein Sommerschloss zu renovieren.
+Verhindert die Fertigstellung der Renovierung, indem ihr eine C4-Bombe im vorderen oder hinteren Garten platziert.
+
+Counter-Terroristen: Verhindert, dass die Terroristen die Bombe platzieren und beschützt Lord Williams Besitz.
+
+
+
+

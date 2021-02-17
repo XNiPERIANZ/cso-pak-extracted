@@ -1,0 +1,6 @@
+﻿Militia - Annihilation
+Mappa creata da: Andrew Aumann (andrewja@home.com)
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

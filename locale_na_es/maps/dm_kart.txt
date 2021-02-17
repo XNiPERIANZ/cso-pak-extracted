@@ -1,0 +1,9 @@
+﻿Poblado - Aniquilación
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+La inteligencia de alto nivel indica que se detectaron actividades terroristas en un pequeño poblado en las afueras de la ciudad. Los Antiterroristas llegaron al poblado y lo encontraron...interesante.
+
+- Mata a todos los enemigos en el mapa.
+- Cuando se aniquila a un equipo, gana el equipo contrario.

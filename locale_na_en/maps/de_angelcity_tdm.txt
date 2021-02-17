@@ -1,0 +1,8 @@
+﻿Angel City - Team Deathmatch
+
+Original Author: Unknown
+Map Created By: NEXON
+Texture Created By: NEXON
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.

@@ -1,0 +1,8 @@
+﻿Arranha-céu - Zumbi
+Desenvolvido e produzido por: Nexon
+Textura/Modelagem/Edição por: Nexon
+
+Durante a batalha entre os Terroristas e os Contraterroristas, seres não identificados foram descobertos, e eles parecem ser zumbis que escaparam do Laboratório Rex. Os humanos terão que trabalhar em equipe para sobreviver.
+
+Humanos: Sobreviva aos ataques dos zumbis durante o tempo restante ou elimine todos os zumbis.
+Zumbis: Aqueles que se transformaram em zumbis devem eliminar os humanos e transformá-los em zumbis também. Zumbis têm Vida maior e são mais rápidos do que os Humanos.

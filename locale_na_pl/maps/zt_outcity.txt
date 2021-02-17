@@ -1,0 +1,15 @@
+﻿OutCity (OutCity) - [Zombie Zabawa w Chowanego]
+Wydawca: Nexon
+□                                   ####### Warto przeczytać dla lepszych wrażeń z gry w trybie Zabawy w Chowanego! #######
+□         <@> Ludzie <@>                  
+                >> Ludzie muszą znaleźć prawdziwych zombie pośród wabików!!                 
+                >> [Hej, Zombie!] może zabić zombie w jednej próbie i zapewnić zastrzyk zdrowia i dodatkowe punkty!
+                >> Każdy zabity wabik zabierze nieco PW.
+                >> Ludzie mogą chodzić po naciśnięciu klawisza SHIFT.
+□                                                                                        
+□         <@> Zombie <@>             
+                >> Zombie muszą osiągnąć bezpieczną strefę zanim czas dobiegnie końca.
+                >> To niezwykle ważne, by naśladować podaną akcję w trakcie Czasu Gorączki.
+                >> Zombie mogą biec po naciśnięciu klawisza SHIFT.
+                   (Róża Pożądania pozwala biegać szybciej niż Lekkie Zombie.)
+

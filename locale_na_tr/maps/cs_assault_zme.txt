@@ -1,0 +1,10 @@
+﻿Assault - Zombie
+
+Haritayı Yapan: CryptR (lmuur@dlc.fi)
+
+
+Teröristler ve Anti-Teröristler arasındaki savaş sırasında, kimliği belirlenemeyen varlıklar keşfedildi ve bu varlıklar Rex Laboratuvar'ından kaçan Zombiler gibi görünüyor. İnsanlar hayatta kalmak için birlikte çalışmalı.
+
+
+- İnsanlar: Kalan süre boyunca Zombi saldırılarından sağ kurtul veya bütün Zombileri öldür.
+- Zombiler: Zombiye dönüşenler, İnsanları öldürmeli ve onları Zombiye dönüştürmelidir. Zombiler İnsanlardan daha hızlıdır ve onlardan daha fazla Sağlık Puanları vardır.

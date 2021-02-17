@@ -1,0 +1,9 @@
+﻿Forbidden - Zombie
+
+Planning/Production: NEXON
+Texture/Revision: NEXON
+
+Near the illegal chemical laboratory... was a chemical treatment facility that treated experiment waste materials. However, its operation had ceased a long time ago. It has now become a sanctuary for Zombies who've grown stronger thanks to the various chemical waste.
+
+- Humans: Kill all the Zombies or survive until the time duration has passed.
+- Zombies: Those who have turned into Zombies must kill the Humans and turn them into Zombies. Zombies have higher HP and faster speeds than Humans.

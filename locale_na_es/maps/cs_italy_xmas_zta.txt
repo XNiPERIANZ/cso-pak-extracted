@@ -1,0 +1,9 @@
+﻿Italia - Navidad - Aniquilación
+
+Mapa creado por: Nexon
+Textura/gráficos creados por: Nexon
+
+Objetivo
+- Mata a todos los enemigos en el mapa.
+- Gana un número de rondas específico.
+- No podrás lograr la resurrección hasta que comience la siguiente ronda.

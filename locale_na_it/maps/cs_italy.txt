@@ -1,0 +1,9 @@
+﻿Italy - Hostage Rescue
+Mappa creata da:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texture/Grafica Created By:
+DigiChaos (digichaos@hotsheep.com)
+
+Antiterroristi: Salvate gli ostaggi che sono trattenuti dai Terroristi in una piccola città italiana.
+
+Terroristi: Impedite agli Antiterroristi di salvare gli ostaggi.

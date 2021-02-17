@@ -1,0 +1,9 @@
+﻿Vegas - Yok Etme
+
+Yapım: +Cadaver+
+Dokular: George_Pooshoes, JOeSmOe
+Düzenleme: NEXON
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş raunt sayısını tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar yeniden canlanmayacaksın.

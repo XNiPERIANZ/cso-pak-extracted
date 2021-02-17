@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Bomb Planting/Defusing
+
+Map Created By: Ritual Entertainment
+
+- Counter-Terrorists: Prevent the Terrorists from planting a bomb inside the estate.
+- Terrorists: Plant a C4 inside the estate and detonate it.

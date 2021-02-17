@@ -1,0 +1,6 @@
+﻿Train Shed - Deathmatch a Squadre
+Pianificazione/Progettazione/Sviluppo: Nexon
+Texture/Modelli/Editing: Nexon
+
+- L'obbiettivo è fare punti uccidendo i membri della squadra avversaria.
+- La squadra che per prima raggiunge il numero di uccisioni richiesto, vince.

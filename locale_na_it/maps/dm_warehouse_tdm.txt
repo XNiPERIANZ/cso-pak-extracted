@@ -1,0 +1,6 @@
+﻿Warehouse - Deathmatch a Squadre
+Autore Mappa: Nexon
+Autore Texture: Nexon
+
+- L'obbiettivo è fare punti uccidendo i membri della squadra avversaria.
+- La squadra che per prima raggiunge il numero di uccisioni richiesto, vince.

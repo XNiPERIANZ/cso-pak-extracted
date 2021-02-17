@@ -1,0 +1,9 @@
+﻿Toscana - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+Antyterroryści: Włoska baza w Toskanie, używana niegdyś, jako centrum dowodzenia Terrorystów, została odkryta. Teraz terroryści próbują ją zbombardować, by zniszczyć wszelkie dowody swoich operacji.
+Członkowie drużyny muszą rozbroić wszystkie ładunki. Powstrzymaj plan sabotażu i pokrzyżuj plany terrorystów!
+Terroryści: Terrorysta niosący ładunek C4 musi wysadzić go w jednej z dwóch stref. Powstrzymaj antyterrorystyczny plan sabotażu i zniszcz wszystkie dowody związane z bazą!
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

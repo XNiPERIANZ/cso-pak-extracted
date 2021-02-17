@@ -1,0 +1,7 @@
+﻿Tide - Bomb Planting/Defusing
+
+Antiterroristi: Impedite ai Terroristi di bombardare.
+
+Terroristi: Piazzate e detonate bombe.
+
+Nota: Ci sono due posti di bombardamento in questa missione.

@@ -1,0 +1,6 @@
+﻿Train Shed - Duelo de Equipes
+Planejado, desenhado e desenvolvido por: Nexon
+Textura, modelagem e edições por: Nexon
+
+- O objetivo é aumentar a pontuação da equipe eliminando todos os inimigos do mapa.
+- Para vencer, alcance o número requerido de eliminações.

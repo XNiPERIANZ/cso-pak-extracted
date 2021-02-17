@@ -1,0 +1,9 @@
+﻿Abyss 2 - Zombi
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+Rex Laboratuvarı B-1 bölgesine düşenleri kurtarmak için yola çıkan kurtarma ekibi, bölgeye askeri talim bölgesi olan C Koğuşu üzerinde giriş yapacaktı. Ancak C-5 zaten tanımlanamayan yaşam formlarının saldırısı altındaydı. Kurtarma ekibi ve karşılaştıkları kazazedeler kaçmak için ellerinden geleni yapsa da, tüm çabaları sadece uyuyan varlıkları uyandırmaktan başka bir işe yaramadı.
+
+- İnsanlar: Destek kuvvetler gelene kadar Zombi saldırılarından sağ kurtulun. Zombiye dönüşme ihtimali olan silah arkadaşlarınıza dikkat edin. Tüm Zombileri öldürme yetkisine sahipsiniz.
+- Zombiler: Zombiye dönüşenler İnsanları öldürmeli ve onları da Zombiye dönüştürmeliler. Zombiler daha yüksek Sağlık Puanına sahiptir ve İnsanlardan daha hızlıdırlar.

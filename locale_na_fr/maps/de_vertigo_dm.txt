@@ -1,0 +1,6 @@
+﻿Vertigo - Deathmatch
+Carte créée par : Chris Auty (Barney) (fragged101@yahoo.com)
+Texture créée par : Telnets and J0esm0e
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

@@ -1,0 +1,8 @@
+﻿Échec et Mat – Match à mort par Équipe avec Objets
+Créateur de la carte: Nexon
+Créateur de la Texture: Nexon
+
+Une petite turbulance arrive dans une pièce tranquille.
+
+Objectif:  Allez au point cible en éliminant les joueurs ennemis.
+Astuce: Une attaque de zone ou des capacités spéciales peuvent être utilisées tout en utilisant un objet.

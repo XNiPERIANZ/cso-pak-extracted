@@ -1,0 +1,6 @@
+﻿Prodigy - Mata-mata
+
+Mapa criado por: Hobbit (hobbit@nodream.net)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

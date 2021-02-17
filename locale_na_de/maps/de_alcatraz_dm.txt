@@ -1,0 +1,6 @@
+﻿Alcatraz (alcatraz) - Deathmatch
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+– Töte alle gegnerischen Spieler.
+– Der Spieler mit den meisten Kills gewinnt.

@@ -1,0 +1,8 @@
+﻿Vegas - Ölüm Maçı
+
+Yapım: +Cadaver+
+Dokular: George_Pooshoes, JOeSmOe
+Düzenleme: NEXON
+
+- Yakındaki tüm düşmanları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.

@@ -1,0 +1,12 @@
+﻿Airstrip - Bomb Planting/Defusing
+Autor Mapy: Barney (aka narby) (narby@counter-strike.net)
+
+Specjalne podziękowania dla Iikka Keranen, John Morello i Minh Le
+
+Antyterroryści: Powstrzymaj terrorystów przed podłożeniem bomby w budynku pasa startowego.
+
+Terroryści: Podłóż ładunek C4 w budynku pasa startowego i wysadź zbiornik paliwa wraz z magazynem towarowym.
+
+Note: There are two bombing sites on this map.
+
+

@@ -1,0 +1,6 @@
+﻿Dark Snow - Deathmatch
+Mappa creata da: Nexon
+Texture creata da: Nexon
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

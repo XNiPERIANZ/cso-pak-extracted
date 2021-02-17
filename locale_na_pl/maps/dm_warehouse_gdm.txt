@@ -1,0 +1,8 @@
+﻿Magazyn - Zbrojny Deathmatch
+Mapa stworzona przez Nexon
+Tekstury stworzone przez Nexon
+
+Cel
+- Aby wygrać, wyeliminuj jednego z przeciwników za pomocą ostatecznego granatu.
+- Zwiększaj wynik zespołu, zabijając wszystkich członków przeciwnej drużyny na mapie.
+- Pierwsza drużyna, która zdobędzie wymaganą liczbę zabójstw w wyznaczonym czasie, wygrywa.

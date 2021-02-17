@@ -1,0 +1,11 @@
+﻿Industry - Drużynowy Deathmatch
+Planowanie/Produkcja: Nexon
+Tekstury/Modelowanie/Korekta: Nexon
+
+Rząd otrzymał informacje na temat pozycji jednego z głównych magazynów terrorystów, zlokalizowanego w samym sercu miasta, w ich głównej twierdzy.
+W celu powstrzymania terrorystów, antyterroryści zaatakowali magazyn i natrafili na zasadzkę.
+Szpiedzy terrorystów donoszą zaś, że antyterroryści szykują się na atak Wszelkimi dostępnymi środkami.
+
+
+Cel: Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+Wygraj zdobywając wyznaczoną liczbę zabójstw.

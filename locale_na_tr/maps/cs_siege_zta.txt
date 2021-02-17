@@ -1,0 +1,7 @@
+﻿Siege - Yok Etme
+
+Haritayı yapan: N0TH1NG (n0th1ng@mailcity.com)
+
+- Haritadaki tüm düşmanları öldür.
+- Belirtilen sayıdaki rauntu tamamlayarak kazan.
+- Bir sonraki raunt başlayana kadar canlanmayacaksın.

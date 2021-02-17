@@ -1,0 +1,15 @@
+﻿Ruine - Zombie
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+Die Erforschung des Zombievirus geht langsam aber stetig voran...
+Währenddessen werden in einer abgelegenen Fabrik Experimente mit Zombiemutationen und Kampftests durchgeführt.
+
+Es werden diejenigen als Testsubjekte gewählt, die den Virusmutationen gegenüber am Empfänglichsten sind.
+Ihre Virusmutationen sollen Ihnen Vorteile bringen und es werden Strategien für den Einsatz in tatsächlichen Kämpfen getestet.
+
+Es ist ein großes Risiko, aber das Überleben der Menschheit steht auf dem Spiel.
+Nur die Mutigsten melden sich freiwillig für die Kampftests.
+
+Menschen: Überlebe den Angriff der Zombies, bis die Zeit abläuft, oder töte alle Zombies.
+Zombies: Töte alle Menschen und verwandle sie in Zombies. Zombies haben mehr HP und bewegen sich schneller als Menschen.

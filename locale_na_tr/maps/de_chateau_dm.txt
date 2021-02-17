@@ -1,0 +1,7 @@
+﻿Chateau - Ölüm Maçı
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

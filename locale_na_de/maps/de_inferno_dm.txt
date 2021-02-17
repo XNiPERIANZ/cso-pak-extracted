@@ -1,0 +1,11 @@
+﻿Inferno - Deathmatch
+Map erstellt von: Chris Auty (Barney) (narby@counter-strike.net)
+Textur erstellt von: Valve software
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+

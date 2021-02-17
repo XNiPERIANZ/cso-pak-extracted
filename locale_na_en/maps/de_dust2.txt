@@ -1,0 +1,9 @@
+﻿Dust 2 - Bomb Planting/Defusing
+
+Map Created By: DaveJ (http://www.johnsto.co.uk/)
+Texture Created By: MacMan (MacManInfi@aol.com)
+
+- Counter-Terrorists: Prevent the Terrorists from bombing the chemical weapons boxes. The team members must defuse all bombs planted at the bomb sites.
+- Terrorists: A Terrorist in possession of a C4 must explode one of the two sites where the chemical weapons boxes are located.
+
+Note: There are two bombing sites on this map.

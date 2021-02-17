@@ -1,0 +1,4 @@
+﻿Downed - Ölüm Maçı
+
+- Etrafındaki bütün oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

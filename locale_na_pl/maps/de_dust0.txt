@@ -1,0 +1,11 @@
+﻿Dust 0 - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+Antyterroryści: Działania terrorystyczne zostały wykryte w strategicznie ważnych miejscach na Środkowym Wschodzie.
+Członkowie drużyny muszą rozbroić podłożone bomby i wyeliminować Terrorystów.
+
+Terroryści: Musicie powstrzymać działania Antyterrorystów i podłożyć bombę w jednej z dwóch stref.
+
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

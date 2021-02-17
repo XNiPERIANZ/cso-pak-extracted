@@ -1,0 +1,5 @@
+﻿Sienna - Bombing/DefusingMission 
+
+Description : La ville de Sienna est actuellement en état d'urgence suite à des informations récemment acquises. Les entrées et sorties ont été interdites afin d'endiguer la menace terroriste.
+Antiterroristes : Empêchez les Terroristes de faire exploser les portes et d'entrer dans la ville.Terroristes : Pénétrez dans la ville en découvrant deux points d'accès vulnérables et en les faisant exploser.
+Note : Les Terroristes peuvent attaquer à deux endroits.

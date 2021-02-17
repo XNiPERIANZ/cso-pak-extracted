@@ -1,0 +1,7 @@
+﻿Storm - Deathmatch
+Carte créée par : FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+Texture créée par :  Fingers - jOeSmOe - MattC
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

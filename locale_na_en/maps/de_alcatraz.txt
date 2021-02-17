@@ -1,0 +1,12 @@
+﻿Alcatraz (alcatraz) - Bomb Plant / Defusal
+Map created by: Nexon
+Texture created by: Nexon
+
+Counter-Terrorist: Terrorist activity has been detected in the vicinity of a well-known prison.
+Team members must take out the Terrorists and defuse any bombs planted at objective sites.
+
+Terrorist: Push back the Counter-Terrorists
+and destroy one of the two target areas.
+
+
+Etc: There are two bomb sites in this map.

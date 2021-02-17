@@ -1,0 +1,7 @@
+﻿Arranha-céus - Rodízio de Armas
+Desenvolvido e produzido por: Nexon
+Textura/Modelagem/Edição por: Nexon
+
+Objetivo
+- Uma nova arma é entregue toda vez que você atinge um certo número de eliminações do inimigo com a arma entregue.
+- Para vencer, elimine a equipe inimiga com a granada final, que é entregue durante o último momento do jogo.

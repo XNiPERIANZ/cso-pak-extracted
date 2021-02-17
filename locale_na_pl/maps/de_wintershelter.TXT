@@ -1,0 +1,12 @@
+﻿Snow Base - Podkładanie/rozbrajanie bomby
+Mapa autorstwa: Nexon
+Tekstury autorstwa: Nexon
+
+Antyterroryści: Wykryto aktywność terrorystów na Snow Base.
+Członkowie zespołu muszą pozbyć się wszystkich podłożonych w tej strefie bomb i wyeliminować terrorystów.
+
+Terroryści: Nie dajcie się wyeliminować antyterrorystom
+i doprowadźcie do wysadzenia bomby w jednej z dwóch stref.
+
+
+Uwaga: Na tej mapie znajdują się dwie potencjalne strefy wybuchu.

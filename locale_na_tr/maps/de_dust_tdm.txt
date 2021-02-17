@@ -1,0 +1,7 @@
+﻿Dust - Takım Ölüm Maçı
+
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları Yapan: MacMan (MacManInfi@aol.com)
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Belirlenmiş öldürme sayısına ulaşarak oyunu kazanın.

@@ -1,0 +1,12 @@
+﻿Splash (Splash) - Zombie Giant
+Plan ve Yapım: Nexon
+Grafik: Nexon
+
+Old Dam
+Dev zombilerin ortaya çıkması ile birlikte işçiler de işlerini bırakıp gittiler. Baraj bölgesi kontrolden çıktı ve barajın suyu güçlü bir şekilde akmaya başladı.
+
+Şimdi, bu baraj dev zombilere karşı koyan insanları koruyor.
+
+Görev:
+- Puan kazanmak için insanlar zombileri, zombiler de insanları öldürür.
+- Belirtilen puana ilk ulaşan takım kazanır.

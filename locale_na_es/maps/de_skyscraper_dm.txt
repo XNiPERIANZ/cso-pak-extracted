@@ -1,0 +1,6 @@
+﻿Rascacielos - Combate Mortal
+Desarrollado y producido por: Nexon
+Textura/Modelado/Editado por: Nexon
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más asesinatos gana.

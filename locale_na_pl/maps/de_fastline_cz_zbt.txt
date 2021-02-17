@@ -1,0 +1,6 @@
+﻿Fastline - Sojusz Zombie
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

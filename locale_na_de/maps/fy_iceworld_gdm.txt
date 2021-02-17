@@ -1,0 +1,8 @@
+﻿Ice World - Waffen-Deathmatch
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+Ziel
+- Um zu gewinnen, musst du das gegnerische Team mit der letzten Granate eliminieren.
+- Erhöhe das Teamergebnis, indem du alle Mitglieder des Gegnerteams auf der Map tötest.
+- Das erste Team, das innerhalb des Zeitlimits die erforderliche Anzahl Kills erreicht, gewinnt.

@@ -1,0 +1,9 @@
+﻿Torn - Bomb Planting/Defusing
+Carte créée par : Crinity & Madcross
+www.planethalflife.com/crinity/
+
+Antiterroristes : Maîtrisez la situation. Empêchez l'ennemi d'atteindre ses objectifs.
+
+Terroristes : Contaminez le réservoir de la ville avec le gaz neurotoxique, afin qu'il se propage dans toutes les villes voisines.
+
+Note : Il y a deux sites de bombe dans cette mission.

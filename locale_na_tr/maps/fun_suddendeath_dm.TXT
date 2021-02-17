@@ -1,0 +1,8 @@
+﻿Mobius - Sudden Death
+Geliştirici: Nexon 
+Dokular: Nexon
+
+ - Gördüğünüz tüm oyuncuları öldürün ve sonuna kadar hayatta kalın.
+- Belirli sürelerde ortaya çıkan bir silahtan faydalanın.
+- Bir patlama bir dakika sonra herkesi öldürecektir.
+- En çok kişiyi öldüren oyuncu kazanır.

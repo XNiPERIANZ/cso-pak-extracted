@@ -1,0 +1,10 @@
+﻿Forbidden - Zombie
+Planowanie/Produkcja: Nexon
+Tekstury/Korekta: Nexon
+
+W pobliżu nielegalnego laboratorium chemicznego...
+była zakład obróbki chemicznej, zajmujący się pracą z odpadami z eksperymentów. Jednakże, zawieszono tu praca lata temu.
+To miejsce stało się teraz sanktuarium dla Zombie, które urosły w siłę dzięki wielu chemicznym odpadom.
+
+Ludzie: Zabij wszystkie Zombie lub przetrwaj, aż czas dopłynie do końca.
+Zombie: Ci, którzy zostali przemienieni w Zombie muszą zabijać ludzi, by zamienić ich w Zombie. Zombie mają więcej PW i są szybsze od Ludzi.

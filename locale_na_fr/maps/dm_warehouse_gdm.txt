@@ -1,0 +1,8 @@
+﻿Warehouse - Match à mort par les armes
+Carte créée par : Nexon
+Texture par : Nexon
+
+Objectif
+- Remportez la victoire en éliminant l'équipe adverse avec la grenade finale.
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- La première équipe qui tue le nombre d'ennemis indiqué dans le temps imparti remporte la partie.

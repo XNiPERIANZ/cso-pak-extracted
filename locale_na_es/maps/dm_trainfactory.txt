@@ -1,0 +1,8 @@
+﻿Train Shed - Aniquilación 
+Planificado, diseñado y desarrollado por: Nexon 
+Textura, modelado y ediciones por: Nexon 
+
+Un taller de trenes. Aquí, una peligrosa lucha entre los terroristas y los contraterroristas se está llevando a cabo.
+
+- Mata a todos los miembros del equipo enemigo en el mapa. 
+- Cuando uno de los equipos es eliminado, el equipo restante gana.

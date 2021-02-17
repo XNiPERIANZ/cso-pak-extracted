@@ -1,0 +1,8 @@
+﻿Dust 2 - Aniquilação 
+
+Texturas criadas por: MacMan (MacManInfi@aol.com)
+Revisão do mapa: NEXON
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.
+- A contagem de eliminações aumentará se uma caixa de itens for obtida.

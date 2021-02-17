@@ -1,0 +1,10 @@
+﻿Checkmate - Gun Deathmatch
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Il y a un peu de raffut dans ce qui semble être la chambre paisible d'un jeune homme.
+
+Objectif
+- L'équipe qui tue un membre de l'équipe adverse avec la grenade finale remporte la victoire.
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Atteignez le nombre indiqué de victimes dans le temps imparti pour gagner.

@@ -1,0 +1,6 @@
+﻿Dust II (Dust 2) – Team Item Deathmatch
+Map erstellt von: Dave J (http://www.johnsto.co.uk)
+Textur erstellt von: MacMan (MacManInfi@aol.com)
+
+Ziel: Gelangt zum Zielpunkt indem ihr Gegenspieler eliminiert.
+Tipp: Ein Flächenangriff oder spezielle Fähigkeiten können bei der Itemnutzung angewandt werden.

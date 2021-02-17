@@ -1,0 +1,8 @@
+﻿Survivor
+Carte créée par : Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en tuant un certain nombre d'ennemis.
+- Le compteur de tués augmente quand la caisse d'objets est récupérée.

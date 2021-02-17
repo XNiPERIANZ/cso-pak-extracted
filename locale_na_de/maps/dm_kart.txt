@@ -1,0 +1,8 @@
+﻿Village - Annihilation
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+Ein hochrangiger Geheimdienst hat terroristische Aktivitäten in einem kleinen Dorf außerhalb der Stadt festgestellt.
+Counter-Terroristen sind dort eingetroffen und finden das Dorf ziemlich... interessant.
+- Töte alle feindlichen Team-Mitglieder.
+- Wenn ein Team ausgelöscht wurde, hat das anderen Team gewonnen.

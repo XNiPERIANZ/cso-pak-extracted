@@ -1,0 +1,6 @@
+﻿Residencia - Rescate de rehenes
+
+Mapa creado por: Zaphod Beeblebrox (zaphod@mapcore.com)
+
+- Antiterroristas: Rescaten a los 3 rehenes que están atrapados en la residencia.
+- Terroristas: Eviten que los Antiterroristas rescaten a los rehenes.

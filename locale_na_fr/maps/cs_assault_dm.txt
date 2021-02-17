@@ -1,0 +1,5 @@
+﻿Assault - Deathmatch
+Carte créée par : CryptR (lmuur@dlc.fi)
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

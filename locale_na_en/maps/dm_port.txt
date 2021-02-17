@@ -1,0 +1,9 @@
+﻿The Port - Annihilation
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+A shootout is underway against the Terrorists in a port filled with cargo containers.
+
+- Kill all enemy team members on the map.
+- When one team is annihilated, the remaining team wins.

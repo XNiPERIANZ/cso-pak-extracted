@@ -1,0 +1,7 @@
+﻿Castillo - Colocación/Desactivación de bomba
+
+Macman *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Terroristas: Luego del incidente en La Pedrera, Lord William decidió remodelar su castillo de verano. Coloquen C-4 en el jardín delantero o trasero y eviten que se complete la remodelación.
+- Antiterroristas: Eviten que los terroristas planten la bomba y protejan la propiedad de Lord William.

@@ -1,0 +1,7 @@
+﻿Stadium - Podkładanie/Rozbrajanie Bomby
+
+Antyterroryści: Powstrzymaj Terrorystów przed zbombardowaniem stadionu.
+
+Terroryści: Zbombarduj stadion.
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

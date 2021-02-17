@@ -1,0 +1,6 @@
+﻿Fastline - Sojusz Zombie Anihilacja
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

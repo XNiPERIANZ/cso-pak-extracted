@@ -1,0 +1,14 @@
+﻿Dust 2 - Gun Deathmatch
+Map erstellt von: DaveJ (http://www.johnsto.co.uk/)
+Textur erstellt von: MacMan (MacManInfi@aol.com)
+
+Zielvorgabe:
+- Das Team, das ein feindliches Teammitglied mit einer Granate tötet, gewinnt.
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Feinde tötest.
+- Um zu gewinnen, musst du eine vorgegebene Anzahl Tötungen innerhalb der Zeitvorgabe erreichen.
+
+
+
+
+
+

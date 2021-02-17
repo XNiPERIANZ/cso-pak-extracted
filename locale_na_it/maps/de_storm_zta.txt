@@ -1,0 +1,7 @@
+﻿Storm - Annihilation
+Mappa creata da: FLiPMoDE|Daank
+Texture creata da:  Fingers - jOeSmOe - MattC
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

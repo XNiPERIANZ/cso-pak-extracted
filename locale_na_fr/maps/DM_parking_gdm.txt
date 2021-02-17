@@ -1,0 +1,13 @@
+﻿Parking Lot – Gun Deathmatch
+Direct / Production: Nexon
+Texture/Modelling/Edit: Nexon
+
+Afin de frapper les quartiers généraux des terroristes, les forces gouvernementales ont décidé de passer par le parking.
+
+Les terroristes, afin de ne pas abandonner leur QG, doivent effecter un effort de dernière minute et combattre les troupes gouvernementales. 
+
+Objectif:
+- L'équipe ressort victorieuse si un des joueurs arrive à tuer un joueur ennemi avec la Grenade Finale.
+- Afin d'augmenter le score de l'équipe, le joueur doit éliminer les joureurs ennemis.
+- L'équipe ressort victorieuse si l'équipe atteint le score visé en premier.
+

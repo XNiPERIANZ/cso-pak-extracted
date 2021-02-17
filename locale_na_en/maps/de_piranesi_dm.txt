@@ -1,0 +1,7 @@
+﻿Piranesi - Deathmatch
+
+Fingers - iikkak@valvesoftware.com
+Thanks to Ido Magal for texture sources
+
+- Kill all nearby players.
+- The player with the most kills wins.

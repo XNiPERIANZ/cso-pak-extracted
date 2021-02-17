@@ -1,0 +1,6 @@
+﻿Dark Snow - Deathmatch
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

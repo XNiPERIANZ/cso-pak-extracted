@@ -1,0 +1,7 @@
+﻿Vertigo - Ölüm Maçı
+
+Haritayı Yapan: Chris Auty (Barney) (fragged101@yahoo.com)
+Dokuları Yapan: Telnets ve J0esm0e
+
+- Yakındaki tüm düşmanları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.

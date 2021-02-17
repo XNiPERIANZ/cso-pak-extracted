@@ -1,0 +1,11 @@
+﻿Back Alley - Hostage Rescue
+Mappa creata da: TYR (tyr@barking-dog.com)
+
+
+Antiterroristi:
+Infiltratevi nella base Terrorista e guidate gli ostaggi a un'ubicazione sicura. Eliminate i Terroristi assicurandovi di non ferire gli ostaggi.
+
+Terroristi:
+Impedite agli Antiterroristi di salvare gli ostaggi.
+
+Nota: Ci sono 4 ostaggi in questa missione.

@@ -1,0 +1,10 @@
+﻿Tunnel - Deathmatch
+Planning/Production : Nexon
+Texture/Révision : Nexon
+
+Les Terroristes ont l'intention de faire exploser un tunnel ferroviaire pour voler l'argent et les armes qui vont y circuler.
+
+Antiterroristes : Attaquez les Terroristes pour les empêcher de mener leur plan à exécution.
+Terroristes :  Attaquez les Antiterroristes pour que la mission se déroule comme prévu.
+
+Note : Chaque équipe a deux points de renfort sur cette carte.

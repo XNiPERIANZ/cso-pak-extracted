@@ -1,0 +1,12 @@
+﻿Inferno - Bomb Planting/Defusing
+Mappa creata da: Chris Auty (Barney) (narby@counter-strike.net)
+Texture creata da: Valve software
+
+I Terroristi stanno pianificando di bombardare un oleodotto che passa attraverso due piccole città.
+
+Antiterroristi: Impedite ai Terroristi di bombardare l'oleodotto.
+
+Terroristi: Bombardate due ubicazioni nell'oleodotto.
+
+
+Nota: Ci sono due posti di bombardamento in questa mappa.

@@ -1,0 +1,7 @@
+﻿Vertigo - Duelo de Equipes
+
+Mapa criado por: Chris Auty (Barney) (fragged101@yahoo.com)
+Texturas criadas por: Telnets e J0esm0e
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

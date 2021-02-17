@@ -1,0 +1,12 @@
+﻿Back Alley - Hostage Rescue
+Carte créée par : TYR (tyr@barking-dog.com)
+
+
+Antiterroristes :
+Infiltrez la base terroriste et menez les otages dans un endroit sûr.
+Éliminez les Terroristes en vous assurant que les otages ne soient pas blessés.
+
+Terroristes :
+Empêchez les Antiterroristes de sauver les otages.
+
+Note : Il y a 4 otages dans cette mission.

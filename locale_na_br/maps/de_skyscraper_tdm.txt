@@ -1,0 +1,6 @@
+﻿Arranha-céus - Duelo de Equipes
+Desenvolvido e produzido por: Nexon
+Textura/Modelagem/Edição por: Nexon
+
+- Marque pontos para sua equipe eliminando todos os membros da equipe inimiga no mapa.
+- Vença atingindo um determinado número de eliminações.

@@ -1,0 +1,7 @@
+﻿Train - Bomb Planting/Defusing
+
+Antiterroristes : Empêchez les Terroristes de poser la tête nucléaire qui a été démontée et placée sur deux trains. Les membres de l'équipe doivent désamorcer toutes les bombes posées sur les différents sites.
+
+Terroristes : Un terroriste en possession de C4 doit faire exploser l'une des deux têtes nucléaires.
+
+Note : Il y a deux sites de bombe dans cette mission.

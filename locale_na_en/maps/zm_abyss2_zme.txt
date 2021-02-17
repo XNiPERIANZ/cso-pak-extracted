@@ -1,0 +1,9 @@
+﻿Abyss 2 - Zombie
+
+Planning/Production: NEXON
+Texture/Revision: NEXON
+
+The rescue team, that was dispatched to rescue the survivors who had fallen to Rex Laboratory B-1, had planned to make their entry by going through Ward C, a soldier training facility. However, C-5 has already been attacked by unidentified life forms. The rescue team and the survivors they met made every attempt to escape, but their efforts only awakened the sleeping beings...
+
+- Humans: Survive the Zombie attacks until reinforcements arrive. Watch for fellow comrades who may turn into Zombies. You are authorized to kill all Zombies. 
+- Zombies: Those who have turned into Zombies must kill the Humans and turn them into Zombies. Zombies have higher HP and faster speeds than Humans.

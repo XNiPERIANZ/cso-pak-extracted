@@ -1,0 +1,7 @@
+﻿Dust II(Dust 2) - Zombi İttifakı
+Haritayı tasarlayan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları tasarlayan: MacMan (MacManInfi@aol.com)
+
+- Haritadaki tüm düşman oyuncuları öldürerek takım puanını artırmalısınız.
+- Belirli sayıda düşmanı öldürerek oyunu kazanın.
+- Öldürme sayısını arttırmak için eşya kutularını elde edin.

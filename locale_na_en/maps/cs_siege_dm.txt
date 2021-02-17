@@ -1,0 +1,6 @@
+﻿Siege - Deathmatch
+
+Map Created By: N0TH1NG (n0th1ng@mailcity.com)
+
+- Kill all nearby players.
+- The player with the most kills wins.

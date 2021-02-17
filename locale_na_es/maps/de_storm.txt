@@ -1,0 +1,9 @@
+﻿Tormenta - Colocación/Desactivación de bomba
+
+Mapa creado por: FLiPMoDE|Daank (daankvirus420k@icqmail.com)
+Textura creada por:  Fingers - jOeSmOe - MattC
+
+- Antiterroristas: Protejan las cajas de armas. Estas armas deben entregarse a una nación aliada que se encuentra bajo amenaza terrorista.
+- Terroristas: Deben desestabilizar el régimen de una nación pequeña. Asegúrense de que no puedan recibir las armas.
+
+Nota: Hay dos sitios de bomba en este mapa.

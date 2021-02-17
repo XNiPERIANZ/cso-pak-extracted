@@ -1,0 +1,7 @@
+﻿Storm - Sojusz Zombie
+Autor Mapy: FLiPMoDE|Daank
+Autor Tekstury:  Fingers - jOeSmOe - MattC
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

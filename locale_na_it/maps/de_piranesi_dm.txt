@@ -1,0 +1,6 @@
+﻿Piranesi - Deathmatch
+Fingers - iikkak@valvesoftware.com
+Grazie a Ido Magal per le fonti di texture
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

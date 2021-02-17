@@ -1,0 +1,10 @@
+﻿Abyss - Zombie
+Planowanie/Produkcja: Nexon
+Tekstury/Korekta: Nexon
+
+Podczas prowadzenia misji w strefie B-2 Laboratorium Rex, niektórzy członkowie zespołu misji spadli do strefy B-1 przez wybuch ładunku C4.
+To, co znaleźli było zamkniętym efektem nieudanego eksperymentu.
+Niestety, zamknięte obiekty badań zostały obudzone tym wybuchem...
+
+Ludzie: Przetrwaj ataki Zombie tak długo, aż przybędzie wsparcie. Miej oko na sojusznikach, którzy mogą zamienić się w Zombie. Jesteś uprawniony by strzelać i zabijać wszystkie Zombie.
+Zombie: Ci, którzy zostali przemienieni w Zombie muszą zabijać ludzi, by zamienić ich w Zombie. Zombie mają więcej PW i są szybsze od Ludzi.

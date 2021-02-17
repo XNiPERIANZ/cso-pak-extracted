@@ -1,0 +1,6 @@
+﻿Wolkenkratzer - Team-Deathmatch
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+Erhöhe das Teamergebnis, indem du alle gegnerischen Teammitglieder auf der Map tötest.
+Erringe einen Sieg, indem du eine bestimmte Anzahl von Kills erreichst.

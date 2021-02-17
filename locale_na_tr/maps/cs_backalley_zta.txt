@@ -1,0 +1,7 @@
+﻿Back Alley - Yok Etme
+
+Haritayı Yapan: TYR (tyr@barking-dog.com)
+
+- Haritadaki bütün düşmanları öldür.
+- Oyunu belirli sayıdaki rauntu tamamlayarak kazan.
+- Bir sonraki raunt başlayana kadar canlanmayacaksın.

@@ -1,0 +1,11 @@
+﻿Industry 2 - Team Deathmatch
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+Le gouvernement a reçu des informations indiquant que les Terroristes utilisent un grand entrepôt, situé en périphérie de la ville, comme principal retranchement.
+Afin d'arrêter les Terroristes, les Antiterroristes ont lancé l'assaut, pour découvrir que les Terroristes les attendaient à l'intérieur du bâtiment.
+Les éclaireurs terroristes ont également noté les mouvements antiterroristes, et se préparent à une attaque en règle.
+
+Objectif :
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en tuant un certain nombre d'ennemis.

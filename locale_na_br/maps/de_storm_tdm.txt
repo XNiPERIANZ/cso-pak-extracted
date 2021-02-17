@@ -1,0 +1,7 @@
+﻿Storm - Duelo de Equipes
+
+Mapa criado por: FLiPMoDE|Daank (daankvirus420k@icqmail.com)
+Texturas criadas por:  Fingers - jOeSmOe - MattC
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

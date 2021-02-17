@@ -1,0 +1,8 @@
+﻿Checkmate – Team DeathMatch con Oggetti
+Mappa creata da: Nexon
+Texture creata da: Nexon
+
+C'è del trambusto in quella che sembra essere la calma stanza di un ragazzo.
+
+Obbiettivo: Raggiungi il punteggio limite eliminando gli altri giocatori.
+Consiglio: Un Attacco ad Area o Abilità Speciali saranno disponibili con l'utilizzo di un oggetto.

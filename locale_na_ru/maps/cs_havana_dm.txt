@@ -1,0 +1,6 @@
+﻿Havana - Бой насмерть
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

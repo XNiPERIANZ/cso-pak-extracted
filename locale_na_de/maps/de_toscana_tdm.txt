@@ -1,0 +1,6 @@
+﻿Toscana - Team Deathmatch
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+- Erhöhe den Team-Punktestand, indem du alle Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.

@@ -1,0 +1,8 @@
+﻿Storm - Aniquilação
+
+Mapa criado por: FLiPMoDE|Daank
+Texturas criadas por:  Fingers - jOeSmOe - MattC
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

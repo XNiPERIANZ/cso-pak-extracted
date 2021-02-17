@@ -1,0 +1,10 @@
+﻿Estate - Deathmatch
+Map erstellt von: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+

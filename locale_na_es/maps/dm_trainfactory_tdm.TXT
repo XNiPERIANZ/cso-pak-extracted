@@ -1,0 +1,9 @@
+﻿Train Shed (Taller de trenes) - Combate Mortal 
+en Equipo
+Planificado, diseñado y desarrollado por: Nexon 
+
+Textura, modelado y ediciones por: Nexon 
+
+- El objetivo es aumentar la puntuación del equipo matando a todos los miembros del equipo enemigo en el mapa. 
+
+- Para ganar, alcanza el número de muertes designadas.

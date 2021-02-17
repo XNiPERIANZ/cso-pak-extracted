@@ -1,0 +1,11 @@
+﻿Cold Fear - Çekirdek: Yaratık 
+
+Planlama ve Yapım: NEXON
+Grafikler: NEXON
+
+Kutup bölgesinde ardı arkası kesilmeyen çatışmalar sonrasında Teröristler ve Anti-Teröristler bir gün gizli cevherlere rastladılar. Cevherlerin gizemli güçlere sahip olduğunu fark ettikten sonra her iki taraf da bir yandan araştırmalar yürütürken diğer yandan karşı tarafında cevherlerini yok etme planları yaparak bu yeni keşfettikleri güç üzerinde tekel sahibi olmaya çalıştılar. Ancak, çekirdeklerin güçlerini korumak için kurulan bariyerler savaşın uzamasına sebep oldu ve... savaş sırasında cevherlerin parçalarıyla fiziksel temasta bulunan birimler mutasyona uğrayarak savaşın tahmin edilemeyen bir boyuta taşınmasına sebep oldu.
+
+- Düşmanın çekirdeğini yok et. 
+- Çekirdek kontrol bariyeri ile korunuyor.
+- Kontrol cihazına saldırdığında çekirdeğe geçici olarak saldırma fırsatın olacak. Kontrol cihazı 20 saniye içerisinde tekrar etkin hale gelir.
+

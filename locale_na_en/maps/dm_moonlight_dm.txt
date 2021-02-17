@@ -1,0 +1,7 @@
+﻿Moonlight - Deathmatch
+
+Planning/Production: NEXON
+Mapping/Revision: NEXON
+
+- Kill all nearby players.
+- The player with the most kills wins.

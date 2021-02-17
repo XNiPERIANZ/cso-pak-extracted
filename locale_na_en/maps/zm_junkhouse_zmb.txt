@@ -1,0 +1,15 @@
+﻿Junk House - Zombie
+Developed and produced by: Nexon
+Texture/Modeling/Edited by: Nexon
+
+Research into the zombie virus continues slowly, yet steadily...
+Meanwhile, experiments on zombie mutations and combat testing take place in an abandoned factory.
+
+Test subjects are selected among the survivors most susceptible to virus mutation.
+Their virus mutations are used to their advantage, and they test strategies to be used in actual combat.
+
+The risk is great, but the very survival of humanity is at stake.
+Only the most courageous volunteer for combat testing.
+
+Humans: Survive the zombie attacks until time runs out, or kill all the zombies.
+Zombies: Kill all the humans and turn them into zombies. Zombies have more HP and are faster than humans.

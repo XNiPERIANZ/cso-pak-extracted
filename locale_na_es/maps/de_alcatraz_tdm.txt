@@ -1,0 +1,6 @@
+﻿Alcatraz (alcatraz): combate mortal en equipo
+Desarrollo y producción: Nexon
+Textura, modelado y edición: Nexon
+
+- Eleva la puntuación de tu equipo matando a todos los miembros del equipo enemigo que se encuentren en el mapa.
+- Para ganar, debes alcanzar el número objetivo de asesinatos.

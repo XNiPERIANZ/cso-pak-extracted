@@ -1,0 +1,7 @@
+﻿Piranesi - Annihilation
+Fingers - iikkak@valvesoftware.com
+Grazie a Ido Magal per le fonti di texture
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

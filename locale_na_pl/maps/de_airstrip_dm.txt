@@ -1,0 +1,7 @@
+﻿Airstrip - Deathmatch
+Autor Mapy: Barney (aka narby) (narby@counter-strike.net)
+
+Specjalne podziękowania dla Iikka Keranen, John Morello i Minh Le
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

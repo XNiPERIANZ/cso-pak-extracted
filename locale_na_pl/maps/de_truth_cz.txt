@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Podkładanie/Rozbrajanie Bomby
+
+Autor Mapy: Ritual Entertainment
+
+Antyterroryści: Powstrzymaj terrorystów przed podłożeniem bomby w posiadłości.
+Terroryści: Podłóż ładunek C4 w środku posiadłości i wysadź go.

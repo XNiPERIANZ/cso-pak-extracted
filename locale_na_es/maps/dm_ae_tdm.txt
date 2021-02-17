@@ -1,0 +1,9 @@
+﻿Otro episodio - Combate mortal en equipo
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+La inteligencia indica que los Terroristas infiltraron el Laboratorio Rex II para continuar con los actos de terror luego del ataque al Laboratorio Rex I. Para detener a los Terroristas, el gobierno envió una fuerza al techo. Ahora ambos grupos se enfrentan en combate.
+
+- Antiterroristas: Eviten que los Terroristas causen daños en el laboratorio.
+- Terroristas: Eliminen a los Antiterroristas e infiltren el laboratorio.

@@ -1,0 +1,9 @@
+﻿Nuke - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: Jo Bieg (MEEEEDIC@gmx.net)
+
+Antyterroryści: Powstrzymaj terrorystów przed zbombardowaniem ładunku nuklearnego. Przeciwnik może zaatakować od góry lub od dołu. Członkowie drużyny muszą rozbroić bombę, jeśli zostanie ona podłożona w którejkolwiek ze stref.
+
+Terroryści: Terrorysta niosący ładunek C4 musi go podłożyć na ładunku nuklearnym.
+
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

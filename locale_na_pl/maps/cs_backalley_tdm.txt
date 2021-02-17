@@ -1,0 +1,5 @@
+﻿Back Alley - Drużynowy Deathmatch
+Autor Mapy: TYR (tyr@barking-dog.com)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

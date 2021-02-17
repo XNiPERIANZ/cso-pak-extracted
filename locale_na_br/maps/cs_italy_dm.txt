@@ -1,0 +1,7 @@
+﻿Italy - Mata-mata
+
+Mapa criado por: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texturas/Gráficos criados por: DigiChaos (digichaos@hotsheep.com)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

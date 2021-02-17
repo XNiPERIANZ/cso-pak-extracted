@@ -1,0 +1,15 @@
+﻿Torn - Bomb Planting/Defusing
+Map erstellt von: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+Terroristen: Leitet Nervengas in den Wasserspeicher der Stadt, so dass es sich auf alle Städte im Umkreis verteilen kann.
+
+Counter-Terroristen: Bringt die Situation unter Kontrolle. Hindert den Feind daran, sein Ziel zu erreichen.
+
+
+Hinweis: Es sind zwei Detonationsorte vorgesehen.
+
+
+
+
+

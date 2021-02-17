@@ -1,0 +1,7 @@
+﻿Aztec - Ölüm Maçı
+
+Haritayı yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuları yapan: Macman
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

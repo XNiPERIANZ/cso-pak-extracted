@@ -1,0 +1,8 @@
+﻿Union - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş sayıda raundu tamamlayarak oyunu kazan.
+- Bir sonraki raunt başlayana kadar canlanamazsın.

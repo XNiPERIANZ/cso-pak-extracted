@@ -1,0 +1,8 @@
+﻿Depo - Silahlı Ölüm Maçı
+Haritayı tasarlayan: Nexon
+Dokuları tasarlayan: Nexon
+
+Hedef
+- Kazanmak için son el bombasıyla düşman takımı yok edin.
+- Haritadaki tüm düşman takım üyelerini öldürerek takım puanınızı arttırın.
+- Verilen sürede gerekli öldürme sayısına ulaşan ilk takım kazanır.

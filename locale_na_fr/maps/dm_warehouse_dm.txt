@@ -1,0 +1,11 @@
+﻿Warehouse - Match à Mort
+
+Carte développée par : Nexon 
+
+Textures développées par : Nexon
+
+ 
+
+- Éliminez les joueurs aux alentours.
+ 
+- Le joueur avec le plus d'éliminations à la fin gagnera la partie.

@@ -1,0 +1,6 @@
+﻿Dust II (Dust 2) – Duelo de Equipes por Itens
+Criador do Mapa: Dave J (http://www.johnsto.co.uk)
+Criador da Textura: MacMan (MacManInfi@aol.com)
+
+Objetivo: Chegue ao alvo eliminando jogadores inimigos.
+Dica: Um ataque de área de efeito ou habilidades especiais podem ser usados depois de usar um item.

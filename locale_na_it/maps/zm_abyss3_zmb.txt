@@ -1,0 +1,12 @@
+﻿Abyss 3 - Zombie
+Pianificazione/Produzione: Nexon
+Texture/Revisione: Nexon
+
+Un anno dopo l'incidente nel laboratorio Rex, si sentiva un suono di macchine non identificato che proveniva dalla fabbrica chiusa vicino al laboratorio.
+Per investigare il rumore, membri del team di sicurezza sono entrati nella fabbrica ma il contatto radio si è perso per più di un'ora.
+In risposta alla situazione, degli agenti del governo si sono infiltrati nella fabbrica e hanno scoperto che era già diventato un complesso per trasformare i cadaveri in Zombie.
+Il segreto dietro l'aumento del numero di Zombie era la fabbrica stessa. 
+
+
+Umani: Sopravvivete gli attacchi Zombie fino a che arrivino i rinforzi. Fate attenzione ai compagni di team che potrebbero trasformarsi in Zombie. Siete autorizzati a uccidere tutti gli Zombie. 
+Zombie: Quelli che sono diventati Zombie devono uccidere gli Umani e trasformarli in Zombie. Gli Zombie hanno PF più alti e sono più veloci degli Umani.

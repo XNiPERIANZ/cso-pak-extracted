@@ -1,0 +1,6 @@
+﻿Aztec - Deathmatch
+Carte créée par : Chris Auty (Barney) (narby@counter-strike.net)
+Texture créée par : Macman 
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

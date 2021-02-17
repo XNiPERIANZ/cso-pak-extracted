@@ -1,0 +1,10 @@
+﻿Abyss - Zombi
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+Rex Laboratuvarının B-2 bölgesinde bir görev yürütülürken, ekibin bazı üyeleri C4 patlaması sebebiyle B-1 bölgesine düştü. Düştükleri yerde ise başarısızlıkla sonuçlanan bir çalışmanın mühürlenmiş deneklerini buldular.
+Maalesef, mühürlenmiş denekler patlama ile uyanmışlardı.
+
+- İnsanlar: Destek kuvvetler gelene kadar Zombi saldırılarından sağ kurtulun. Zombiye dönüşme ihtimali olan silah arkadaşlarınıza dikkat edin. Tüm Zombileri öldürme yetkisine sahipsiniz. 
+- Zombiler: Zombiye dönüşenler İnsanları öldürmeli ve onları da Zombiye dönüştürmeliler. Zombiler daha yüksek Sağlık Puanına sahiptir ve İnsanlardan daha hızlıdırlar.

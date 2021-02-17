@@ -1,0 +1,21 @@
+﻿Torn - Zombie
+Map erstellt von: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+Während der Kämpfe zwischen den Terroristen und den Counter-Terroristen wurden unidentifizierte Wesen entdeckt. Es scheinen Zombies zu sein, die aus dem Rex Labor entkommen sind.Um zu überleben, müssen die Menschen jetzt zusammenarbeiten.
+
+Menschen: Überlebt die Zombie-Angriffe während des restlichen Spiels oder tötet alle Zombies.
+Zombies: Die, die zu Zombies verwandelt wurden, müssen alle Menschen töten und sie ebenfalls in Zombies verwandeln.
+Zombies haben höhere HP und sind schneller als Menschen.
+
+
+
+
+
+
+
+
+
+
+
+

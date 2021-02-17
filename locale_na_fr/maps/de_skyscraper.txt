@@ -1,0 +1,10 @@
+﻿Skyscraper - Installation et démantèlement d'explosifs
+Conception et réalisation : Nexon
+Texture / Modélisation / Édition : Nexon
+
+Antiterroristes : Empêchez les terroristes de faire exploser les coffres d'armes chimiques. Les membres de l'équipe doivent démanteler tous les explosifs mis en place dans la zone spécifiée.
+
+Terroristes : Les terroristes possédant du C4 doivent faire exploser les coffres d'armes chimiques aux deux endroits où ils ont été posés.
+
+
+Etc. : Cette carte compte deux zones d'explosion.

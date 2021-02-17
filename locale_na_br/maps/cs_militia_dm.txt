@@ -1,0 +1,6 @@
+﻿Militia - Mata-mata
+
+Mapa criado por: Andrew Aumann (andrewja@home.com)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

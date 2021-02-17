@@ -1,0 +1,6 @@
+﻿Snow Base - Takım Ölüm Maçı
+Geliştirici: Nexon 
+Dokular: Nexon
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Kazanmak için belirlenmiş öldürme sayısına ulaşın.

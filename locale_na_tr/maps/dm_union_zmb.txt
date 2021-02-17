@@ -1,0 +1,9 @@
+﻿Union - Zombi
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+Teröristler ve Anti-Teröristler arasındaki savaş devam ederken tanımlanamayan varlıklar bulundu. Rex Laboratuvarından kaçmış Zombilere benziyorlar. İnsanlar hayatta kalmak için beraber mücadele etmeliler.
+
+- İnsanlar: Kalan süre boyunca Zombi saldırılarından sağ kurtulun ya da tüm Zombileri öldürün.
+- Zombiler: Zombiye dönüşenler İnsanları öldürmeli ve onları da Zombiye dönüştürmeliler. Zombiler daha yüksek Sağlık Puanına sahiptir ve İnsanlardan daha hızlıdırlar.

@@ -1,0 +1,6 @@
+﻿Rats - Deathmatch
+Planning/Production : Nexon
+Texture/Révision : Nexon
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

@@ -1,0 +1,6 @@
+﻿Corrupción - Combate mortal
+
+por Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

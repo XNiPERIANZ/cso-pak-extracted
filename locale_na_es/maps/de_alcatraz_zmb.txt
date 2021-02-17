@@ -1,0 +1,8 @@
+﻿Alcatraz (alcatraz) - Zombi
+Desarrollo y producción: Nexon
+Textura, modelado y edición: Nexon
+
+Durante la batalla entre terroristas y antiterroristas, unas extrañas criaturas zombi emergieron del Laboratorio Rex. Ahora, los humanos no tienen más elección que unirse para sobrevivir.
+
+Humanos: sobrevivan a los ataques de los zombis hasta que se acabe el tiempo o maten a todos los zombis.
+Zombis: maten a todos los humanos y conviértanlos en zombis. Los zombis tienen mayor PV y son más rápidos que los humanos.

@@ -1,0 +1,8 @@
+﻿Survivor - Sojusz Zombie
+Autor Mapy: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

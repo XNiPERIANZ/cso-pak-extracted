@@ -1,0 +1,10 @@
+﻿Lost City - Hayatta Kalma
+
+Planlama/Yapım: NEXON
+Harita Yapımı/Düzenleme: NEXON
+
+Rex Virüsü sebebiyle karantinaya alınan şehre gönderilen araştırma ekibiyle yaklaşık iki ay kadar bir süredir bağlantı kurulamıyor. Durumu incelemesi için gönderilen bir özel birlik askeri şehre vardıktan sonra her yerin Zombilerce istila edildiğini fark etti. Tam bulgularını iletmek üzereyken telsiz bağlantısı koptu ve Zombiler saldırmaya başladı. Şimdiyse ilk saldırıdan kurtulan İnsanlar hayatta kalmak için son savunmalarını yapıyor.
+
+- Mümkün olduğunca hayatta kalmaya çalış. Oyun tüm oyuncular öldüğünde sona erecek.
+- Silah ve ekipman satın almak için [B] tuşuna bas. Açılan menüden Sağlık Puanını ve ATT seviyeni de arttırabilirsin.
+- Raunt sonunda bir kişi bile hayatta kalsa bile bir sonraki rauntta tüm ölü oyuncular tekrar canlanır.

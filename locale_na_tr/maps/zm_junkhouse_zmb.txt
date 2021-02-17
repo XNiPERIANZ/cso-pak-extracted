@@ -1,0 +1,15 @@
+﻿Önemsiz Ev - Zombi
+Geliştiren ve üreten: Nexon
+Doku/Modelleme/Düzenleme: Nexon
+
+Zombi virüsü araştırmaları ağır ağır fakat istikrarlı bir şekilde devam ediyor...
+Bu esnada, zombi mutasyonu ve çarpışma testleri de terk edilmiş bir fabrikada yapılıyor.
+
+Test süjeleri, hayatta kalanlar arasından virüs mutasyonuna en yatkın olanlardan seçiliyor.
+Sahip oldukları virüs mutasyonları, avantaj olarak kullanılıyor ve gerçek çatışmada kullanılabilecek stratejiler test ediliyor.
+
+Risk büyük fakat insanlığın varoluşu tehlikede.
+Yalnızca en cesurlar çatışma testleri için gönüllü oluyor.
+
+İnsanlar: Süre bitene kadar zombi saldırılarından hayatta kalın veya tüm zombileri öldürün.
+Zombiler: Tüm insanları öldürerek zombiye çevirin. Zombiler, insanlardan daha hızlıdır ve daha fazla Sağlığa sahiptirler.

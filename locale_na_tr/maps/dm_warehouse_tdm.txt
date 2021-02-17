@@ -1,0 +1,8 @@
+﻿Warehouse - Takım Ölüm Maçı
+
+Geliştirici: Nexon
+Dokular: Nexon
+
+- Haritadaki tüm düşman birimleri öldürerek takım puanını artırmalısınız.
+
+- Belirtilen sayıda düşmanı öldürerek oyunu kazanın.

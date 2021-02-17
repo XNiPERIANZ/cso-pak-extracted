@@ -1,0 +1,8 @@
+﻿Vegas - Bomb Planting/Defusing
+
+Production: +Cadaver+
+Texture: George_Pooshoes, JOeSmOe
+Revision: NEXON
+
+- Counter-Terrorists: Infiltrate the building and protect the bombing target while eliminating the Terrorists.
+- Terrorists: Use a C4 to blow up the safe. If this is not possible, blow up the Sphinx and show the world our intentions.

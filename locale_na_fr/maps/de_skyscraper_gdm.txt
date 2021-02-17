@@ -1,0 +1,7 @@
+﻿Skyscraper - Match à mort par les armes
+Conception et réalisation : Nexon
+Texture / Modélisation / Édition : Nexon
+
+Objectif
+- Une nouvelle arme est fournie à chaque fois que vous atteignez un certain nombre de victimes avec la précédente.
+- Remportez la victoire en éliminant l'équipe adverse avec la grenade finale remise dans les derniers instants de la partie.

@@ -1,0 +1,7 @@
+﻿Chateau - Mata-mata
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

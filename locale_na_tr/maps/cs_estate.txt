@@ -1,0 +1,6 @@
+﻿Estate - Rehine Kurtarma
+
+Haritayı Yapan: Zaphod Beeblebrox (zaphod@mapcore.com)
+
+- Anti-Teröristler: Malikânede tutsak kalmış 3 rehineyi kurtar.
+- Teröristler: Anti-Teröristlerin rehineleri kurtarmasına engel ol.

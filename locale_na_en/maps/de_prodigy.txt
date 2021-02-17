@@ -1,0 +1,8 @@
+﻿Prodigy - Bomb Planting/Defusing
+
+Map Created By: Hobbit (hobbit@nodream.net)
+
+- Counter-Terrorists: Prevent the Terrorists from bombing the Computer Room or the Fuel Pipe Control Room. The team members must defuse all bombs planted at the bomb sites.
+- Terrorists: A Terrorist in possession of a C4 must bomb one of the two targets.
+
+Note: There are two bombing sites on this map.

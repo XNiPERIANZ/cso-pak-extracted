@@ -1,0 +1,8 @@
+﻿Sanctuary (Sanctuary) - Plantar/desarmar a bomba
+
+Produzido por: NEXON
+
+- Contraterroristas: Evite que os terroristas explodam os locais históricos. Os membros da equipe devem desarmar todas as bombas plantadas nos locais de detonação.
+- Terroristas: Um terrorista em posse de um C4 deve explodir um dos dois locais históricos.
+
+Observação: Há dois locais para plantar bombas neste mapa.

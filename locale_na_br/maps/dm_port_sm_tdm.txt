@@ -1,0 +1,7 @@
+﻿Port - Aniquilação: Fera 
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

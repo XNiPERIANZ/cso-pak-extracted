@@ -1,0 +1,9 @@
+﻿Another Episode - Duelo de Equipes
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+Informações indicam que os terroristas infiltraram o Laboratório Rex II para realizar mais atos de terror após o ataque ao Laboratório Rex I. Para impedir os terroristas, o governo enviou uma tropas especiais para a cobertura do prédio onde agora enfrentam o grupo terrorista.
+
+- Contraterroristas: Evite que os terroristas danifiquem o laboratório.
+- Terroristas: Elimine os contraterroristas e infiltre o laboratório.

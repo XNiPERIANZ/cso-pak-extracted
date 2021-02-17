@@ -1,0 +1,12 @@
+﻿Aztec - Deathmatch
+Map erstellt von: Chris Auty (Barney) (narby@counter-strike.net)
+Textur erstellt von: Macman 
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+
+

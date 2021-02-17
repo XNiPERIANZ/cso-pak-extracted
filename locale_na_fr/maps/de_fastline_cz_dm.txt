@@ -1,0 +1,5 @@
+﻿Fastline - Deathmatch
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

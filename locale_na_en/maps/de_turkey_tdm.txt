@@ -1,0 +1,6 @@
+﻿Sanctuary - Team Death Match
+
+Production: NEXON
+
+- Get more points by eliminating enemies in the map.
+- Reach the target kills to win the game.

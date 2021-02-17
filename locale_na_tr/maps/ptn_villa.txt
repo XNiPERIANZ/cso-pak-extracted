@@ -1,0 +1,22 @@
+﻿Villa (villa) - Partner Modu - Bomba Kurma / İmha Etme
+Haritayı tasarlayan: Nexon
+Dokuları tasarlayan: Nexon
+
+Şehrin dışındaki terk edilmiş bir villada Anti-Teröristler
+ve Teröristler sanal bölgeye sızma ve savunma antrenmanlarına başlıyor.
+
+Saldıran Takım (T):
+Saldıran takım (T) villanın kuzey, güney, doğu ve batı olmak üzere her yanında canlanır
+ve görevi başarmak için villanın içinde bombalanacak hedeflerin
+yerini tespit etmesi veya savunan takımın (AT) tamamını yok etmesi gerekir.
+C4'ün ve içerideki rakiplerin yerini tespit etmek için Partnerler kullanılabilir.
+
+Savunan Takım (AT):
+Savunan takım (AT) villanın içinde, 1. ve 2. katlarda canlanarak
+hedefleri düşman takımdan (T) korumalı veya takımı yok etmelidir.
+Savunan takım canlandığı anda C4'ün konumunu kontrol edebilir.
+Defansif düzen kurmak için Partnerler kullanılabilir.
+
+Notlar:
+Haritada, içlerinden 1 konumun rastgele seçileceği 10 olası C4 konumu vardır.
+Her takım C4 konumuna göre taktiklerini değiştirmelidir.

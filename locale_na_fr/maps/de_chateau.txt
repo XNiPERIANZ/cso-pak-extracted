@@ -1,0 +1,9 @@
+﻿Chateau - Bomb Planting/Defusing
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+Après l'incident de Cobble, Lord William a décidé de rénover sa résidence d'été. 
+
+Antiterroristes : Empêchez les Terroristes de poser une bombe, et protégez la propriété de Lord William.
+
+Terroristes : Empêchez-le de terminer les travaux en posant du C4 dans le jardin avant ou arrière.

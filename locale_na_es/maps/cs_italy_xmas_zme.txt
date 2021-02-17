@@ -1,0 +1,11 @@
+﻿Italia - Navidad - Guerra Zombi
+
+Mapa creado por: Nexon
+Textura/gráficos creados por: Nexon
+
+Durante la batalla entre terroristas y antiterroristas, unas extrañas criaturas zombi emergieron del Laboratorio Rex.
+Ahora, los humanos no tienen más elección que unirse para sobrevivir.
+
+Objetivo
+Humanos: sobrevivan a los ataques de los zombis hasta que se acabe el tiempo o maten a todos los zombis.
+Zombis: maten a todos los humanos. Los zombis tienen mayor PV y son más rápidos que los humanos.

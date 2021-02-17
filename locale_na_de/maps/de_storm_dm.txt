@@ -1,0 +1,13 @@
+﻿Storm - Deathmatch
+Map erstellt von: FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+Textur erstellt von:  Fingers - jOeSmOe - MattC
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+
+

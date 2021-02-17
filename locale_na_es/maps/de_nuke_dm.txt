@@ -1,0 +1,6 @@
+﻿Arma nuclear - Combate mortal
+
+Mapa creado por: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

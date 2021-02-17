@@ -1,0 +1,10 @@
+﻿Gallery - Silahlı Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Yakındaki tüm oyuncuları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.
+- Düşman takım üyesini son bomba ile öldüren takım oyunu kazanır.
+- Haritadaki düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Kazanmak için belirlenmiş öldürme sayısına verilen süre içinde ulaş.

@@ -1,0 +1,6 @@
+﻿Train Shed - Match à Mort
+Pensé, élaboré et développé par : Nexon
+Texture, modélisation et édition par : Nexon 
+
+- Éliminez les joueurs aux alentours.
+- Le joueur avec le plus d'éliminations à la fin de la partie gagnera.

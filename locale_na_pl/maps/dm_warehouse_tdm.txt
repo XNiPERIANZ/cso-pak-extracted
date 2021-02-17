@@ -1,0 +1,6 @@
+﻿Warehouse (Magazyn) - Drużynowy Deathmatch 
+Mapa autorstwa: Nexon 
+Tekstury autorstwa: Nexon
+
+- Celem mapy jest zwiększanie wyniku drużynowego poprzez zabijanie członków drużyny przeciwnej znajdujących na mapie.
+- By wygrać, osiągnij odpowiednią liczbę zabójstw.

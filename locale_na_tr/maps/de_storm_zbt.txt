@@ -1,0 +1,8 @@
+﻿Storm
+
+Haritayı Yapan: FLiPMoDE|Daank (daankvirus420k@icqmail.com)
+Dokuları Yapan:  Fingers - jOeSmOe - MattC
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunuzu arttırın.
+- Belirlenmiş sayıdaki öldürme sayısına ulaşarak oyunu kazanın.
+- Eğer eşya kutusu elde edilirse öldürme sayısı artar.

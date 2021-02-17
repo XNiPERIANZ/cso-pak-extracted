@@ -1,0 +1,11 @@
+﻿Oil Rig - Assassin
+Carte créée par : MacMan (macmaninfi@aol.com)
+Texture créée par : MacMan
+Hélicoptère Westland Wessex créé par : Agent Orange 
+[agentorange@freemail.nl]
+
+Synopsis : Le témoin du plus grand crime de l'histoire se cache dans une plate-forme pétrolière. Jusqu'à présent, le témoin était tenu à l'abri par le programme de protection des témoins, mais cet endroit n'est plus sûr. Un hélicoptère a été dépêché pour déplacer le témoin dans un nouveau lieu.
+
+Antiterroristes : Protégez le VIP à tout prix. Conduisez et protégez le témoin jusqu'à l'hélicoptère posé sur le pont.
+
+Terroristes : Éliminez le VIP avant son exfiltration.

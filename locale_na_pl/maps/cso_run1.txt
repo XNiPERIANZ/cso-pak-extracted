@@ -1,0 +1,7 @@
+﻿Bieg 1 - Wyzwanie
+Planowanie/Produkcja: Nexon
+Tekstury/Modelowanie/Korekta: Nexon
+
+- Gracz z najszybszym wynikiem w wyznaczonym czasie wygrywa.
+- Zostaniesz przeniesiony do swojego ostatniego punktu kontrolnego, jeśli umrzesz lub spadniesz.
+- Na tej mapie nie ma konfliktów między graczami.

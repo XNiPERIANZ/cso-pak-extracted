@@ -1,0 +1,10 @@
+﻿Skyscraper - Installing and dismantling of explosives
+Developed and produced by : Nexon
+Texture/Modeling/Edited by : Nexon
+
+Counter-terriorists: Stop the terrorists from detonating chemical weapon boxes. Team members have to dismantle all explosives installed in the objective area.
+
+Terrorists: The terrorists with C4 have to detonate the chemical weapon boxes in either of the 2 places they are placed.
+
+
+Etc.: There are two detonation areas in this map.

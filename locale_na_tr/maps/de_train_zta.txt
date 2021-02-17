@@ -1,0 +1,5 @@
+﻿Train - Yok Etme
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş raunt sayısını tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar yeniden canlanmayacaksın.

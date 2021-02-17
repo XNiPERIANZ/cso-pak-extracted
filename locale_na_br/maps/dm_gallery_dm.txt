@@ -1,0 +1,7 @@
+﻿Gallery - Mata-mata
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

@@ -1,0 +1,7 @@
+﻿Tide - Podkładanie/Rozbrajanie Bomby
+
+Antyterroryści: Powstrzymaj terrorystów przed zbombardowaniem celu.
+
+Terroryści: Podłóż i zdetonuj bomby.
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

@@ -1,0 +1,6 @@
+﻿Airstrip - Team Deathmatch
+Carte créée par : Barney (aka narby) (narby@counter-strike.net)
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en tuant un certain nombre d'ennemis.

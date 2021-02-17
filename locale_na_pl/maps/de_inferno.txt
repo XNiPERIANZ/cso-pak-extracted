@@ -1,0 +1,12 @@
+﻿Inferno - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: Chris Auty (Barney) (narby@counter-strike.net)
+Autor Tekstury: Valve software
+
+Terroryści planują zbombardować ropociąg, który przechodzi przez dwa małe miasteczka.
+
+Antyterroryści: Powstrzymaj Terrorystów przed zbombardowaniem ropociągu.
+
+Terroryści: Zbombarduj jedną z dwóch lokacji przy ropociągu.
+
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

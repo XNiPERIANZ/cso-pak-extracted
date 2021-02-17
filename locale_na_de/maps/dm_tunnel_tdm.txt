@@ -1,0 +1,9 @@
+﻿Tunnel - Team Deathmatch
+Planung/Produktion: Nexon
+Textur/Bearbeitung: Nexon
+
+Die Terroristen planen einen Eisenbahntunnel zu sprengen, um das Geld und die Waffen von dem Zug zu stehlen, der dort durchfahren wird.
+Counter-Terrroristen: Greift die Terroristen an, um sie daran zu hindern, dass sie ihr Ziel erreichen.
+Terroristen: Greift die Counter-Terroristen an, damit die Mission nach Plan verläuft.
+
+Hinweis: Jedem Team stehen zwei Verstärkungs-Locations zur Verfügung.

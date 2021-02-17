@@ -1,0 +1,6 @@
+﻿Wolkenkratzer - Deathmatch
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+- Töte alle sich in der Nähe befindenden Spieler.
+- Der Spieler mit den meisten Kills gewinnt.

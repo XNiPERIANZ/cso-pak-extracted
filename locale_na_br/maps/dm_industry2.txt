@@ -1,0 +1,9 @@
+﻿Industry 2 - Aniquilação
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+Os terroristas e os contraterroristas confrontam-se no terreno baldio de uma fábrica.
+
+- Elimine todos os membros da equipe inimiga.
+- Ganha a equipe que aniquilar a outra.

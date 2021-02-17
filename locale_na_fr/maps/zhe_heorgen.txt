@@ -1,0 +1,12 @@
+﻿Heorgen : survie
+Conception et réalisation : Nexon
+Texture/Modélisation/Édition : Nexon
+
+C'est dans le village de Heorgen que l'épidémie a commencé.
+
+Plongé au clair de lune et noyé dans le brouillard, le modeste calme de ce village dissimule nombre d'innocents qui y ont péri.
+Seuls le cri du vent froid et la lueur venant du mausolée troublent le calme de la nuit.
+
+Objectif
+– Humains : Activez tous les générateurs situés dans la ville de Heorgen, ouvrez les voies d'évacuation et fuyez aux abords du village.
+– Zombie : Trouvez tous les survivants et immobilisez-les pour les empêcher de fuir.

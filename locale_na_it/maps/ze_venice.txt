@@ -1,0 +1,20 @@
+﻿Venice - Zombie Escape
+Mappa creata da: Nexon
+Texture creata da: Nexon
+
+La bella città di Venezia, con il sole caldo e il rumore caldo delle onde,
+faceva dimenticare gli orrori degli Zombie.
+
+Sopravvissuti di tutto il mondo che sono scappati dall'attacco degli Zombie
+potevano ora passare dei giorni calmi e rilassati nella loro nuova casa.
+
+Ma anche questa pace era passeggera...
+A causa della cattiva gestione dei portatori del virus, la loro nuova casa
+è diventata un'isola dell'inferno...
+
+Quando sembrava non esserci più speranze,
+si è fatto contatto radio con il pilota di un elicottero inviato per cercare sopravvissuti in altre zone.
+
+Obiettivo:
+Umani: Trovate la strada verso l'ubicazione di fuga e richiedete assistenza al pilota dell'elicottero per scappare da Venezia!
+Zombie: Infettate tutti gli Umani o prendete l'elicottero in arrivo e impedite agli Umani di scappare!

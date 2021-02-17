@@ -1,0 +1,10 @@
+﻿Abyss 2 - Zombie
+Planning/Production : Nexon
+Texture/Révision : Nexon
+
+L'équipe de secours, envoyée pour sauver les survivants de la zone B-1 du Rex Laboratory, avait prévu de passer par l'aile C, un centre de formation au combat.
+Cependant, la zone C-5 subissait déjà l'attaque de formes de vie non identifiées.
+L'équipe de secours et les survivants qu'ils ont rencontrés ont fait tout leur possible pour s'échapper, mais leurs efforts ont tiré des créatures de leur sommeil...
+
+Humains : Survivez aux attaques zombies jusqu'à l'arrivée des renforts. Surveillez vos partenaires, ils pourraient se changer en Zombie. Vous êtes autorisé à tuer tous les Zombies. 
+Zombies : Ceux qui se sont changés en Zombies doivent tuer les Humains et les transformer en Zombies. Les Zombies ont plus de PV et sont plus rapides que les Humains.

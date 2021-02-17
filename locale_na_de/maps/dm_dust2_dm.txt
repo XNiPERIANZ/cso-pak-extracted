@@ -1,0 +1,7 @@
+﻿Dust 2 - Deathmatch
+Map erstellt von: DaveJ (http://www.johnsto.co.uk/)
+Textur erstellt von: MacMan (MacManInfi@aol.com)
+Map-Bearbeitung: Nexon
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.

@@ -1,0 +1,6 @@
+﻿Back Alley - Duelo de Equipes
+
+Mapa criado por: TYR (tyr@barking-dog.com)
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

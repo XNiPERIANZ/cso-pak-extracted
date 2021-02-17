@@ -1,0 +1,8 @@
+﻿747 - Team Deathmatch
+Carte créée par : Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture créée par : "The Postman" 
+(heavengame@yahoo.com)
+
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en tuant un certain nombre d'ennemis.

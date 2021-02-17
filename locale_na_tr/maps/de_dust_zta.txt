@@ -1,0 +1,8 @@
+﻿Dust - Yok Etme
+
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları Yapan: MacMan (MacManInfi@aol.com)
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş sayıdaki rauntları tamamlayarak oyunu kazanın.
+- Sıradaki raunt başlayana kadar canlanmayacaksın.

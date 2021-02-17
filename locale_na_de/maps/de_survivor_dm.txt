@@ -1,0 +1,12 @@
+﻿Survivor - Deathmatch
+Map erstellt von: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+

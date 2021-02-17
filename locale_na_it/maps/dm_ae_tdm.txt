@@ -1,0 +1,7 @@
+﻿Another Episode - Team Deathmatch
+Pianificazione/Produzione: Nexon
+Texture/Modelli/Revisione: Nexon
+
+Delle informazioni indicano che i Terroristi si sono infiltrati nel laboratorio Rex II per effettuare degli atti di violenza in seguito all'attacco del laboratorio Rex I. Per poter fermare i Terroristi, il governo ha inviato un'unità al tetto per fronteggiare il gruppo Terrorista.
+Antiterroristi: Impedite ai Terroristi di causare danni nel laboratorio.
+Terroristi: Eliminate gli Antiterroristi e infiltratevi nel laboratorio.

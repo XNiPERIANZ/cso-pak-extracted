@@ -1,0 +1,10 @@
+﻿Oil Rig - Assassinato
+
+Mapa criado por: MacMan (macmaninfi@aol.com)
+Texturas criadas por: MacMan
+Helicóptero Westland Wessex criado por: Agent Orange [agentorange@freemail.nl]
+
+História: Uma testemunha do maior crime da história está escondida nesta plataforma de petróleo. Ela tem sido mantida em segurança até agora através do programa de proteção a testemunhas, mas este lugar não é mais seguro. Um helicóptero foi enviado para levar a testemunha a um novo local.
+
+- Contraterroristas: Proteja o VIP a todo custo. Leve em segurança a testemunha até o heliponto.
+- Terroristas: Elimine o VIP antes que ele consiga escapar.

@@ -1,0 +1,6 @@
+﻿Champion - Anihilacja
+Planowanie/Produkcja: Nexon
+Tekstury/Modelowanie/Korekta: Nexon
+
+- Zabij wszystkich przeciwników na mapie.
+- Gdy jedna drużyna zostanie wyeliminowana, pozostała drużyna wygrywa.

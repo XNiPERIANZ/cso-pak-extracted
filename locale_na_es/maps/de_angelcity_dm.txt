@@ -1,0 +1,8 @@
+﻿Ciudad de Ángeles - Combate mortal
+
+Autor original: Desconocido
+Mapa creado por: NEXON
+Textura creada por: NEXON
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

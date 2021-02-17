@@ -1,0 +1,6 @@
+﻿Warehouse (Magazyn) - Deathmatch
+Mapa autorstwa: Nexon
+Tekstury autorstwa: Nexon
+
+ - Zabij wszystkich pobliskich przeciwników.
+- Wygra gracz z największą ilością zabójstw pod koniec gry.

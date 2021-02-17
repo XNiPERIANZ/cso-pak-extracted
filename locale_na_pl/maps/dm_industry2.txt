@@ -1,0 +1,7 @@
+﻿Industry 2 - Anihilacja
+Planowanie/Produkcja: Nexon
+Tekstury/Modelowanie/Korekta: Nexon
+
+Terroryści i Antyterroryści walczą ze sobą w zabudowanym regione fabryki.
+- Zabij wszystkich przeciwników na mapie.
+- Gdy jedna drużyna zostanie wyeliminowana, pozostała drużyna wygrywa.

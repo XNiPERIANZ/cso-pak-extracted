@@ -1,0 +1,7 @@
+﻿Dust - Team Deathmatch
+
+Map Created By: DaveJ (http://www.johnsto.co.uk/)
+Texture Created By: MacMan (MacManInfi@aol.com)
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.

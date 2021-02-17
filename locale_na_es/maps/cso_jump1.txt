@@ -1,0 +1,8 @@
+﻿Jump 1 - Desafío
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+- Gana el jugador que obtenga el récord más rápido durante el tiempo designado.
+- Si mueres o te caes, volverás a tu último punto de control.
+- No hay conflictos de jugador en este mapa.

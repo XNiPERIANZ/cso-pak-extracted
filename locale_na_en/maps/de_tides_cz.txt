@@ -1,0 +1,6 @@
+﻿Tide - Bomb Planting/Defusing
+
+- Counter-Terrorists: Stop the Terrorists from their bombing attempt.
+- Terrorists: Plant and detonate bombs.
+
+Note: There are two bombing sites in this mission.

@@ -1,0 +1,7 @@
+﻿Havana - Resgate de Reféns
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Terroristas: Reféns políticos estão sendo mantidos em cativeiro em Havana Vieja. Resista aos ataques até o fim da rodada e um helicóptero virá resgatá-lo.
+- Contraterroristas: Todas as áreas próximas foram protegidas. Agora você deve resgatar todos os reféns antes dos terroristas escaparem.

@@ -1,0 +1,7 @@
+﻿Cobble - Ölüm Maçı
+
+Haritayı yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları yapan: MacMan (MacManInfi@aol.com)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

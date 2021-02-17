@@ -1,0 +1,7 @@
+﻿Dark Snow - Mata-mata
+
+Mapa criado por: NEXON
+Texturas criadas por: NEXON
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

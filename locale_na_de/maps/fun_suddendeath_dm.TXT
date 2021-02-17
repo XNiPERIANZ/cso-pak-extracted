@@ -1,0 +1,8 @@
+﻿Mobius - Sudden Death
+Map erstellt von: Nexon
+Texturen erstellt von: Nexon
+
+ - Töte alle Spieler in der Nähe und überlebe bis zum Schluss.
+- Nutze eine Waffe, die zu einem bestimmten Zeitpunkt spawnt.
+- Eine Explosion wird alle nach einer Minute töten.
+- Der Spieler mit den meisten Kills am Ende gewinnt.

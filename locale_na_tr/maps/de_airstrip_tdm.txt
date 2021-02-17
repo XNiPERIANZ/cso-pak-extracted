@@ -1,0 +1,7 @@
+﻿Airstrip - Takım Ölüm Maçı
+
+Haritayı yapan: Barney (namı diğer narby) (narby@counter-strike.net)
+Iikka Keranen, John Morello and Minh Le'ye teşekkürler
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takımının skorunu yükselt.
+- Düşmanı belirtilen sayıda öldürerek kazan.

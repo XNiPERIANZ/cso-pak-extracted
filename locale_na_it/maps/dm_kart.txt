@@ -1,0 +1,8 @@
+﻿Village - Annihilation
+Pianificazione/Produzione: Nexon
+Texture/Modelli/Revisione: Nexon
+
+Informazioni di alto livello indicano che sono state rilevate delle attività Terroriste fuori la città.
+Gli Antiterroristi sono arrivati al villaggio e l'hanno trovato piuttosto... interessante.
+- Uccidete tutti i membri del team nemico nella mappa.
+- Quando un team viene annichilito, il team rimanente vince.

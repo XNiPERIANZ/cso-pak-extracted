@@ -1,0 +1,7 @@
+﻿Vertigo - Mata-mata
+
+Mapa criado por: Chris Auty (Barney) (fragged101@yahoo.com)
+Texturas criadas por: Telnets e J0esm0e
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

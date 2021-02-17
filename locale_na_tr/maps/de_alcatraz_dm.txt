@@ -1,0 +1,6 @@
+﻿Alcatraz (alcatraz) - Ölüm Maçı
+Geliştiren ve üreten: Nexon
+Doku/Modelleme/Düzenleme: Nexon
+
+- Tüm düşman oyuncularını öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

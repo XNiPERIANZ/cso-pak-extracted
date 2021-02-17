@@ -1,0 +1,7 @@
+﻿Dazzling - Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

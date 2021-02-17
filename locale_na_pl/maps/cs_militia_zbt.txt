@@ -1,0 +1,6 @@
+﻿Militia - Sojusz Zombie
+Autor Mapy: Andrew Aumann (andrewja@home.com)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

@@ -1,0 +1,6 @@
+﻿Asedio - Combate mortal en equipo
+
+Mapa creado por: N0TH1NG (n0th1ng@mailcity.com)
+
+- Para elevar la puntuación de tu equipo, mata a todos los enemigos que se encuentren en el mapa.
+- Para ganar, debes alcanzar un número designado de muertes.

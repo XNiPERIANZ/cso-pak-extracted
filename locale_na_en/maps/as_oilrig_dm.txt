@@ -1,0 +1,8 @@
+﻿Oil Rig - Deathmatch
+
+Map Created By: MacMan (macmaninfi@aol.com)
+Texture Created By: MacMan
+Westland Wessex Helicopter Created By: Agent Orange [agentorange@freemail.nl]
+
+- Kill all nearby players.
+- The player with the most kills wins.

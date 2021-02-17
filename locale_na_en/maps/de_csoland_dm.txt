@@ -1,0 +1,6 @@
+﻿CSN:S Land - Deathmatch
+Map created by: Nexon
+Texture created by: Nexon
+
+- Kill all enemy players.
+- The player with the most kills wins.

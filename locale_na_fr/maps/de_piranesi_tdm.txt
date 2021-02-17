@@ -1,0 +1,6 @@
+﻿Piranesi - Team Deathmatch
+Fingers - iikkak@valvesoftware.com
+Merci à Ido Magal pour les sources de texture
+
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en tuant un certain nombre d'ennemis.

@@ -1,0 +1,7 @@
+﻿Vertigo - Annihilation
+Mappa creata da: Chris Auty (Barney) (fragged101@yahoo.com)
+Texture creata da: Telnets and J0esm0e
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

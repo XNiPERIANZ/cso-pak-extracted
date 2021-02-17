@@ -1,0 +1,7 @@
+﻿Airstrip - Team Deathmatch
+
+Map Created By: Barney (aka narby) (narby@counter-strike.net)
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.

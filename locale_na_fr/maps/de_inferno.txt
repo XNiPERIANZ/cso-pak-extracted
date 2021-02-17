@@ -1,0 +1,11 @@
+﻿Inferno - Bomb Planting/Defusing
+Carte créée par : Chris Auty (Barney) (narby@counter-strike.net)
+Texture créée par : Valve software
+
+Les Terroristes projettent de faire exploser un oléoduc qui traverse deux petites villes.
+
+Antiterroristes : Empêchez les Terroristes de faire exploser l'oléoduc.
+
+Terroristes : Faites exploser l'oléoduc aux deux endroits indiqués.
+
+Note : Il y a deux sites de bombe dans cette mission.

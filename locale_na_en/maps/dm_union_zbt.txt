@@ -1,0 +1,11 @@
+﻿Union
+
+Planning/Production: NEXON
+Texture/Revision: NEXON
+
+Thanks to a successful experiment at Rex Laboratory, antibodies to the Rex Virus and a device that reverses the virus, allowing some Zombies to be controlled, has been completed. Using the newly completed technology, the government carried out an attack on Terrorists in Europe and found Dr. Rex who had gone missing. He had turned into a Zombie due to a failed experiment, but was a mutant type that could think and speak like a Human.
+
+In order to take revenge on the government that abandoned him, he and his large Zombie army joined forces with the Terrorists.
+
+- Raise the team score by killing all enemy team members.
+- Win by achieving a designated number of kills.

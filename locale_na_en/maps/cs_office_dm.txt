@@ -1,0 +1,7 @@
+﻿Office - Deathmatch
+
+Map Created By: Hobbit (Hobbit@nodream.net)	
+Texture Created By: Sphinx and George_Pooshoes.
+
+- Kill all nearby players.
+- The player with the most kills wins.

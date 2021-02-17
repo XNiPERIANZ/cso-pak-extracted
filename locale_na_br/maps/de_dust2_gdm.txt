@@ -1,0 +1,9 @@
+﻿Dust 2 - Rodízio de Armas
+
+Mapa criado por: DaveJ (http://www.johnsto.co.uk/)
+Texturas criadas por: MacMan (MacManInfi@aol.com)
+
+Objetivo
+- Ganha a equipe que eliminar um membro da equipe inimiga com uma granada final.
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Alcance a contagem de eliminação determinada dentro do limite de tempo para ganhar.

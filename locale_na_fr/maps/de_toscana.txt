@@ -1,0 +1,12 @@
+﻿Toscana - Bomb Planting/Defusing
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Antiterroristes : Une base terroriste vient d'être découverte dans la région de Toscane, en Italie. Cette base leur servait de quartier général, et les Terroristes tentent maintenant de la faire exploser pour effacer leurs traces.
+Les membres de l'équipe doivent désamorcer toute bombe placée sur les sites prévus.
+Exécutez une mission de sabotage pour empêcher les Terroristes d'atteindre leur but !
+
+Terroristes : Un terroriste en possession de C4 doit faire exploser l'un des deux sites indiqués.
+Enrayez la mission de sabotage antiterroriste et détruisez toutes les preuves en rapport avec la base !
+
+Note : Il y a deux sites de bombe dans cette mission.

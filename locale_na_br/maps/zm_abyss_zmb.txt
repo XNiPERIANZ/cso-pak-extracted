@@ -1,0 +1,10 @@
+﻿Abyss - Zumbi
+
+Planejamento/Produção: NEXON
+Texturas/Revisão: NEXON
+
+Enquanto conduziam uma missão na área B-2 do Laboratório Rex, alguns membros da equipe da missão acabaram na área B-1 por causa de uma explosão de C4. O que eles encontraram foram cobaias seladas de um estudo fracassado.
+Infelizmente, as cobaias seladas foram acordadas pela explosão...
+
+- Humanos: Sobreviva aos ataques zumbis até chegarem reforços. Cuidado com aliados que podem se transformar em zumbis. Você tem autorização para eliminar todos os zumbis. 
+- Zumbis: Aqueles que se transformaram em zumbis devem eliminar os humanos e transformá-los em zumbis também. Os zumbis têm mais vida e são mais rápidos que os humanos.

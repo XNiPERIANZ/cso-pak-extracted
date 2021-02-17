@@ -1,0 +1,7 @@
+﻿Havana - Rehine Kurtarma
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Teröristler: Politikacılar Havana Vieja'da rehin tutuluyorlar. Raunt bitene kadar direnirsen bir helikopter kaçışın için oraya ulaşacak.
+- Anti-Teröristler: Yakınlardaki bütün bölgeler kontrol altına alındı. Artık Teröristler kaçmadan bütün rehineleri kurtarmalısın.

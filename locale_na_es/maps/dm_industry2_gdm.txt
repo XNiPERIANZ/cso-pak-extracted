@@ -1,0 +1,10 @@
+﻿Industria 2 - Combate mortal con arma
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+El gobierno recibió inteligencia que indica que los Terroristas están usando como reducto un almacén grande ubicado en las afueras de la ciudad. Para intentar detener a los Terroristas, los Antiterroristas atacaron el almacén, pero los enemigos los esperaban dentro del edificio. Los exploradores de los Terroristas verificaron los movimientos de los Antiterroristas y se preparan para un ataque directo
+
+- Gana el equipo que mate a un miembro del equipo enemigo con una granada final.
+- Para elevar la puntuación de tu equipo, mata a todos los enemigos que se encuentren en el mapa.
+- Para ganar, obtén el conteo de muertes designado dentro del límite de tiempo.

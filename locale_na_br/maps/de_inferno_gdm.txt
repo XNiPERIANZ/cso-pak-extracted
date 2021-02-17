@@ -1,0 +1,10 @@
+﻿Inferno - Rodízio de Armas
+
+Mapa criado por: Chris Auty (Barney) (narby@counter-strike.net)
+Texturas criadas por: Valve software
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.
+- Ganha a equipe que eliminar um membro da equipe inimiga com uma granada final.
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Alcance a contagem de eliminação determinada dentro do limite de tempo para ganhar.

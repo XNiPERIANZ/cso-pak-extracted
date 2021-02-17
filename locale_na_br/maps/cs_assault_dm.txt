@@ -1,0 +1,6 @@
+﻿Assault - Mata-mata
+
+Mapa criado por: CryptR (lmuur@dlc.fi)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

@@ -1,0 +1,24 @@
+﻿Camouflage - Hostage Rescue
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+Zurückgebliebene Einheiten der Terroristen haben sich in einem heruntergekommenen Gebäude versteckt, das eigentlich als Lagergebäude galt. 
+Als die Regierung davon erfahren hat, haben die Terroristen ein nahe gelegenes Regierungslabor angegriffen und 4 Geiseln genommen.
+Sie verlangen jetzt eine große Summe Geld im Austausch gegen die Geiseln und einen Helikopter, um zu entkommen.
+Counter-Terroristen: Eliminiert alle Terroristen und bringt die Geiseln in Sicherheit.
+Terroristen: Hindert die Counter-Terroristen daran, die Geiseln zu retten.
+
+Hinweis: Bei diesem Auftrag geht es um 4 Geiseln.
+
+
+
+
+
+
+
+
+
+
+
+
+

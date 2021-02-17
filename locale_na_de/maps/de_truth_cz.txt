@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Bomb Planting/Defusing
+
+Map erstellt von: Ritual Entertainment
+
+Counter-Terroristen: Hindert die Terroristen daran, eine Bombe im Anwesen zu platzieren.
+Terroristen: Platziert C4 im Anwesen und zündet es.

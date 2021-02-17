@@ -1,0 +1,9 @@
+﻿Aztec - Bomb Planting/Defusing
+Mappa creata da: Chris Auty (Barney) (narby@counter-strike.net)
+Texture creata da: Macman 
+
+Antiterroristi: Impedite ai Terroristi di fare saltare in aria il luogo storico.
+
+Terroristi: Distruggete il sito storico Azteco.
+
+Nota: Ci sono due posti di bombardamento in questa mappa.

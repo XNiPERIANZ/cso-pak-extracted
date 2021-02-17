@@ -1,0 +1,7 @@
+﻿Italy - Annihilation
+Mappa creata da: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texture/Grafica Created By: DigiChaos (digichaos@hotsheep.com)
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

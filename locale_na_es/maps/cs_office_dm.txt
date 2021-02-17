@@ -1,0 +1,7 @@
+﻿Oficina - Combate mortal
+
+Mapa creado por: Hobbit (Hobbit@nodream.net)	
+Textura creada por: Sphinx y George_Pooshoes.
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

@@ -1,0 +1,9 @@
+﻿Santorini - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+- Anti-Teröristler: Santorini bölgesinde Terörist aktiviteleri tespit edildi. Takım üyeleri bombalama bölgelerine yerleştirilmiş olan bombaları etkisizleştirmeli ve teröristleri yok etmeli.
+- Teröristler: Anti-Terörist aktivitelerini engellemeli ve iki bombalama bölgesinden birini bombalamalısınız.
+
+Not: Bu haritada iki bombalama bölgesi vardır.

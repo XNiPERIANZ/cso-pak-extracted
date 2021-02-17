@@ -1,0 +1,8 @@
+﻿Industry 2 - Annihilation
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+Terroristes et Antiterroristes se font face dans le terrain vague d'une usine.
+
+- Tuez tous les membres de l'équipe adverse sur la carte.
+- Quand une équipe est totalement décimée, l'équipe restante remporte la victoire.

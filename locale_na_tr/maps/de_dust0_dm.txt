@@ -1,0 +1,7 @@
+﻿Dust 0 - Deathmatch
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+- Yakındaki tüm oyuncuları öldür.
+- En çok kişi öldüren oyuncu kazanır.

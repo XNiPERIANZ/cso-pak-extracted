@@ -1,0 +1,11 @@
+﻿Vertigo - Plantar/desarmar a bomba
+
+Mapa criado por: Chris Auty (Barney) (fragged101@yahoo.com)
+Texturas criadas por: Telnets e J0esm0e
+
+Os terroristas estão planejando atacar a bomba a Rizzleton Tower que está em construção no momento.
+
+- Contraterroristas: Evite que o prédio seja destruído.
+- Terroristas: Destrua o prédio plantando uma bomba nela.
+
+Observação: Cuidado para não cair do prédio.

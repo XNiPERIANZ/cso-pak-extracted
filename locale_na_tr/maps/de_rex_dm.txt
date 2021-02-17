@@ -1,0 +1,7 @@
+﻿Rex - Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+- Yakındaki tüm düşmanları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.

@@ -1,0 +1,9 @@
+﻿Museo Greesia - Aniquilación
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+Durante una confrontación cerca del Museo Greesia, los Antiterroristas ingresaron al museo y se encontraron con el equipo de francotiradores de los Terroristas.
+Las comunicaciones de apoyo a las tropas se interrumpieron y ahora ambos equipos deben enfrentarse valiéndose solo de sus armas.
+
+- Elimina a todos los francotiradores del enemigo.

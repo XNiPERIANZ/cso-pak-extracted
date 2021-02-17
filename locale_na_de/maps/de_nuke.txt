@@ -1,0 +1,14 @@
+﻿Nuke - Bomb Planting/Defusing
+Map erstellt von: Jo Bieg (MEEEEDIC@gmx.net)
+
+Counter-Terroristen: Hindert die Terroristen daran, die Nuklearrakete zu bombardieren. Der Feind greift von oben oder unten an.
+Teammitglieder müssen alle Bomben, die an den Detonationsorten platziert werden, entschärfen.
+
+Terroristen, die in Besitz von C4 sind, müssen die Nuklearrakete bombardieren.
+
+
+Hinweis: Es sind zwei Bombardierungorte vorgesehen.
+
+
+
+

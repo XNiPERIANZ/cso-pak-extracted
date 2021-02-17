@@ -1,0 +1,8 @@
+﻿Warehouse - Rodízio de Armas
+Mapa criado por: Nexon
+Textura criada por: Nexon
+
+Objetivo
+- Para vencer, elimine a equipe inimiga com a granada final.
+- Marque pontos para sua equipe eliminando todos os membros da equipe inimiga no mapa.
+- A primeira equipe que cumprir a quantidade necessária de eliminações dentro do limite de tempo vence.

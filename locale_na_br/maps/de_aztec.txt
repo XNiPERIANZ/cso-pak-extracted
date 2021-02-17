@@ -1,0 +1,9 @@
+﻿Aztec - Plantar/desarmar a bomba
+
+Mapa criado por: Chris Auty (Barney) (narby@counter-strike.net)
+Texturas criadas por: Macman 
+
+- Contraterroristas: Evite que os terroristas explodam este local histórico.
+- Terroristas: Destrua o local histórico asteca.
+
+Observação: Há dois locais para plantar a bomba neste mapa.

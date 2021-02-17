@@ -1,0 +1,6 @@
+﻿Estate - Deathmatch
+Autor Mapy: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

@@ -1,0 +1,6 @@
+﻿Militia
+Carte créée par : Andrew Aumann (andrewja@home.com)
+
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en tuant un certain nombre d'ennemis.
+- Le compteur de tués augmente quand la caisse d'objets est récupérée.

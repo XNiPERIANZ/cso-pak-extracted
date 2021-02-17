@@ -1,0 +1,6 @@
+﻿Champion - Annihilation
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+- Tuez tous les membres de l'équipe adverse sur la carte.
+- Quand une équipe est totalement décimée, l'équipe restante remporte la victoire.

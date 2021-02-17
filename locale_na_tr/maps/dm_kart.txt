@@ -1,0 +1,9 @@
+﻿Village - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Üst düzey istihbarat bilgileri şehir dışındaki küçük bir köyde Terörist faaliyetlere rastlandığını belirtiyor. Anti-Teröristler köye vardıklarında karşılaştıkları manzara oldukça... ilgi çekiciydi.
+
+- Haritadaki tüm düşman takım üyelerini öldür.
+- Bir takım yok edildiğinde kalan takım oyunu kazanır.

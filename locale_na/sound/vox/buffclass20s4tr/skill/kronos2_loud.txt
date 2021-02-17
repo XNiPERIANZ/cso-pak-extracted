@@ -1,0 +1,22 @@
+Log updated: 	12/07/2020 14:53:38 
+Media: 		C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\skill\kronos2.wav 
+Log file: 	C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\skill\kronos2_loud.txt 
+Format: 	8-bit PCM data, 1 channels @ 22050 Hz
+Algorithm: 	Surround processing turned: OFF
+
+
+Loudness calculations: 
+
+              Pos.	     Time	Mom.(LUFS)	Short(LUFS)	Integ.(LUFS)	Dyn.(LU)
+
+           17833	00:00:00.371	 -1.82		 -7.74		 -2.88		 20.20
+           35666	00:00:00.743	 -2.18		 -4.88		 -2.57		  8.60
+           53499	00:00:01.114	 -2.12		 -3.12		 -2.45		 10.40
+           61501	00:00:01.281	 -2.20		 -2.62		 -2.42		  9.10
+
+
+---------------------------
+Results:
+
+Mom. (max): 	 -1.82 (LUFS) at 00:00:00.808
+Short (max): 	 -2.62 (LUFS) at 00:00:02.789

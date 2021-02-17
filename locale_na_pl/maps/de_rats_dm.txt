@@ -1,0 +1,6 @@
+﻿Rats - Deathmatch
+Planowanie/Produkcja: Nexon
+Tekstury/Korekta: Nexon
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

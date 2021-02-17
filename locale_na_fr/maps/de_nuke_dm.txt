@@ -1,0 +1,5 @@
+﻿Nuke - Deathmatch
+Carte créée par : Jo Bieg (MEEEEDIC@gmx.net)
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

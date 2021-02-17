@@ -1,0 +1,15 @@
+﻿Blood Castle - Zombie Escape
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+Eine unheilvolla Aura ergreift die Soldaten, die damit beschäftigt waren, Reparaturen an einem alten Schloss durchzuführen.
+
+Als die Berichte der Soldaten eintreffen wird von der Führung der Beschluss gefasst, das Schloss zur Zombie Virus Risiko-Zone zu erklären, 
+und eine großangelegte Bombardierung wird durchgeführt, um es dauerhaft zu sperren.
+
+Es ist nicht mehr viel Zeit, bis die Bombardierung beginnt....
+Dein einziges Ziel ist, um jeden Preis zu entkommen!
+
+Zielvorgabe: 
+Menschen: Erreicht den Fluchtpunkt bevor es zu spät ist. Ihr müsst um jeden Preis Menschen bleiben!
+Zombies: Infiziert alle Menschen oder geht zum Fluchtpunkt, um das Entkommen der Menschen zu verhindern bevor die Zeit abläuft.

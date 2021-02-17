@@ -1,0 +1,12 @@
+﻿Dust 0 - Bomb Planting/Defusing
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Antiterroristes : Des activitées terroristes ont été détectées dans un lieu stratégique au Moyen-Orient.
+Les membres de l'équipe doivent désamorcer toutes les bombes posées sur les différents sites
+et éliminer les Terroristes.
+
+Terroristes : Vous devez contenir l'opération antiterroriste
+et faire exploser l'un des deux sites de bombe.
+
+Note : Il y a deux sites de bombe dans cette mission.

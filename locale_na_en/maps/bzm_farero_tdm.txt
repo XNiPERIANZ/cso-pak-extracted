@@ -1,0 +1,7 @@
+﻿Lighthouse (Farero) - Team Deathmatch
+Developed and produced by: Nexon
+Texture/Edited by: Nexon
+
+Objective
+- Earn points for your team by killing members of the enemy team.
+- Win by reaching the point goal before the other team.

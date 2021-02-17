@@ -1,0 +1,18 @@
+﻿Skyline - Zombie Escape
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Après avoir reçu des renseignements suggérant l'apparition de Zombies dans la zone de développement industriel,
+le gouvernement a décidé d'envoyer une équipe pour enquêter sur la situation.
+
+Une fois la présence de Zombies confirmée, le gouvernement a décidé
+de mener des bombardements aériens pour mettre définitivement la ville en quarantaine...
+
+Il ne reste plus beaucoup de temps avant les bombardements aériens !
+Montez à bord du camion qui vous attend au lieu d'exfiltration !
+
+Objectif :
+
+Humains : Frayez-vous un chemin jusqu'à la zone d'évacuation avant que le temps soit écoulé. Vous devez impérativement rester humain !
+
+Zombies : Infectez tous les Humains et rendez-vous au lieu d'évacuation pour empêcher les Humains de s'échapper avant la fin du compte à rebours.

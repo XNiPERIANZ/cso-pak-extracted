@@ -1,0 +1,9 @@
+﻿Dust 2 - Yok Etme
+
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları Yapan: MacMan (MacManInfi@aol.com)
+Harita Düzenlemesi: NEXON
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş sayıda raundu tamamlayarak oyunu kazan.
+- Bir sonraki raunt başlayana kadar canlanamazsın.

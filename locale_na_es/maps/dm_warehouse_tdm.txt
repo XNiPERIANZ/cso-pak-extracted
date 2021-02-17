@@ -1,0 +1,6 @@
+﻿Warehouse - Combate Mortal en Equipo
+Mapa desarrollado por: Nexon 
+Textura desarrollada por: Nexon
+
+- El objetivo es aumentar la puntuación del equipo matando a todos los miembros del equipo enemigo en el mapa. 
+- Para ganar, alcanza el número de muertes designadas.

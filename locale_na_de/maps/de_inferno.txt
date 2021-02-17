@@ -1,0 +1,14 @@
+﻿Inferno - Bomb Planting/Defusing
+Map erstellt von: Chris Auty (Barney) (narby@counter-strike.net)
+Textur erstellt von: Valve software
+
+Die Terroristen planen, eine Öl-Pipeline, die an zwei kleinen Städten vorbeiführt, zu bombardieren.
+
+Counter-Terroristen: Verhindert, dass die Terroristen die Pipeline bombardieren.
+
+Terroristen: Bombardiert zwei Stellen der Pipeline.
+
+
+Hinweis: Es gibt zwei vorgesehene Orte für die Bombardierung.
+
+

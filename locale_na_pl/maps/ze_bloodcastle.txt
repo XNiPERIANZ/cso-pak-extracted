@@ -1,0 +1,14 @@
+﻿Blood Castle - Ucieczka Zombie
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+Złowieszcza aura dopada żołnierzy, którzy pracowali nad naprawą starożytnego zamku.
+
+Po otrzymaniu sprawozdania od wojska, władze podjęły decyzję, żeby sklasyfikować zamek, jako obszar zagrożenia i przeprowadzić bombardowanie na dużą skalę, by na zawsze pozbyć się problemu.
+
+Do rozpoczęcia bombardowania nie zostało dużo czasu...
+Twoim jedynym celem jest uciec za wszelką cenę!
+
+Cel:
+Ludzie: Ucieknij przed upłynięciem czasu. Musisz pozostać człowiekiem za wszelką cenę!
+Zombie: Zainfekuj wszystkich ludzi lub zablokuj im przejście do strefy ucieczki przed upłynięciem czasu.

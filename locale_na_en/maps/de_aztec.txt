@@ -1,0 +1,9 @@
+﻿Aztec - Bomb Planting/Defusing
+
+Map Created By: Chris Auty (Barney) (narby@counter-strike.net)
+Texture Created By: Macman 
+
+- Counter-Terrorists: Prevent the Terrorists from blowing up this historical site.
+- Terrorists: Destroy the Aztec Historical Site.
+
+Note: There are two bombing sites on this map.

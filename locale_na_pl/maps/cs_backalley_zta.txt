@@ -1,0 +1,6 @@
+﻿Back Alley - Sojusz Zombie Anihilacja
+Autor Mapy: TYR (tyr@barking-dog.com)
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

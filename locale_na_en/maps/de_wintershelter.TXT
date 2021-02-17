@@ -1,0 +1,12 @@
+﻿Snow Base - Install / Defuse Bombs
+Map developed by: Nexon
+Texture developed by: Nexon
+
+Anti-Terrorists: Terrorist activities have been detected in Snow Base.
+Team members must eliminate all the bombs installed in the target area and exterminate terrorists.
+
+Terrorists: Check the sabotage of Anti-Terrorists
+and must blow up one of two bombing targets.
+
+
+Note: This map has two bombing targets.

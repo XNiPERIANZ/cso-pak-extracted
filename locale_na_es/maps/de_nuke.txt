@@ -1,0 +1,8 @@
+﻿Arma nuclear - Colocación/Desactivación de bomba
+
+Mapa creado por: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Antiterroristas: Eviten que los Terroristas hagan explotar el misil nuclear. El enemigo puede atacar desde arriba o abajo. Los miembros del equipo deben desactivar todas las bombas que se coloquen en los sitios de bomba.
+- Terroristas: Los Terroristas que posean C-4 debe hacer explotar el misil nuclear.
+
+Nota: Hay dos sitios de bomba en este mapa.

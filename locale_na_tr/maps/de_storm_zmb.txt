@@ -1,0 +1,9 @@
+﻿Storm - Zombi
+
+Haritayı Yapan: FLiPMoDE|Daank
+Dokuları Yapan:  Fingers - jOeSmOe - MattC
+
+Teröristler ve Anti-Teröristler arasındaki savaş sırasında, tanımlanamayan varlıklar keşfedildi. Görünüşe göre bunlar Rex Laboratuvarından kaçan Zombiler. Artık insanlar hayatta kalabilmek için birlikte çalışmalı.
+
+- İnsanlar: Belirli bir süre boyunca Zombi saldırılarından kaçın veya tüm zombileri öldürün.
+- Zombiler: Zombiye dönüşenler İnsanları öldürmeli ve onları da zombiye çevirmelidir. Zombilerin, İnsanlardan daha yüksek sağlık barları vardır ve daha hızlıdırlar.

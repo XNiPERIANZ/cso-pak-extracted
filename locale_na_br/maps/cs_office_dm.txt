@@ -1,0 +1,7 @@
+﻿Office - Mata-mata
+
+Mapa criado por: Hobbit (Hobbit@nodream.net)	
+Texturas criadas por: Sphinx e George_Pooshoes
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

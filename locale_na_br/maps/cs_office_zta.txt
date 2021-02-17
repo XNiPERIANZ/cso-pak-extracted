@@ -1,0 +1,8 @@
+﻿Office - Aniquilação
+
+Mapa criado por: Hobbit (Hobbit@nodream.net)	
+Texturas criadas por: Sphinx e George_Pooshoes
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

@@ -1,0 +1,6 @@
+﻿Vostok - Plantar/desarmar a bomba
+
+- Contraterroristas: Interrompa o plano de bombardeio dos terroristas.
+- Terroristas: Plante e detone as bombas.
+
+Observação: Há dois locais para detonar nesta missão.

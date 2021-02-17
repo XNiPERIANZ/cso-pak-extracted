@@ -1,0 +1,11 @@
+﻿Túnel - Combate mortal
+
+Planificación/Producción: NEXON
+Textura/Revisión: NEXON
+
+Los Terroristas planean hacer explotar un túnel en paso para hacerse del dinero y las armas que transporta. 
+
+- Antiterroristas: Ataquen a los Terroristas para evitar que logren su objetivo.
+- Terroristas: Ataquen a los Antiterroristas para que la misión pueda seguir su curso.
+
+Nota: Cada equipo tiene dos ubicaciones de refuerzo en este mapa.

@@ -1,0 +1,11 @@
+﻿Santorini (Santorini) - Death Match
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+

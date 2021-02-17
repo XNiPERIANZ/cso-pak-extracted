@@ -1,0 +1,6 @@
+﻿Alcatraz (alcatraz) - Match à mort par équipe
+Conception et réalisation : Nexon
+Texture/Modélisation/Édition : Nexon
+
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en atteignant l'objectif de victimes.

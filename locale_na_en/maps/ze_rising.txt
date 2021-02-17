@@ -1,0 +1,11 @@
+RISING - Zombie Escape
+Planned, designed and developed by: Nexon
+Graphics: Nexon
+
+To all survivors, 
+There is a rescue heli nearby. 
+Please rush to the helipad and signal for rescue with beacon lights and escape.
+
+Objective
+Humans: Escape to the helipad within the time limit. You must remain human.
+Zombies: Infect all remaining humans or stop them from reaching the helipad within the time limit.

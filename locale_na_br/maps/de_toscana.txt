@@ -1,0 +1,9 @@
+﻿Toscana - Plantar/desarmar a bomba
+
+Mapa criado por: NEXON
+Texturas criadas por: NEXON
+
+- Contraterroristas: Foi descoberta uma base em Toscana, Itália, que era usada pelos terroristas como seu quartel-general. Agora os terroristas estão tentando explodi-la para destruir todas as evidências. Os membros da equipe devem desarmar todas as bombas plantadas nos locais de detonação. Execute um plano de sabotagem para evitar que os terroristas alcancem o seu objetivo!
+- Terroristas: Um terrorista em posse de um C4 deve detoná-lo em um dos dois locais de detonação. Contenha o plano de sabotagem contraterrorista e destrua todas as evidências relativas à base!
+
+Observação: Há dois locais para plantar bombas neste mapa.

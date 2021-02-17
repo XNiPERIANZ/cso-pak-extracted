@@ -1,0 +1,14 @@
+﻿Industry 2 - Gun Deathmatch
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+Die Regierung hat geheimdienstliche Inforamtionen erhalten, dass die Terroristen eine große Lagerhalle außerhalb der Stadt als ihren Hauptstützpunkt nutzen.
+Die Terroristen haben die Lagerhalle angegriffen, um die Terroristen aufzuhalten und mussten dabei feststellen, dass die Terroristen sie in der Halle 
+erwartet haben. 
+Die Späher der Terroristen haben außerdem die Truppenbewegungen der Counter-Terroristen verfolgt und bereiten sich jetzt auf einen Sturmangriff vor.
+
+
+Zielvorgabe:
+- Das Team, das ein feindliches Teammitglied mit einer Granate tötet, gewinnt.
+- Erhöhe den Team-Punktestand, indem du alle Feinde tötest.
+- Um zu gewinnen, musst du eine vorgegebene Anzahl Tötungen innerhalb der Zeitvorgabe erreichen.

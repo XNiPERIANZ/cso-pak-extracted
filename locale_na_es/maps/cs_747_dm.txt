@@ -1,0 +1,7 @@
+﻿747 - Combate mortal
+
+Mapa creado por: Stephen 'Judas' Superville (witchdawn@hotmail.com)
+Textura creada por: 'The Postman' (heavengame@yahoo.com)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

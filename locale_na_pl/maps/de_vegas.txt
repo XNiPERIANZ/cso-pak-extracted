@@ -1,0 +1,10 @@
+﻿Vegas - Podkładanie/Rozbrajanie Bomby
+Produkcja: +Cadaver+
+Texture: George_Pooshoes, JOeSmOe
+Revision: Nexon
+
+
+Antyterroryści: Zinfiltruj budynek i ochroń strefę bombardowania eliminując Terrorystów.
+
+Terroryści: Użyj ładunku C4 by wysadzić sejf.
+	Jeśli nie będzie to możliwe, wysadź Sfinksa i pokaż światu nasze intencje.

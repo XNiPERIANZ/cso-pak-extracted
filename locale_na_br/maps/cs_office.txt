@@ -1,0 +1,9 @@
+﻿Office (Office) - Resgate de Reféns
+
+Mapa criado por: Hobbit (Hobbit@nodream.net)	
+Texturas criadas por: Sphinx e George_Pooshoes
+
+- Contraterroristas: Invada o prédio de escritórios e resgate os reféns. Elimine os terroristas e impeça qualquer dano aos reféns.
+- Terroristas: Evite que os contraterroristas resgatem os reféns.
+
+Observação: Há 4 reféns nesta missão.

@@ -1,0 +1,11 @@
+﻿Estate
+Map erstellt von: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgesehen Anzahl Tötungen erreichst.
+- Der Tötungs-Zähler erhöht sich, wenn eine Item-Box erhalten wird.
+
+
+
+

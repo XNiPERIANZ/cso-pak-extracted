@@ -1,0 +1,8 @@
+﻿Ruins - Annihilation
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+Une équipe de snipers, envoyée pour attaquer une base secrète terroriste, est prise en embuscade par une équipe de snipers terroristes qui se cache près des ruines.
+La communication avec les renforts étant rompue, chaque équipe ne peut compter que sur ses armes de tireur d'élite pour faire face à l'adversaire.
+
+Objectif : Éliminez tous les snipers ennemis.

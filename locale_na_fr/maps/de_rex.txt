@@ -1,0 +1,11 @@
+﻿Rex - Bomb Planting/Defusing
+Planning/Production : Nexon
+Texture/Révision : Nexon
+
+Après la découverte d'une base abritant une force terroriste résiduelle, les Terroristes ont attaqué un laboratoire chargé du projet « Rex » et ont enlevé ses scientifiques. Quand ils découvrirent la vérité derrière les armes biologiques du gouvernement discrètement enfermées dans ce laboratoire, ils décidèrent de détruire tous les documents afin d'entraver les recherches.
+
+Antiterroristes : Empêchez les Terroristes de poser des bombes dans ce laboratoire.  Prevent the Terrorists from planting bombs in this laboratory. Les membres de l'équipe doivent désamorcer toute bombe placée sur les sites prévus.
+
+Terroristes : Un terroriste en possession de C4 doit faire exploser l'un des deux sites indiqués.
+
+Note : Il y a deux sites de bombe dans cette mission.

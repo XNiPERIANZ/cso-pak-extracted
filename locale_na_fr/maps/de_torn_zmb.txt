@@ -1,0 +1,8 @@
+﻿Torn - Zombie
+Carte créée par : Crinity & Madcross
+www.planethalflife.com/crinity/
+
+Au cours de l'affrontement entre les Terroristes et les Antiterroristes, des créatures inconnues ont été découvertes, bientôt identifiées comme des Zombies échappés du Rex Laboratory. Les Humains doivent maintenant joindre leurs forces pour assurer leur survie.
+
+Humains : Survivez aux attaques zombies pendant toute la période, ou tuez tous les Zombies.
+Zombies : Ceux qui se sont changés en Zombies doivent tuer les Humains et les transformer en Zombies. Les Zombies ont plus de PV et sont plus rapides que les Humains.

@@ -1,0 +1,11 @@
+﻿Italy - Noel - Zombi Savaşı
+
+Haritayı tasarlayan: Nexon
+Dokuları/grafikleri tasarlayan: Nexon
+
+Teröristler ve Anti-Teröristler arasındaki savaş sırasında tuhaf, zombi yaratıklar Rex Laboratuvarından kaçmaya başladı.
+İnsanların, hayatta kalmak için birlikte çalışmaktan başka seçeneği yok.
+
+Hedef
+İnsanlar: Süre bitene kadar zombi saldırılarından hayatta kalın veya tüm zombileri öldürün.
+Zombiler: Tüm insanları öldürün. Zombiler, insanlardan daha hızlıdır ve daha fazla Sağlığa sahiptirler.

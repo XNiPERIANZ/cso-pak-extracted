@@ -1,0 +1,13 @@
+﻿Siege - Annihilation
+Map erstellt von: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Töte alle sichtbaren Feinde.
+- Gewinne, indem Du die vorgegebene Rundenanzahl erreichst.
+- Du kannst nicht erneut starten, bis die nächste Runde beginnt.
+
+
+
+
+
+
+

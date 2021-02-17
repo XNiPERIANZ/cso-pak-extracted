@@ -1,0 +1,9 @@
+﻿Industry 2 - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Teröristler ve Anti-Teröristler bir fabrikanın boş arazisinde karşı karşıya geliyor.
+
+- Haritadaki tüm düşman takım üyelerini öldür.
+- Bir takım yok edildiğinde kalan takım oyunu kazanır.

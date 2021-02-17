@@ -1,0 +1,8 @@
+﻿Sanctuary (Sanctuary) - Bomb Planting/Defusing
+
+Production: NEXON
+
+- Counter-Terrorists: Prevent the Terrorists from bombing the historical sites. The team members must defuse all bombs planted at the bomb sites.
+- Terrorists: A Terrorist in possession of a C4 must blow up one of the two historical sites.
+
+Note: There are two bombing sites on this map.

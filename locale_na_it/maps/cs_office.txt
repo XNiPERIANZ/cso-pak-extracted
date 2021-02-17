@@ -1,0 +1,10 @@
+﻿Office (Office) - Hostage Rescue
+
+Mappa creata da: Hobbit (Hobbit@nodream.net)	
+Texture creata da: Sphinx and George_Pooshoes.
+
+Antiterroristi: Infiltratevi nell'edificio adibito a uffici e salvate gli ostaggi. Eliminate i Terroristi assicurandovi di non ferire gli ostaggi.
+
+Terroristi: Impedite agli Antiterroristi di salvare gli ostaggi.
+
+Nota: Ci sono 4 ostaggi in questa missione.

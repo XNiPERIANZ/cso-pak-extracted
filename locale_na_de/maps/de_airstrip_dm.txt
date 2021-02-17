@@ -1,0 +1,12 @@
+﻿Airstrip - Deathmatch
+Map erstellt von: Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+

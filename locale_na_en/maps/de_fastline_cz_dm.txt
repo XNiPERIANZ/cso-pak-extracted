@@ -1,0 +1,6 @@
+﻿Fastline - Deathmatch
+
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Kill all nearby players.
+- The player with the most kills wins.

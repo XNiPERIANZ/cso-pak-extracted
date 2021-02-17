@@ -1,0 +1,7 @@
+﻿Havana - Mata-mata
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

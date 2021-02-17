@@ -1,0 +1,6 @@
+﻿Train Shed - Deathmatch
+Zaplanowana, zaprojektowana i opracowana przez: Nexon 
+Tekstury, modelowanie i edycja: Nexon 
+
+- Zabij wszystkich pobliskich przeciwników. 
+- Wygra gracz z największą ilością zabójstw pod koniec gry.

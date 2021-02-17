@@ -1,0 +1,13 @@
+﻿Rats - Team Deathmatch
+Planung/Produktion: Nexon
+Textur/Bearbeitung: Nexon
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+﻿Abyss 2 - Zumbi
+
+Planejamento/Produção: NEXON
+Texturas/Revisão: NEXON
+
+A equipe de resgate, que foi enviada para resgatar os sobreviventes que acabaram no Laboratório Rex B-1, planejou fazer sua entrada através da ala C, uma área de treinamento de soldados. Entretanto, a ala C-5 já foi atacada por formas de vida não identificadas. A equipe de resgate e os sobreviventes encontrados tentaram de tudo para escapar, mas seus esforços só acordaram os seres dormentes...
+
+- Humanos: Sobreviva aos ataques zumbis até chegarem reforços. Cuidado com aliados que podem se transformar em zumbis. Você tem autorização para eliminar todos os zumbis. 
+- Zumbis: Aqueles que se transformaram em zumbis devem eliminar os humanos e transformá-los em zumbis também. Os zumbis têm mais vida e são mais rápidos que os humanos.

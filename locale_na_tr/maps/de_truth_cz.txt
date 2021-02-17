@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: Ritual Entertainment
+
+- Anti-Teröristler: Teröristlerin malikânenin içine bomba yerleştirmelerini engelleyin.
+- Teröristler: malikânenin içine bir C4 yerleştirin ve patlatın.

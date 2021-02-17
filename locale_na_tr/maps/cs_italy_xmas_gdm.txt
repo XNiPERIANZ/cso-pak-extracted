@@ -1,0 +1,8 @@
+﻿Italy - Noel - Silahlı Ölüm Maçı
+
+Haritayı tasarlayan: Nexon
+Dokuları/grafikleri tasarlayan: Nexon
+
+Hedef
+- Mevcut silahla belirli sayıda düşmanı her öldürdüğünüzde yeni bir silah verilir.
+- Kazanmak için son el bombasıyla düşman takımı yok edin.

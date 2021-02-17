@@ -1,0 +1,5 @@
+﻿Prodigy - Deathmatch
+Autor Mapy: Hobbit (hobbit@nodream.net)
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

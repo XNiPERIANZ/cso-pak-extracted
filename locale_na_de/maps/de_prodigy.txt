@@ -1,0 +1,15 @@
+﻿Prodigy - Bomb Planting/Defusing
+Map erstellt von: Hobbit (hobbit@nodream.net)
+
+Counter-Terroristen: Hindert die Terroristen daran, den Computer-Raum oder den Steuerungsraum der Treibstoff-Pipeline zu bombardieren.
+Die Team-Mitglieder müssen alle platzierten Bomben entschärfen.
+
+Terroristen: Ein Terrorist mit C4 muss eins der zwei Ziele bombardieren.
+
+Hinweis: Es gibt zwei vorgesehene Bombardierungsorte.
+
+
+
+
+
+

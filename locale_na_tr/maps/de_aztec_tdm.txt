@@ -1,0 +1,7 @@
+﻿Aztec - Takım Ölüm Maçı
+
+Haritayı yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuları yapan: Macman
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takımının skorunu yükselt.
+- Düşmanı belirtilen sayıda öldürerek kazan.

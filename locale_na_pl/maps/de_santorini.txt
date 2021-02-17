@@ -1,0 +1,11 @@
+﻿Santorini - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+Antyterroryści: Działalność terrorystyczna została wykryta w regionie Santorini.
+Członkowie drużyny muszą rozbroić bomby, które zostały podłożone i wyeliminować Terrorystów.
+
+Terroryści: Musicie powstrzymać działania Antyterrorystów i podłożyć bombę w jednej z dwóch dostępnych stref.
+
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

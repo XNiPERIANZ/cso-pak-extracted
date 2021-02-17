@@ -1,0 +1,7 @@
+﻿Stadium - Bomb Planting/Defusing
+
+Antiterroristes : Bloquez les Terroristes dans leur tentative de faire exploser le stade.
+
+Terroristes : Faites exploser le stade.
+
+Note : Il y a deux sites de bombe dans cette mission.

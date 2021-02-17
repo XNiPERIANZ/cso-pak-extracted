@@ -1,0 +1,7 @@
+﻿747 - Duelo de Equipes
+
+Mapa criado por: Stephen "Judas" Superville (witchdawn@hotmail.com)
+Texturas criadas por: "The Postman" (heavengame@yahoo.com)
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

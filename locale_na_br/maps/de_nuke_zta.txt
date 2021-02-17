@@ -1,0 +1,6 @@
+﻿Nuke - Aniquilação
+Mapa criado por: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

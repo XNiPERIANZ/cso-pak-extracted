@@ -1,0 +1,7 @@
+﻿Airstrip - Deathmatch
+Mappa creata da: Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

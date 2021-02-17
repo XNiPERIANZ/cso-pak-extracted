@@ -1,0 +1,6 @@
+﻿Verdad y Caos - Colocación/Desactivación de bomba
+
+Mapa creado por: Ritual Entertainment
+
+- Antiterroristas: Eviten que los Terroristas planten una bomba dentro de la residencia.
+- Terroristas: Planten C-4 dentro de la residencia y detónenlo.

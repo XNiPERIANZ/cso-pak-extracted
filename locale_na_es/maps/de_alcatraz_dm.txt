@@ -1,0 +1,6 @@
+﻿Alcatraz (alcatraz) - Combate mortal
+Desarrollo y producción: Nexon
+Textura, modelado y edición: Nexon
+
+- Mata a todos los jugadores enemigos.
+- El jugador con más asesinatos gana.

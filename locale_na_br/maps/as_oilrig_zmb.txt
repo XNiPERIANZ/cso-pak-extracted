@@ -1,0 +1,10 @@
+﻿Oil Rig - Zumbi
+
+Mapa criado por: MacMan (macmaninfi@aol.com)
+Texturas criadas por: MacMan
+Helicóptero Westland Wessex criado por: Agent Orange [agentorange@freemail.nl]
+
+Durante o combate entre terroristas e contraterroristas, seres não identificados foram descobertos e eles parecem ser zumbis que escaparam do Laboratório Rex. Os humanos agora têm que trabalhar juntos para sobreviverem.
+
+- Humanos: Sobreviva aos ataques dos zumbis durante o tempo restante ou elimine todos os zumbis.
+- Zumbis: Aqueles que se transformaram em zumbis devem eliminar os humanos e transformá-los em zumbis também. Os zumbis têm vida mais longa e são mais rápidos que os humanos.

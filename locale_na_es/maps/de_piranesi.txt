@@ -1,0 +1,9 @@
+﻿Piranesi - Colocación/Desactivación de bomba
+
+Fingers - iikkak@valvesoftware.com
+Agradecemos a Ido Magal por las fuentes de textura
+
+Contexto: Villa Piranesi es un hermoso lugar que se convirtió en museo para abrirlo al público. Están llegando al lugar muchos muebles y obras de arte antiguas.
+
+- Terroristas: Destruyan las dos exhibiciones más importantes del museo (el reloj de sol ubicado en el patio delantero y el modelo del sistema solar ubicado en el jardín trasero) para evitar que se abra al público.
+- Antiterroristas: Protejan este sitio histórico de los Terroristas.

@@ -1,0 +1,10 @@
+﻿Suzhou - Team Deathmatch
+Pianificazione/Produzione: Nexon
+Texture/Modelli/Revisione: Nexon
+
+Il governo cinese ha ricevuto informazioni indicando che i Terroristi hanno contrabbandato droghe in un paese chiamato Suzhou, situato fuori la città.
+Per poter fermare i Terroristi, gli Antiterroristi hanno attaccato il paese e hanno scoperto che i Terroristi li stavano aspettando sin dall'inizio.
+Gli esploratori Terroristi hanno anche verificato i movimenti degli Antiterroristi e si stanno preparando per un attacco totale.
+
+Obiettivo: Aumentate il punteggio del vostro team uccidendo tutti i membri del team nemico nella mappa.
+Vincete raggiungendo un numero designato di uccisioni.

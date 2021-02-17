@@ -1,0 +1,6 @@
+﻿Industry 2 - Deathmatch
+Pianificazione/Produzione: Nexon
+Texture/Modelli/Revisione: Nexon
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

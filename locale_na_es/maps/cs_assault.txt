@@ -1,0 +1,10 @@
+﻿Asalto - Rescate de rehenes
+
+Mapa creado por: CryptR (lmuur@dlc.fi)
+
+Eliminen a los Terroristas y asegúrense de que los rehenes no sufran daños. Cuidado: hay cámaras ocultas instaladas por todos lados.
+
+- Antiterroristas: Rescaten a los rehenes.
+- Terroristas: Eviten que los Antiterroristas rescaten a los jugadores, cueste lo que cueste.
+
+Nota: Hay 4 rehenes en esta misión. ¡Rescaten a todos!

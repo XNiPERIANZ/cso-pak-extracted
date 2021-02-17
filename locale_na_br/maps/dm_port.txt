@@ -1,0 +1,9 @@
+﻿The Port - Aniquilação
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+Um tiroteio está acontecendo contra os terroristas em um porto cheio de contêineres de carga.
+
+- Elimine todos os membros da equipe inimiga.
+- Ganha a equipe que aniquilar a outra.

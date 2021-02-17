@@ -1,0 +1,12 @@
+﻿Alcatraz (alcatraz) - Bomba Yerleştirme / Etkisizleştirme
+Haritayı tasarlayan: Nexon
+Dokuları tasarlayan: Nexon
+
+Anti-Terörist: Meşhur hapishanenin yakınlarında Terörist hareketliliği tespit edildi.
+Takım üyeleri Teröristleri yok etmeli ve hedef alana yerleştirilen bombaları etkisizleştirmelidir.
+
+Terörist: Anti-Teröristleri geri püskürtün
+ve iki hedef alandan birini yok edin.
+
+
+Örn: Bu haritada iki bomba alanı bulunmaktadır.

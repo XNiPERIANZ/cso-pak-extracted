@@ -1,0 +1,8 @@
+﻿Oil Rig - Team Deathmatch
+
+Map Created By: MacMan (macmaninfi@aol.com)
+Texture Created By: MacMan
+Westland Wessex Helicopter Created By: Agent Orange [agentorange@freemail.nl]
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.

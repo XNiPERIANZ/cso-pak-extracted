@@ -1,0 +1,7 @@
+﻿Champion - Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Yakındaki tüm oyuncuları öldür.
+- En çok sayıda düşman öldüren oyuncu kazanır.

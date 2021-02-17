@@ -1,0 +1,9 @@
+﻿Italy - Hostage Rescue
+Carte créée par :
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texture/Graphiques Created By:
+DigiChaos (digichaos@hotsheep.com)
+
+Antiterroristes : Libérez les otages détenus par les Terroristes dans une petite ville italienne.
+
+Terroristes : Empêchez les Antiterroristes de sauver les otages.

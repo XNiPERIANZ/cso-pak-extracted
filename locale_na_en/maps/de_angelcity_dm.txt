@@ -1,0 +1,8 @@
+﻿Angel City - Deathmatch
+
+Original Author: Unknown
+Map Created By: NEXON
+Texture Created By: NEXON
+
+- Kill all nearby players.
+- The player with the most kills wins.

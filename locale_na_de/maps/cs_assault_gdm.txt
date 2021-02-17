@@ -1,0 +1,11 @@
+﻿Assault - Gun Deathmatch
+Map erstellt von: CryptR (lmuur@dlc.fi)
+
+Zielvorgabe
+- Das Team, dass ein feindliches Teammitglied mit einer Granate tötet, gewinnt.
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Feinde tötest.
+- Um zu gewinnen musst du eine vorgegebene Anzahl Tötung innerhalb der Zeitvorgabe durchführen.
+
+
+
+

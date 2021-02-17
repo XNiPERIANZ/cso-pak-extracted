@@ -1,0 +1,8 @@
+﻿Train Shed - Yok Etme 
+Planlama, tasarım ve geliştirme : Nexon
+Dokular/Modelleme/Düzenleme: Nexon
+
+Bir tren hangarı. Burada, Teröristler ve Anti-Teröristler arasındaki kanlı bir mücadele gerçekleşiyor.
+
+- Haritadaki tüm düşman birimlerini öldürün.
+- Bir takımın tüm oyuncuları öldüğünde, hayatta kalan takım kazanır.

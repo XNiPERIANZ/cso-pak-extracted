@@ -1,0 +1,6 @@
+﻿Torn - Drużynowy Deathmatch
+Autor Mapy: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

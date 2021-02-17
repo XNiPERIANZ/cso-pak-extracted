@@ -1,0 +1,11 @@
+﻿Bunny Yard – Ölüm Maçı
+Planlama/Yapım: Nexon
+Dokular/Modelleme/Düzenleme: Nexon
+
+Önceki operasyonda başarılı olan hükümet güçleri, kalan teröristleri ortadan kaldırmak için yeni bir plan yaparlar. 
+Teröristler şiddetli bir direnişle karşılık verir ve işler karışır.
+
+Görev
+- Eğer bir oyuncu, düşman bir oyuncuyu Son Bomba ile öldürmeyi başarabilirse; o takım oyunu kazanır.
+- Takım puanını arttırmak için düşman oyuncuları öldürmelisiniz.
+- Hedef puana ilk ulaşan takım maçı kazanır.

@@ -1,0 +1,11 @@
+﻿Sobreviviente - Colocación/Desactivación de bomba
+
+Mapa creado por: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com) www.lanmaniax.com
+
+En medio de una tormenta extrema, se estrelló un avión que transportaba un cargamento clasificado. La tripulación escapó en paracaídas y transfirió el cargamento a un camión. Sin embargo, el exceso de nieve les impidió transferir todo el cargamento.
+
+Los Terroristas que rastrean el avión planean asegurarse de que ninguno de los dos cargamentos llegue a destino.
+
+- Terroristas: Bombardeen el camión o los restos del avión.
+- Antiterroristas: Eviten que los Terroristas bombardeen los objetivos.

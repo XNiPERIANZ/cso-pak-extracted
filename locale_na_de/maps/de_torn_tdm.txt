@@ -1,0 +1,9 @@
+﻿Torn - Team Deathmatch
+Map erstellt von: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.
+
+
+

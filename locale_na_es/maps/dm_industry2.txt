@@ -1,0 +1,9 @@
+﻿Industria 2 - Aniquilación
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+Los Terroristas y Antiterroristas se enfrentan en el lote vacío de una fábrica.
+
+- Mata a todos los enemigos en el mapa.
+- Cuando se aniquila a un equipo, gana el equipo contrario.

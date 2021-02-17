@@ -1,0 +1,9 @@
+﻿Polvareda 0 - Colocación/Desactivación de bomba
+
+Mapa creado por: NEXON
+Textura creada por: NEXON
+
+- Antiterroristas: Se detectaron actividades terroristas en una ubicación con importancia estratégica de Medio Oriente. Los miembros del equipo deben desactivar las bombas que se plantaron en los sitios de bomba y aniquilar a los Terroristas.
+- Terroristas: Contengan las actividades de los Antiterroristas y hagan explotar uno de los dos sitios de bomba.
+
+Nota: Hay dos sitios de bomba en este mapa.

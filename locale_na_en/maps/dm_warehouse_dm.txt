@@ -1,0 +1,6 @@
+﻿Warehouse - Deathmatch
+Map developed by: Nexon
+Texture developed by: Nexon
+
+ - Kill all nearby players.
+ - The player with the most number of kills at the end wins.

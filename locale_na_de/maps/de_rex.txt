@@ -1,0 +1,18 @@
+﻿Rex - Bomb Planting/Defusing
+Planung/Produktion: Nexon
+Textur/Bearbeitung: Nexon
+
+Als die Basis einer übrig gebliebenen Terroristen-Einheit entdeckt wird, attackieren die Terroristen das Labor, in dem das "Rex" Projekt vorangetrieben wird,
+und kidnappen die Wissenschaftler. Nachdem sie die Wahrheit über die Bio-Waffen der Regierung herausgefunden haben, entscheiden sie sich,
+alle Dokmente zu zerstören, um den Fortschritt des Projektes zu verhindern.
+
+Counter-Terroristen: Hindert die Terroristen daran, Bomben in diesem Labor zu platzieren.
+Die Team-Mitglieder müssen alle dennoch platzierten Bomben entschärfen.
+
+Terroristen: Ein Terrorist, der C4 hat, muss einen der zwei vorgesehenen Detonationsorte bombardieren.
+Hinweis: Es sind zwei Detonationsorte vorgesehen.
+
+
+
+
+

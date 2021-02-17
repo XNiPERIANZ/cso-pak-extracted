@@ -1,0 +1,6 @@
+﻿Militia - Deathmatch
+
+Map Created By: Andrew Aumann (andrewja@home.com)
+
+- Kill all nearby players.
+- The player with the most kills wins.

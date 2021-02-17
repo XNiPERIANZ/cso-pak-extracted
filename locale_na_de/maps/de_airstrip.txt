@@ -1,0 +1,25 @@
+﻿Airstrip - Bomb Planting/Defusing
+Map erstellt von: Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+Counter-Terroristen: Verhindert, dass die Terroristen im Gebäude an der Landebahn eine Bombe platzieren.
+
+Terroristen: Platziert C4 im Gebäude an der Landebahn, um den Treibstofftank und das Frachtlagerhaus zu sprengen.
+
+Hinweis: Es sind zwei Explosionsorte vorgesehen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

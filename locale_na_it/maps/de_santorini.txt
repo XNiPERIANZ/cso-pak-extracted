@@ -1,0 +1,11 @@
+﻿Santorini - Bomb Planting/Defusing
+Mappa creata da: Nexon
+Texture creata da: Nexon
+
+Antiterroristi: Sono state rilevate delle attività Terroriste nella regione di Santorini.
+I membri del team devono disinnescare le bombe che sono state piazzate nei posti di bombardamento e annichilire i Terroristi.
+
+Terroristi: Dovete frenare le attività Antiterroriste e bombardare uno dei due posti di bombardamento.
+
+
+Nota: Ci sono due posti di bombardamento in questa mappa.

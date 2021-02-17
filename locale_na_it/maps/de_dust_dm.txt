@@ -1,0 +1,6 @@
+﻿Dust - Deathmatch
+Mappa creata da: DaveJ (http://www.johnsto.co.uk/)
+Texture creata da: MacMan (MacManInfi@aol.com)
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

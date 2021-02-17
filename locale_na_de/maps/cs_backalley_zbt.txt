@@ -1,0 +1,12 @@
+﻿Back Alley
+Map erstellt von: TYR (tyr@barking-dog.com)
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.
+- Der Tötungs-Zähler erhöht sich, wenn eine Item-Box erhalten wird.
+
+
+
+
+
+

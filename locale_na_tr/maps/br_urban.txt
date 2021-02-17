@@ -1,0 +1,12 @@
+﻿Urban Assault (Urban Assault) - Hücum Savaşı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Şuan ölüm hücresinde bulunan, silahlı bir terörist grubunun lideri, özel bir laboratuvar tarafından yürütülen bir deneyde numune olarak kullanılacak.
+Anti-Terörist Elit Birlikleri'ne, mahkumu başka bir yere nakletme görevi verildi.
+Teröristler nakil yöntemi hakkında bir istihbarat aldı ve yolu bloke etmeye ve liderlerini kurtarmaya kalkışıyorlar.
+
+- Anti-Teröristler: Güzergah boyunca karşına çıkan her engeli yok et ve mahkumu belirlenen yere güvenli bir şekilde naklet.
+- Teröristler: Lideri nakleden araçtaki tüm kısıtlayıcı cihazları etkisiz hale getir.
+ 

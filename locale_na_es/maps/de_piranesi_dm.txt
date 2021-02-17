@@ -1,0 +1,7 @@
+﻿Piranesi - Combate mortal
+
+Fingers - iikkak@valvesoftware.com
+Agradecemos a Ido Magal por las fuentes de textura
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

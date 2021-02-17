@@ -1,0 +1,7 @@
+﻿Piranesi - Sojusz Zombie
+Fingers - iikkak@valvesoftware.com
+Podziękowania dla Ido Magala za źródła tekstur
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

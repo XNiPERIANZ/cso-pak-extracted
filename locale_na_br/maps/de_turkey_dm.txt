@@ -1,0 +1,6 @@
+﻿Sanctuary - Mata-mata
+
+Produzido por: NEXON
+
+- Elimine todos os jogadores.
+- O jogador que tiver mais eliminações ganha o jogo.

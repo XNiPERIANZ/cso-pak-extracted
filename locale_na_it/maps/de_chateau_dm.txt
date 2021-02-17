@@ -1,0 +1,6 @@
+﻿Chateau - Deathmatch
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

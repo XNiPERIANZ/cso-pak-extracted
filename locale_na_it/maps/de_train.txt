@@ -1,0 +1,7 @@
+﻿Train - Bomb Planting/Defusing
+
+Antiterroristi: Impedite ai Terroristi di bombardare la testata nucleare che è stata smontata e messa in 2 treni. I membri del team devono disinnescare tutte le bombe piazzate nei posti di bombardamento.
+
+Terroristi: I Terroristi in possesso di C4 devono bombardare una delle due testate nucleari.
+
+Nota: Ci sono due posti di bombardamento in questa mappa.

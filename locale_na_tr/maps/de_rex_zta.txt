@@ -1,0 +1,8 @@
+﻿Rex - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş sayıdaki rauntları tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar canlanmayacaksın.

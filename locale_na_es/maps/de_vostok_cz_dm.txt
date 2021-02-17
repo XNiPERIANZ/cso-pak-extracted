@@ -1,0 +1,4 @@
+﻿Vostok - Combate mortal
+
+- Mata a todos los jugadores cercanos.
+- Gana el jugador con más muertes.

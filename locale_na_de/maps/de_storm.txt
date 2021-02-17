@@ -1,0 +1,14 @@
+﻿Storm - Bomb Planting/Defusing
+Map erstellt von: FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+Textur erstellt von:  Fingers - jOeSmOe - MattC
+
+Counter-Terroristen:  Beschützt die Waffenkisten. Diese Waffen sollen an einen verbündeten Staat geliefert werden und werden von Terroristen bedroht.
+
+Terroristen: Es gibt eine kleine Nation, deren Regierung aus politischen Gründen entmachtet werden muss. Stellt sicher, dass keine Waffen dorthin geliefert werden.
+
+Hinweis: Es sind zwei Detonationsorte vorgesehen.
+
+
+
+

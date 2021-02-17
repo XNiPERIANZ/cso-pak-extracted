@@ -1,0 +1,10 @@
+﻿Gallery - Rodízio de Armas
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.
+- Ganha a equipe que eliminar um membro da equipe inimiga com uma granada final.
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Alcance o número de eliminações determinado dentro do limite de tempo para ganhar.

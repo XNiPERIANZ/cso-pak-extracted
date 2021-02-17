@@ -1,0 +1,5 @@
+﻿Assault - Deathmatch
+Autor Mapy: CryptR (lmuur@dlc.fi)
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

@@ -1,0 +1,13 @@
+﻿Parking Lot – Gun Deathmatch
+Direção / Produção: Nexon
+Textura/Modelamento/Edição: Nexon
+
+Para atacar a base dos terroristas, as forças do governo decidiram passar pelo estacionamento.
+
+Os terroristas, para não perderem a base, fazem um esforço de última hora para lutar contra as tropas do governo.
+
+Objetivo
+- A equipe será a ganhadora se um jogador conseguir eliminar o jogador inimigo com a Granada Final.
+- Para aumentar a pontuação da equipe, os jogadores devem eliminar jogadores inimigos.
+- A equipe será ganhadora se ela chegar à pontuação do objetivo primeiramente.
+

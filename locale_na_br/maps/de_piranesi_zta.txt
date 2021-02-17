@@ -1,0 +1,8 @@
+﻿Piranesi - Aniquilação
+
+Fingers - iikkak@valvesoftware.com
+Obrigado a Ido Magal pelas fontes de texturas
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

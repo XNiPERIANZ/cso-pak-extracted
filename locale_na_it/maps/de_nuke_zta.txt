@@ -1,0 +1,6 @@
+﻿Nuke - Annihilation
+Mappa creata da: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

@@ -1,0 +1,16 @@
+﻿Back Alley - Hostage Rescue
+Map erstellt von: TYR (tyr@barking-dog.com)
+
+
+Counter-Terroristen: Dringt in die Terroristen-Basis ein und bringt die Geiseln an einen sicheren Ort.
+Eliminiert die Terroristen und achtet dabei darauf, dass die Geiseln nicht verletzt werden.
+
+Terroristen: Verhindert, dass die Counter-Terroristen die Geiseln retten.
+
+Hinweis: Es handelt sich bei dieser Mission um 4 Geiseln.
+
+
+
+
+
+

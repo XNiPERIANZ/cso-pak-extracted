@@ -1,0 +1,8 @@
+﻿Dust 2 - Yok Etme 
+
+Dokuları Yapan: MacMan (MacManInfi@aol.com)
+Harita Düzenlemesi: NEXON
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Belirlenmiş öldürme sayısına ulaşarak oyunu kazan.
+- Eşya kutusu ele geçirildiğinde öldürme sayısı artar.

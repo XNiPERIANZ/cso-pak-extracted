@@ -1,0 +1,6 @@
+﻿Moonlight - Drużynowy Deathmatch
+Planowanie/Produkcja: Nexon
+Mapowanie/Korekta: Nexon
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

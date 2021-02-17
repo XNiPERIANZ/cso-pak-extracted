@@ -1,0 +1,7 @@
+﻿Piranesi - Sojusz Zombie Anihilacja
+Fingers - iikkak@valvesoftware.com
+Podziękowania dla Ido Magala za źródła tekstur
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

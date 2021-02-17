@@ -1,0 +1,12 @@
+﻿Vertigo - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: Chris Auty (Barney) (fragged101@yahoo.com)
+Autor Tekstury: Telnets and J0esm0e
+
+Terroryści planują zbombardować Wieżę Rizzleton, która jest obecnie w budowie.
+
+
+Antyterroryści: Powstrzymaj budynek przed byciem zniszczonym.
+
+Terroryści: Zniszcz budynek podkładając na nim bombę.
+
+Uwaga: Uważaj, by nie wypaść z budynku.

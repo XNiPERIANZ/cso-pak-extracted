@@ -1,0 +1,7 @@
+﻿Aztec - Sojusz Zombie Anihilacja
+Autor Mapy: Chris Auty (Barney) (narby@counter-strike.net)
+Autor Tekstury: Macman 
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

@@ -1,0 +1,6 @@
+﻿Moonlight - Deathmatch
+Planowanie/Produkcja: Nexon
+Mapowanie/Korekta: Nexon
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

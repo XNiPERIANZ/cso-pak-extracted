@@ -1,0 +1,10 @@
+﻿Checkmate - Gun Deathmatch
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+Es gibt einen kleinen Aufruhr in etwas, das nach dem friedlichen Zimmer eines jungen Mannes aussieht.
+
+Zielvorgabe:
+- Das Team, das ein feindliches Teammitglied mit einer Granate tötet, gewinnt.
+- Erhöhe den Team-Punktestand, indem du alle Feinde tötest.
+- Um zu gewinnen, musst du eine vorgegebene Anzahl Tötungen innerhalb der Zeitvorgabe erreichen.

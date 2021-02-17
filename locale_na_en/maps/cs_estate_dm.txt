@@ -1,0 +1,6 @@
+﻿Estate - Deathmatch
+
+Map Created By: Zaphod Beeblebrox (zaphod@mapcore.com)
+
+- Kill all nearby players.
+- The player with the most kills wins.

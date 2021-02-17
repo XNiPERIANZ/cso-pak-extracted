@@ -1,0 +1,6 @@
+﻿Siege - Annihilation
+Mappa creata da: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

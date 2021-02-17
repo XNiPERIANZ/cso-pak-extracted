@@ -1,0 +1,8 @@
+﻿Siena - Colocación/Desactivación de bomba
+
+Se descubrió información que puso al pueblo de Siena en estado de emergencia. Se restringieron la entrada y la salida para prevenir amenazas terroristas. 
+
+- Terroristas: Descubran los dos puntos de entrada vulnerables, háganlos explotar e ingresen a la ciudad.
+- Antiterroristas: Eviten que los Terroristas hagan explotar las puertas e ingresen en la ciudad. 
+
+Nota: Hay dos ubicaciones que son vulnerables a los ataques de los Terroristas.

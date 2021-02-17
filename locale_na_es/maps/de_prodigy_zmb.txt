@@ -1,0 +1,8 @@
+﻿Prodigio - Zombi
+
+Mapa creado por: Hobbit (hobbit@nodream.net)
+
+Durante la batalla entre Terroristas y Antiterroristas, se descubrieron seres no identificados. Parecen ser Zombis que escaparon del Laboratorio Rex. Ahora, los Humanos deben unirse para sobrevivir.
+
+- Humanos: Sobrevivan los ataques zombis durante el resto del tiempo o maten a todos los Zombis.
+- Zombis: Los que se hayan convertido en Zombis, deben matar a los Humanos y convertirlos en Zombis. Los Zombis tienen más PV y más velocidad que los Humanos.

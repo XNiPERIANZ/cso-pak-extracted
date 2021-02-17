@@ -1,0 +1,7 @@
+﻿Italy - Sojusz Zombie Anihilacja
+Autor Mapy: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Tekstury/Grafika stworzona przez: DigiChaos (digichaos@hotsheep.com)
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

@@ -1,0 +1,7 @@
+﻿Vertigo - Deathmatch
+
+Map Created By: Chris Auty (Barney) (fragged101@yahoo.com)
+Texture Created By: Telnets and J0esm0e
+
+- Kill all nearby players.
+- The player with the most kills wins.

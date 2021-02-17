@@ -1,0 +1,7 @@
+﻿Campeón - Aniquilación
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+- Mata a todos los enemigos en el mapa.
+- Cuando se aniquila a un equipo, gana el equipo contrario.

@@ -1,0 +1,11 @@
+﻿Camouflage 2 - Hostage Rescue
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+Remnant Terrorist Forces had been hiding in a run down building that was thought to have been used for storage. When this fact became known by the government, the Terrorists attacked a government laboratory nearby to took 4 scientists hostage. They are now demanding a large sum of money in exchange for the hostages and a helicopter for their escape.
+
+- Counter-Terrorists: Eliminate all of the Terrorists and safely rescue the hostages.
+- Terrorists: Prevent the Counter-Terrorists from rescuing the hostages.
+
+Note: There are 4 hostages in this map.

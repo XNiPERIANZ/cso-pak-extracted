@@ -1,0 +1,7 @@
+Kryjówka (Pokój zabaw)
+
+- Można używać dekoderów. Gdy zostanie zdobyty przedmiot z wystawy, inni użytkownicy będą mogli go wypróbować.
+
+- Użytkownicy będą otrzymywać dodatkowy przebieg, gdy wystawione przed ich przedmioty są używane przez innych.
+
+- Bronie można wypróbowywać na strzelnicy.

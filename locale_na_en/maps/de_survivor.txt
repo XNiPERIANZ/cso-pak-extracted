@@ -1,0 +1,11 @@
+﻿Survivor - Bomb Planting/Defusing
+
+Map Created By: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com) www.lanmaniax.com
+
+During a severe snowstorm, an airplane that was carrying classified cargo crashed into the ground. The onboard crew safely escaped using parachutes and transferred the cargo from the plane to a truck. However, they were unable to transfer all of the cargo due to the large amount of snow.
+
+The Terrorists who were tracking the airplane are planning to make sure that the cargo that is on the truck and airplane do not make it out safely.
+
+- Terrorists: Bomb the truck or crashed plane.
+- Counter-Terrorists: Prevent the Terrorists from bombing the targets.

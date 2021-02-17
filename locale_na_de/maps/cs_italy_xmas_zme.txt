@@ -1,0 +1,11 @@
+﻿Italy - Weihnachten - Zombie-Team-Krieg
+
+Map erstellt von: Nexon
+Texturen/Grafiken erstellt von: Nexon
+
+Während des Kampfs zwischen Terroristen und Counter-Terroristen wurden merkwürdige untote Wesen entdeckt, die offenbar aus dem Rex-Labor entkommen sind.
+Die Menschen müssen jetzt zusammenarbeiten, um zu überleben.
+
+Ziel
+Menschen: Überlebe den Angriff der Zombies, bis die Zeit abläuft, oder töte alle Zombies.
+Zombies: Töte alle Menschen. Zombies haben mehr HP und bewegen sich schneller als Menschen.

@@ -1,0 +1,8 @@
+﻿Dust 2
+
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları Yapan: MacMan (MacManInfi@aol.com)
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Belirlenmiş sayıda öldürmeye ulaşarak kazanın.
+- Eğer eşya kutusu alınırsa öldürme sayısı artar.

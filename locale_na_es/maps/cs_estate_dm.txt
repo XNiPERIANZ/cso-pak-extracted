@@ -1,0 +1,6 @@
+﻿Residencia - Combate mortal
+
+Mapa creado por: Zaphod Beeblebrox (zaphod@mapcore.com)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

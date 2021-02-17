@@ -1,0 +1,6 @@
+﻿Warehouse - Team-Deathmatch
+Map erstellt von: Nexon
+Texturen erstellt von: Nexon
+
+- Ziel ist, den Punktestand des Teams zu erhöhen indem alle gegnerischen Teammitglieder auf der Map getötet werden.
+- Erreicht den vorgeschriebenen Punktestand für den Sieg.

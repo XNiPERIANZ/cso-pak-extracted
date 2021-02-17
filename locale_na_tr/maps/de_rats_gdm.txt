@@ -1,0 +1,8 @@
+﻿Rats - Silahlı Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+- Düşman takım üyesini son bir el bombasıyla öldüren takım kazanır.
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Kazanmak için süre limiti içinde belirlenmiş öldürme sayısına ulaşın.

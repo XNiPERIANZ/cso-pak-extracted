@@ -1,0 +1,9 @@
+﻿Camouflage - Hostage Rescue
+Pianificazione/Produzione: Nexon
+Texture/Modelli/Revisione: Nexon
+
+Le forze Terroriste rimanenti si stavano nascondendo in un edificio in rovina, il quale si credeva che era usato come deposito. Quando questo fatto è diventato noto dal governo, i Terroristi attaccarono un laboratorio del governo vicino e presero 4 scienziati in ostaggio. Ora chiedono una gran quantità di soldi in cambio degli ostaggi e un elicottero per la loro fuga.
+Antiterroristi: Eliminati tutti i Terroristi e salvate gli ostaggi in modo sicuro.
+Terroristi: Impedite agli Antiterroristi di salvare gli ostaggi.
+
+Nota: Ci sono 4 ostaggi in questa mappa.

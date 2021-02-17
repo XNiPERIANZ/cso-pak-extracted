@@ -1,0 +1,15 @@
+﻿Italy - Gun Deathmatch
+Map erstellt von:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Textur/Grafiken erstellt von:
+DigiChaos (digichaos@hotsheep.com)
+
+Zielvorgabe:
+- Das Team, das ein feindliches Teammitglied mit einer Granate tötet, gewinnt.
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Feinde tötest.
+- Um zu gewinnen, musst du eine vorgegebene Anzahl Tötungen innerhalb der Zeitvorgabe erreichen.
+
+
+
+
+

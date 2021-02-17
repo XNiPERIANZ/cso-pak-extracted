@@ -1,0 +1,11 @@
+RISING - Zombi Kaçış
+Planlama, tasarım ve geliştirme: Nexon
+Görüntüler: Nexon
+
+Tüm hayatta kalanlara, 
+Yakınlarda bir kurtarma helikopteri bulunuyor. 
+Hemen helikopter pistine ulaşarak, fener ışıklarını kullanın ve yardım isteyin, ardından kaçın.
+
+Görev
+İnsanlar: Süre sınırı içerisinde helikopter pistine ulaşın. İnsan olarak kalmalısınız.
+Zombiler: Tüm insanlara virüs bulaştırın ya da süre sınırı içerisinde kaçmalarına engel olun.

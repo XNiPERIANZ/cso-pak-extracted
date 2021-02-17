@@ -1,0 +1,8 @@
+﻿Skyscraper - Zombie
+Opracowana i wyprodukowana przez: Nexon
+Tekstury/Modelowanie/Edycja: Nexon
+
+W trakcie walki pomiędzy terrorystami, a antyterrorystami, odkryto niezidentyfikowane istoty, które okazały się być zombie z Laboratorium Rex. Teraz, ludzie muszą ze sobą współpracować, by przetrwać.
+
+Ludzie: Przetrwaj ataki zombie przez pozostały czas lub zabij wszystkie zombie.
+Zombie: Ci, którzy zostali przemienieni w zombie, muszą zabijać ludzi i zamienić ich w nieumarłych. Zombie mają więcej PW i ruszają się szybciej od ludzi.

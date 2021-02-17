@@ -1,0 +1,6 @@
+﻿Assault - Ölüm Maçı
+
+Haritayı Yapan:  CryptR (lmuur@dlc.fi)
+
+- Etrafındaki bütün oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

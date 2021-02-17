@@ -1,0 +1,6 @@
+﻿Skyscraper - Drużynowy Deathmatch
+Opracowana i wyprodukowana przez: Nexon
+Tekstury/Modelowanie/Edycja: Nexon
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

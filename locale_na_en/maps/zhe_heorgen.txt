@@ -1,0 +1,12 @@
+﻿Heorgen - Escape
+Developed and produced by: Nexon
+Texture/Modeling/Edited by: Nexon
+
+The town of Heorgen was where the outbreak began.
+
+Bathed in moonlight and shrouded in fog, the unassuming quiet of the town belies the many innocents who perished there.
+The night's calm is broken only by the howl of the cold wind and the dim lamplight of the mausoleum.
+
+Objective
+- Humans : Activate all of the Generators located throughout the town of Heorgen, open the escape route, and flee to the outskirts of the town.
+- Zombie : Find all the survivors and incapacitate them to prevent their escape.

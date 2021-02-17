@@ -1,0 +1,6 @@
+﻿Nuke - Sojusz Zombie Anihilacja
+Autor Mapy: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

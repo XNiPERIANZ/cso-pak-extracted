@@ -1,0 +1,11 @@
+﻿Industry - Team Deathmatch
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+Die Regierung wurde hat erfahren, dass Terroristen ein großes Lager, im Herzen der Stadt, als Hauptstützpunkt nutzten.
+Um die Terroristen aufzuhalten haben die Counter-Terroristen das Lager angegriffen. Sie mussten feststellen, dass die Terroristen auf sie warteten.
+Aufklärer der Terroristen konnten das Vorrücken der Counter-Terroristen bestätigen und bereiten einen Ausfall vor.
+
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.

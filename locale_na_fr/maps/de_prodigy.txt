@@ -1,0 +1,8 @@
+﻿Prodigy - Bomb Planting/Defusing
+Carte créée par : Hobbit (hobbit@nodream.net)
+
+Antiterroristes : Empêchez les Terroristes de faire exploser la Salle informatique (Computer Room) ou la Salle de contrôle  des canalisations (Fuel Pipe Control Room). Les membres de l'équipe doivent désamorcer toute bombe placée sur les sites prévus.
+
+Terroristes : Un terroriste en possession de C4 doit faire exploser l'une des deux cibles.
+
+Note : Il y a deux sites de bombe dans cette mission.

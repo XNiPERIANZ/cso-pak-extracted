@@ -1,0 +1,7 @@
+﻿Dust 0 - Takım Ölüm Maçı
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Belirlenmiş öldürme sayısına ulaşarak oyunu kazanın.

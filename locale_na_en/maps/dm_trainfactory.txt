@@ -1,0 +1,8 @@
+﻿Train Shed - Annihilation
+Planned, designed and developed by : Nexon
+Texture, modeling and edits by : Nexon
+
+A train shed. Here, a perilous fight between terrorists and the Counter Terrorist Unit is taking place.
+
+- Kill all enemy team members on the map.
+- When one of the teams is wiped out, the remaining team wins.

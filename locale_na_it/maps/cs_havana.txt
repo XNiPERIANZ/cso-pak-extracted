@@ -1,0 +1,8 @@
+﻿Havana - Hostage Rescue
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+Terroristi: Gli ostaggi politici sono trattenuti all'Avana Vieja. Rimanete dove siete finché non finisca il round e un elicottero arriverà per la fuga.
+
+Antiterroristi: Tutte le zone vicine sono state messe al sicuro. Ora dovete salvare gli ostaggi prima che i Terroristi scappino.

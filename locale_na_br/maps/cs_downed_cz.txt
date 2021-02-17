@@ -1,0 +1,8 @@
+﻿Downed - Resgate de Reféns
+
+Um avião civil foi atacado por um lança-rojão terrorista e caiu na selva. Os terroristas tomaram civis como reféns e estão exigindo uma grande quantia de dinheiro.
+
+- Contraterroristas: Resgate os reféns. Neutralize os terroristas sem eliminar os reféns.
+- Terroristas: Use todos os meios necessários para impedir a tentativa de resgate dos contraterroristas.
+
+Observação: Há 4 reféns nesta missão.

@@ -1,0 +1,6 @@
+﻿Ice World (Ice World) - Pátio de Luta
+Planejamento/Produção: Nexon
+Texturas/Modelos/Modificações: Nexon
+
+- Use as armas encontradas no chão para eliminar todos os oponentes.
+- Existe uma área de compra em um local específico, assim como granadas AE, de fumaça e sinalizadores.

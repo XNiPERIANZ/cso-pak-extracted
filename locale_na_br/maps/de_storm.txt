@@ -1,0 +1,9 @@
+﻿Storm - Plantar/desarmar a bomba
+
+Mapa criado por: FLiPMoDE|Daank (daankvirus420k@icqmail.com)
+Texturas criadas por:  Fingers - jOeSmOe - MattC
+
+- Contraterroristas: Proteja as caixas de armas. Essas armas devem ser entregues a uma nação aliada sob a ameaça dos terroristas.
+- Terroristas: Há uma pequena nação cujo regime deve ser derrubado por motivos políticos. Certifique-se de que as armas não sejam entregues lá.
+
+Observação: Há dois locais para plantar bombas neste mapa.

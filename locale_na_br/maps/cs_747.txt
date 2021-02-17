@@ -1,0 +1,9 @@
+﻿747 - Resgate de Reféns
+
+Mapa criado por: Stephen "Judas" Superville (witchdawn@hotmail.com)
+Texturas criadas por: "The Postman" (heavengame@yahoo.com)
+
+- Contraterroristas: Invada o avião e resgate os reféns que restam.
+- Terroristas: Evite que os contraterroristas resgatem os reféns.
+
+Observação: Há 5 reféns no avião.

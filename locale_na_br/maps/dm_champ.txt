@@ -1,0 +1,7 @@
+﻿Champion - Aniquilação
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+- Elimine todos os membros da equipe inimiga.
+- Ganha a equipe que aniquilar a outra.

@@ -1,0 +1,6 @@
+﻿Rats - Drużynowy Deathmatch
+Planowanie/Produkcja: Nexon
+Tekstury/Korekta: Nexon
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

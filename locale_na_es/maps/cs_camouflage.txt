@@ -1,0 +1,11 @@
+﻿Camuflaje - Rescate de rehenes
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+Las Fuerzas Terroristas restantes se escondieron en un edificio en ruinas que aparentaba usarse como almacén. Cuando el gobierno se enteró de esto, los Terroristas atacaron un laboratorio gubernamental cercano y tomaron 4 científicos como rehenes. Ahora demandan una importante suma de dinero y un helicóptero de escape a cambio de los rehenes.
+
+- Antiterroristas: Eliminen a todos los Terroristas y recuperen a los rehenes sanos y salvos.
+- Terroristas: Eviten que los Antiterroristas rescaten a los rehenes.
+
+Nota: Hay 4 rehenes en este mapa.

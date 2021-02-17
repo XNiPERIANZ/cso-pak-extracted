@@ -1,0 +1,10 @@
+﻿Tunnel - Drużynowy Deathmatch
+Planowanie/Produkcja: Nexon
+Tekstury/Korekta: Nexon
+
+Terroryści planują wysadzić tunnel przez który przejeżdza pociąg pełen gotówki i broni.
+
+Antyterroryści: Zaatakuj terrorystów by powstrzymać ich przed osiągnięciem celu.
+Terroryści: Zaatakuj Antyterrorystów tak, by wszystko mogło pójść zgodnie z planem.
+
+Uwaga: Każda drużyna ma dwie lokacje z uzbrojeniem na tej mapie.

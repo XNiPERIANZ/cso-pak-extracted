@@ -1,0 +1,9 @@
+﻿Santorini - Plantar/desarmar a bomba
+
+Mapa criado por: NEXON
+Texturas criadas por: NEXON
+
+- Contraterroristas: Atividades terroristas foram detectadas na região de Santorini. Membros da equipe devem desarmar as bombas que foram plantadas nos locais de detonação e aniquilar os terroristas.
+- Terroristas: Você deve conter atividades contraterroristas e detonar um dos dois locais.
+
+Observação: Há dois locais para plantar bombas neste mapa.

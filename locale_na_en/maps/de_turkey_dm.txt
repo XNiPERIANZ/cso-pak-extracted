@@ -1,0 +1,6 @@
+﻿Sanctuary - Death Match
+
+Production: NEXON
+
+- Eliminate all players around you.
+- The player who has eliminated the most wins the game.

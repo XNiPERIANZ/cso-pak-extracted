@@ -1,0 +1,7 @@
+﻿Chateau - Bomba Yerleştirme/Etkisizleştirme
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Teröristler: Cobble'da yaşanan hadiseden sonra, Lord William yaz şatosuna tadilat yaptırma kararı aldı. Bahçenin önüne ya da arkasına C4 kurarak tadilata son ver.
+- Anti-Teröristler: Teröristlerin bomba kurmasını engelle ve Lord William'ın mülkiyetini koru.

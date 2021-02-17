@@ -1,0 +1,11 @@
+﻿Tunnel - Takım Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+Teröristler tren tünelini havaya uçurarak trende bulunan parayı ve silahları ele geçirmeyi planlıyorlar.  
+
+- Anti-Teröristler: Teröristlere saldırarak amaçlarına ulaşmalarına engel olun.
+- Teröristler: Terörist saldırının amacına ulaşması için Anti-Teröristlere saldırın.
+
+Not: Bu haritada her takımın iki destek mevkisi bulunur.

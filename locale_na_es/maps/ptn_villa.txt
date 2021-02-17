@@ -1,0 +1,22 @@
+﻿Casa de vacaciones (casa de vacaciones) - Modo compañero - Colocación/desactivación de bomba
+Mapa creado por: Nexon
+Textura creada por: Nexon
+
+En una casa de vacaciones abandonada en las afueras de la ciudad, los antiterroristas
+y los terroristas comienzan su infiltración virtual y su entrenamiento defensivo.
+
+Equipo atacante (TR):
+El equipo atacante (TR) se despliega por todos los rincones de la casa: norte, sur, este y oeste.
+Para completar la misión, debe colocar las bombas en los objetivos o eliminar
+al equipo defensivo (AT) por completo.
+Se pueden usar a compañeros para ubicar el C4 y a los rivales dentro de la casa.
+
+Equipo defensivo (AT):
+El equipo defensivo (AT) se despliega por la casa y se dirige al primer y segundo piso.
+Debe defender los objetivos del equipo enemigo (TR) o eliminar a todos los rivales.
+El equipo defensivo puede comprobar la ubicación del C4 desde el momento del despliegue.
+Se pueden usar compañeros para establecer formaciones defensivas.
+
+Notas:
+El mapa tiene 10 ubicaciones de C4 posibles, de las cuales una ubicación se seleccionará al azar.
+Cada equipo debe cambiar sus tácticas en función de la ubicación del C4.

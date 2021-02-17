@@ -1,0 +1,8 @@
+﻿Rex - Podkładanie/Rozbrajanie Bomby
+Planowanie/Produkcja: Nexon
+Tekstury/Korekta: Nexon
+
+Gdy jedna z ostatnich baz terrorystów została odkryta, terroryści postanowili zaatakować laboratorium, w którym pracowano nad projektem "Rex" i porwać z niego naukowców. Po tym, jak poznali prawdę o broni biologicznej, ukrywanej w tym laboratorium, postanowili zniszczyć dokumenty, by utrudnić dalszy rozwój projektu.
+Antyterroryści: Powstrzymaj Terrorystów przed podłożeniem bomby w laboratorium. Członkowie drużyny muszą rozłożyć bombę podłożoną na którejkolwiek ze stref.
+Terroryści: Terrorysta niosący ładunek C4 musi podłożyć go w jednej z wyznaczonych stref.
+Uwaga: Na mapie są dwie strefy podkładania bomby.

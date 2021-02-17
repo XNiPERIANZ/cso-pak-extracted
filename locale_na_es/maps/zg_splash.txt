@@ -1,0 +1,12 @@
+﻿Splash (Splash) - Zombi Gigante
+Planificación y Producción: Nexon
+Gráficos: Nexon
+
+Antigua Represa
+La aparición de Zombis Gigantes llevó a los trabajadores a abandonar sus puestos de trabajo. Las instalaciones de la represa no están siendo monitoreadas y el agua ha empezado a fluir con gran fuerza.
+
+En la actualidad, esta vieja represa protege a los únicos humanos restantes que luchan en contra de los Zombis Gigantes.
+
+Misión:
+- Humanos matan zombis y zombis matan humanos para ganar puntos.
+- El primer equipo en alcanzar el puntaje especificado, gana.

@@ -1,0 +1,6 @@
+﻿Arma nuclear - Combate mortal en equipo
+
+Mapa creado por: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Para elevar la puntuación de tu equipo, mata a todos los enemigos que se encuentren en el mapa.
+- Para ganar, debes alcanzar un número designado de muertes.

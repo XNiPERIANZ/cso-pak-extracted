@@ -1,0 +1,7 @@
+﻿Luz de luna - Combate mortal
+
+Planificación/Producción: NEXON
+Mapeo/Revisión: NEXON
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

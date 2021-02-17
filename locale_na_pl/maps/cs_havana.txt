@@ -1,0 +1,8 @@
+﻿Havana - Ratowanie Zakładników
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+Terroryści: Polityczni zakładnicy są przetrzymywani w Havana Vieja. Utrzymaj pozycję do końca rundy i ucieknij helikopterem.
+
+Antyterroryści: Wszystkie pobliskie tereny zostały zabezpieczony. Teraz czas uratować zakładników, przed ucieczką terrorystów.

@@ -1,0 +1,7 @@
+﻿Estate - Yok Etme
+
+Haritayı Yapan: Zaphod Beeblebrox (zaphod@mapcore.com)
+
+- Haritadaki bütün düşmanları öldür.
+- Oyunu belirli sayıdaki rauntu tamamlayarak kazan.
+- Bir sonraki raunt başlayana kadar canlanmayacaksın.

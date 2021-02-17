@@ -1,0 +1,8 @@
+﻿Jump 2 - Meydan Okuma
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Belirtilen süre içinde en hızlı kayıta sahip oyuncu kazanır.
+- Ölürsen ya da düşersen en sondaki çek noktana konumlandırılırsın.
+- Bu haritada oyuncular kendi arasında çatışamaz.

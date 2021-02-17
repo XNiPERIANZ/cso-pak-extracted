@@ -1,0 +1,8 @@
+﻿Italy - Noël - Match à mort par les armes
+
+Carte créée par : Nexon
+Textures/graphismes par : Nexon
+
+Objectif
+- Une nouvelle arme est fournie à chaque fois que vous atteignez un certain nombre de victimes avec l'arme actuelle.
+- Remportez la victoire en éliminant l'équipe adverse avec la grenade finale.

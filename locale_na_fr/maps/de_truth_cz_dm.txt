@@ -1,0 +1,5 @@
+﻿Truth in Chaos - Deathmatch
+Carte créée par : Ritual Entertainment
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

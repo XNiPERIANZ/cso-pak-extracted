@@ -1,0 +1,6 @@
+﻿Vertigo - Team Deathmatch
+Map erstellt von: Chris Auty (Barney) (fragged101@yahoo.com)
+Textur erstellt von: Telnets and J0esm0e
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.

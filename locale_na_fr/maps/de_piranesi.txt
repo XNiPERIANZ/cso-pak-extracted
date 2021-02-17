@@ -1,0 +1,9 @@
+﻿Piranesi - Bomb Planting/Defusing
+Fingers - iikkak@valvesoftware.com
+Merci à Ido Magal pour les sources de texture
+
+Synopsis : Le magnifique palais de Villa Piranesi est converti un musée afin de recevoir du public. De nombreux meubles anciens et œuvres d'art sont introduits dans le bâtiment.
+
+Terroristes :Détruisez les deux pièces les plus prestigieuses du musée (le cadran solaire dans la cour avant, et le système solaire situé dans le jardin arrière) afin qu'il ne puisse ouvrir au public.
+
+Antiterroristes : Protégez ce patrimoine culturel des Terroristes.

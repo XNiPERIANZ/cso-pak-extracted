@@ -1,0 +1,14 @@
+﻿Survivor - Bomb Planting/Defusing
+Mappa creata da: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+Terroristi: Bombardate il camion o l'aereo scontrato.
+
+Antiterroristi: Impedite ai Terroristi di bombardare i bersagli.
+
+
+Contesto:
+Durante una forte tempesta di neve, un aeroplano che portava merce confidenziale è scontrato per terra. L'equipaggio a bordo è riuscito a scappare in modo sicuro usando paracaduti e a spostare la merce dall'aereo al camion. Tuttavia, non sono riusciti a spostare tutta la merce a causa della gran quantità di neve.
+
+I Terroristi che stavano seguendo l'aeroplano vogliono assicurarsi che la merce che si trova dentro all'aereo e al camion sia distrutta.

@@ -1,0 +1,8 @@
+﻿747 - Deathmatch
+Mappa creata da: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture creata da: "The Postman" 
+(heavengame@yahoo.com)
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

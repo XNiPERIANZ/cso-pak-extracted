@@ -1,0 +1,7 @@
+﻿Tormenta - Combate mortal
+
+Mapa creado por: FLiPMoDE|Daank (daankvirus420k@icqmail.com)
+Textura creada por:  Fingers - jOeSmOe - MattC
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

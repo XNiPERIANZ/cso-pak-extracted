@@ -1,0 +1,7 @@
+﻿Office
+
+Map Created By: Hobbit (Hobbit@nodream.net)	
+Texture Created By: Sphinx and George_Pooshoes.
+
+- Raise the team score by killing all enemy team members.
+- Win by achieving a designated number of kills.

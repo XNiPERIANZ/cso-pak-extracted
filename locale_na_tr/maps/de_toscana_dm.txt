@@ -1,0 +1,7 @@
+﻿Toscana - Ölüm Maçı
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+- Yakındaki tüm düşmanları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.

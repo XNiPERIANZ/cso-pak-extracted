@@ -1,0 +1,8 @@
+﻿Run 2 - Challenge
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+- Player with the fastest record within the designated duration wins.
+- You'll be moved to your most recent checkpoint if you die or fall.
+- There are no player conflicts in this map.

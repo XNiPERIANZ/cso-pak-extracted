@@ -1,0 +1,6 @@
+﻿Toscana - Deathmatch
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

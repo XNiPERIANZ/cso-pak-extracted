@@ -1,0 +1,8 @@
+﻿Ruins - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Ormandaki gizli Terörist üssüne baskın yapmaları için gönderilmiş bir keskin nişancı takımı yıkıntıların yakınında saklanan bir Terörist keskin nişancı takımı tarafından pusuya düşürülür. Destek birlikleriyle yapılan iletişimin kopması ile, iki takım da birbirleri ile sadece keskin nişancı tüfeklerini kullanarak yüzleşmeliler.
+
+- Tüm düşman keskin nişancılarını saf dışı bırak.

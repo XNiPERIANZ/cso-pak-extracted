@@ -1,0 +1,8 @@
+﻿Downed - Rehine Kurtarma
+
+Sivil bir uçak, Teröristlerin kullandığı bir roketatar ile vuruldu ve ormana çakıldı. Teröristler sivilleri rehin aldı ve yüksek miktarda bir para talep ediyorlar.
+
+- Anti-Teröristler: Rehineleri kurtar. Rehineleri öldürmeden Teröristleri etkisiz hale getir.
+- Teröristler: Anti-Teröristler'in rehineleri kurtarma girişimini engellemek için ne gerekiyorsa yap.
+
+Not: Bu görevde 4 rehine vardır.

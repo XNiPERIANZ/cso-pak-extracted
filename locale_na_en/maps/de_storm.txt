@@ -1,0 +1,9 @@
+﻿Storm - Bomb Planting/Defusing
+
+Map Created By: FLiPMoDE|Daank (daankvirus420k@icqmail.com)
+Texture Created By:  Fingers - jOeSmOe - MattC
+
+- Counter-Terrorists: Protect the weapon boxes. These weapons are to be delivered to an ally nation under the threat of the Terrorists.
+- Terrorists: There is a small nation whose regime must be disrupted for political reasons. Make sure that the weapons are not delivered there.
+
+Note: There are two bombing sites on this map.

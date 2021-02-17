@@ -1,0 +1,9 @@
+﻿Oficina (Office) - Rescate de rehenes
+
+Mapa creado por: Hobbit (Hobbit@nodream.net)	
+Textura creada por: Sphinx y George_Pooshoes.
+
+- Antiterroristas: Infiltren el edificio de oficinas y rescaten a los rehenes. Eliminen a los Terroristas y asegúrense de que los rehenes no sufran daños.
+- Terroristas: Eviten que los Antiterroristas rescaten a los rehenes.
+
+Nota: Hay 4 rehenes en esta misión.

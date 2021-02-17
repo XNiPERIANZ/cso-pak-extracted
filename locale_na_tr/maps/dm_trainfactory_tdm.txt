@@ -1,0 +1,10 @@
+﻿Train Shed - Takım Ölüm Maçı
+
+Planlama, tasarım ve geliştirme : Nexon
+
+Dokular/Modelleme/Düzenleme: Nexon
+
+
+- Haritadaki tüm düşman birimleri öldürerek takım puanını artırmalısınız.
+
+- Belirtilen sayıda düşmanı öldürerek oyunu kazanın.

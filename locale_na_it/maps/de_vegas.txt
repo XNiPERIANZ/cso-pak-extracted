@@ -1,0 +1,10 @@
+﻿Vegas - Bomb Planting/Defusing
+Produzione: +Cadaver+
+Texture: George_Pooshoes, JOeSmOe
+Revisione: Nexon
+
+
+Counter-Terrorists: Infiltratevi nell'edificio e proteggete il bersaglio del bombardamento mentre eliminate i Terroristi.
+
+Terroristi: Usate C4 per far esplodere la cassaforte.
+　　　　　　 Se non è possibile, fate esplodere la Sfinge e mostrate al mondo le vostre intensioni.

@@ -1,0 +1,7 @@
+﻿Jump 1 - Challenge
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+- Le joueur le plus rapide dans le temps imparti remporte la victoire.
+- Si vous mourez ou tombez, vous serez renvoyé à votre dernier point de contrôle.
+- Il n'y a pas d'affrontement entre joueurs sur cette carte.

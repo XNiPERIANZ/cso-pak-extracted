@@ -1,0 +1,7 @@
+﻿Train - Podkładanie/Rozbrajanie Bomby
+
+Antyterroryści: Powstrzymaj terrorystów przed zbombardowaniem głowicy nuklearnej zdemontowanej i umieszczonej na 2 wagonach. Członkowie drużyny muszą rozbroić wszystkie podłożone bomby.
+
+Terroryści: Terrorysta niosący ładunek C4 musi podłożyć bombę na jednej z dwóch nuklearnych głowic.
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

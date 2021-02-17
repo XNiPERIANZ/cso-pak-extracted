@@ -1,0 +1,13 @@
+﻿Parking Lot – Gun Deathmatch
+Autore: Nexon
+Texture/Modelli/Editing: Nexon
+
+Per assaltare il Quartier Generale nemico, gli Anti-Terroristi decidono di passare per il parcheggio.
+
+I Terroristi, ben decisi a non perdere il QG, rispondono con una disperata azione offensiva contro le truppe AT.
+
+Obbiettivo:
+- Vince la squadra che per prima ottiene un uccisione tramite Granata, l'arma finale.
+- Per guadagnare punti, i giocatori devono uccidere i membri della squadra avversaria.
+- La prima squadra che raggiunge il punteggio limite, vince.
+

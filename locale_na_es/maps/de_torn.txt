@@ -1,0 +1,9 @@
+﻿Arrasado - Colocación/Desactivación de bomba
+
+Mapa creado por: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Terroristas: Filtren gas nervioso en el depósito del pueblo para que se esparza a todas las ciudades cercanas.
+- Antiterroristas: Controlen la situación. Eviten que el enemigo logre su objetivo.
+
+Nota: Hay dos sitios de bomba en este mapa.

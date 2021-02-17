@@ -1,0 +1,6 @@
+﻿Assault - Sojusz Zombie
+Autor Mapy: CryptR (lmuur@dlc.fi)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

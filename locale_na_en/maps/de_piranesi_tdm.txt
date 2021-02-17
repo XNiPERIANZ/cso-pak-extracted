@@ -1,0 +1,7 @@
+﻿Piranesi - Team Deathmatch
+
+Fingers - iikkak@valvesoftware.com
+Thanks to Ido Magal for texture sources
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.

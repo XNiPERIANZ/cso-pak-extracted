@@ -1,0 +1,9 @@
+﻿Hidden City - Tryb Ukrytego
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+Niezidentyfikowany zamaskowany zabójca pojawił się w opuszczonej slumsowej wiosce.
+
+Cel: Osiągnij wynik docelowy zabijając ukrytego!
+
+Rada: Ukryty staje się bardziej widoczny z upływem czasu, jednak po zabiciu przeciwnika znów staje się niewidzialny...

@@ -1,0 +1,8 @@
+﻿Italie - X-Mas - Libération d'otages
+
+Carte créée par : Nexon
+Textures/graphismes par : Nexon
+
+Objectif
+- Antiterroristes : Libérez les otages détenus par les Terroristes dans une petite ville italienne.
+- Terroristes : Empêchez les Antiterroristes de sauver les otages.

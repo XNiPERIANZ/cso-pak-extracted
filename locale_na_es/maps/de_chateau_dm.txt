@@ -1,0 +1,7 @@
+﻿Castillo - Combate mortal
+
+Macman *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

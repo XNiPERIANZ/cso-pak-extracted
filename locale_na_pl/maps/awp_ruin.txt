@@ -1,0 +1,8 @@
+﻿Ruins - Anihilacja
+Planowanie/Produkcja: Nexon
+Tekstury/Modelowanie/Korekta: Nexon
+
+Drużyna snajperska wysłana do dżungli, by zaatakować sekretną bazę Terrorystów, została zaatakowana przez terrorystyczną drużynę snajperów, ukrytą w pobliżu ruin.
+W związku z tym, że obydwie drużyny straciły komunikacje z oddziałami wsparcia, są teraz zmuszone do konfrontacji używając tylko karabinków snajperskich.
+
+Cel: Wyeliminuj wszystkich wrogich snajperów.

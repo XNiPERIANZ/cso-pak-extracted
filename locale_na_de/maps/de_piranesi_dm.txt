@@ -1,0 +1,12 @@
+﻿Piranesi - Deathmatch
+Fingers - iikkak@valvesoftware.com
+Danke an Ido Magal für die Texturen
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+
+

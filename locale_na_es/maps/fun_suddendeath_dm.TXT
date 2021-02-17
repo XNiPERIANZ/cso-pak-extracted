@@ -1,0 +1,8 @@
+﻿Mobius - Muerte Súbita
+Mapa desarrollado por: Nexon 
+Textura desarrollada por: Nexon
+
+ - Mata a todos los jugadores cercanos y sobrevive hasta el final.
+- Utiliza un arma generada durante un cierto período de tiempo.
+- Una explosión matará a todos después de un minuto.
+- Gana el jugador con el mayor número de muertes al final.

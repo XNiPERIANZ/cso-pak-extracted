@@ -1,0 +1,13 @@
+Rhyzome (RHYZOME) - Zombie Escape
+Planned, designed, and developed by: Nexon
+Graphics: Nexon
+
+After the Zombie Virus outbreak,
+the surviving groups of civilians, soldiers, and police
+escaped out towards the outskirts of the city and created their own shelter to stay for the time being.
+
+However, they could not evade the zombie virus forever....
+
+Objective
+Humans: Escape to the helipad on the outer edge of the cliff within the time limit. You must remain human.
+Zombies: Infect all remaining humans or stop them from reaching the helipad within the time limit.

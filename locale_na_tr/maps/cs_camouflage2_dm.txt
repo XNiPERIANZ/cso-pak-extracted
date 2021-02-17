@@ -1,0 +1,7 @@
+﻿Camouflage 2 - Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Etrafındaki bütün oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

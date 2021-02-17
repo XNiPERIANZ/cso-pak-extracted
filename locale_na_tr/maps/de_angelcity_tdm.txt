@@ -1,0 +1,8 @@
+﻿Angel City - Takım Ölüm Maçı
+
+Asıl eser sahibi: Bilinmiyor
+Haritayı yapan: NEXON
+Dokuları yapan: NEXON
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takımının skorunu yükselt.
+- Düşmanı belirtilen sayıda öldürerek kazan.

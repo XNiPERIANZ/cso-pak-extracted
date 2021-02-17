@@ -1,0 +1,6 @@
+﻿Cobble - Team Deathmatch
+Carte créée par : DaveJ (http://www.johnsto.co.uk/)
+Texture créée par : MacMan (MacManInfi@aol.com)
+
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en tuant un certain nombre d'ennemis.

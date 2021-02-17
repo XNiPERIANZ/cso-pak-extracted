@@ -1,0 +1,13 @@
+﻿Havana
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgesehene Anzahl Tötungen erreichst.
+- Der Tötungs-Zähler erhöht sich, wenn eine Item-Box erhalten wird.
+
+
+
+
+

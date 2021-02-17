@@ -1,0 +1,5 @@
+﻿Corruption - Deathmatch
+by Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

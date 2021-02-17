@@ -1,0 +1,6 @@
+﻿Assault - Takım Ölüm Maçı
+
+Haritayı Yapan: CryptR (lmuur@dlc.fi)
+
+- Haritadaki düşman takım oyuncularının hepsini öldürerek takım skorunu arttır.
+- Oyunu belirli sayıdaki düşmanı öldürmeyi başararak kazan.

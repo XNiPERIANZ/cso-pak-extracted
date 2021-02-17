@@ -1,0 +1,6 @@
+﻿Torn - Deathmatch
+Mappa creata da: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

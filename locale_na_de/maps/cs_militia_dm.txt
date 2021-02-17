@@ -1,0 +1,10 @@
+﻿Militia - Deathmatch
+Map erstellt von: Andrew Aumann (andrewja@home.com)
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+

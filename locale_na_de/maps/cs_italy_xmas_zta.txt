@@ -1,0 +1,9 @@
+﻿Italy - Weihnachten - Vernichtung
+
+Map erstellt von: Nexon
+Texturen/Grafiken erstellt von: Nexon
+
+Ziel
+- Töte alle Gegner auf der Map.
+- Gewinne eine festgelegte Anzahl an Runden.
+- Du respawnst erst zu Beginn der nächsten Runde.

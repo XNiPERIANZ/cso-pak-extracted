@@ -1,0 +1,13 @@
+Rhyzome (RHYZOME) - Ucieczka Zombie
+Zaplanowana, zaprojektowana i opracowana przez: Nexon
+Grafika: Nexon
+
+Po wybuchu zombie apokalipsy,
+liczne grupy pozostałych przy życiu cywili, żołnierzy i policjantów
+uciekły w kierunku przedmieść miasta, gdzie ocaleli stworzyli swój własny, tymczasowy schron.
+
+Nie mogą jednak unikać wirusa zombie w nieskończoność...
+
+Cel
+Ludzie: Ucieknijcie do lądowiska helikopterów na zewnętrznej krawędzi klifu przed upływem czasu. Musicie pozostać ludźmi.
+Zombie: Zaraźcie wszystkich pozostałych ludzi lub powstrzymajcie ich przed dotarciem na lądowisko przed upływem czasu.

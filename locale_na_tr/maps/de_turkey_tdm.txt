@@ -1,0 +1,6 @@
+﻿Sanctuary - Takım Ölüm Maçı
+
+Yapım: NEXON
+
+- Haritadaki düşmanları yenerek daha fazla puan elde et.
+- Oyunu kazanmak için hedeflenen öldürme sayısına ulaş.

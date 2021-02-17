@@ -1,0 +1,17 @@
+﻿Urban Assault (Urban Assault) - Battle Rush
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+Scenariusz
+
+Szef uzbrojonej terrorystycznej grupy, będący w celu śmierci, zostanie użyty, jako okaz w doświadczeniach przeprowadzonych w specjalnym laboratorium.
+Elitarne jednostki antyterrorystyczne otrzymały misję przetransportowania więźnia do innej lokacji.
+Terroryści otrzymali informacje na temat przewozu i próbują zablokować transport, by odbić swojego szefa.
+
+Cel
+
+ Antyterroryści: Zniszcz wszystkie przeszkody na drodze i bezpiecznie przetransportuj więźnia do lokalizacji docelowej.
+
+ Terroryści: Zablokuj wszystkie ograniczające urządzenia w pojeździe transportującym szefa.
+ 
+ 

@@ -1,0 +1,8 @@
+﻿Sienna - Plantando/desarmando
+
+Atualmente, a cidade de Sienna está em estado de emergência devido a informações recentemente reunidas. Entradas e saídas da cidade foram limitadas para evitar as ameaças terroristas.
+
+- Terroristas: Entre na cidade descobrindo os dois pontos de entrada vulneráveis e exploda-as.
+- Contraterroristas: Evite que os terroristas explodam os portões e entrem na cidade. 
+
+Observação: Há dois novos locais que os terroristas podem atacar.

@@ -1,0 +1,8 @@
+﻿Vertigo - Aniquilação
+
+Mapa criado por: Chris Auty (Barney) (fragged101@yahoo.com)
+Texturas criadas por: Telnets e J0esm0e
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

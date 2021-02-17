@@ -1,0 +1,11 @@
+﻿Militia - Team Deathmatch
+Map erstellt von: Andrew Aumann (andrewja@home.com)
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem Du eine vorgegebene Anzahl Tötungen erreichst.
+
+
+
+
+
+

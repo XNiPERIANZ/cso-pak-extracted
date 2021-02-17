@@ -1,0 +1,6 @@
+﻿Alcatraz (alcatraz) - Deathmatch
+Conception et réalisation : Nexon
+Texture/Modélisation/Édition : Nexon
+
+- Tuez tous les joueurs ennemis.
+- La victoire revient au joueur totalisant le plus grand nombre de victimes.

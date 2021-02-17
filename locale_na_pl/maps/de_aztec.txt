@@ -1,0 +1,9 @@
+﻿Aztec - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: Chris Auty (Barney) (narby@counter-strike.net)
+Autor Tekstury: Macman 
+
+Antyterroryści: Powstrzymaj terrorystów przed wysadzeniem historycznego miejsca.
+
+Terroryści: Zniszcz zabytkową lokalizację Azteków.
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

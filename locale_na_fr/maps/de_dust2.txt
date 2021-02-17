@@ -1,0 +1,9 @@
+﻿Dust 2 - Bomb Planting/Defusing
+Carte créée par : DaveJ (http://www.johnsto.co.uk/)
+Texture créée par : MacMan (MacManInfi@aol.com)
+
+Antiterroristes : Empêchez les Terroristes de faire exploser les conteneurs d'armes chimiques. Les membres de l'équipe doivent désamorcer toutes les bombes posées sur les différents sites.
+
+Terroristes : Un terroriste en possession de C4 doit faire exploser l'un des sites où se trouvent les conteneurs d'armes chimiques.
+
+Note : Il y a deux sites de bombe dans cette mission.

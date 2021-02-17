@@ -1,0 +1,9 @@
+﻿Greesia Museum - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Greesia Müzesinin yakınındaki bir çatışma sırasında, Anti-Teröristler müzeye Terörist keskin nişancı takımıyla karşılaşmak için girer.
+Destek birlikleriyle yapılan iletişimin kopması ile, iki tarafta birbiriyle karşılaştığında sadece kendi silahlarına bel bağlamalı.
+
+- Tüm düşman keskin nişancılarını saf dışı bırak.

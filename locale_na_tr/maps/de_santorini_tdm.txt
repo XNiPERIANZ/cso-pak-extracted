@@ -1,0 +1,7 @@
+﻿Santorini (Santorini) - Takım Ölüm Maçı
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Kazanmak için belirlenmiş öldürme sayısına ulaşın.

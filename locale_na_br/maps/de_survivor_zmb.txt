@@ -1,0 +1,9 @@
+﻿Survivor - Zumbi
+
+Mapa criado por: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com) www.lanmaniax.com
+
+Durante o combate entre terroristas e contraterroristas, seres não identificados foram descobertos. Eles parecem ser zumbis que escaparam do Laboratório Rex. Os humanos agora têm que trabalhar juntos para sobreviverem.
+
+- Humanos: Sobreviva aos ataques dos zumbis durante o tempo restante ou elimine todos os zumbis.
+- Zumbis: Aqueles que se transformaram em zumbis devem eliminar os humanos e transformá-los em zumbis também. Os zumbis têm mais vida e são mais rápidos que os humanos.

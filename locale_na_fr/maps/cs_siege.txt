@@ -1,0 +1,8 @@
+﻿Siege - Hostage Rescue
+Carte créée par : N0TH1NG  (n0th1ng@mailcity.com)
+
+Antiterroristes : Infiltrez l'installation qui retient les prisonniers de guerre et libérez les otages. Éliminez les Terroristes en vous assurant que les otages ne soient pas blessés.
+
+Terroristes : Empêchez les Antiterroristes de sauver les otages.
+
+Note : Il y a 4 otages dans cette mission.

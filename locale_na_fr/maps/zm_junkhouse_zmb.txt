@@ -1,0 +1,15 @@
+﻿Maison de pacotille - Zombie
+Conception et réalisation : Nexon
+Texture/Modélisation/Édition : Nexon
+
+Les recherches pour lutter contre le virus zombie progressent lentement, mais sûrement...
+Pendant ce temps, une usine désaffectée est le théâtre d'expériences sur les mutations zombies et d'entraînements au combat.
+
+Les sujets des expériences sont sélectionnés parmi les survivants les plus réceptifs aux mutations du virus.
+Leurs mutations leur confèrent des avantages, et ils apprennent à les utiliser pour de véritables situations de combat.
+
+Le risque est grand, mais la survie de l'humanité en dépend.
+Seuls les plus courageux se portent volontaires pour cet entraînement dangereux.
+
+Humains : survivez aux attaques zombies jusqu'à la fin du décompte, ou tuez tous les Zombies.
+Zombies : tuez tous les Humains et transformez-les en Zombies. Les Zombies ont plus de PV et sont plus rapides que les Humains.

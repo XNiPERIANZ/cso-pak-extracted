@@ -1,0 +1,12 @@
+﻿Abyss 3 - Zombie
+Planowanie/Produkcja: Nexon
+Tekstury/Korekta: Nexon
+
+Rok po incydencie w Laboratorium Rex, zaczęto słyszeć niezidentyfikowany odgłos z zamkniętej fabryki znajdującej się w pobliżu laboratorium.
+By zbadać źródło tego dźwięku, członkowie drużyny ratunkowej weszli do fabryki, jednak kontakt z nimi został utracony ponad godzinę temu.
+Agenci rządowi, którym udało się wejść do fabryki odkryli, że stała się ona miejscem do transformacji zwłok zmarłych w Zombie.
+Sekretem ciągle rosnącej ilości Zombie była fabryka sama w sobie.
+
+
+Ludzie: Przetrwaj ataki Zombie tak długo, aż przybędzie wsparcie. Miej oko na sojusznikach, którzy mogą zamienić się w Zombie. Jesteś uprawniony by strzelać i zabijać wszystkie Zombie.
+Zombie: Ci, którzy zostali przemienieni w Zombie muszą zabijać ludzi, by zamienić ich w Zombie. Zombie mają więcej PW i są szybsze od Ludzi.

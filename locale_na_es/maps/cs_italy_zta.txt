@@ -1,0 +1,8 @@
+﻿Italia - Aniquilación
+
+Mapa creado por: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Textura/Gráficos creados por: DigiChaos (digichaos@hotsheep.com)
+
+- Mata a todos los enemigos en el mapa.
+- Para ganar, completa la cantidad designada de rondas.
+- No resucitarás hasta que comience la ronda siguiente.

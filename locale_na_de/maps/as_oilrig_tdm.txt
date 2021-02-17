@@ -1,0 +1,8 @@
+﻿Oil Rig - Team Deathmatch
+Map erstellt von: MacMan (macmaninfi@aol.com)
+Textur erstellt von: MacMan
+Westland Wessex erstellt von: Agent Orange 
+[agentorange@freemail.nl]
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgesehene Anzahl Tötungen erreichst.

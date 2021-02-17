@@ -1,0 +1,25 @@
+Log updated: 	12/03/2020 17:40:58 
+Media: 		C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\MeleeKill2.wav 
+Log file: 	C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\MeleeKill2_loud.txt 
+Format: 	8-bit PCM data, 1 channels @ 22050 Hz
+Algorithm: 	Surround processing turned: OFF
+
+
+Loudness calculations: 
+
+              Pos.	     Time	Mom.(LUFS)	Short(LUFS)	Integ.(LUFS)	Dyn.(LU)
+
+            8192	00:00:00.371	-11.43		-20.19		-13.30		 21.80
+           16384	00:00:00.743	-10.65		-18.02		-12.65		 12.60
+           24576	00:00:01.114	 -9.71		-15.37		-11.32		 14.90
+           32768	00:00:01.486	-12.15		-14.57		-11.65		  8.10
+           40960	00:00:01.857	-12.51		-14.27		-12.16		  8.40
+           49152	00:00:02.229	-12.06		-13.44		-12.23		  9.30
+           51978	00:00:02.357	-14.42		-13.43		-12.30		  9.30
+
+
+---------------------------
+Results:
+
+Mom. (max): 	 -9.71 (LUFS) at 00:00:01.114
+Short (max): 	-13.43 (LUFS) at 00:00:02.357

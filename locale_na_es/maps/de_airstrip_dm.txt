@@ -1,0 +1,7 @@
+﻿Pista de aterrizaje - Combate mortal
+
+Mapa creado por: Barney (aka narby) (narby@counter-strike.net)
+Agradecemos a likka Keranen, John Morello y Minh Le
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

@@ -1,0 +1,7 @@
+﻿Wolkenkratzer - Waffen-Deathmatch
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+Ziel
+- Du erhältst regelmäßig sobald du eine bestimmte Menge an Kills an Gegnern erreicht hast eine neue Waffe.
+- Um zu gewinnen, musst du das gegnerische Team mit der finalen Granate, die am Ende des Spiels verteilt wird, eliminieren.

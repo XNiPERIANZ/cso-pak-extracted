@@ -1,0 +1,6 @@
+﻿Siege - Ölüm Maçı
+
+Haritayı yapan: N0TH1NG (n0th1ng@mailcity.com)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

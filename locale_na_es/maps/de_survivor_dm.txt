@@ -1,0 +1,7 @@
+﻿Sobreviviente - Combate mortal
+
+Mapa creado por: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com) www.lanmaniax.com
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

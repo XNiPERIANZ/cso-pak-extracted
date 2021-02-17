@@ -1,0 +1,7 @@
+﻿Airstrip - Drużynowy Deathmatch
+Autor Mapy: Barney (aka narby) (narby@counter-strike.net)
+
+Specjalne podziękowania dla Iikka Keranen, John Morello i Minh Le
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

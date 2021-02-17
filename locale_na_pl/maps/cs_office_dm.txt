@@ -1,0 +1,6 @@
+﻿Office - Deathmatch
+Autor Mapy: Hobbit (Hobbit@nodream.net)	
+Autor Tekstury: Sphinx and George_Pooshoes.
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

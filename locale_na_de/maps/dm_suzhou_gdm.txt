@@ -1,0 +1,13 @@
+﻿Suzhou - Gun Deathmatch
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+Die chinesische Regierung hat Informationen des Geheimdienstes erhalten, dass Terroristen Drogen in eine Stadt namens Suzhou schmuggeln.
+Die Counter-Terroristen greifen die Stadt an, um die Terroristen aufzuhalten und müssen festellen, dass die Terroristen sie erwartet haben.
+Die Späher der Terroristen haben außerdem die Truppenbewegungen der Counter-Terroristen beobachtet und bereiten sich auf einen Sturmangriff vor.
+
+
+Zielvorgabe:
+- Das Team, das ein feindliches Teammitglied mit einer Granate tötet, gewinnt.
+- Erhöhe den Team-Punktestand, indem du alle Feinde tötest.
+- Um zu gewinnen, musst du eine vorgegebene Anzahl Tötungen innerhalb der Zeitvorgabe erreichen.

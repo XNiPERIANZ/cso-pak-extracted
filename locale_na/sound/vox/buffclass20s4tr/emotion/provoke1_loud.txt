@@ -1,0 +1,24 @@
+Log updated: 	12/03/2020 18:04:25 
+Media: 		C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\emotion\provoke1.wav 
+Log file: 	C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\emotion\provoke1_loud.txt 
+Format: 	8-bit PCM data, 1 channels @ 22050 Hz
+Algorithm: 	Surround processing turned: OFF
+
+
+Loudness calculations: 
+
+              Pos.	     Time	Mom.(LUFS)	Short(LUFS)	Integ.(LUFS)	Dyn.(LU)
+
+            8192	00:00:00.371	-13.80		-22.56		-15.76		 21.90
+           16384	00:00:00.743	-11.07		-18.77		-13.03		  7.80
+           24576	00:00:01.114	-11.97		-17.20		-13.03		  9.40
+           32768	00:00:01.486	-13.33		-16.33		-13.32		 10.20
+           40960	00:00:01.857	-14.20		-15.54		-13.54		  9.50
+           42964	00:00:01.948	-13.27		-15.29		-13.52		 10.00
+
+
+---------------------------
+Results:
+
+Mom. (max): 	-11.07 (LUFS) at 00:00:00.743
+Short (max): 	-15.29 (LUFS) at 00:00:01.948

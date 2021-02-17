@@ -1,0 +1,8 @@
+﻿Greesia Museum - Annihilation
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+Au cours d'un affrontement près du Greesia Museum, les Antiterroristes ont été accueillis par l'équipe de snipers terroristes dès leur entrée dans le musée.
+Les communications étant coupées, les deux camps ne peuvent espérer des renforts et doivent uniquement compter sur leurs armes.
+
+Objectif : Éliminez tous les snipers ennemis.

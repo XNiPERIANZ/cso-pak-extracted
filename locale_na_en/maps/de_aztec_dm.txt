@@ -1,0 +1,7 @@
+﻿Aztec - Deathmatch
+
+Map Created By: Chris Auty (Barney) (narby@counter-strike.net)
+Texture Created By: Macman 
+
+- Kill all nearby players.
+- The player with the most kills wins.

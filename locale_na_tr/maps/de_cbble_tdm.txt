@@ -1,0 +1,7 @@
+﻿Cobble - Takım Ölüm Maçı
+
+Haritayı yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları yapan: MacMan (MacManInfi@aol.com)
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takımının skorunu yükselt.
+- Düşmanı belirtilen sayıda öldürerek kazan.

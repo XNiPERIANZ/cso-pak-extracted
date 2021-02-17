@@ -1,0 +1,11 @@
+﻿Airstrip - Bomb Planting/Defusing
+Carte créée par : Barney (aka narby) (narby@counter-strike.net)
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+Antiterroristes : Empêchez les Terroristes de poser une bombe dans l'aérodrome.
+
+Terroristes : Posez du C4 dans l'aérodrome pour faire exploser le réservoir et l'entrepôt de marchandises.
+
+Note : Il y a deux sites de bombe dans cette mission.
+
+

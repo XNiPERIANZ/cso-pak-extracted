@@ -1,0 +1,7 @@
+﻿Piranesi - Ölüm Maçı
+
+Ulaşmak için - iikkak@valvesoftware.com
+Doku kaynakları için Ido Magal'a teşekkürler
+
+- Yakındaki tüm düşmanları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.

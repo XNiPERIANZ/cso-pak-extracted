@@ -1,0 +1,6 @@
+﻿Tren - Colocación/Desactivación de bomba
+
+- Antiterroristas: Eviten que los Terroristas bombardeen la ojiva nuclear que se desarmó y ubicó en 2 trenes. Los miembros del equipo deben desactivar todas las bombas colocadas en los sitios de bomba.
+- Terroristas: Un Terrorista que posea C-4 debe hacer explotar una de las dos ojivas nucleares.
+
+Nota: Hay dos sitios de bomba en este mapa.

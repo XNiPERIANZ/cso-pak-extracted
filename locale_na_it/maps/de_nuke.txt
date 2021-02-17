@@ -1,0 +1,9 @@
+﻿Nuke - Bomb Planting/Defusing
+Mappa creata da: Jo Bieg (MEEEEDIC@gmx.net)
+
+Antiterroristi: Impedite ai Terroristi di bombardare il missile nucleare. Il nemico può attaccare dall'alto o dal basso. I membri del team devono disinnescare qualsiasi bomba piazzata nei posti di bombardamento.
+
+Terroristi: I Terroristi in possesso di C4 devono bombardare il missile nucleare.
+
+
+Nota: Ci sono due posti di bombardamento in questa mappa.

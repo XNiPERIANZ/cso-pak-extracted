@@ -1,0 +1,6 @@
+﻿Corruption - Deathmatch
+
+by Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Kill all nearby players.
+- The player with the most kills wins.

@@ -1,0 +1,10 @@
+﻿Industry 2 - Silahlı Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Hükümet, teröristlerin şehir merkezinde bulunan bir depoyu ana sığınak olarak kullandığına dair bazı istihbaratlar aldı. Anti-Teröristler ise Teröristleri durdurmak için saldırıya geçtiklerinde Teröristleri binanın içinde kendilerini bekler halde buldular. Teröristlerin gözcüleri de Anti-Teröristlerin düzenlediği saldırıyı doğruladı ve Teröristler geniş çaplı bir saldırı hazırlığındalar. 
+
+- Düşman takım üyesini son bomba ile öldüren takım oyunu kazanır.
+- Haritadaki düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Kazanmak için belirlenmiş öldürme sayısına verilen süre içinde ulaş.

@@ -1,0 +1,6 @@
+﻿Train Shed - Mata-mata
+Planejado, desenhado e desenvolvido por: Nexon
+Textura, modelagem e edições por: Nexon
+
+- Elimine todos os jogadores próximos.
+- Ganha o jogador que tiver o maior número de eliminações no final.

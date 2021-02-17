@@ -1,0 +1,4 @@
+﻿Stadium - Drużynowy Deathmatch
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

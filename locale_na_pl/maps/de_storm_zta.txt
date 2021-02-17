@@ -1,0 +1,7 @@
+﻿Storm - Sojusz Zombie Anihilacja
+Autor Mapy: FLiPMoDE|Daank
+Autor Tekstury:  Fingers - jOeSmOe - MattC
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

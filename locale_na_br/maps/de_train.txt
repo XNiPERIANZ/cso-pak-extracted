@@ -1,0 +1,6 @@
+﻿Train - Plantar/desarmar a bomba
+
+- Contraterroristas: Evite que os terroristas explodam a ogiva nuclear que foi desmontada e colocada em 2 trens. Os membros da equipe devem desarmar todas as bombas plantadas nos locais de detonação.
+- Terroristas: Um terrorista em posse de um C4 deve explodir uma das duas ogivas nucleares.
+
+Observação: Há dois locais para plantar bombas neste mapa.

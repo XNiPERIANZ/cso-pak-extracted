@@ -1,0 +1,12 @@
+﻿Alcatraz (alcatraz) - Colocación/desactivación de bomba
+Creación de mapa: Nexon
+Creación de textura: Nexon
+
+Antiterrorista: se detectó actividad terrorista en las inmediaciones de una famosa prisión.
+Los miembros del equipo deben eliminar a los terroristas y desactivar cualquier bomba que se haya colocado en los sitios objetivo.
+
+Terrorista: hacer retroceder a los antiterroristas
+y destruir una de las dos áreas objetivo.
+
+
+Etc: existen dos sitios para colocar las bombas en este mapa.

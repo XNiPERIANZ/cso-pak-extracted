@@ -1,0 +1,11 @@
+﻿Italy - Deathmatch
+Map erstellt von:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Textur/Grafiken erstellt von:
+DigiChaos (digichaos@hotsheep.com)
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+

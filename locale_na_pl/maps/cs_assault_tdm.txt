@@ -1,0 +1,5 @@
+﻿Assault - Drużynowy Deathmatch
+Autor Mapy: CryptR (lmuur@dlc.fi)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

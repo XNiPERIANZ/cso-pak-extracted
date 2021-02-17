@@ -1,0 +1,7 @@
+﻿Inferno - Duelo de Equipes
+
+Mapa criado por: Chris Auty (Barney) (narby@counter-strike.net)
+Texturas criadas por: Valve software
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

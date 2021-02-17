@@ -1,0 +1,9 @@
+﻿Assault - Hostage Rescue
+Map erstellt von: CryptR (lmuur@dlc.fi)
+
+Counter-Terroristen: Rettet die Geiseln.
+Eliminiert die Terroristen, achtet dabei darauf dass die Geiseln nicht verletzt werden. Haltet Ausschau nach den versteckten Kameras, die überall installiert sind
+
+Terroristen: Verhindert mit allen notwendigen Mitteln, dass die Counter-Terroristen die Geiseln retten.
+
+Hinweis: Es handelt sich bei dieser Mission um 4 Geiseln. Rettet sie alle!

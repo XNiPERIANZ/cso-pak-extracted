@@ -1,0 +1,9 @@
+﻿Abyss 3 - Zombi
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+Rex Laboratuvarında yaşanan olaydan sonra laboratuvarın yakınındaki kapalı fabrikadan ne olduğu anlaşılmayan makine sesleri gelmeye başladı. Seslerini araştırmak için güvenlik ekibi içeri girdi ancak telsiz bağlantıları bir saatten fazla bir süredir kesintiye uğradı. Sonrasında hükümet ajanları fabrikaya girdiklerinde işletmenin ölülere ait cesetleri Zombilere dönüştüren bir yer halini aldığını gördüler. Zombilerin sayısındaki artışın sebebi fabrikanın kapıları arkasında gizliydi.
+
+- İnsanlar: Destek kuvvetler gelene kadar Zombi saldırılarından sağ kurtulun. Zombiye dönüşme ihtimali olan silah arkadaşlarınıza dikkat edin. Tüm Zombileri öldürme yetkisine sahipsiniz.
+- Zombiler: Zombiye dönüşenler İnsanları öldürmeli ve onları da Zombiye dönüştürmeliler. Zombiler daha yüksek Sağlık Puanına sahiptir ve İnsanlardan daha hızlıdırlar.

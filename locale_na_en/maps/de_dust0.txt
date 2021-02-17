@@ -1,0 +1,9 @@
+﻿Dust 0 - Bomb Planting/Defusing
+
+Map Created By: NEXON
+Texture Created By: NEXON
+
+- Counter-Terrorists: Terrorist activities have been detected in a strategically important location in the Middle East. Team members must defuse the bombs that have been planted at the bombing sites and annihilate the Terrorists.
+- Terrorists: You must contain Counter-Terrorist activities and bomb one of the two bombing sites.
+
+Note: There are two bombing sites on this map.

@@ -1,0 +1,13 @@
+Rhyzome (RHYZOME) - Fuga Zombie
+Pianificazione/Progettazione/Sviluppo: Nexon
+Grafica: Nexon
+
+Dopo l'infezione del virus Zombie,
+un gruppo di poliziotti, soldati e civili
+è fuggito nelle periferie della città, dove è stato poi costruito un rifugio provvisorio.
+
+Ma non potevano evitare la piaga Zombie per sempre...
+
+OBBIETTIVO:
+Umani: Raggiungete l'eliporto dall'altro lato della collina prima dello scadere del tempo. Ovviamente dovrete rimanere umani.
+Zombie: Infettate tutti gli Umani o impedite loro di raggiungere l'eliporto in tempo.

@@ -1,0 +1,6 @@
+﻿Prodigy - Annihilation
+Mappa creata da: Hobbit (hobbit@nodream.net)
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

@@ -1,0 +1,13 @@
+﻿Parking Lot – Arma Combate a Muerte
+Direct / Production: Nexon
+Texture/Modelling/Edit: Nexon
+
+Con el fin de atacar la sede de los terroristas, la fuerza de gobierno decide pasar por el estacionamiento.
+
+Los terroristas, a fin de no renunciar a su cuartel general, hacen un esfuerzo de último minuto y luchan contra las tropas del gobierno.
+
+Objetivo
+- El equipo sale victorioso si un jugador logra matar al jugador enemigo con la Granada Final.
+- Con el fin de aumentar la puntuación del equipo, los jugadores deben eliminar los jugadores enemigos.
+- El equipo sale victorioso si el equipo llega a la puntaje indicado primero.
+

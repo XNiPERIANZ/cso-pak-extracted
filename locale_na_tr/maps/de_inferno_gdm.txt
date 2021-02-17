@@ -1,0 +1,10 @@
+﻿Inferno - Silahlı Ölüm Maçı
+
+Haritayı Yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuları Yapan: Valve software
+
+- Yakındaki tüm düşmanları öldürün.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.
+- Bir düşman takım oyuncusunu son bir el bombasıyla öldüren takım oyunu kazanır.
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Kazanmak için süre sınırı içinde belirlenmiş öldürme sayısına ulaşın.

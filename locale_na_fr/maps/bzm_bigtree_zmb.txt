@@ -1,0 +1,10 @@
+﻿Big Tree - Zombie
+Planning/Production : Nexon
+Texture/Révision : Nexon
+
+Les Zombies ont poussé leurs attaques jusqu'à la jungle.
+Une bataille désespérée pour la survie va s'engager,
+avec les caractéristiques du terrain comme seule protection.
+
+Humains : Rassemblez-vous autour du Grand Arbre sans vous séparer, et battez-vous contre les zombies !
+Zombies : Humains... attaquer les humains...

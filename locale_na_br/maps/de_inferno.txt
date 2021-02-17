@@ -1,0 +1,11 @@
+﻿Inferno - Plantar/desarmar a bomba
+
+Mapa criado por: Chris Auty (Barney) (narby@counter-strike.net)
+Texturas criadas por: Valve software
+
+Os terroristas estão planejando explodir um oleoduto que passa por dois pequenos vilarejos.
+
+- Contraterroristas: Evite que os terroristas explodam o oleoduto.
+- Terroristas: Exploda dois locais do oleoduto.
+
+Observação: Há dois locais para plantar bombas neste mapa.

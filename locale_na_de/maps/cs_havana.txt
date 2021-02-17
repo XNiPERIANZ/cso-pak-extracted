@@ -1,0 +1,10 @@
+﻿Havana - Hostage Rescue
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+Terroristen: Politische Geiseln werden bei Havana Vieja festgehalten. Haltet die Stellung bis zum Ende der Runde. Ein Helikopter wird für eure Flucht bereitstehen.
+
+Counter-Terroristen: Alle nahegelegenenen Gebiete wurden gesichert. Jetzt müssen alle Geiseln gerettet werden bevor die Terroristen entkommen.
+
+

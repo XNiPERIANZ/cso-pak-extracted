@@ -1,0 +1,8 @@
+﻿747 - Deathmatch
+Map erstellt von: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Textur erstellt von: "The Postman" 
+(heavengame@yahoo.com)
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.

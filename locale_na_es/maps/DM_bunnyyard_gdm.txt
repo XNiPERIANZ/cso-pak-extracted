@@ -1,0 +1,11 @@
+﻿Bunny Yard – Arma Combate a Muerte
+Direct / Production: Nexon
+Texture/Modelling/Edit: Nexon
+
+Después de terminar la operación anterior exitosamente, el gobierno planea operaciones adicionales para eliminar la fuerza terrorista restante.
+Los terroristas violentamente resisten esto, y entran en un callejón sin salida.
+
+Objetivo
+- El equipo sale victorioso si un jugador logra matar al jugador enemigo con la Granada Final.
+- Con el fin de aumentar la puntuación del equipo, los jugadores deben eliminar los jugadores enemigos.
+- El equipo sale victorioso si el equipo llega a la puntaje indicado primero.

@@ -1,0 +1,8 @@
+﻿Corruption - Bomb Planting/Defusing
+par Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+Les Terroristes créent des tensions au sein de la population avec l'espoir de lancer un coup d'État.
+
+Antiterroristes : Protégez la population en éliminant les terroristes, et en les empêchant de détruire des endroits clés. 
+
+Terroristes : Détruisez des endroits vitaux pour affaiblir les infrastructures locales.

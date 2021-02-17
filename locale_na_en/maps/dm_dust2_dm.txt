@@ -1,0 +1,8 @@
+﻿Dust 2 - Deathmatch
+
+Map Created By: DaveJ (http://www.johnsto.co.uk/)
+Texture Created By: MacMan (MacManInfi@aol.com)
+Map Revision: NEXON
+
+- Kill all nearby players.
+- The player with the most kills wins.

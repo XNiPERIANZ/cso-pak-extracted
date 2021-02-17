@@ -1,0 +1,7 @@
+﻿Airstrip - Deathmatch
+
+Map Created By: Barney (aka narby) (narby@counter-strike.net)
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+- Kill all nearby players.
+- The player with the most kills wins.

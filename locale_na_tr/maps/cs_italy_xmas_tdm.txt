@@ -1,0 +1,8 @@
+﻿Italy - Noel - Takımla Ölüm Maçı
+
+Haritayı tasarlayan: Nexon
+Dokuları/grafikleri tasarlayan: Nexon
+
+Hedef
+- Haritadaki tüm düşman takım üyelerini öldürerek takım puanınızı arttırın.
+- Hedeflenen öldürme sayısına ulaşarak oyunu kazanın.

@@ -1,0 +1,11 @@
+RISING - Ucieczka Zombie
+Zaplanowana, zaprojektowana i opracowana przez: Nexon
+Grafika: Nexon
+
+Do wszystkich ocalałych, 
+Helikopter ratunkowy jest blisko. 
+Natychmiast wyruszcie na lotnisko, by poinformować pilota o swojej pozycji światłami ostrzegawczymi, co pozwoli wam uciec.
+
+Cel
+Ludzie: Ucieknijcie na lądowisko przed upływem czasu. Musicie pozostać ludźmi.
+Zombie: Zaraźcie wszystkich pozostałych ludzi lub powstrzymajcie ich przed dotarciem na lotnisko przed upływem czasu.

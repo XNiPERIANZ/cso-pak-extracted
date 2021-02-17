@@ -1,0 +1,6 @@
+﻿Estate - Mata-mata
+
+Mapa criado por: Zaphod Beeblebrox (zaphod@mapcore.com)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

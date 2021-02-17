@@ -1,0 +1,7 @@
+﻿Fastline - Yok Etme
+
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş sayıdaki rauntları tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar canlanmayacaksın.

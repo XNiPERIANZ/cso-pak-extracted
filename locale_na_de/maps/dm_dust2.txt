@@ -1,0 +1,7 @@
+﻿Dust 2 Annihilation - Annihilation
+Map erstellt von: DaveJ (http://www.johnsto.co.uk/)
+Textur erstellt von: MacMan (MacManInfi@aol.com)
+Map-Bearbeitung: Nexon
+
+- Tötet alle Mitglieder des feindlichen Teams.
+- Wenn ein Team ausgelöscht wurde, hat das andere Team gewonnen.

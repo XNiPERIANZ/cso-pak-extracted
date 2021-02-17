@@ -1,0 +1,8 @@
+﻿747 - Yok Etme
+
+Haritayı Yapan:  Stephen "Judas" Superville (witchdawn@hotmail.com)
+Dokuları Yapan: "The Postman" (heavengame@yahoo.com)
+
+- Haritadaki bütün düşmanları öldür.
+- Oyunu belirli sayıdaki rauntu tamamlayarak kazan.
+- Bir sonraki raunt başlayana kadar canlanmayacaksın.

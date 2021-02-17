@@ -1,0 +1,9 @@
+﻿Piranesi - Zombi
+
+Ulaşmak için - iikkak@valvesoftware.com
+Doku kaynakları için Ido Magal'a teşekkürler
+
+Teröristler ve Anti-Teröristler arasındaki savaş sırasında, tanımlanamayan varlıklar tespit edildi. Görünüşe göre bunlar Rex Laboratuvarından kaçan Zombiler. Artık hayatta kalabilmek için insanlar birlikte çalışmak zorunda.
+
+- İnsanlar: Kalan süre boyunca Zombi saldırılarından kurtulun veya tüm Zombileri öldürün.
+- Zombiler: Zombiye dönüşenler İnsanları öldürmeli ve onları da Zombiye çevirmeli. Zombilerin daha yüksek canları vardır ve İnsanlardan daha hızlıdırlar.

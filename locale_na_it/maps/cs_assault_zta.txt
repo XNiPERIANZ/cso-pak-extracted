@@ -1,0 +1,6 @@
+﻿Assault - Annihilation
+Mappa creata da: CryptR (lmuur@dlc.fi)
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

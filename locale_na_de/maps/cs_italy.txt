@@ -1,0 +1,14 @@
+﻿Italy - Hostage Rescue
+Map erstellt von:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Textur/Grafiken erstellt von:
+DigiChaos (digichaos@hotsheep.com)
+
+Counter-Terroristen: Rettet die Geiseln, die von den Terroristen in einer kleinen italienischen Stadt gefangen gehalten werden.
+
+Terroristen: Verhindert, dass die Counter-Terroristen die Geiseln retten.
+
+
+
+
+

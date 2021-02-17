@@ -1,0 +1,6 @@
+﻿Fastline - Takım Ölüm Maçı
+
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Haritadaki düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Belirlenmiş öldürme sayısına ulaşarak oyunu kazan.

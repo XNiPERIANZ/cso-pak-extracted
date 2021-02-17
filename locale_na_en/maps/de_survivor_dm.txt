@@ -1,0 +1,7 @@
+﻿Survivor - Deathmatch
+
+Map Created By: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com) www.lanmaniax.com
+
+- Kill all nearby players.
+- The player with the most kills wins.

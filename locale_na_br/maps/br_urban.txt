@@ -1,0 +1,11 @@
+﻿Urban Assault (Urban Assault) - Batalha Frenética
+
+Mapa criado por: NEXON
+Texturas criadas por: NEXON
+
+O chefão de um grupo armado terrorista, que agora está no corredor da morte, será usado como cobaia para uma experiência realizada por um laboratório especial.
+Foi dada às tropas de elite contraterroristas a missão de transportar o prisioneiro para um outro local.
+Os terroristas receberam informações sobre o método de transporte e agora estão tentando bloquear o caminho e resgatar seu chefe.
+
+- Contraterroristas: Destrua todos os obstáculos ao longo da rota e transporte com segurança o prisioneiro até o local de destino.
+- Terroristas: Desative todos os dispositivos de bloqueio do veículo que transporta o chefão.

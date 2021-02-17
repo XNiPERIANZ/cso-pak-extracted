@@ -1,0 +1,10 @@
+﻿Nuke - Deathmatch
+Map erstellt von: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+

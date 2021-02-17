@@ -1,0 +1,11 @@
+﻿Bunny Yard – Gun Deathmatch
+Direção / Produção: Nexon
+Textura/Modelamento/Edição: Nexon
+
+Depois de finalizar a operação anterior com sucesso, o governo planeja operações adicionais para eliminar as forças terroristas restantes. 
+Os terroristas resistem violentamente, e a situação se torna um empasse.
+
+Objetivo
+- A equipe será ganhadora se um jogador conseguir eliminar o jogador inimigo com a Granada Final.
+- Para aumentar a pontuação da equipe, os jogadores devem eliminar os jogadores inimigos.
+- A equipe será vencedora se ela chegar à pontuação do objetivo primeiro.

@@ -1,0 +1,8 @@
+﻿Polvareda 2 - Aniquilación
+
+Mapa creado por: DaveJ (http://www.johnsto.co.uk/)
+Textura creada por: MacMan (MacManInfi@aol.com)
+Revisión del mapa: NEXON
+
+- Mata a todos los enemigos en el mapa.
+- Cuando se aniquila a un equipo, gana el equipo contrario.

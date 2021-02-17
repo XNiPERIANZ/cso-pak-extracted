@@ -1,0 +1,7 @@
+﻿Storm - Drużynowy Deathmatch
+Autor Mapy: FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+Autor Tekstury:  Fingers - jOeSmOe - MattC
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

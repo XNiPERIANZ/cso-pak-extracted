@@ -1,0 +1,9 @@
+﻿Italie - X-Mas - Annihilation
+
+Carte créée par : Nexon
+Textures/graphismes par : Nexon
+
+Objectif
+- Tuez tous les ennemis sur la carte.
+- Remportez un certain nombre de manches.
+- Vous ne réapparaîtrez qu'au début de la manche suivante.

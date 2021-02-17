@@ -1,0 +1,13 @@
+﻿Camouflage 2 - Hostage Rescue
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+Des forces terroristes résiduelles se sont terrées dans un bâtiment délabré, supposément utilisé comme entrepôt.
+Quand ce fait est parvenu aux oreilles du gouvernement, les Terroristes ont attaqué un laboratoire du gouvernement, prenant quatre scientifiques en otage.
+Ils exigent maintenant une forte somme d'argent en échange des otages, ainsi qu'un hélicoptère pour assurer leur évasion.
+
+Antiterroristes : Éliminez tous les Terroristes et libérez les otages.
+
+Terroristes : Empêchez les Antiterroristes de sauver les otages.
+
+Note : Il y 4 otages dans cette carte.

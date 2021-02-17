@@ -1,0 +1,11 @@
+﻿Cold Fear - Core: Beast 
+
+Planning and Production: NEXON
+Graphics: NEXON
+
+After repeated conflict in the polar region, the Terrorists and Counter-Terrorists come upon mysterious ores one day. After realizing that the ores contain a mysterious power, they both engage in research while devising plans to destroy each other’s ores in order to monopolize the newly discovered power. However, the control barriers installed in order to control the powerful energy of the core causes the combat to become protracted and... while engage in battle, agents who came into physical contact with fragments of the ore start to mutate, causing the war to go in an unexpected direction...
+
+- Destroy the enemy’s core. 
+- The core is being protected by the control barrier.
+- Attack the control device and you’ll be able to attack the core temporarily. The control device will reactive in 20 seconds.
+

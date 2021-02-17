@@ -1,0 +1,9 @@
+﻿747 - Rescate de rehenes
+
+Mapa creado por: Stephen 'Judas' Superville (witchdawn@hotmail.com)
+Textura creada por: 'The Postman' (heavengame@yahoo.com)
+
+-Antiterroristas: Infiltren el avión y rescaten a los rehenes restantes.
+- Terroristas: Eviten que los Antiterroristas rescaten a los rehenes.
+
+Nota: Hay 5 rehenes en el avión.

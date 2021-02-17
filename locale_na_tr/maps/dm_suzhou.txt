@@ -1,0 +1,9 @@
+﻿Suzhou Annihilation - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Çin hükümeti Teröristlerin şehir dışında bulunan Suzhou adlı kasabada uyuşturucu kaçakçılığı yaptığına dair istihbarat aldı. Anti-Teröristler, Teröristleri durdurmak için kasabaya saldırdıklarında ise Teröristleri saldırıya hazır halde buldular. Terörist gözcüleri de Anti-Teröristlerin saldırısını doğruladı. Teröristler geniş çaplı bir saldırı hazırlığındalar.
+
+- Haritadaki tüm düşman takım üyelerini öldür.
+- Bir takım yok edildiğinde kalan takım oyunu kazanır.

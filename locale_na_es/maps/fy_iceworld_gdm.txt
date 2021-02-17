@@ -1,0 +1,8 @@
+﻿Mundo de Hielo - CM con arma
+Producción y desarrollo: Nexon
+Textura, modelado y edición: Nexon
+
+Objetivo
+- Para ganar, elimina al equipo enemigo con la granada final.
+- Eleva la puntuación de tu equipo matando a todos los miembros del equipo enemigo que se encuentren en el mapa.
+- El primer equipo en alcanzar el número requerido de muertes dentro del tiempo límite será el ganador.

@@ -1,0 +1,7 @@
+﻿Vertigo - Sojusz Zombie
+Autor Mapy: Chris Auty (Barney) (fragged101@yahoo.com)
+Autor Tekstury: Telnets and J0esm0e
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

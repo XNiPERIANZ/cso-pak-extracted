@@ -1,0 +1,8 @@
+﻿Gökdelen - Zombi
+Geliştiren ve üreten : Nexon
+Doku/Modelleme/Düzenleme : Nexon
+
+Teröristler ve terörle mücadele timi arasındaki savaş sırasında bilinmeyen varlıklar görüldü ve bu varlıklar, Rex Laboratuvarından kaçan zombilere benziyor. Hayatta kalmak için insanların birlikte çalışmaları gerekiyor.
+
+İnsanlar: Kalan süre boyunca zombilerin saldırılarından hayatta kalmalı veya tüm zombileri öldürmelidir.
+Zombiler: Zombiye dönüşenler insanları öldürmeli ve onları Zombiye dönüştürmelidir. Zombiler, insanlara göre daha hızlıdır ve daha fazla HP değerine sahiptir.

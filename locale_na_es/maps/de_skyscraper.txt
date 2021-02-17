@@ -1,0 +1,10 @@
+﻿Rascacielos - Instalar y desmantelar explosivos
+Desarrollado y producido por: Nexon
+Textura/Modelado/Editado por: Nexon
+
+Antiterrorista Deten a los terroristas para evitar que detonen las armas químicas. Los miembros del equipo deben desmantelar todos los explosivos instalados en el área objetivo.
+
+Terroristas: Los terroristas con C4 deben detonar las cajas de armas químicas en cualquiera de los dos lugares donde se encuentran.
+
+
+ETC.: Hay dos áreas de detonación en este mapa.

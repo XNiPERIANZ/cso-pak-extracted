@@ -1,0 +1,5 @@
+﻿Siege - Deathmatch
+Autor Mapy: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

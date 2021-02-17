@@ -1,0 +1,14 @@
+﻿Survivor - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+Terroryści: Zbombarduj ciężarówkę lub wrak samolotu.
+
+Antyterroryści: Powstrzymaj terrorystów przed podłożeniem bomb.
+
+
+Tło:
+W trakcie potężnej śnieżycy, samolot, który przewoził tajny ładunek rozbił się na ziemię. Załodze udało się uciec przy użyciu spadochronów i przenieść ładunek z samolotu do ciężarówki. Jednakże, nie mogli przenieść całego ładunku przez ogromną ilość śniegu.
+
+Terroryści będący na tropie samolotu planują zabezpieczyć ładunek z ciężarówki i samolotu dla siebie.

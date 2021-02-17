@@ -1,0 +1,7 @@
+Versteck (Spielzimmer)
+
+- Decoder können verwendet werden, und wenn Items, die auf dem Display erscheinen, aufgenommen werden, können andere Spieler sie ausprobieren.
+
+- Spieler erhalten zusätzliche Mileage, wenn Items, die sie herausgeholt haben, von anderen Spielern verwendet werden.
+
+- Waffen können an der Schießanlage getestet werden.

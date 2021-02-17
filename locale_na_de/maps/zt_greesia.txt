@@ -1,0 +1,14 @@
+﻿Greesia (Greesia) - [Zombie-Verstecken]
+Herausgeber: Nexon
+□                                   ####### Bitte für mehr Unterhaltung beim Versteckspiel durchlesen! #######
+□         <@> Mensch <@>                  
+                >> Menschen müssen die echten Zombies unter den Fallen finden!                 
+                >> [Hallo, Zombie!] kann Zombies mit einem Versuch töten und gibt dir eine Gesundheitsverbesserung und extra Punkte!
+                >> HP werden beim Töten einer Falle abgezogen.
+                >> Menschen können mit SHIFT gehen.
+□                                                                                        
+□         <@> Zombie <@>             
+                >> Zombies müssen die Fluchtzone innerhalb des Zeitlimits erreichen.
+                >> Es ist wichtig, die gegebene Aktion während der Fieberzeit zu imitieren.
+                >> Zombies können mit SHIFT rennen.
+                   (Lusty Rose kann schneller rennen als Leichte Zombies.)

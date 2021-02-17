@@ -1,0 +1,7 @@
+﻿Militia - Aniquilação
+
+Mapa criado por: Andrew Aumann (andrewja@home.com)
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

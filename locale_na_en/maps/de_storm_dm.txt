@@ -1,0 +1,7 @@
+﻿Storm - Deathmatch
+
+Map Created By: FLiPMoDE|Daank (daankvirus420k@icqmail.com)
+Texture Created By:  Fingers - jOeSmOe - MattC
+
+- Kill all nearby players.
+- The player with the most kills wins.

@@ -1,0 +1,8 @@
+﻿Italy EX - Zombie
+Mapa stworzona przez: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+
+
+W trakcie walki pomiędzy terrorystami, a antyterrorystami, odkryto niezidentyfikowane istoty. Wygląda na to, że to zombie, które wydostały się z Laboratorium Rex. Ludzie muszą ze sobą współpracować, by przetrwać.
+
+Ludzie: przetrwaj ataki zombie przez pozostały czas lub zabij wszystkie zombie.
+Zombie: przemienieni w zombie muszą zabić ludzi i również ich przemienić. Zombie mają wyższe PW i są szybsze od ludzi.

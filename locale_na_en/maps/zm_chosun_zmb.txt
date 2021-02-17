@@ -1,0 +1,10 @@
+﻿Joseon Village - Zombie
+Developed and produced by: Nexon
+Texture/Modeling/Edited by: Nexon
+
+Long ago, when dynasties still ruled Korea...
+The dead awoke in an unknown plague.
+Those who could sought higher ground, fleeing from the plagued.
+
+Humans: Survive the zombie attacks until time runs out, or kill all the zombies.
+Zombies: Kill all the humans and turn them into zombies. Zombies have more HP and are faster than humans.

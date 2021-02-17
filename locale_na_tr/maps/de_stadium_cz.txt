@@ -1,0 +1,6 @@
+﻿Stadium - Bomba Yerleştirme/Etkisizleştirme
+
+- Anti-Teröristler: Teröristlerin stadyumu bombalama teşebbüslerini engelleyin.
+- Teröristler: Stadyumu bombalayın.
+
+Not: Bu görevde iki bombalama bölgesi vardır.

@@ -1,0 +1,13 @@
+﻿Parking Lot – Gun Deathmatch
+Planung/Produktion: Nexon
+Texturen/Modelle/Bearbeitung: Nexon
+
+Um das Hauptquartier der Terroristen anzugreifen, entscheiden sich die Einheiten der Regierung, den Parkplatz zu überqueren.
+
+Die Terroristen versuchen im letzten Moment zurückzuschlagen und kämpfen gegen die Regierungstruppen, um ihr Hauptquartier nicht aufgeben zu müssen.
+
+Ziel
+- Ein Team ist siegreich, wenn ein Spieler es schafft, den Gegenspieler mit der Letzten Granate zu töten.
+- Um den Punktestand des Teams zu verbessern, müssen die Spieler gegnerische Spieler ausschalten.
+- Ein Team ist siegreich, wenn das Team zuerst den festgelegten Zielpunktestand erreicht.
+

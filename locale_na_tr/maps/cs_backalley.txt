@@ -1,0 +1,8 @@
+﻿Back Alley - Rehine Kurtarma
+
+Haritayı Yapan: TYR (tyr@barking-dog.com)
+
+- Anti Teröristler: Terörist üssüne sız ve rehineleri güvenli bir yere götür. Rehinelerin zarar görmemesini sağlarken, Teröristleri saf dışı bırak.
+- Teröristler: Anti-Teröristlerin rehineleri kurtarmasına engel ol.
+
+Not: Bu görevde 4 rehine vardır.

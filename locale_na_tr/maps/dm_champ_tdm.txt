@@ -1,0 +1,7 @@
+﻿Champion - Takım Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Belirlenmiş öldürme sayısına ulaşarak oyunu kazan.

@@ -1,0 +1,8 @@
+﻿Italy - Aniquilação
+
+Mapa criado por: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texturas/Gráficos criados por: DigiChaos (digichaos@hotsheep.com)
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

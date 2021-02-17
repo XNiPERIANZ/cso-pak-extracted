@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Team Deathmatch
+
+Map Created By: Ritual Entertainment
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.

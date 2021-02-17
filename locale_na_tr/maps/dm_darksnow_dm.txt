@@ -1,0 +1,7 @@
+﻿Dark Snow - Ölüm Maçı
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+- Yakındaki tüm oyuncuları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.

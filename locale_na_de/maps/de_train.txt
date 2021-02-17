@@ -1,0 +1,8 @@
+﻿Train - Bomb Planting/Defusing
+
+Terrorabwehr: Verhindert, dass die Terroristen den Atomsprengkopf, der auseinandergebaut und auf zwei Züge geladen wurde, sprengen.
+Die Mitglieder des Teams müssen alle platzierten Bomben entschärfen.
+
+Terroristen: Ein Terrorist, der C4 hat muss einen der zwei Nuklearsprengköpfe sprengen.
+
+Hinweis: Es sind zwei Ziele vorgesehen.

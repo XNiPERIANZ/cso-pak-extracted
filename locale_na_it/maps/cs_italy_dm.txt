@@ -1,0 +1,8 @@
+﻿Italy - Deathmatch
+Mappa creata da:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texture/Grafica Created By:
+DigiChaos (digichaos@hotsheep.com)
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

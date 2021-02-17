@@ -1,0 +1,8 @@
+﻿Storm - Yok Etme
+
+Haritayı Yapan: FLiPMoDE|Daank
+Dokuları Yapan:  Fingers - jOeSmOe - MattC
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş raunt sayısını tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar yeniden canlanmayacaksın.

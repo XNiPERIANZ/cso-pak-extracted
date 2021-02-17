@@ -1,0 +1,22 @@
+﻿Villa (villa) - Partner Mode - Bomb Plant / Defusal
+Map created by: Nexon
+Texture created by: Nexon
+
+In an abandoned villa on the outskirts of the city, the Counter-Terrorists
+and Terrorists begin their virtual infiltration and defense training.
+
+Attacking Team (TR):
+The attacking team (TR) spawns on all sides of the villa, north, south, east, and west,
+and must locate targets inside the villa to be bombed or eliminate
+the entire defending team (CT) to accomplish the mission.
+It's possible to use Partners to locate the C4 and opponents inside.
+
+Defending Team (CT):
+The defending team (CT) spawns inside the villa, on the 1st and 2nd floors,
+to defend the targets from the enemy team (TR) or wipe them out.
+The defending team can check the location of the C4 from the moment they spawn.
+It's possible to use Partners to set up defensive formations.
+
+Notes:
+The map has 10 possible C4 locations, from which 1 location will be randomly selected.
+Each team must alter their tactics depending on the location of the C4.

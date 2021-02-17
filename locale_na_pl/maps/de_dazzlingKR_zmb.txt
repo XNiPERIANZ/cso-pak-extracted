@@ -1,0 +1,8 @@
+﻿Dazzling – Zombie
+Planowanie/Produkcja: Nexon
+Tekstury/Modelowanie/Korekta: Nexon
+
+W trakcie walki pomiędzy Terrorystami, a Antyterrorystami, odkryto niezidentyfikowane istoty, które okazały się być Zombie z Laboratorium Rex. Teraz, ludzie muszą ze sobą współpracować, by przetrwać.
+
+Ludzie: Przetrwaj ataki Zombie przez pozostały czas lub zabij wszystkie Zombie.
+Zombie: Ci, którzy zostali przemienieni w Zombie muszą zabijać ludzi, by zamienić ich w Zombie. Zombie mają więcej PW i są szybsze od Ludzi.

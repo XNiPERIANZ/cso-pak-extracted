@@ -1,0 +1,10 @@
+﻿Industry 2 - Gun Deathmatch
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+The government has received intelligence indicating that the Terrorists have been using a large storage, located outside of the city, as their main stronghold. In order to stop the Terrorists, the Counter-Terrorists attacked the storage only to discover that Terrorists had been waiting for them inside of the building. Terrorist scouts have also verified the movements of the Counter-Terrorists and are preparing for an all-out attack
+
+- The team that kills an enemy team member with a final grenade wins.
+- Raise the team score by killing all enemy team members on the map.
+- Reach the designated kill count within the time limit to win.

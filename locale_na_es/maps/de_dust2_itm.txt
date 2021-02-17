@@ -1,0 +1,6 @@
+﻿Polvo II (Polvo 2) – Objeto de Combate Mortal en equipo
+Creador del Mapa: Dave J (http://www.johnsto.co.uk)
+Creador de Texturas: MacMan (MacManInfi@aol.com)
+
+Objectivo: Dirígete al punto marcado eliminando los jugadores enemigos.
+Consejo: Ataque de Área o habilidades especiales, pueden ser usadas al usar un objeto.

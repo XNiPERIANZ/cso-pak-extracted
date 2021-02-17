@@ -1,0 +1,6 @@
+﻿Champion - Annihilation
+Pianificazione/Produzione: Nexon
+Texture/Modelli/Revisione: Nexon
+
+- Uccidete tutti i membri del team nemico nella mappa.
+- Quando un team viene annichilito, il team rimanente vince.

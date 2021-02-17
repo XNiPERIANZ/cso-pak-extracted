@@ -1,0 +1,7 @@
+﻿Toscana - Takım Ölüm Maçı
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunuzu arttırın.
+- Belirlenmiş sayıdaki öldürme sayısına ulaşarak oyunu kazanın.

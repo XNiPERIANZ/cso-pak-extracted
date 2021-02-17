@@ -1,0 +1,8 @@
+﻿747 - Бой насмерть
+Создатель карты: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Создатель графики карты: "The Postman" 
+(heavengame@yahoo.com)
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

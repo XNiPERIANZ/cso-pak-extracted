@@ -1,0 +1,8 @@
+﻿Vertigo
+
+Haritayı Yapan: Chris Auty (Barney) (fragged101@yahoo.com)
+Dokuları Yapan: Telnets ve J0esm0e
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunuzu arttırın.
+- Belirlenmiş sayıdaki öldürme sayısına ulaşarak oyunu kazanın.
+- Eğer eşya kutusu elde edilirse öldürme sayısı artar.

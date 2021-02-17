@@ -1,0 +1,8 @@
+﻿Angel City - Mata-mata
+
+Criador original: Desconhecido
+Mapa criado por: NEXON
+Texturas criadas por: NEXON
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

@@ -1,0 +1,6 @@
+﻿Prodigy - Deathmatch
+
+Map Created By: Hobbit (hobbit@nodream.net)
+
+- Kill all nearby players.
+- The player with the most kills wins.

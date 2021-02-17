@@ -1,0 +1,12 @@
+﻿Airstrip - Bomb Planting/Defusing
+Mappa creata da: Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+Antiterroristi: Impedite ai Terroristi di piazzare una bomba dentro l'edificio della pista d'atterraggio.
+
+Terroristi: Piazzate il C4 nell'edificio della pista d'atterraggio per far esplodere il serbatoio di carburante e capannone da carico.
+
+Nota: Ci sono due posti di bombardamento in questa mappa.
+
+

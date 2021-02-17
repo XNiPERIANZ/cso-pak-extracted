@@ -1,0 +1,7 @@
+﻿Estate - Sojusz Zombie Anihilacja
+Autor Mapy: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

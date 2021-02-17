@@ -1,0 +1,6 @@
+﻿Dust II (Dust 2) – Zbrojny Deathmatch Drużynowy
+Autor Mapy: Dave J (http://www.johnsto.co.uk)
+Autor Tekstury: MacMan (MacManInfi@aol.com)
+
+Cel: Dostań się do punktu docelowego poprzez eliminację przeciwników.
+Rada: Atak obszarowy lub zdolności specjalne mogą zostać wykorzystane przy użyciu przedmiotu.

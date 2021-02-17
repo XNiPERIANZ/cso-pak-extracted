@@ -1,0 +1,10 @@
+﻿Assault - Hostage Rescue
+
+Map Created By: CryptR (lmuur@dlc.fi)
+
+Eliminate the Terrorists while making sure that the hostages are not harmed. Watch out for hidden cameras that are installed throughout.
+
+- Counter-Terrorists: Rescue the hostages.
+- Terrorists: Prevent the Counter-Terrorists from rescuing the hostages by all means necessary.
+
+Note: There are 4 hostages in this mission. Rescue all of them!

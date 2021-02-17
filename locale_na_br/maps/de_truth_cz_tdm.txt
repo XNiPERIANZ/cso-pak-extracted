@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Duelo de Equipes
+
+Mapa criado por: Ritual Entertainment
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

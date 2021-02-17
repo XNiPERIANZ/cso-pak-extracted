@@ -1,0 +1,8 @@
+﻿Prodigy - Plantar/desarmar a bomba
+
+Mapa criado por: Hobbit (hobbit@nodream.net)
+
+- Contraterroristas: Evite que os terroristas explodam a sala de informática ou a sala de controle da tubulação de combustível. Os membros da equipe devem desarmar todas as bombas plantadas nos locais de detonação.
+- Terroristas: Um terrorista em posse de um C4 deve explodir um dos dois alvos.
+
+Observação: Há dois locais para plantar bombas neste mapa.

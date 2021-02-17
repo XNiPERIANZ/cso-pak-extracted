@@ -1,0 +1,22 @@
+﻿Villa (villa) - Mode partenaire - Pose de bombe / Désamorçage
+Carte créée par : Nexon
+Texture par : Nexon
+
+Dans une villa abandonnée à la périphérie de la ville, les antiterroristes
+et les terroristes entament leur infiltration et entraînement défensif virtuels.
+
+Équipe offensive (TR) :
+L'équipe offensive (TR) apparaît de tous les côtés de la villa, au nord, au sud, à l'est et à l'ouest,
+et doit localiser les cibles à l'intérieur de la villa à bombarder ou bien éliminer
+l'intégralité de l'équipe défensive (AT) pour accomplir sa mission.
+Les partenaires peuvent être utilisés pour localiser le C4 et les adversaires à l'intérieur.
+
+Équipe défensive (AT) :
+L'équipe défensive (AT) apparaît à l'intérieur de la villa, au rez-de-chaussée et au premier étage,
+pour défendre les cibles face à l'équipe ennemie (TR) ou pour éliminer celle-ci.
+L'équipe défensive peut consulter l'emplacement du C4 dès son apparition.
+Les partenaires peuvent être utilisés pour mettre en place des formations de défense.
+
+Remarques :
+L'emplacement du C4 sera choisi au hasard parmi les 10 emplacements possibles de la carte.
+Chaque équipe doit adapter sa stratégie à l'emplacement du C4.

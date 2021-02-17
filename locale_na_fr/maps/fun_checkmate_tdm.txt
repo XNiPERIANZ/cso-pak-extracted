@@ -1,0 +1,9 @@
+﻿Checkmate - Team Deathmatch Item Battle
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Il y a un peu de raffut dans ce qui semble être la chambre paisible d'un jeune homme.
+
+Objectif : Atteignez le score indiqué en tuant des ennemis !
+
+Astuce : Vous pouvez utiliser des objets pour porter à vos adversaires des attaques de zone et autres capacités spéciales.

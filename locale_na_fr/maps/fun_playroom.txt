@@ -1,0 +1,7 @@
+Cachette (salle de jeu)
+
+- Utilisation de décodeurs possible, et quand des objets affichés sont récupérés, les autres joueurs peuvent les essayer.
+
+- Lorsque des joueurs utilisent les objets d'un autre, celui-ci profite d'un bonus de mileage.
+
+- Les armes peuvent être testées au stand de tir.

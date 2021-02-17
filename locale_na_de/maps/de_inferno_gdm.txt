@@ -1,0 +1,13 @@
+﻿Inferno - Gun Deathmatch
+Map erstellt von: Chris Auty (Barney) (narby@counter-strike.net)
+Textur erstellt von: Valve software
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+Zielvorgabe:
+- Das Team, das ein feindliches Teammitglied mit einer Granate tötet, gewinnt.
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Feinde tötest.
+- Um zu gewinnen, musst du eine vorgegebene Anzahl Tötungen innerhalb der Zeitvorgabe erreichen.
+
+

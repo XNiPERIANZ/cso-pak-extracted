@@ -1,0 +1,11 @@
+﻿Warehouse - Match à Mort par Équipe
+
+Carte développée par : Nexon 
+
+Textures développées par : Nexon
+
+
+
+- L'objectif est d'augmenter le score de l'équipe en tuant tous les membres de l'équipe ennemie présents sur la carte.
+
+- Pour remporter la victoire, atteignez le nombre d'éliminations indiqué.

@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Plantar/desarmar a bomba
+
+Mapa criado por: Ritual Entertainment
+
+- Contraterroristas: Impeça que terroristas plantem uma bomba dentro da propriedade.
+- Terroristas: Plante um C4 dentro da propriedade e detone-a.

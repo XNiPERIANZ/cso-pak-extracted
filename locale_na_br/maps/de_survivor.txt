@@ -1,0 +1,11 @@
+﻿Survivor - Plantar/desarmar a bomba
+
+Mapa criado por: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com) www.lanmaniax.com
+
+Um avião que carregava carga confidencial caiu durante uma forte nevasca. A tripulação escapou com segurança usando paraquedas e transferiu a carga do avião para um caminhão. Porém, eles não conseguiram transferir toda a carga por causa da grande quantidade de neve.
+
+Os terroristas, que estavam rastreando o avião, estão planejando fazer com que a carga que está no caminhão e no avião não saia de lá em segurança.
+
+- Terroristas: Exploda o caminhão ou o avião caído.
+- Contraterroristas: Evite que os terroristas explodam os alvos.

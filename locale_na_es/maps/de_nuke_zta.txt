@@ -1,0 +1,6 @@
+﻿Arma nuclear - Aniquilación
+Mapa creado por: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Mata a todos los enemigos en el mapa.
+- Para ganar, completa la cantidad designada de rondas.
+- No resucitarás hasta que comience la ronda siguiente.

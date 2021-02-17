@@ -1,0 +1,11 @@
+﻿Rex - Colocación/Desactivación de bomba
+
+Planificación/Producción: NEXON
+Textura/Revisión: NEXON
+
+Al descubrirse la base de una fuerza terrorista remanente, los Terroristas atacaron el laboratorio que llevaba a cabo el proyecto 'Rex' y secuestraron a los científicos. Luego de descubrir la verdad sobre las armas biológicas del gobierno que se escondían en el laboratorio, decidieron destruir los documentos para entorpecer el desarrollo del proyecto.
+
+- Antiterroristas: Eviten que los Terroristas planten bombas en el laboratorio. Los miembros del equipo deben desactivar todas las bombas que se coloquen en los sitios de bomba.
+- Terroristas: Un Terrorista que posea C-4 debe hacer explotar uno de los dos sitios de bomba designados.
+
+Nota: Hay dos sitios de bomba en este mapa.

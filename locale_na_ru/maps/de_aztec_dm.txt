@@ -1,0 +1,6 @@
+﻿Aztec - Deathmatch
+Создатель карты: Chris Auty (Barney) (narby@counter-strike.net)
+Создатель графики карты: MacMan 
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

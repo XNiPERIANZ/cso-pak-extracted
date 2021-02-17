@@ -1,0 +1,7 @@
+﻿Estate - Hostage Rescue
+Mappa creata da: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+Antiterroristi: Salvate i 3 ostaggi intrappolati nella tenuta.
+
+Terroristi: Impedite agli Antiterroristi di salvare gli ostaggi.

@@ -1,0 +1,6 @@
+﻿Inferno - Deathmatch
+Создатель карты: Chris Auty (Barney) (narby@counter-strike.net)
+Создатель графики карты: Valve software
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

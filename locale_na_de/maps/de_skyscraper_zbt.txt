@@ -1,0 +1,7 @@
+﻿Dust II (Dust 2) - Zombie-Bündnis
+Map erstellt von: DaveJ (http://www.johnsto.co.uk/)
+Textur erstellt von: MacMan (MacManInfi@aol.com)
+
+Erhöhe das Teamergebnis, indem du alle gegnerischen Teammitglieder auf der Map tötest.
+Erringe einen Sieg, indem du eine bestimmte Anzahl von Kills erreichst.
+- Sammle Item-Boxen, um die Anzahl deiner Kills zu erhöhen.

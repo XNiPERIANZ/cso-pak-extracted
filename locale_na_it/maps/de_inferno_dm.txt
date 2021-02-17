@@ -1,0 +1,6 @@
+﻿Inferno - Deathmatch
+Mappa creata da: Chris Auty (Barney) (narby@counter-strike.net)
+Texture creata da: Valve software
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

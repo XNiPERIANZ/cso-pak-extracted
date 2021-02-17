@@ -1,0 +1,5 @@
+﻿Sanctuary - Team Death Match
+Production: Nexon
+
+- Erhöhe den Punktestand, indem du alle Feinde tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.

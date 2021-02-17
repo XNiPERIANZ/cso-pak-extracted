@@ -1,0 +1,9 @@
+﻿Blood Castle - Fuga Zumbi
+
+Mapa criado por: NEXON
+Texturas criadas por: NEXON
+
+Uma aura sinistra paira sobre as tropas, que estão ocupadas fazendo reparos em um antigo castelo. Após receber relatórios das tropas, uma decisão executiva foi tomada para classificar o antigo castelo como uma área de risco do vírus zumbi e uma campanha para plantar bombas em grande escala é realizada para tê-lo permanentemente em quarentena. Não resta muito tempo até a plantação das bombas começar... Seu único objetivo é escapar a todo custo!
+
+- Humanos: Vá até o local de fuga antes de o tempo acabar. Você deve permanecer humano a todo custo!
+- Zumbis: Infecte todos os humanos ou vá para o local de fuga e evite que os humanos escapem antes do tempo acabar.

@@ -1,0 +1,9 @@
+﻿Sanctuary - Podkładanie/Rozbrajanie Bomby 
+Produkcja: Nexon
+
+
+Antyterroryści: Powstrzymaj budynek przed byciem zniszczonym.
+
+Terroryści: Zniszcz budynek podkładając na nim bombę.
+
+Uwaga: Uważaj, by nie wypaść z budynku.

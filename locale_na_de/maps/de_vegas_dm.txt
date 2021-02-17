@@ -1,0 +1,7 @@
+﻿Vegas - Deathmatch
+Produktion: +Cadaver+
+Textur: George_Pooshoes, JOeSmOe
+Bearbeitung: Nexon
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.

@@ -1,0 +1,11 @@
+RISING - Zombie Escape
+Planung, Design und Entwicklung durch: Nexon
+Grafik: Nexon
+
+An alle Überlebende, 
+ein Rettungshubschrauber wartet in der Nähe. 
+Bitte eilt zum Landeplatz und gebt mit dem Leuchtfeuer ein Rettungssignal, um zu entkommen.
+
+Ziel
+Menschen: Entkommt innerhalb des Zeitlimits zum Landeplatz. Ihr müsst menschlich bleiben.
+Zombies: Infiziert alle verbliebenen Menschen oder haltet sie innerhalb des Zeitlimits auf, bevor sie zum Landeplatz gelangen.

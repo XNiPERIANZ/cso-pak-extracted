@@ -1,0 +1,6 @@
+﻿Moonlight - Team Deathmatch
+Planung/Produktion: Nexon
+Mapping/Bearbeitung: Nexon
+
+- Erhöhe den Team-Punktestand, indem du alle Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.

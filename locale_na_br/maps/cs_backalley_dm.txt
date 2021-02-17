@@ -1,0 +1,6 @@
+﻿Back Alley - Mata-mata
+
+Mapa criado por: TYR (tyr@barking-dog.com)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

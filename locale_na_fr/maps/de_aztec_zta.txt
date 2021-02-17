@@ -1,0 +1,7 @@
+﻿Aztec - Annihilation
+Carte créée par : Chris Auty (Barney) (narby@counter-strike.net)
+Texture créée par : Macman 
+
+- Tuez tous les ennemis sur la carte.
+- Gagnez en remportant le nombre indiqué de manches.
+- Le respawn n'a lieu qu'à la manche suivante.

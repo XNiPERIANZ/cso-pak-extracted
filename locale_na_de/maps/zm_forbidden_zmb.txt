@@ -1,0 +1,11 @@
+﻿Forbidden - Zombie
+Planung/Produktion: Nexon
+Textur/Bearbeitung: Nexon
+
+Nahe dem illegalen Chemielabor...
+gab es eine Einrichtung, die chemischen Experimentenabfall aufbereitet. Ihre Nutzung ist jedoch schon lange beendet. Jetzt ist diese Einrichtung 
+eine Zuflucht für Zombies geworden, die dort dank des Chemiabfalls stärker geworden sind.
+
+Menschen: Tötet alle Zombies oder überlebt, bis die Zeit abgelaufen ist.
+Zombies: Diejenigen, die zu Zombies geworden sind, müssen Menschen töten und sie in Zombies verwandeln.
+Zombies haben höhere HP und sind schneller als Menschen.

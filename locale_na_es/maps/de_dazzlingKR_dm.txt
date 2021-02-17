@@ -1,0 +1,7 @@
+﻿Hong Kong - Combate mortal
+
+Planificación/Producción: NEXON
+Textura/Modelado/Revisión: NEXON
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

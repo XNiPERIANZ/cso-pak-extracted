@@ -1,0 +1,5 @@
+﻿Militia - Drużynowy Deathmatch
+Autor Mapy: Andrew Aumann (andrewja@home.com)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

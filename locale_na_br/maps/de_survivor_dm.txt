@@ -1,0 +1,7 @@
+﻿Survivor - Mata-mata
+
+Mapa criado por: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com) www.lanmaniax.com
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

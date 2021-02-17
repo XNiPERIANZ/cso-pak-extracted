@@ -1,0 +1,6 @@
+﻿Piranesi - Drużynowy Deathmatch
+Fingers - iikkak@valvesoftware.com
+Podziękowania dla Ido Magala za źródła tekstur
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

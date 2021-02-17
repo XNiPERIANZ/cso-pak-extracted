@@ -1,0 +1,8 @@
+﻿Italy - Drużynowy Deathmatch
+Autor Mapy:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Tekstury/Grafika stworzona przez:
+DigiChaos (digichaos@hotsheep.com)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

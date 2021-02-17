@@ -1,0 +1,6 @@
+﻿Assault - Zombie Alliance
+Map erstellt von: CryptR (lmuur@dlc.fi)
+
+- Erhöhe den Team-Punktestand indem Du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem Du eine vorgesehene Anzahl Tötungen erreichst.
+- Der Tötungs-Zähler erhöht sich, wenn eine Item-Box erhalten wird.

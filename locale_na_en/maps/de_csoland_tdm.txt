@@ -1,0 +1,6 @@
+﻿CSN:S Land - Team Deathmatch
+Map created by: Nexon
+Texture created by: Nexon
+
+- Raise your team's score by killing all enemy team members on the map.
+- Win by reaching the target number of kills.

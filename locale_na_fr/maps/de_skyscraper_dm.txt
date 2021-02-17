@@ -1,0 +1,6 @@
+﻿Skyscraper - Match à mort
+Conception et réalisation : Nexon
+Texture / Modélisation / Édition : Nexon
+
+- Tuez tous les joueurs environnants.
+- La victoire revient au joueur totalisant le plus grand nombre de victimes.

@@ -1,0 +1,6 @@
+﻿Milicia - Combate mortal
+
+Mapa creado por: Andrew Aumann (andrewja@home.com)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

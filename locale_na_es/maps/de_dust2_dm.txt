@@ -1,0 +1,7 @@
+﻿Polvareda 2 - Combate mortal
+
+Mapa creado por: DaveJ (http://www.johnsto.co.uk/)
+Textura creada por: MacMan (MacManInfi@aol.com)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

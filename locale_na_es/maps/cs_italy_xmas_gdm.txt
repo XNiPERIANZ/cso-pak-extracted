@@ -1,0 +1,8 @@
+﻿Italia - Navidad - Combate mortal con arma
+
+Mapa creado por: Nexon
+Textura/gráficos creados por: Nexon
+
+Objetivo
+- Se otorga una nueva arma cada vez que alcanzas un cierto número de asesinatos con el arma actual.
+- Para ganar, elimina al equipo enemigo con la granada final.

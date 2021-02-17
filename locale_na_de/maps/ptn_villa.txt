@@ -1,0 +1,22 @@
+﻿Villa (Villa) – Partnermodus – Bombe: Platzierung/Entschärfung
+Map erstellt von: Nexon
+Texturen erstellt von: Nexon
+
+In einer verlassenen Villa am Stadtrand beginnen die Counter-Terroristen
+und Terroristen ihr virtuelles Infiltrations- und Verteidigungstraining.
+
+Angreifendes Team (TR):
+Das angreifende Team (TR) erscheint auf allen Seiten der Villa, Norden, Süden, Osten und Westen,
+und muss Ziele innerhalb der Villa zum Bombardieren lokalisieren oder
+das gesamte verteidigende Team (CT) ausschalten, um die Mission zu bewältigen.
+Es ist möglich, mithilfe von Partnern C4 oder Gegner im Innern zu lokalisieren.
+
+Verteidigendes Team (CT):
+Das verteidigende Team (CT) erscheint im Innern der Villa im 1. und 2. Stock,
+um die Ziele vor dem gegnerischen Team (TR) zu schützen oder dieses auszuschalten.
+Das verteidigende Team kann ab Erscheinen den Standort des C4 prüfen.
+Es ist möglich, mithilfe von Partnern Verteidigungsformationen zu errichten.
+
+Hinweise:
+Auf der Map gibt es 10 mögliche C4-Orte, 1 davon wird zufällig gewählt.
+Jedes Team muss seine Taktik je nach Position des C4 anpassen.

@@ -1,0 +1,6 @@
+﻿Back Alley - Annihilation
+Mappa creata da: TYR (tyr@barking-dog.com)
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

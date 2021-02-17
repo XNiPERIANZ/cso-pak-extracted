@@ -1,0 +1,13 @@
+﻿Storm - Team Deathmatch
+Map erstellt von: FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+Textur erstellt von:  Fingers - jOeSmOe - MattC
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.
+
+
+
+
+
+

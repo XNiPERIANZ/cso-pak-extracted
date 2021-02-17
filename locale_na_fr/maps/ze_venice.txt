@@ -1,0 +1,23 @@
+﻿Venice - Zombie Escape
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Venise, ville portuaire du nord de l'Italie, avec son soleil radieux et le clapotis paisible des vagues,
+un décor de carte postale, suffisamment beau pour que chacun y oublie l'horreur des Zombies.
+
+Des survivants ayant échappés aux attaques zombies dans le monde entier
+ont pu bénéficier de ce cadre enchanteur pour passer un moment tranquille.
+
+Mais cette paix n'allait pas durer...
+En raison de la mauvaise gestion des porteurs du virus,
+leur nouvelle demeure s'est vite transformée en île cauchemardesque...
+
+Au moment où tout espoir semblait perdu,
+un contact radio a pu être établi avec le pilote d'un hélicoptère
+envoyé pour rechercher des survivants dans les régions environnantes.
+
+Objectif :
+
+Humains : Frayez-vous un chemin jusqu'à la zone d'évacuation et demandez assistance au pilote de l'hélicoptère pour fuir Venise !
+
+Zombies : Infectez tous les Humains ou prenez le contrôle de l'hélicoptère en approche pour empêcher les Humains de s'enfuir !

@@ -1,0 +1,6 @@
+﻿Dust - Deathmatch
+Carte créée par : DaveJ (http://www.johnsto.co.uk/)
+Texture créée par : MacMan (MacManInfi@aol.com)
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

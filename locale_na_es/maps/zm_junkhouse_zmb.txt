@@ -1,0 +1,15 @@
+﻿Casa destartalada - Zombie
+Desarrollo y producción: Nexon
+Textura, modelado y edición: Nexon
+
+La investigación sobre el virus zombi se desarrolla de forma lenta pero firme...
+Mientras tanto, los experimentos sobre las mutaciones zombis y las pruebas de combate se realizan en una fábrica abandonada.
+
+Los sujetos de prueba se seleccionan entre los sobrevivientes más susceptibles a las mutaciones del virus.
+Sus mutaciones del virus se utilizan para su ventaja y se prueban estrategias que se utilizarán en combates reales.
+
+El riesgo es amplio, pero lo que está en juego es la supervivencia de la humanidad.
+Solo los más valientes se animan a las pruebas de combate.
+
+Humanos: sobrevivan a los ataques de los zombis hasta que se acabe el tiempo o maten a todos los zombis.
+Zombis: maten a todos los humanos y conviértanlos en zombis. Los zombis tienen mayor PV y son más rápidos que los humanos.

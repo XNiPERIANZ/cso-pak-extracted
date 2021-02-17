@@ -1,0 +1,8 @@
+﻿Vegas - Plantar/desarmar a bomba
+
+Produzido por: +Cadaver+
+Texturas: George_Pooshoes, JOeSmOe
+Revisão: NEXON
+
+- Contraterroristas: Infiltre o edifício e proteja o alvo de ataque a bomba enquanto elimina os terroristas.
+- Terroristas: Use C4 para explodir o cofre. Se isso não for possível, exploda a esfinge e mostre ao mundo as nossas intenções.

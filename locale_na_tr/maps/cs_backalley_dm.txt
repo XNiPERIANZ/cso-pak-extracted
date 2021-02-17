@@ -1,0 +1,6 @@
+﻿Back Alley - Ölüm Maçı
+
+Haritayı Yapan: TYR (tyr@barking-dog.com)
+
+- Etrafındaki bütün oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

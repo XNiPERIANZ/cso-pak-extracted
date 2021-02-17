@@ -1,0 +1,9 @@
+﻿747 - Sojusz Zombie Anihilacja
+Autor Mapy: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Autor Tekstury: "The Postman" 
+(heavengame@yahoo.com)
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

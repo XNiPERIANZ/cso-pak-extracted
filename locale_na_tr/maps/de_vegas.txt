@@ -1,0 +1,8 @@
+﻿Vegas - Bomba Yerleştirme/Etkisizleştirme
+
+Yapım: +Cadaver+
+Dokular: George_Pooshoes, JOeSmOe
+Düzenleme: NEXON
+
+- Anti-Teröristle: Binaya sızın ve bombalama bölgesini korurken Teröristleri ortadan kaldırın.
+- Teröristler: Kasayı patlatmak için C4 kullanın. Eğer bu mümkün değilse, Sfenks'i havaya uçurun ve dünyaya amaçlarımızı gösterin.

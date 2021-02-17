@@ -1,0 +1,5 @@
+﻿Vostok - Bomb Planting/Defusing
+
+Counter-Terroristen: Vereitelt den Anschlagsplan der Terroristen.
+Terroristen: Platziert und zündet die Bomben.
+Hinweis: Es gibt bei dieser Mission zwei Ziele.

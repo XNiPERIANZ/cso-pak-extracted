@@ -1,0 +1,13 @@
+﻿Rats - Gun Deathmatch
+Planung/Produktion: Nexon
+Textur/Bearbeitung: Nexon
+
+Zielvorgabe:
+- Das Team, das ein feindliches Teammitglied mit einer Granate tötet, gewinnt.
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Feinde tötest.
+- Um zu gewinnen, musst du eine vorgegebene Anzahl Tötungen innerhalb der Zeitvorgabe erreichen.
+
+
+
+
+

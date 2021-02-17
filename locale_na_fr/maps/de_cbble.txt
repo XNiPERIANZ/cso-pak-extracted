@@ -1,0 +1,9 @@
+﻿Cobble- Bomb Planting/Defusing
+Carte créée par : DaveJ (http://www.johnsto.co.uk/)
+Texture créée par : MacMan (MacManInfi@aol.com)
+
+Lord William a récemment fait l'objet d'une tentative d'assassinat pour raisons politiques.
+
+Antiterroristes : Empêchez les Terroristes de faire exploser le domaine de Lord William.
+
+Terroristes : Un terroriste en possession de C4 doit poser une bombe sur l'un des deux sites indiqués sur la carte. Lord William doit être éliminé.

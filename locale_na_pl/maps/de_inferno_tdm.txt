@@ -1,0 +1,6 @@
+﻿Inferno - Drużynowy Deathmatch
+Autor Mapy: Chris Auty (Barney) (narby@counter-strike.net)
+Autor Tekstury: Valve software
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

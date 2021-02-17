@@ -1,0 +1,8 @@
+﻿Las Vegas - Colocación/Desactivación de bomba
+
+Producción: +Cadaver+
+Textura: George_Pooshoes, JOeSmOe
+Revisión: NEXON
+
+- Antiterroristas: Infiltren el edificio, protejan al objetivo del bombardeo y eliminen a los Terroristas.
+- Terroristas: Usen C-4 para hacer explotar la caja fuerte. Si no es posible, hagan volar la Esfinge en pedazos y muéstrenle al mundo sus intenciones.

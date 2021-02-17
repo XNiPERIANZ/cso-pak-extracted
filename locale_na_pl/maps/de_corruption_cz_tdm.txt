@@ -1,0 +1,5 @@
+﻿Corruption - Drużynowy Deathmatch
+by Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

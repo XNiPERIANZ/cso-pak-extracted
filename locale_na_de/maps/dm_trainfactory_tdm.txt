@@ -1,0 +1,6 @@
+﻿Train Shed - Team-Deathmatch 
+Planung, Design und Entwicklung durch: Nexon
+Texturen, Modelle und Bearbeitung durch: Nexon
+
+- Ziel ist es, den Punktestand des Teams zu erhöhen, indem alle gegnerischen Teammitglieder auf der Map getötet werden.
+- Erreicht den vorgeschriebenen Punktestand für den Sieg.

@@ -1,0 +1,11 @@
+﻿Rex - Bomba Yerleştirme/Etkisizleştirme
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+Geriye kalan bir terörist gücünün üssü keşfedildiğinde, Teröristler "Rex" projesini yürüten bir laboratuvara saldırdı ve bilim insanlarını kaçırdılar. Hükümetin biyolojik silahlarının bu laboratuvarda saklandığı gerçeğini öğrendiklerinde, bu silahların gelişmesini engellemek için belgeleri yok etmeye karar verdiler.
+
+- Anti-Teröristler: Teröristlerin laboratuvarı bombalamalarını engelleyin. Takım üyeleri bombalama bölgelerine yerleştirilmiş tüm bombaları yok etmelidir.
+- Teröristler: C4 sahibi bir terörist belirlenmiş iki bombalama bölgesinden birini bombalamalıdır.
+
+Not: Bu haritada iki bombalama bölgesi vardır.

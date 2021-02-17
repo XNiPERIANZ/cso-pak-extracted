@@ -1,0 +1,7 @@
+﻿Dust - Sojusz Zombie
+Autor Mapy: DaveJ (http://www.johnsto.co.uk/)
+Autor Tekstury: MacMan (MacManInfi@aol.com)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Liczba zabójstw zwiększy się, gdy otrzymasz skrzynkę z przedmiotem.

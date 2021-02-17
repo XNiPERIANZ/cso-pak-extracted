@@ -1,0 +1,7 @@
+﻿Italy - Duelo de Equipes
+
+Mapa criado por: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texturas/Gráficos criados por: DigiChaos (digichaos@hotsheep.com)
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

@@ -1,0 +1,6 @@
+﻿Prodigio - Combate mortal
+
+Mapa creado por: Hobbit (hobbit@nodream.net)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

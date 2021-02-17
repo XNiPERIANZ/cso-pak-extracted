@@ -1,0 +1,7 @@
+﻿Aztec - Mata-mata
+
+Mapa criado por: Chris Auty (Barney) (narby@counter-strike.net)
+Texturas criadas por: Macman 
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Bomb Planting/Defusing
+
+Mappa creata da: Ritual Entertainment
+
+Antiterroristi: Impedite ai Terroristi di piazzare una bomba dentro la tenuta.
+Terroristi: Piazzate C4 dentro la tenuta e fatelo esplodere.

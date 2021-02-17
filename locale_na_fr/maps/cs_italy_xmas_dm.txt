@@ -1,0 +1,8 @@
+﻿Italy - Noël - Deathmatch
+
+Carte créée par : Nexon
+Textures/graphismes par : Nexon
+
+Objectif
+- Tuez tous les joueurs ennemis.
+- La victoire revient au joueur totalisant le plus grand nombre de victimes.

@@ -1,0 +1,12 @@
+﻿Heorgen - Flucht
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+Der Ausbruch nahm in der Stadt Heorgen seinen Anfang.
+
+Die Stadt liegt nun Mondlicht und Nebel gehüllt still dar, doch diese Ruhe kann nicht über die vielen Unschuldigen, die hier starben, hinwegtäuschen.
+Nur das Heulen des Windes und der Laternenschein des Mausoleums durchbrechen die Stille der Nacht.
+
+Ziel
+- Menschen: Aktiviert alle Generatoren in Heorgen, öffnet den Fluchtweg und flieht in die Außenbezirke der Stadt.
+- Zombies: Spürt alle Überlebenden auf und hindert sie an der Flucht.

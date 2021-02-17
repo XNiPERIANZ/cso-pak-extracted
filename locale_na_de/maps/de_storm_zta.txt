@@ -1,0 +1,12 @@
+﻿Storm - Annihilation
+Map erstellt von: FLiPMoDE|Daank
+Textur erstellt von:  Fingers - jOeSmOe - MattC
+
+- Töte alle sichtbaren Feinde.
+- Gewinne, indem du die vorgegebene Rundenanzahl erreichst.
+- Du kannst nicht erneut starten, bis die nächste Runde beginnt.
+
+
+
+
+

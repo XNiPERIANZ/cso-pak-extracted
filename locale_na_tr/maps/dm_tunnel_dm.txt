@@ -1,0 +1,9 @@
+﻿Tunnel - Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Düzenleme: NEXON
+
+- Yakındaki tüm oyuncuları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.
+
+Not: Bu haritada her takımın iki destek mevkisi bulunur.

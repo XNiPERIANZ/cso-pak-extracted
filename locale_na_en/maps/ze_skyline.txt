@@ -1,0 +1,11 @@
+﻿Skyline - Zombie Escape
+
+Map Created By: NEXON
+Texture Created By: NEXON
+
+After receiving intelligence suggesting that Zombies have been appearing in the Industrial Development Zone, the government decided to dispatch an investigation team to examine the situation. After verifying the existence of Zombies, the government decided to conduct aerial bombings in order to permanently quarantine the city...
+
+There is not much time left before the aerial bombings start! Board the truck waiting for you at the escape location!
+
+- Humans: Make your way to the escape location before time is up. You must remain a Human at all cost!
+- Zombies: Infect all the Humans or go to the escape location and prevent the Humans from getting away before time is up.

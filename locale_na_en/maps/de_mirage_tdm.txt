@@ -1,0 +1,6 @@
+﻿Mirage (Mirage) - Team Deathmatch
+Map created by: Nexon
+Texture created by: Nexon
+
+- Earn points for your team by killing members of the enemy team.
+- Win by reaching the point goal before the other team.

@@ -1,0 +1,6 @@
+﻿Torn - Deathmatch
+Carte créée par : Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

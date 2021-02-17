@@ -1,0 +1,8 @@
+﻿Italy - Silah Ölüm Maçı
+
+Haritayı Yapan: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Dokuları/Grafikleri Yapan: DigiChaos (digichaos@hotsheep.com)
+
+- Düşman takım oyuncusunu son el bombasıyla öldüren takım kazanır.
+- Haritadaki düşman takım oyuncularının hepsini öldürerek takım skorunu arttır.
+- Kazanmak için belirli bir süre içerisinde belirtilen öldürme sayısına ulaş.

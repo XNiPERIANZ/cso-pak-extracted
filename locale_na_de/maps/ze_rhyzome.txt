@@ -1,0 +1,13 @@
+Rhyzome(RHYZOME) - Zombie-Flucht
+Planung, Design und Entwicklung durch: Nexon
+Grafik: Nexon
+
+Nach dem Ausbruch des Zombievirus
+flohen die überlebenden Zivilisten, Soldaten und Polizisten
+in die Außenbezirke der Stadt und schufen sich ihre eigene Zuflucht, die ihnen vorläufig Unterschlupf gewähren sollte.
+
+Allerdings konnten sie dem Zombievirus nicht für immer entkommen ...
+
+Ziel
+Menschen: Flieht innerhalb des Zeitlimits zum Hubschrauberlandeplatz am äußeren Rand der Klippe. Ihr müsst menschlich bleiben.
+Zombies: Infiziert alle verbliebenen Menschen oder haltet sie innerhalb des Zeitlimits auf, bevor sie zum Landeplatz gelangen.

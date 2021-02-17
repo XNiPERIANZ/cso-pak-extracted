@@ -1,0 +1,11 @@
+﻿Infierno - Colocación/Desactivación de bomba
+
+Mapa creado por: Chris Auty (Barney) (narby@counter-strike.net)
+Textura creada por: Valve software
+
+Los terroristas planean hacer explotar una vieja tubería de combustible que pasa entre dos pueblos. 
+
+- Antiterroristas: Eviten que los Terroristas hagan explotar la tubería de combustible.
+- Terroristas: Hagan explotar las dos ubicaciones de bomba en la tubería de combustible.
+
+Nota: Hay dos sitios de bomba en este mapa.

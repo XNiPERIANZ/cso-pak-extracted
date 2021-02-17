@@ -1,0 +1,12 @@
+﻿Siege - Deathmatch
+Map erstellt von: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+
+
+

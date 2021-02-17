@@ -1,0 +1,10 @@
+﻿Checkmate - Silahlı Takım Ölüm Maçı 
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+Genç bir adamın huzur dolu odası gibi görünen yerde biraz kargaşa var.
+
+- Düşman takım üyesini son bomba ile öldüren takım oyunu kazanır
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Kazanmak için belirlenmiş öldürme sayısına verilen süre içinde ulaş.

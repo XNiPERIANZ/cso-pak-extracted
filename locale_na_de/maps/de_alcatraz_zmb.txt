@@ -1,0 +1,9 @@
+﻿Alcatraz (alcatraz) - Zombie
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+Während des Kampfs zwischen Terroristen und Counter-Terroristen wurden merkwürdige untote Wesen entdeckt, die offenbar aus dem Rex-Labor entkommen sind. Die Menschen müssen jetzt zusammenarbeiten, um zu überleben.
+
+Menschen: Überlebe den Angriff der Zombies, bis die Zeit abläuft, oder töte alle Zombies.
+Zombies: Töte alle Menschen und verwandle sie in Zombies. Zombies haben mehr HP und bewegen sich schneller als Menschen.
+

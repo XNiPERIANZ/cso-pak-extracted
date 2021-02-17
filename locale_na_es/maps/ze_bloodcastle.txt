@@ -1,0 +1,9 @@
+﻿Castillo de sangre - Escape de los Zombis
+
+Mapa creado por: NEXON
+Textura creada por: NEXON
+
+Las tropas reparaban un castillo antiguo cuando se vieron envueltas en una emanación siniestra. Al recibir el informe de las tropas, la decisión ejecutiva es clasificar el castillo antiguo como un área en riesgo de Virus Zombi y llevar a cabo una campaña de bombardeo para ponerlo en cuarentena permanentemente. No queda mucho tiempo antes de que comiencen a explotar las bombas... ¡Tu único objetivo es escapar a toda costa!
+
+- Humanos: Diríjanse a la ubicación de escape antes de que acabe el tiempo. ¡Deben permanecer Humanos, cueste lo que cueste!
+- Zombis: Infecten a los Humanos o diríjanse a la ubicación de escape y eviten que los Humanos se marchen antes de que termine el tiempo.

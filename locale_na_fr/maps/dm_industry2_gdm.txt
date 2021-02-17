@@ -1,0 +1,12 @@
+﻿Industry 2 - Gun Deathmatch
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+Le gouvernement a reçu des informations indiquant que les Terroristes utilisent un grand entrepôt, situé en périphérie de la ville, comme principal retranchement.
+Afin d'arrêter les Terroristes, les Antiterroristes ont lancé l'assaut, pour découvrir que les Terroristes les attendaient à l'intérieur du bâtiment.
+Les éclaireurs terroristes ont également noté les mouvements antiterroristes, et se préparent à une attaque en règle.
+
+Objectif
+- L'équipe qui tue un membre de l'équipe adverse avec la grenade finale remporte la victoire.
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Atteignez le nombre indiqué de victimes dans le temps imparti pour gagner.

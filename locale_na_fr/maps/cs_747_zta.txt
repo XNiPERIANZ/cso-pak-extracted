@@ -1,0 +1,9 @@
+﻿747 - Annihilation
+Carte créée par : Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture créée par : "The Postman" 
+(heavengame@yahoo.com)
+
+- Tuez tous les ennemis sur la carte.
+- Gagnez en remportant le nombre indiqué de manches.
+- Le respawn n'a lieu qu'à la manche suivante.

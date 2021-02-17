@@ -1,0 +1,6 @@
+﻿Vertigo - Deathmatch
+Map erstellt von: Chris Auty (Barney) (fragged101@yahoo.com)
+Textur erstellt von: Telnets and J0esm0e
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.

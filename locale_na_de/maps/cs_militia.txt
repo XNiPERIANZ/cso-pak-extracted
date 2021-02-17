@@ -1,0 +1,17 @@
+﻿Militia - Hostage Rescue
+Map erstellt von: Andrew Aumann (andrewja@home.com)
+
+Counter-Terroristen: Dringt in CLiff´s Estate ein und rettet die Geiseln. 
+Eliminiert die Terroristen und stellt sicher, dass die Geiseln nicht verletzt werden.
+
+Terroristen: Hindert die Counter-Terroristen daran, die Geiseln zu retten.
+
+
+Hinweis: Diese Mission beinhaltet 4 Geiseln.
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+﻿Urban Assault (Urban Assault) - Battle Rush
+Mappa creata da: Nexon
+Texture creata da: Nexon
+
+Scenario
+
+ Il capo di un gruppo armato terrorista, il quale è ora nel braccio della morte, verrà usato come campione per un esperimento condotto da un laboratorio speciale.
+ Le forze d'élite Antiterroriste hanno la missione di trasportare il prigioniero a un'ubicazione diversa.
+ I Terroristi hanno ricevuto informazioni sullo spostamento e stanno
+ cercando di bloccare il cammino e salvare il loro capo.
+
+Obiettivo
+
+ Antiterroristi: Distruggete qualsiasi ostacolo lungo la strada e trasportate in modo sicuro il prigioniero all'ubicazione.
+
+ Terroristi: Disabilitate tutti i dispositivi restrittivi nel veicolo che trasporta il capo.
+ 
+ 

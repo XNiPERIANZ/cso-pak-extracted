@@ -1,0 +1,9 @@
+﻿Airstrip - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı yapan: Barney (namı diğer narby) (narby@counter-strike.net)
+Iikka Keranen, John Morello and Minh Le'ye teşekkürler
+
+- Anti-Teröristler: Teröristlerin uçuş pistindeki binaya bomba kurmalarını engelle.
+- Teröristler: Yakıt deposunu ve kargo deposunu havaya uçurmak için uçuş pistindeki binaya C4 yerleştir.
+
+Not: Bu haritada 2 tane bomba kurma yeri bulunmaktadır.

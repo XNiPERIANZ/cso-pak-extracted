@@ -1,0 +1,6 @@
+﻿Vertigo - Deathmatch
+Mappa creata da: Chris Auty (Barney) (fragged101@yahoo.com)
+Texture creata da: Telnets and J0esm0e
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

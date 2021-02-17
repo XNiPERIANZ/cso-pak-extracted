@@ -1,0 +1,9 @@
+﻿Polvareda 2 - Colocación/Desactivación de bomba
+
+Mapa creado por: DaveJ (http://www.johnsto.co.uk/)
+Textura creada por: MacMan (MacManInfi@aol.com)
+
+- Antiterroristas: Eviten que los Terroristas hagan explotar las cajas de armas químicas. Los miembros del equipo deben desactivar todas las bombas colocadas en los sitios de bomba.
+- Terroristas: Un Terrorista que posea C-4 debe hacer explotar uno de los dos sitios donde se encuentran las cajas de armas químicas.
+
+Nota: Hay dos sitios de bomba en este mapa.

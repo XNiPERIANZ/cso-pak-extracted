@@ -1,0 +1,10 @@
+﻿Suzhou - Rodízio de Armas
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+O governo chinês recebeu informações indicando que terroristas estão contrabandeando drogas em uma cidade chamada Suzhou, localizada fora da cidade. Para deter os terroristas, os contraterroristas atacaram a cidade e acabaram descobrindo que os terroristas estavam esperando por eles. Os batedores dos terroristas também analisaram os movimentos dos contraterroristas e estão preparando um ataque pra valer.
+
+- Ganha a equipe que eliminar um membro da equipe inimiga com uma granada final.
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Alcance o número de eliminações determinado dentro do limite de tempo para ganhar.

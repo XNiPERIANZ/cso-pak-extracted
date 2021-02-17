@@ -1,0 +1,15 @@
+﻿Santorini - Bomb Planting/Defusing
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+Counter-Terroristen: Es wurden terroristische Aktivitäten in der Region von Santorini entdeckt.
+Die Team-Mitglieder müssen alle an den Detonationsorten platzierten Bomben entschärfen und die Terroristen auslöschen.
+
+Terroristen: Ihr müsst die Aktivitäten der Counter-Terroristen eindämmen und eine der zwei vorgesehenen Detonationsorte bombardieren.
+
+Hinweis: Es sind zwei Detonationsorte vorgesehen.
+
+
+
+
+

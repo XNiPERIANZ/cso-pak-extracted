@@ -1,0 +1,6 @@
+﻿Train Shed - Deathmatch
+Planung, Design und Entwicklung durch: Nexon
+Texturen, Modelle und Bearbeitung durch: Nexon
+
+- Töte alle anderen Spieler.
+- Der Spieler mit den meisten Kills am Ende gewinnt.

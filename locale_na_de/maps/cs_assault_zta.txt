@@ -1,0 +1,10 @@
+﻿Assault - Annihilation
+Map erstellt von: CryptR (lmuur@dlc.fi)
+
+- Töte alle sichtbaren Feinde.
+- Gewinne, indem Du die vorgegebene Rundenanzahl erreichst.
+- Du kannst nicht erneut starten, bis die nächste Runde beginnt.
+
+
+
+

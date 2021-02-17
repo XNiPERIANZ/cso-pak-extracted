@@ -1,0 +1,7 @@
+﻿The Port - Annihilation
+Pianificazione/Produzione: Nexon
+Texture/Modelli/Revisione: Nexon
+
+Una sparatoria contro i Terroristi è in corso in un porto pieno di contenitori di merci.
+- Uccidete tutti i membri del team nemico nella mappa.
+- Quando un team viene annichilito, il team rimanente vince.

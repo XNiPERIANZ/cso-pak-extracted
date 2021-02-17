@@ -1,0 +1,10 @@
+﻿Torn - Deathmatch
+Map erstellt von: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+

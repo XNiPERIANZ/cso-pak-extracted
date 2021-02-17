@@ -1,0 +1,6 @@
+﻿Snow Base - Instale / Duelo de Equipes
+Mapa desenvolvido por: Nexon 
+Textura desenvolvida por: Nexon
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

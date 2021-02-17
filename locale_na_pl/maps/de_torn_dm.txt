@@ -1,0 +1,6 @@
+﻿Torn - Deathmatch
+Autor Mapy: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

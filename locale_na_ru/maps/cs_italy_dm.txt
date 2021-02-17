@@ -1,0 +1,8 @@
+﻿Italy - Deathmatch
+Создатель карты:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Создатель дизайна/графики карты:
+DigiChaos (digichaos@hotsheep.com)
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

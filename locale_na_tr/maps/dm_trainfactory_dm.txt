@@ -1,0 +1,6 @@
+﻿Train Shed - Ölüm Maçı
+Planlama, tasarım ve geliştirme : Nexon
+Dokular/Modelleme/Düzenleme: Nexon
+
+- Gördüğünüz tüm oyuncuları öldürün. 
+- En çok kişiyi öldüren oyuncu kazanır.

@@ -1,0 +1,8 @@
+﻿Italy - Deathmatch
+Carte créée par :
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texture/Graphiques Created By:
+DigiChaos (digichaos@hotsheep.com)
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

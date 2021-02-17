@@ -1,0 +1,5 @@
+﻿Скорая линия - Deathmatch
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

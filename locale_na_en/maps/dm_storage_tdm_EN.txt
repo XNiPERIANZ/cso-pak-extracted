@@ -1,0 +1,6 @@
+Secret Storage (storage) - Team Deathmatch
+Developed and produced by: Nexon
+Texture/Modeling/Edited by: Nexon
+
+- Raise your team's score by killing all enemy team members on the map.
+- Win by reaching the target number of kills.

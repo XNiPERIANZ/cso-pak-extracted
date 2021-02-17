@@ -1,0 +1,9 @@
+﻿Survivor - Zombie
+Mappa creata da: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+Durante la battaglia tra Terroristi e Antiterroristi, sono stati scoperti degli esseri non identificati. Sembravano essere degli Zombie che erano scappati dal laboratorio Rex. Ora gli Umani devono lavorare insieme per sopravvivere.
+
+Umani: Sopravvivete agli attacchi Zombie per la durata rimanente o uccidete tutti gli Zombie.
+Zombie: Quelli che sono diventati Zombie devono uccidere gli Umani e trasformarli in Zombie. Gli Zombie hanno PF più alti e sono più veloci degli Umani.

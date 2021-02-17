@@ -1,0 +1,8 @@
+﻿Prodigy - Bomb Planting/Defusing
+Mappa creata da: Hobbit (hobbit@nodream.net)
+
+Antiterroristi: Impedite i Terroristi di bombardare la sala del Computer o la sala di controllo dei tubi di carburante. I membri del team devono disinnescare tutte le bombe piazzate nei posti di bombardamento.
+
+Terroristi: I Terroristi in possesso di C4 devono bombardare uno dei due bersagli.
+
+Nota: Ci sono due posti di bombardamento in questa mappa.

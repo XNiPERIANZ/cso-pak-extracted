@@ -1,0 +1,8 @@
+﻿Jaque Mate – Objeto de Combate Mortal en equipo
+Creador del Mapa: Nexon
+Creador de Texturas: Nexon
+
+Una pequeña perturbación ocurre en una habitación pacifica.
+
+Objectivo: Dirígete al punto marcado eliminando los jugadores enemigos.
+Consejo: Ataque de Área o habilidades especiales, pueden ser usadas al usar un objeto.

@@ -1,0 +1,9 @@
+﻿Office (Office) - Hostage Rescue
+
+Map Created By: Hobbit (Hobbit@nodream.net)	
+Texture Created By: Sphinx and George_Pooshoes.
+
+- Counter-Terrorists: Infiltrate the office building and rescue the hostages. Eliminate the Terrorists while making sure that the hostages are not harmed.
+- Terrorists: Prevent the Counter-Terrorists from rescuing the hostages.
+
+Note: There are 4 hostages in this mission.

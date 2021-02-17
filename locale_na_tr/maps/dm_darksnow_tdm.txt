@@ -1,0 +1,7 @@
+﻿Dark Snow - Takım Ölüm Maçı
+
+Haritayı Yapan: NEXON
+Dokuları Yapan: NEXON
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Belirlenen öldürme sayısına ulaşarak oyunu kazan.

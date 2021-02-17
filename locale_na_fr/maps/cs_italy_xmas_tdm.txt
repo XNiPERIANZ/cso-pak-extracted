@@ -1,0 +1,8 @@
+﻿Italy - Noël - Match à mort par équipe
+
+Carte créée par : Nexon
+Textures/graphismes par : Nexon
+
+Objectif
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en atteignant l'objectif de victimes.

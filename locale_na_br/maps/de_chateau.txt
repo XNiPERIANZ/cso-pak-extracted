@@ -1,0 +1,7 @@
+﻿Chateau - Plantar/desarmar a bomba
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Terroristas: Após o incidente em Cobble, Lord William decidiu reformar sua mansão de verão. Impeça-o de concluir a reforma plantando um C4 no jardim da frente ou de trás.
+- Contraterroristas: Impeça que os terroristas plantem a bomba e proteja a propriedade de Lord William.

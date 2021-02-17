@@ -1,0 +1,8 @@
+﻿Skyscraper - Zombie
+Conception et réalisation : Nexon
+Texture / Modélisation / Édition : Nexon
+
+Au cours de l'affrontement entre terroristes et antiterroristes, des créatures inconnues ont été découvertes, bientôt identifiées comme des zombies échappés du laboratoire de Rex. Les humains doivent maintenant joindre leurs forces pour assurer leur survie.
+
+Humains : Survivez aux attaques zombies pendant toute la période, ou tuez tous les zombies.
+Zombies : Ceux qui se sont changés en zombies doivent tuer les humains et les transformer en zombies. Les zombies ont plus de PV et sont plus rapides que les humains.

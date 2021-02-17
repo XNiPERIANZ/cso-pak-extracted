@@ -1,0 +1,9 @@
+﻿Tunnel - Mata-mata
+
+Planejamento/Produção: NEXON
+Texturas/Revisão: NEXON
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.
+
+Observação: Cada equipe tem dois locais de reforço neste mapa.

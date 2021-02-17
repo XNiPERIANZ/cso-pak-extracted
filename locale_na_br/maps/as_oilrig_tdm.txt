@@ -1,0 +1,8 @@
+﻿Oil Rig - Duelo de Equipes
+
+Mapa criado por: MacMan (macmaninfi@aol.com)
+Texturas criadas por: MacMan
+Helicóptero Westland Wessex criado por: Agent Orange [agentorange@freemail.nl]
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

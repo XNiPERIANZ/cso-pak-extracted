@@ -1,0 +1,7 @@
+﻿Toscana - Combate mortal
+
+Mapa creado por: NEXON
+Textura creada por: NEXON
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

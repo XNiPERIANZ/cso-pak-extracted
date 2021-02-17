@@ -1,0 +1,9 @@
+﻿Stadium - Bomb Planting/Defusing
+
+Counter-Terroristen: Stoppt die Terroristen in ihrem Versuch, das Stadium zu bombardieren.
+
+Terroristen: Bombardiert das Stadium.
+
+Hinweis: Es gibt zwei vorgesehene Explosionsorte.
+
+

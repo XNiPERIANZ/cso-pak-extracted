@@ -1,0 +1,11 @@
+﻿Italy - Annihilation
+Map erstellt von: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Textur/Grafiken erstellt von: DigiChaos (digichaos@hotsheep.com)
+
+- Töte alle sichtbaren Feinde.
+- Gewinne, indem du die vorgegebene Rundenanzahl erreichst.
+- Du kannst nicht erneut starten, bis die nächste Runde beginnt.
+
+
+
+

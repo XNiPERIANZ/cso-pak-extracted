@@ -1,0 +1,7 @@
+﻿Industry 2 - Annihilation
+Pianificazione/Produzione: Nexon
+Texture/Modelli/Revisione: Nexon
+
+I Terroristi e gli Antiterroristi si fronteggeranno nel lotto vuoto di una fabbrica.
+- Uccidete tutti i membri del team nemico nella mappa.
+- Quando un team viene annichilito, il team rimanente vince.

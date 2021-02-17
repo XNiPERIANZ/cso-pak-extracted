@@ -1,0 +1,12 @@
+﻿Alcatraz (alcatraz) - Pose de bombe/Désamorçage
+Carte créée par : Nexon
+Texture par : Nexon
+
+Antiterroristes : une activité terroriste a été détectée à proximité d'une célèbre prison.
+L'équipe doit éliminer les terroristes et désamorcer toute bombe posée sur les objectifs.
+
+Terroristes : repoussez les antiterroristes
+et détruisez l'une des zones cibles.
+
+
+Remarque : la carte comporte deux sites de bombe.

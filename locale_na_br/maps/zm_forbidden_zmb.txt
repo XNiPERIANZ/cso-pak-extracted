@@ -1,0 +1,9 @@
+﻿Forbidden - Zumbi
+
+Planejamento/Produção: NEXON
+Texturas/Revisão: NEXON
+
+Perto do laboratório químico ilegal havia uma usina de tratamento químico que lidava com os resíduos de experiências. Entretanto, ela parou de funcionar há muito tempo. Agora é um santuário de zumbis que tornaram-se mais fortes graças aos diversos resíduos químicos.
+
+- Humanos: Elimine todos os zumbis ou sobreviva até o tempo acabar.
+- Zumbis: Aqueles que se transformaram em zumbis devem eliminar os humanos e transformá-los em zumbis também. Os zumbis têm mais vida e são mais rápidos que os humanos.

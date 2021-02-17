@@ -1,0 +1,19 @@
+﻿Survivor - Bomb Planting/Defusing
+Map erstellt von: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+Terroristen: Bombardiert den Lastwagen oder das abgestürzte Flugzeug.
+
+Counter-Terroristen: Hindert die Terroristen daran, ihre Ziele zu bombardieren.
+
+Hintergrund:
+Während eines schweren Schneesturms ist ein Flugzeug mit geheimer Fracht abgestürzt.
+Die Flugzeug-Crew ist mit Fallschirmen abgesprungen und hat die Fracht vom Flugzeug in einen Lastwagen umgeladen.
+Dennoch konnte wegen der Unmengen an Schnee nicht die gesamte Fracht umgeladen werden.
+Die Terroristen haben den Flug verfolgt und planen nun, den Abtransport der Fracht zu verhindern.
+
+
+
+
+

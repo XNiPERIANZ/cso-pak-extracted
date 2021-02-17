@@ -1,0 +1,10 @@
+﻿Checkmate - Gun Deathmatch
+
+Map Created By: NEXON
+Texture Created By: NEXON
+
+There is a small commotion in what looks to be the peaceful room of a young man.
+
+- The team that kills an enemy team member with a final grenade wins.
+- Raise the team score by killing all enemy team members on the map.
+- Reach the designated kill count within the time limit to win.

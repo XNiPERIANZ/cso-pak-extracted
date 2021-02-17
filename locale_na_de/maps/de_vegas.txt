@@ -1,0 +1,10 @@
+﻿Vegas - Bomb Planting/Defusing
+Produktion: +Cadaver+
+Textur: George_Pooshoes, JOeSmOe
+Bearbeitung: Nexon
+
+
+Counter-Terroristen: Dringt in das Gebäude ein und beschützt das Ziel während ihr die Terroristen eliminiert.
+
+Terroristen: Benutzt C4 um den Safe zu sprengen.
+Falls das nicht möglich ist, sprengt die Sphinx und zeigt der Welt unsere Absichten.

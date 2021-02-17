@@ -1,0 +1,6 @@
+﻿Piranesi - Deathmatch
+Fingers - iikkak@valvesoftware.com
+Багодарности за графику Ido Magal
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

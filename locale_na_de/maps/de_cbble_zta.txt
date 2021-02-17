@@ -1,0 +1,11 @@
+﻿Cobble - Annihilation
+Map erstellt von: DaveJ (http://www.johnsto.co.uk/)
+Textur erstellt von: MacMan (MacManInfi@aol.com)
+
+- Töte alle sichtbaren Feinde.
+- Gewinne, indem du die vorgegebene Rundenanzahl erreichst.
+- Du kannst nicht erneut starten, bis die nächste Runde beginnt.
+
+
+
+

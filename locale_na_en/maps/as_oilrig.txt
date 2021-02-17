@@ -1,0 +1,10 @@
+﻿Oil Rig - Assassin
+
+Map Created By: MacMan (macmaninfi@aol.com)
+Texture Created By: MacMan
+Westland Wessex Helicopter Created By: Agent Orange [agentorange@freemail.nl]
+
+Background: A witness to the greatest crime in history is hiding in this oil rig. The witness has been kept safely hidden thus far through the hostage protection program but this place is no longer safe. A helicopter has been dispatched to move the witness to a new location.
+
+- Counter-Terrorists: Protect the VIP at all cost. Safely lead the witness to the helicopter on deck.
+- Terrorists: Eliminate the VIP before an escape can be made.

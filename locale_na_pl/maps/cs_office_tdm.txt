@@ -1,0 +1,6 @@
+﻿Office - Drużynowy Deathmatch
+Autor Mapy: Hobbit (Hobbit@nodream.net)	
+Autor Tekstury: Sphinx and George_Pooshoes.
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

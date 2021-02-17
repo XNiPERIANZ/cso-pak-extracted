@@ -1,0 +1,7 @@
+﻿Back Alley
+
+Haritayı Yapan: TYR (tyr@barking-dog.com)
+
+- Haritadaki düşman takım oyuncularının hepsini öldürerek takım skorunu arttır.
+- Oyunu belirli sayıdaki düşmanı öldürmeyi başararak kazan.
+- Eğer eşya kutusu ele geçirilmiş ise öldürme sayısı artar.

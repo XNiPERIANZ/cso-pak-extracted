@@ -1,0 +1,16 @@
+﻿Skyline - Zombie Escape
+Mappa creata da: Nexon
+Texture creata da: Nexon
+
+Dopo aver ricevuto informazioni indicando che gli Zombie erano apparsi nella zona industriale di sviluppo, 
+il governo ha deciso di inviare un team d'indagini per esaminare la situazione.
+
+Dopo aver verificato l'esistenza degli Zombie, il governo ha deciso
+di effettuare dei bombardamenti aerei per mettere definitivamente la città in quarantena...
+
+Non rimane molto tempo prima dell'inizio dei bombardamenti aerei!
+Salite sul camion che vi aspetta all'ubicazione di fuga!
+
+Obiettivo:
+Umani: Trovate la strada verso l'ubicazione di fuga prima che finisca il tempo. Dovete rimanere Umani a ogni costo!
+Zombie: Infettate tutti gli Umani o andate all'ubicazione di fuga e impedite agli Umani di scappare prima che il tempo finisca.

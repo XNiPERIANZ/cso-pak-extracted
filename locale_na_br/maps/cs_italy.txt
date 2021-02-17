@@ -1,0 +1,7 @@
+﻿Italy - Resgate de Reféns
+
+Mapa criado por: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texturas/Gráficos criados por: DigiChaos (digichaos@hotsheep.com)
+
+- Contraterroristas: Resgate os reféns que estão sendo mantidos em cativeiro por terroristas em uma pequena cidade italiana.
+- Terroristas: Evite que os contraterroristas resgatem os reféns.

@@ -1,0 +1,7 @@
+﻿Airstrip - Mata-mata
+
+Mapa criado por: Barney (aka narby) (narby@counter-strike.net)
+Agradecimento especial à Iikka Keranen, John Morello e Minh Le
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

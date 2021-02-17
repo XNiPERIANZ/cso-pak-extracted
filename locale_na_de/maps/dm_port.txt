@@ -1,0 +1,7 @@
+﻿The Port - Annihilation
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+In einem Hafen voller Frachtcontainer findet ein Feuergefecht mit den Terroristen statt.
+- Töte alle Mitglieder des feindlichen Teams.
+- Wenn ein Team ausgelöscht wurde, hat das andere Team gewonnen.

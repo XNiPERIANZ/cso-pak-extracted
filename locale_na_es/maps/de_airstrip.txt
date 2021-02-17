@@ -1,0 +1,9 @@
+﻿Pista de aterrizaje - Colocación/Desactivación de bomba
+
+Mapa creado por: Barney (aka narby) (narby@counter-strike.net)
+Agradecemos a likka Keranen, John Morello y Minh Le
+
+- Antiterroristas: Eviten que los Terroristas planten una bomba en el edificio de la pista de aterrizaje.
+- Terroristas: Planten un C-4 en el edificio de la pista de aterrizaje para volar el tanque de combustible y el almacén de cargamentos.
+
+Nota: Hay dos sitios de bomba en este mapa.

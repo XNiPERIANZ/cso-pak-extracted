@@ -1,0 +1,7 @@
+﻿Infierno - Combate mortal
+
+Mapa creado por: Chris Auty (Barney) (narby@counter-strike.net)
+Textura creada por: Valve software
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

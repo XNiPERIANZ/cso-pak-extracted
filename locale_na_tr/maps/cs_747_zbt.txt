@@ -1,0 +1,8 @@
+﻿747
+
+Haritayı Yapan:  Stephen "Judas" Superville (witchdawn@hotmail.com)
+Dokuları Yapan: "The Postman" (heavengame@yahoo.com)
+
+- Haritadaki düşman takım oyuncularının hepsini öldürerek takım skorunu arttır.
+- Oyunu belirli sayıdaki düşmanı öldürmeyi başararak kazan.
+- Eğer eşya kutusu ele geçirilmiş ise öldürme sayısı artar.

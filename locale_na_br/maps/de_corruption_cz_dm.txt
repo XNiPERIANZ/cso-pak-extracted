@@ -1,0 +1,6 @@
+﻿Corruption - Mata-mata
+
+por Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

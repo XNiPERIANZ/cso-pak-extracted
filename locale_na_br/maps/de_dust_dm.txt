@@ -1,0 +1,7 @@
+﻿Dust - Mata-mata
+
+Mapa criado por: DaveJ (http://www.johnsto.co.uk/)
+Texturas criadas por: MacMan (MacManInfi@aol.com)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

@@ -1,0 +1,7 @@
+﻿The Port - Anihilacja
+Planowanie/Produkcja: Nexon
+Tekstury/Modelowanie/Korekta: Nexon
+
+Strzelanina z terrorystami trwa w porcie wypełnionym po brzegi kontenerami z ładunkiem.
+- Zabij wszystkich przeciwników na mapie.
+- Gdy jedna drużyna zostanie wyeliminowana, pozostała drużyna wygrywa.

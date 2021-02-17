@@ -1,0 +1,15 @@
+﻿OutCity (OutCity) - [Zombi Saklan ve Bul]
+Yayıncı: Nexon
+□                                   ####### Lütfen Saklan ve Bul hakkında bilgi edinin! #######
+□         <@> İnsan <@>                  
+                >> İnsan kuvvetleri gerçek zombiyi bulmalıdır!!                 
+                >> [Merhaba, Zombi!] zombileri tek seferde öldürmek hem sağlık hem de fazladan puan kazandırır!
+                >> Yanlış kişiyi öldürdüğünüzde, HP kaybedilir.
+                >> İnsanlar, SHIFT tuşuna basarak yürüyebilirler.
+□                                                                                        
+□         <@> Zombi <@>             
+                >> Zombiler, belirtilen süre içerisinde kaçış bölgesine ulaşmalılar.
+                >> Hareket Zamanı geldiği zaman, verilen hareketin aynısını yapmalılar.
+                >> Zombiler SHIFT tuşuna basarak koşabilirler.
+                   (Lusty Rose ile Zayıf Zombiler daha hızlı koşabilirler.)
+

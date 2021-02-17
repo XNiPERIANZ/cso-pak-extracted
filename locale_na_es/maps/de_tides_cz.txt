@@ -1,0 +1,6 @@
+﻿Arribo - Colocación/Desactivación de bomba
+
+- Antiterroristas: Detengan el intento de bombardeo de los Terroristas.
+- Terroristas: Coloquen bombas y detónenlas.
+
+Nota: Hay dos sitios de bomba en esta misión.

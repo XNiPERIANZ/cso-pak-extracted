@@ -1,0 +1,9 @@
+﻿Italy - Noel - Yok Etme
+
+Haritayı tasarlayan: Nexon
+Dokuları/grafikleri tasarlayan: Nexon
+
+Hedef
+- Haritadaki tüm düşmanları öldürün.
+- Belirli sayıdaki raundu kazanın.
+- Sonraki raunt başlayana kadar yeniden canlanmazsınız.

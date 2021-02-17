@@ -1,0 +1,14 @@
+﻿Office - Annihilation
+Map erstellt von: Hobbit (Hobbit@nodream.net)	
+Textur erstellt von: Sphinx and George_Pooshoes.
+
+- Töte alle sichtbaren Feinde.
+- Gewinne, indem Du die vorgegebene Rundenanzahl erreichst.
+- Du kannst nicht erneut starten, bis die nächste Runde beginnt.
+
+
+
+
+
+
+

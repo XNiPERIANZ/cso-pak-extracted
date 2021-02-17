@@ -1,0 +1,9 @@
+﻿Toscana - Bomb Planting/Defusing
+
+Map Created By: NEXON
+Texture Created By: NEXON
+
+- Counter-Terrorists: The base in Toscana, Italy, that was used by the Terrorists as their headquarters, has been discovered. Now the Terrorists are attempting to bomb it in order to destroy any evidence. The team members must defuse all bombs planted at the bomb sites. Execute a sabotage plan to prevent the Terrorists from accomplishing their goal!
+- Terrorists: A Terrorist in possession of a C4 must detonate it at one of the two bombing sites. Contain the Counter-Terrorist's sabotage plan and destroy all evidences related to the base!
+
+Note: There are two bombing sites on this map.

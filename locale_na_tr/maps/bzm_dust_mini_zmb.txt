@@ -1,0 +1,8 @@
+﻿Dust EX - Zombi
+Haritayı tasarlayan: DaveJ (http://www.johnsto.co.uk/)
+
+
+Teröristler ve terörle mücadele timi arasındaki savaş sırasında bilinmeyen varlıklar görüldü ve bu varlıklar, Rex Laboratuvarından kaçan zombilere benziyor. Hayatta kalmak için insanların birlikte çalışmaları gerekiyor.
+
+İnsanlar: Kalan süre boyunca zombi saldırılarında hayatta kalmalı veya tüm zombileri öldürmeliler.
+Zombiler: Zombiye dönüşenler insanları öldürmeli ve onları zombiye dönüştürmelidir. Zombiler, insanlara göre daha hızlıdır ve daha fazla HP değerine sahiptir.

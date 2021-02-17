@@ -1,0 +1,6 @@
+﻿Vostok - Podkładanie/Rozbrajanie Bomby
+Antyterroryści: Udaremnij terrorystyczny plan bombardowania.
+
+Terroryści: Podłóż i zdetonuj bomby.
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

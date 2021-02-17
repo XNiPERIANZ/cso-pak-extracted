@@ -1,0 +1,6 @@
+﻿Alcatraz (alcatraz) - Takımla Ölüm Maçı
+Geliştiren ve üreten: Nexon
+Doku/Modelleme/Düzenleme: Nexon
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım puanınızı arttırın.
+- Hedeflenen öldürme sayısına ulaşarak oyunu kazan.

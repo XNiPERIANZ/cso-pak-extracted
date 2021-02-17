@@ -1,0 +1,11 @@
+RISING - Fuga Zombie
+Pianificazione/Progettazione/Sviluppo: Nexon
+Grafica: Nexon
+
+A tutti i sopravvissuti, 
+C'è un elicottero di salvataggio nelle vicinanze. 
+Sfrecciate verso la piattaforma d'atterraggio, usate i segnalatori di luce per richiedere soccorso e fuggite!
+
+Obiettivo
+Umano: Raggiungete la piattaforma entro il tempo limite. Ovviamente dovrete rimanere umani.
+Zombie: Infettate tutti gli umani oppure impeditegli di raggiungere l'elicottero entro il tempo limite.

@@ -1,0 +1,10 @@
+﻿Dust 2 - Bomb Planting/Defusing
+Mappa creata da: DaveJ (http://www.johnsto.co.uk/)
+Texture creata da: MacMan (MacManInfi@aol.com)
+
+Antiterroristi: Impedite ai Terroristi di bombardare le scatole di armi chimiche. I membri del team devono disinnescare tutte le bombe piazzate nei posti di bombardamento.
+
+Terroristi: Un Terrorista in possesso di C4 deve far esplodere uno dei due posti dove si trovano le scatole di armi chimiche.
+
+
+Nota: Ci sono due posti di bombardamento in questa mappa.

@@ -1,0 +1,8 @@
+﻿Tunnel - Deathmatch
+Planning/Production : Nexon
+Texture/Révision : Nexon
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.
+
+Note : Chaque équipe a deux points de renfort sur cette carte.

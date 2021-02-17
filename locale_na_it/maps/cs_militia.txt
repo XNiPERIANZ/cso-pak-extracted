@@ -1,0 +1,8 @@
+﻿Militia - Hostage Rescue
+Mappa creata da: Andrew Aumann (andrewja@home.com)
+
+Antiterroristi: Infiltratevi nella tenuta di Cliff e salvate gli ostaggi rimanenti. Eliminate i Terroristi assicurandovi di non ferire gli ostaggi.
+
+Terroristi: Impedite agli Antiterroristi di salvare gli ostaggi.
+
+Nota: Ci sono 4 ostaggi in questa missione. 

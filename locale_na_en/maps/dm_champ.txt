@@ -1,0 +1,7 @@
+﻿Champion - Annihilation
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+- Kill all enemy team members on the map.
+- When one team is annihilated, the remaining team wins.

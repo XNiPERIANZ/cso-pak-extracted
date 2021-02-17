@@ -1,0 +1,8 @@
+﻿Dust 2 - Gun Deathmatch
+Autor Mapy: DaveJ (http://www.johnsto.co.uk/)
+Autor Tekstury: MacMan (MacManInfi@aol.com)
+
+Cel
+- Drużyna, która zabije członka przeciwnej drużyny ostatnim granatem wygrywa.
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Osiągnij wyznaczoną liczbę zabójstw przed upływem limitu czasu, by wygrać.

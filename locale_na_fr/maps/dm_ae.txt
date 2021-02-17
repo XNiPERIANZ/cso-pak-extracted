@@ -1,0 +1,9 @@
+﻿Another Episode - Annihilation
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+Les renseignements indiquent que des Terroristes ont infiltré le Rex Laboratory II, afin d'y mener de nouveaux actes de terreur après l'attaque du REX Laboratory I. Pour mettre fin à cette opération terroriste, le gouvernement a expédié une force antiterroriste sur le toit, où les deux camps vont maintenant s'affronter.
+
+Antiterroristes : Empêchez les Terroristes d'endommager le laboratoire.
+
+Terroristes : Éliminez les Antiterroristes et infiltrez le laboratoire.

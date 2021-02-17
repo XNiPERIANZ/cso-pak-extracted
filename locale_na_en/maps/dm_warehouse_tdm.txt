@@ -1,0 +1,6 @@
+﻿Warehouse - Team Deathmatch
+Map developed by: Nexon
+Texture developed by: Nexon
+
+- The objective is to increase team score by killing all enemy team members on the map.
+- To win, reach the number of designated kills.

@@ -1,0 +1,9 @@
+﻿Vegas - Bomb Planting/Defusing
+Production : +Cadaver+
+Texture : George_Pooshoes, JOeSmOe
+Révision : Nexon
+
+Antiterroristes : Infiltrez le bâtiment et protégez la cible tout en éliminant les Terroristes.
+
+Terroristes : Utilisez du C4 pour faire exploser le coffre-fort.
+Si ce n'est pas possible, faites sauter le Sphinx et dévoilez nos intentions au reste du monde.

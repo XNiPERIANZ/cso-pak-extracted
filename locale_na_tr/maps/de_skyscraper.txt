@@ -1,0 +1,10 @@
+﻿Gökdelen - Patlayıcıların kurulması ve etkisiz hale getirilmesi
+Geliştiren ve üreten : Nexon
+Doku/Modelleme/Düzenleme : Nexon
+
+Anti-Teröristler: Teröristlerin kimyasal silah kutularını patlatmasını önleyin. Takım üyelerinin görev bölgesine kurulan tüm patlayıcıları etkisiz hale getirmeleri gerekiyor.
+
+Teröristler: C4'lü teröristlerin, kimyasal silah kutularının bulunduğu iki alandan birini patlatmaları gerekiyor.
+
+
+Ayrıca: Bu haritada iki patlatma bölgesi bulunuyor.

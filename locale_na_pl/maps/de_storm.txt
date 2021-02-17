@@ -1,0 +1,11 @@
+﻿Storm - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+Autor Tekstury:  Fingers - jOeSmOe - MattC
+
+Antyterroryści: Chroń skrzynie z bronią. Bronie są częścią dostawy dla kraju zagrożonego przez terrorystów.
+
+Terroryści: Mała nacja, której reżim należy przerwać, nie może dostać tej dostawy broni.
+
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

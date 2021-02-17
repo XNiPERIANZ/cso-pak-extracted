@@ -1,0 +1,7 @@
+﻿Asedio - Aniquilación
+
+Mapa creado por: N0TH1NG (n0th1ng@mailcity.com)
+
+- Mata a todos los enemigos en el mapa.
+- Para ganar, completa la cantidad designada de rondas.
+- No resucitarás hasta que comience la ronda siguiente.

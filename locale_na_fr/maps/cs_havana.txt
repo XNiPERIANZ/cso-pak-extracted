@@ -1,0 +1,7 @@
+﻿Havana - Hostage Rescue
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+Terroristes : Des otages politiques sont détenus à la Havana Vieja. Tenez bon jusqu'à la fin du round et qu'un hélicoptère arrive pour vous exfiltrer.
+
+Antiterroristes : Toutes les zones environnantes ont été sécurisées. Vous devez maintenant sauver tous les otages avant la fuite des Terroristes.

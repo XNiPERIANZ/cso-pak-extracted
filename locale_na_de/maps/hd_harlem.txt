@@ -1,0 +1,9 @@
+﻿Hidden City - Hidden Mode
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+Ein unidentifizierter maskierter Attentäter taucht in einem verwahrlosten Slum-Dorf auf.
+
+Zielvorgabe: Erreiche den vorgegebenen Punktestand, indem du den Versteckten tötest.
+
+Tipp: Der Versteckte wird mit der Zeit immer sichtbarer, wird aber wieder unsichtbar, wenn er einen Feind tötet.

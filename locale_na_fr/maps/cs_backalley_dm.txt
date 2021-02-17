@@ -1,0 +1,5 @@
+﻿Back Alley - Deathmatch
+Carte créée par : TYR (tyr@barking-dog.com)
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

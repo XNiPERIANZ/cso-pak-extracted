@@ -1,0 +1,7 @@
+﻿Office - Duelo de Equipes
+
+Mapa criado por: Hobbit (Hobbit@nodream.net)	
+Texturas criadas por: Sphinx e George_Pooshoes
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

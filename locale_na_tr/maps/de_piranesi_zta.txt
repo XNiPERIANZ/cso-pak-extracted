@@ -1,0 +1,8 @@
+﻿Piranesi - Yok Etme
+
+Ulaşmak için - iikkak@valvesoftware.com
+Doku kaynakları için Ido Magal'a teşekkürler
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş sayıdaki rauntları tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar canlanmayacaksın.

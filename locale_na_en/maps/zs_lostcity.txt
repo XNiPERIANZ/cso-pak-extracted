@@ -1,0 +1,10 @@
+﻿Lost City - Survival
+
+Planning/Production: NEXON
+Mapping/Revision: NEXON
+
+Contact with a research team, dispatched to investigate a city quarantined by the Rex Virus, had been lost for over two months. A special forces troop, sent by the government to investigate the matter, discovered upon their arrival that the city is filled with Zombies. Just as they were about to report their findings, radio contact was lost and the Zombies started to attack. Now, the Human survivors of the first attack are preparing their last stand for survival...
+
+- Survive for as long as possible. The game will end if all players are dead.
+- Press the [B] key to purchase weapons and equipment as well as to upgrade your HP and ATT.
+- If even just one person survives at the end of the round, all dead players will revive for the next round.

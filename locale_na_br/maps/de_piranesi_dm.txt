@@ -1,0 +1,7 @@
+﻿Piranesi - Mata-mata
+
+Fingers - iikkak@valvesoftware.com
+Obrigado a Ido Magal pelas fontes de texturas
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

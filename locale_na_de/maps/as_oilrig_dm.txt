@@ -1,0 +1,8 @@
+﻿Oil Rig - Deathmatch
+Map erstellt von: MacMan (macmaninfi@aol.com)
+Textur erstellt von: MacMan
+Westland Wessex erstellt von: Agent Orange 
+[agentorange@freemail.nl]
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.

@@ -1,0 +1,10 @@
+﻿Mirage (Mirage) - Gun Deathmatch
+Developed and produced by: Nexon
+Texture/Modeling/Edited by: Nexon
+
+A large-scale Counter-Terrorist mission aims to remove the last vestiges of Terrorist activity in the area.
+However, the Terrorists have resupplied with powerful weapons and intend to fight to the last.
+
+Objective
+- You get a new weapon when you reach a certain number of kills against enemies with that weapon.
+- To win, eliminate the enemy team with the final grenade given during the final moments of the game.

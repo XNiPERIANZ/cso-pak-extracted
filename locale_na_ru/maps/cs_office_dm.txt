@@ -1,0 +1,6 @@
+﻿Office - Deathmatch
+Создатель карты: Hobbit (Hobbit@nodream.net)	Карта создана: Hobbit (Hobbit@nodream.net)
+Создатель графики карты: Sphinx and George_Pooshoes.
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

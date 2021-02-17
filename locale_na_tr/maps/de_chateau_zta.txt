@@ -1,0 +1,8 @@
+﻿Chateau - Yok Etme
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Haritadaki tüm düşmanları öldür.
+- Belirtilen sayıdaki rauntu tamamlayarak kazan.
+- Bir sonraki raunt başlayana kadar canlanmayacaksın.

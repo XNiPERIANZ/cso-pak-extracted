@@ -1,0 +1,10 @@
+﻿Arranha-céus - Instalando e desmontando explosivos
+Desenvolvido e produzido por: Nexon
+Textura/Modelagem/Edição por: Nexon
+
+Contraterroristas: Impeça que os terroristas detonem as caixas de armas químicas. Os membros de equipe têm que desmontar todos os explosivos instalados na área do objetivo.
+
+Terroristas: Os terroristas com C4 têm que detonar as caixas de armas químicas em um dos dois lugares onde estão colocadas.
+
+
+Etc.: Existem duas áreas de detonação nesse mapa.

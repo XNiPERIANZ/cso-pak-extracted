@@ -1,0 +1,8 @@
+﻿Plataforma petrolera - Combate mortal
+
+Mapa creado por: MacMan (macmaninfi@aol.com)
+Textura creada por: MacMan
+Helicóptero Westland Wessex creado por: Agent Orange [agentorange@freemail.nl]
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

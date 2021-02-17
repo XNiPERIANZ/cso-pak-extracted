@@ -1,0 +1,13 @@
+﻿Parking Lot – Ölüm Maçı
+Planlama/Yapım: Nexon
+Dokular/Modelleme/Düzenleme: Nexon
+
+Hükümet güçleri, teröristlerin karargahına saldırmak için  otoparka geçmeye karar verdi.
+
+Teröristler ise karargahlarından hemen vazgeçmediler ve hükümet birliklerine karşılık verdiler.
+
+Görev
+- Eğer bir oyuncu, düşman bir oyuncuyu Son Bomba ile öldürmeyi başarabilirse; o takım oyunu kazanır.
+- Takım puanını arttırmak için düşman oyuncuları öldürmelisiniz.
+- Hedef puana ilk ulaşan takım maçı kazanır.
+

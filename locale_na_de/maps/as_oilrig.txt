@@ -1,0 +1,11 @@
+﻿Oil Rig - Assassin
+Map erstellt von: MacMan (macmaninfi@aol.com)
+Textur erstellt von: MacMan
+Westland Wessex erstellt von: Agent Orange 
+[agentorange@freemail.nl]
+
+Hintergrund: Ein Zeuge des größten Verbrechens aller Zeiten versteckt sich auf dieser Bohrinsel. Der Zeuge war Dank des Zeugenschutzprogrammes bislang gut versteckt, aber jetzt ist dieses Versteck nicht mehr sicher. Ein Hubschrauber wurde entsendet, um den Zeugen zu einem anderen Ort zu bringen. 
+
+Counter-Terroristen: Schützt den VIP um jeden Preis. Bringt den Zeugen sicher zum Helikopter an Deck. 
+
+Terroristen: Eliminiert den VIP bevor er entkommen kann.

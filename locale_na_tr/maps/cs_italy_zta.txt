@@ -1,0 +1,8 @@
+﻿Italy - Yok Etme
+
+Haritayı Yapan: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Dokuları/Grafikleri Yapan: DigiChaos (digichaos@hotsheep.com)
+
+- Haritadaki bütün düşmanları öldür.
+- Oyunu belirli sayıdaki rauntu tamamlayarak kazan.
+- Bir sonraki raunt başlayana kadar canlanmayacaksın.

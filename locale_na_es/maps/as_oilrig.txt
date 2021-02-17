@@ -1,0 +1,10 @@
+﻿Plataforma petrolera - Asesino
+
+Mapa creado por: MacMan (macmaninfi@aol.com)
+Textura creada por: MacMan
+Helicóptero Westland Wessex creado por: Agent Orange [agentorange@freemail.nl]
+
+Contexto: El único testigo del mayor crimen de la historia se esconde en esta plataforma petrolera. El testigo está a salvo, escondido por medio del programa de protección para rehenes, pero el lugar ya no es seguro. Se envió un helicóptero para trasladar al testigo a una ubicación nueva.
+
+- Antiterroristas: Protejan al VIP cueste lo que cueste. Lleven al testigo a salvo hacia el helicóptero en la plataforma.
+- Terroristas: Eliminen al VIP antes de que pueda escapar.

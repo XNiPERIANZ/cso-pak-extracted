@@ -1,0 +1,16 @@
+﻿Blood Castle - Zombie Escape
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Une aura sinistre s'empare des ouvriers chargés de restaurer un ancien château.
+
+Après avoir reçu ces rapports inquiétants, décision est prise de classer le château antique comme zone à risque du virus zombie, et une vaste campagne de bombardements est organisée pour maintenir définitivement la zone en quarantaine.
+
+Il ne reste plus beaucoup de temps avant les bombardements...
+Votre seul objectif est de vous échapper à tout prix !
+
+Objectif :
+
+Humains : Frayez-vous un chemin jusqu'au point de fuite avant que le temps soit écoulé. Vous devez impérativement rester humain !
+
+Zombies : Infectez tous les Humains et rendez-vous au point de fuite pour empêcher les Humains de s'échapper avant la fin du compte à rebours.

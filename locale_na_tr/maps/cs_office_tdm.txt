@@ -1,0 +1,7 @@
+﻿Office - Takım Ölüm Maçı
+
+Haritayı yapan: Hobbit (Hobbit@nodream.net)
+Dokuları yapan: Sphinx ve George_Pooshoes.
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takımının skorunu yükselt.
+- Düşmanı belirtilen sayıda öldürerek kazan.

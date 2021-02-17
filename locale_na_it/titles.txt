@@ -1,0 +1,2329 @@
+﻿Team_Select
+{
+\yScegli un team\w
+
+1. Terroristi
+2. Antiterroristi
+
+5. Selezione auto
+}
+
+Team_Select_Spect
+{
+\yScegli un team\w
+
+1. Terroristi
+2. Antiterroristi
+
+5. Selezione auto
+6. Spettatore
+}
+
+IG_Team_Select
+{
+\yScegli un team\w
+
+1. Terroristi
+2. Antiterroristi
+
+5. Selezione auto
+
+0. Esci
+}
+
+IG_Team_Select_Spect
+{
+\yScegli un team\w
+
+1. Terroristi
+2. Antiterroristi
+
+5. Selezione auto
+6. Spettatore
+
+0. Esci
+}
+
+IG_VIP_Team_Select
+{
+\yScegli un team\w
+
+1. VIP
+
+0. Esci
+}
+
+IG_VIP_Team_Select_Spect
+{
+\yScegli un team\w
+
+1. VIP
+
+0. Esci
+}
+
+Terrorist_Select
+{
+\yScegli il tuo aspetto\w
+
+1. Phoenix Connexion
+2. Elite Crew
+3. Arctic Avengers
+4. Guerilla Warfare
+
+5. Selezione auto
+}
+
+CT_Select
+{
+\yScegli il tuo aspetto\w
+
+1. Seal Team 6
+2. GSG-9
+3. SAS
+4. GIGN
+
+5. Selezione auto
+}
+
+		Menu_Buy,
+		Menu_BuyPistol,
+		Menu_BuyRifle,
+		Menu_BuyMachineGun,
+		Menu_BuyShotgun,
+		Menu_BuySubMachineGun,
+		Menu_BuyItem
+
+Compra
+{
+\yCompra oggetto\w
+
+1. Pistola
+2. Fucile a pompa
+3. Mitra
+4. Fucile
+5. Mitragliatrice
+
+6. Munizioni arma primaria
+7. Munizioni arma secondaria
+
+8. Equipaggiamento
+
+0. Esci
+}
+
+CT_BuyItem
+{
+\yCompra equipaggiamento\R$   Costo
+
+\w1. Giubbotto Kevlar\y\R650
+\w2. Giubbotto Kevlar & Elmo\y\R1000
+\w3. Granata Accecante\y\R200
+\w4. Granata HE\y\R300
+\w5. Granata Fumogena\y\R300
+\w6. Occhiali Vista Notturna\y\R1250
+\d7. Kit Disinnesco Bomba\y\R200
+
+\w0. Esci
+}
+
+T_BuyItem
+{
+\yCompra equipaggiamento\R$   Costo
+
+\w1. Giubbotto Kevlar\y\R650
+\w2. Giubbotto Kevlar & Elmo\y\R1000
+\w3. Granata Accecante\y\R200
+\w4. Granata HE\y\R300
+\w5. Granata Fumogena\y\R300
+\w6. Occhiali Vista Notturna\y\R1250
+
+\w0. Esci
+}
+
+DCT_BuyItem
+{
+\yCompra equipaggiamento\R$   Costo
+
+\w1. Giubbotto Kevlar\y\R650
+\w2. Giubbotto Kevlar & Elmo\y\R1000
+\w3. Granata Accecante\y\R200
+\w4. Granata HE\y\R300
+\w5. Granata Fumogena\y\R300
+\w6. Occhiali Vista Notturna\y\R1250
+\w7. Kit Disinnesco Bomba\y\R200
+
+\w0. Esci
+}
+
+DT_BuyItem
+{
+\yCompra equipaggiamento\R$   Costo
+
+\w1. Giubbotto Kevlar\y\R650
+\w2. Giubbotto Kevlar & Elmo\y\R1000
+\w3. Granata Accecante\y\R200
+\w4. Granata HE\y\R300
+\w5. Granata Fumogena\y\R300
+\w6. Occhiali Vista Notturna\y\R1250
+
+\w0. Esci
+}
+
+CT_BuyPistol
+{
+\yCompra pistola\R$   Costo
+(Arma secondaria)
+
+\w1. 9X19mm Sidearm\y\R400
+\w2. K&M .45 Tattico\y\R500
+\w3. 228 Compatta\y\R600
+\w4. Night Hawk .50C\y\R650
+\w5. ES Five-Seven\y\R750
+
+\w0. Esci
+}
+
+T_BuyPistol
+{
+\yCompra pistola\R$   Costo
+(Arma secondaria)
+
+\w1. 9X19mm Sidearm\y\R400
+\w2. K&M .45 Tattico\y\R500
+\w3. 228 Compatta\y\R600
+\w4. Night Hawk .50C\y\R650
+\w5. .40 Elites doppia\y\R800
+
+\w0. Esci
+}
+
+AS_BuyShotgun
+{
+\yCompra fucile a pompa\R$   Costo
+(Arma primaria)
+
+\d1. Leone 12 Gauge Super\y\R1700
+\d2. Leone YG1265 Fucile a pompa Auto\y\R3000
+
+\w0. Esci
+}
+
+BuyShotgun
+{
+\yCompra fucile a pompa\R$   Costo
+(Arma primaria)
+
+\w1. Leone 12 Gauge Super\y\R1700
+\w2. Leone YG1265 Fucile a pompa Auto\y\R3000
+
+\w0. Esci
+}
+
+CT_BuySubMachineGun
+{
+\yCompra mitra\R$   Costo
+(Arma primaria)
+
+\w1. Pistola mitragliatrice Schmidt\y\R1250
+\w2. Mitra K&M\y\R1500
+\w3. K&M UMP45\y\R1700
+\w4. ES C90\y\R2350
+
+\w0. Esci
+}
+
+T_BuySubMachineGun
+{
+\yCompra mitra\R$   Costo
+(Arma primaria)
+
+\w1. Ingram MAC-10\y\R1400
+\w2. Mitra K&M\y\R1500
+\w3. K&M UMP45\y\R1700
+\w4. ES C90\y\R2350
+
+\w0. Esci
+}
+
+AS_CT_BuySubMachineGun
+{
+\yCompra mitra\R$   Costo
+(Arma primaria)
+
+\w1. Pistola mitragliatrice Schmidt\y\R1250
+\w2. Mitra K&M\y\R1500
+\w3. K&M UMP45\y\R1700
+\w4. ES C90\y\R2350
+
+\w0. Esci
+}
+
+AS_T_BuySubMachineGun
+{
+\yCompra mitra\R$   Costo
+(Arma primaria)
+
+\w1. Ingram MAC-10\y\R1400
+\d2. Mitra K&M\y\R1500
+\w3. K&M UMP45\y\R1700
+\d4. ES C90\y\R2350
+
+\w0. Esci
+}
+
+T_BuyRifle
+{
+\yCompra fucile\R$   Costo
+(Arma primaria)
+
+\w1. IDF Defender\y\R2000
+\w2. CV-47\y\R2500
+\w3. Schmidt Scout\y\R2750
+\w4. Krieg 552 Commando\y\R3500
+\w5. Fucile da cecchino Magnum\y\R4750
+\w6. D3/AU-1 Fucile da cecchino semi-auto\y\R5000
+
+\w0. Esci
+}
+
+CT_BuyRifle
+{
+\yCompra fucile\R$   Costo
+(Arma primaria)
+
+\w1. Clarion 5.56\y\R2250
+\w2. Schmidt Scout\y\R2750
+\w3. Maverick M4A1 Carbine\y\R3100
+\w4. Bullpup\y\R3500
+\w5. Krieg 550 Commando\y\R4200
+\w6. Fucile da cecchino Magnum\y\R4750
+
+\w0. Esci
+}
+
+AS_T_BuyRifle
+{
+\yCompra fucile\R$   Costo
+(Arma primaria)
+
+\w1. IDF Defender\y\R2000
+\w2. CV-47\y\R2500
+\d3. Schmidt Scout\y\R2750
+\d4. Krieg 552 Commando\y\R3500
+\w5. Fucile da cecchino Magnum\y\R4750
+\d6. D3/AU-1 Fucile da cecchino semi-auto\y\R5000
+
+\w0. Esci
+}
+
+AS_CT_BuyRifle
+{
+\yCompra fucile\R$   Costo
+(Arma primaria)
+
+\w1. Clarion 5.56\y\R2250
+\d2. Schmidt Scout\y\R2750
+\w3. Maverick M4A1 Carbine\y\R3100
+\w4. Bullpup\y\R3500
+\w5. Krieg 550 Commando\y\R4200
+\d6. Fucile da cecchino Magnum\y\R4750
+
+\w0. Esci
+}
+
+AS_T_BuyMachineGun
+{
+\yCompra mitragliatrice\R$   Costo
+(Arma primaria)
+
+\d1. ES M249 Para\y\R5750
+
+\w0. Esci
+}
+
+BuyMachineGun
+{
+\yCompra mitragliatrice\R$   Costo
+(Arma primaria)
+
+\w1. ES M249 Para\y\R5750
+
+\w0. Esci
+}
+
+RadioA
+{
+\yComandi radio\w
+
+1. "Copritemi!"
+2. "Prendete il comando."
+3. "Proteggete questa ubicazione."
+4. "Raggrupparsi!"
+5. "Seguitemi."
+6. "Ci stanno attaccando... Abbiamo bisogno di assistenza!"
+0. Cancella
+}
+
+RadioApril
+{
+\yComandi radio\w
+
+1. "Copritemi!"
+2. "Prendete il comando."
+3. "Proteggete questa ubicazione."
+4. "Raggrupparsi!"
+5. "Seguitemi."
+6. "Ci stanno attaccando... Abbiamo bisogno di assistenza!"
+7. "Bel tiro!"
+8. "Brr..."
+0. Annulla
+}
+
+RadioB
+{
+\yComandi radio gruppo\w
+
+1. "Muoversi!"
+2. "Ritiratevi!"
+3. "Restate uniti!"
+4. "Difendete la vostra posizione."
+5. "All'attacco!"
+6. "Rapporto sulla situazione."
+
+0. Annulla
+}
+
+RadioC
+{
+\yRisposta radio /Rapporto\w
+
+1. "D'accordo."
+2. "Nemico avvistato."
+3. "Ho bisogno di supporto!"
+4. "Area messa al sicuro."
+5. "Sono arrivato all'ubicazione."
+6. "Cessato allarme!"
+7. "Via di qui! Sta per esplodere!"
+8. "Negativo."
+9. "Bersaglio abbattuto."
+
+0. Annulla
+}
+
+CSO_RadioA_CW
+{
+\yComandi radio\w
+
+1. "Copritemi!"
+2. "Prendete il comando."
+3. "Proteggete questa ubicazione."
+4. "Raggrupparsi!"
+5. "Seguitemi."
+6. "Ci stanno attaccando... Abbiamo bisogno di assistenza!"
+7. "Bel tiro!"
+8. "Avete bisogna della mia assistenza?"
+9. "Grazie."
+0. Annulla
+}
+
+CSO_RadioB_CW
+{
+\yComandi radio gruppo\w
+
+1. "Muoversi!"
+2. "Ritiratevi!"
+3. "Restate uniti!"
+4. "Difendete la vostra posizione."
+5. "All'attacco!"
+6. "Rapporto sulla situazione."
+7. "Sito A."
+8. "Sito B"
+0. Annulla
+}
+
+
+CSO_EmotionA
+{
+\rEmoticon\w
+
+1. "Saluto."
+2. "Gioia.”
+3. "Beffa”
+4. "Arrabbiato"
+0. Annulla
+}
+
+CSO_EmotionB
+{
+\rEmoticon\w
+
+1. "Saluto."
+2. "Gioia.”
+3. "Beffa”
+4. "Arrabbiato"
+5. "Culturismo"
+6. "Danza"
+0. Annulla
+}
+
+CSO_EmotionC
+{
+\rEmoticon\w
+
+1. "Saluto."
+2. "Gioia.”
+3. "Beffa”
+4. "Arrabbiato"
+5. "Baciamano"
+6. "Danza"
+0. Annulla
+}
+
+CSO_EmotionD
+{
+\rEmoticon\w
+
+1. "Saluto."
+2. "Gioia.”
+3. "Beffa”
+4. "Arrabbiato"
+5. "Beffa 2"
+6. "Allenamento con l'ombra"
+0. Annulla
+}
+
+CSO_EmotionE
+{
+\rEmoticon\w
+
+1. "Saluto."
+2. "Gioia.”
+3. "Beffa”
+4. "Arrabbiato"
+5. "Beffa 2"
+6. "Resa"
+0. Annulla
+}
+
+CSO_EmotionF
+{
+\rEsprimi Emozione\w
+1. "Saluto"
+2. "Gioia"
+3. "Sfida"
+4. "Rabbia"
+5. "Balla"
+0. Cancella
+}
+// nomi di armi
+
+// FUCILI
+AK47
+{
+#Cstrike_TitlesTXT_AK47
+}
+
+SG552
+{
+#Cstrike_TitlesTXT_SG552
+}
+
+M4A1
+{
+#Cstrike_TitlesTXT_M4A1
+}
+
+Famas
+{
+#Cstrike_TitlesTXT_Famas
+}
+
+Galil
+{
+#Cstrike_TitlesTXT_Galil
+}
+
+Aug
+{
+#Cstrike_TitlesTXT_Aug
+}
+
+Scout
+{
+#Cstrike_TitlesTXT_Scout
+}
+
+ArcticWarfareMagnum
+{
+#Cstrike_TitlesTXT_ArcticWarfareMagnum
+}
+
+G3SG1
+{
+#Cstrike_TitlesTXT_G3SG1
+}
+
+SG550
+{
+#Cstrike_TitlesTXT_SG550
+}
+
+USP45
+{
+#Cstrike_TitlesTXT_USP45
+}
+
+Glock18
+{
+#Cstrike_TitlesTXT_Glock18
+}
+
+DesertEagle
+{
+#Cstrike_TitlesTXT_DesertEagle
+}
+
+P228
+{
+#Cstrike_TitlesTXT_P228
+}
+
+Beretta96G
+{
+#Cstrike_TitlesTXT_Beretta96G
+}
+
+FiveSeven
+{
+#Cstrike_TitlesTXT_FiveSeven
+}
+
+// Fucili a pompa
+Super90
+{
+#Cstrike_TitlesTXT_Super90
+}
+
+XM1014
+{
+#Cstrike_TitlesTXT_XM1014
+}
+
+// smg's
+mp5navy
+{
+#Cstrike_TitlesTXT_mp5navy
+}
+
+tmp
+{
+#Cstrike_TitlesTXT_tmp
+}
+
+FNP90
+{
+#Cstrike_TitlesTXT_FNP90
+}
+
+Mac10
+{
+#Cstrike_TitlesTXT_Mac10
+}
+
+UMP45
+{
+#Cstrike_TitlesTXT_UMP45
+}
+
+// mg
+M249
+{
+#Cstrike_TitlesTXT_M249
+}
+
+// Nomi corti di armi
+Krieg552
+{
+#Cstrike_TitlesTXT_Krieg552
+}
+
+M4A1_Short
+{
+#Cstrike_TitlesTXT_M4A1_Short
+}
+
+Schmidt
+{
+#Cstrike_TitlesTXT_Schmidt
+}
+
+Magnum
+{
+#Cstrike_TitlesTXT_Magnum
+}
+
+D3AU1
+{
+#Cstrike_TitlesTXT_D3AU1
+}
+
+Krieg550
+{
+#Cstrike_TitlesTXT_Krieg550
+}
+
+// Pistole
+KM45Tactical
+{
+#Cstrike_TitlesTXT_KM45Tactical
+}
+
+Sidearm9X19mm
+{
+#Cstrike_TitlesTXT_Sidearm9X19mm
+}
+
+NightHawk
+{
+#Cstrike_TitlesTXT_NightHawk
+}
+
+P228Compact
+{
+#Cstrike_TitlesTXT_P228Compact
+}
+
+Dual40
+{
+#Cstrike_TitlesTXT_Dual40
+}
+
+ESFiveSeven
+{
+#Cstrike_TitlesTXT_ESFiveSeven
+}
+
+// Nomi corti fucili a pompa
+Leone12
+{
+#Cstrike_TitlesTXT_Leone12
+}
+
+AutoShotgun
+{
+#Cstrike_TitlesTXT_AutoShotgun
+}
+
+// Nomi corti mitra
+SubMachineGun
+{
+#Cstrike_TitlesTXT_SubMachineGun
+}
+
+SchmidtMP
+{
+#Cstrike_TitlesTXT_SchmidtMP
+}
+
+ESC90
+{
+#Cstrike_TitlesTXT_ESC90
+}
+
+Mac10_Short
+{
+#Cstrike_TitlesTXT_Mac10_Short
+}
+
+KMUMP45
+{
+#Cstrike_TitlesTXT_KMUMP45
+}
+
+// Nomi corti mitragliatrici
+ESM249
+{
+#Cstrike_TitlesTXT_ESM249
+}
+
+// Tabellone segnapunti
+TEAM
+{
+#Cstrike_TitlesTXT_TEAMS
+}
+
+GIOCATORI
+{
+#Cstrike_TitlesTXT_PLAYERS
+}
+
+CLASSE
+{
+#Cstrike_TitlesTXT_CLASS
+}
+
+PUNTEGGIO
+{
+#Cstrike_TitlesTXT_SCORE
+}
+
+MORTI
+{
+#Cstrike_TitlesTXT_DEATHS
+}
+
+LATENZA
+{
+#Cstrike_TitlesTXT_LATENCY
+}
+
+VOCE
+{
+#Cstrike_TitlesTXT_VOICE
+}
+
+// Altro testo di menù
+Menu_OK
+{
+#Cstrike_TitlesTXT_Menu_OK
+}
+
+Menu_Cancel
+{
+#Cstrike_TitlesTXT_Menu_Cancel
+}
+
+Menu_Spectate
+{
+#Cstrike_TitlesTXT_Menu_Spectate
+}
+
+Team_AutoAssign
+{
+#Cstrike_TitlesTXT_Team_AutoAssign
+}
+
+Title_SelectYourTeam
+{
+#Cstrike_TitlesTXT_Title_SelectYourTeam
+}
+
+Target_Bombed
+{
+#Cstrike_TitlesTXT_Target_Bombed
+}
+
+VIP_Escaped
+{
+#Cstrike_TitlesTXT_VIP_Escaped
+}
+
+VIP_Assassinated
+{
+#Cstrike_TitlesTXT_VIP_Assassinated
+}
+
+Terrorists_Escaped
+{
+#Cstrike_TitlesTXT_Terrorists_Escaped
+}
+
+CTs_PreventEscape
+{
+#Cstrike_TitlesTXT_CTs_PreventEscape
+}
+
+Escaping_Terrorists_Neutralized
+{
+#Cstrike_TitlesTXT_Escaping_Terrorists_Neutralized
+}
+
+Bomb_Defused
+{
+#Cstrike_TitlesTXT_Bomb_Defused
+}
+
+CTs_Win
+{
+#Cstrike_TitlesTXT_CTs_Win
+}
+
+Terrorists_Win
+{
+#Cstrike_TitlesTXT_Terrorists_Win
+}
+
+Round_Draw
+{
+#Cstrike_TitlesTXT_Round_Draw
+}
+
+All_Hostages_Rescued
+{
+#Cstrike_TitlesTXT_All_Hostages_Rescued
+}
+
+Target_Saved
+{
+#Cstrike_TitlesTXT_Target_Saved
+}
+
+Hostages_Not_Rescued
+{
+#Cstrike_TitlesTXT_Hostages_Not_Rescued
+}
+
+Terrorists_Not_Escaped
+{
+#Cstrike_TitlesTXT_Terrorists_Not_Escaped
+}
+
+VIP_Not_Escaped
+{
+#Cstrike_TitlesTXT_VIP_Not_Escaped
+}
+
+Cannot_Buy_This
+{
+#Cstrike_TitlesTXT_Cannot_Buy_This
+}
+
+Not_Enough_Money
+{
+#Cstrike_TitlesTXT_Not_Enough_Money
+}
+
+Weapon_Not_Available
+{
+#Cstrike_TitlesTXT_Weapon_Not_Available
+}
+
+Already_Have_Kevlar
+{
+#Cstrike_TitlesTXT_Already_Have_Kevlar
+}
+
+Already_Have_Kevlar_Helmet
+{
+#Cstrike_TitlesTXT_Already_Have_Kevlar_Helmet
+}
+
+Already_Have_Kevlar_Bought_Helmet
+{
+
+}
+
+Already_Have_Helmet_Bought_Kevlar
+{
+
+}
+
+Cannot_Carry_Anymore
+{
+#Cstrike_TitlesTXT_Cannot_Carry_Anymore
+}
+
+Already_Have_One
+{
+#Cstrike_TitlesTXT_Already_Have_One
+}
+
+Cannot_Switch_From_VIP
+{
+#Cstrike_TitlesTXT_Cannot_Switch_From_VIP
+}
+
+All_Teams_Full
+{
+#Cstrike_TitlesTXT_All_Teams_Full
+}
+
+Terrorists_Full
+{
+#Cstrike_TitlesTXT_Terrorists_Full
+}
+
+CTs_Full
+{
+#Cstrike_TitlesTXT_CTs_Full
+}
+
+Too_Many_Terrorists
+{
+#Cstrike_TitlesTXT_Too_Many_Terrorists
+}
+
+Too_Many_CTs
+{
+#Cstrike_TitlesTXT_Too_Many_CTs
+}
+
+Wait_3_Seconds
+{
+Per favore, aspetta 3 secondi.
+}
+
+Only_1_Team_Change
+{
+#Cstrike_TitlesTXT_Only_1_Team_Change
+}
+
+Ignore_Broadcast_Messages
+{
+#Cstrike_TitlesTXT_Ignore_Broadcast_Messages
+}
+
+Ignore_Broadcast_Team_Messages
+{
+#Cstrike_TitlesTXT_Ignore_Broadcast_Team_Messages
+}
+
+Accept_All_Messages
+{
+#Cstrike_TitlesTXT_Accept_All_Messages
+}
+
+Ignore_Radio
+{
+#Cstrike_TitlesTXT_Ignore_Radio
+}
+
+Accept_Radio
+{
+#Cstrike_TitlesTXT_Accept_Radio
+}
+
+Command_Not_Available
+{
+#Cstrike_TitlesTXT_Command_Not_Available
+}
+
+Defusing_Bomb_With_Defuse_Kit
+{
+#Cstrike_TitlesTXT_Defusing_Bomb_With_Defuse_Kit
+}
+
+Defusing_Bomb_Without_Defuse_Kit
+{
+#Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit
+}
+
+Killed_Hostage
+{
+#Cstrike_TitlesTXT_Killed_Hostage
+}
+
+Injured_Hostage
+{
+#Cstrike_TitlesTXT_Injured_Hostage
+}
+
+Auto_Team_Balance_Next_Round
+{
+#Cstrike_TitlesTXT_Auto_Team_Balance_Next_Round
+}
+
+All_VIP_Slots_Full
+{
+#Cstrike_TitlesTXT_All_VIP_Slots_Full
+}
+
+Killed_Teammate
+{
+#Cstrike_TitlesTXT_Killed_Teammate
+}
+
+Banned_For_Killing_Teammates
+{
+Sarai bannato dal server per aver ucciso troppi compagni di squadra.
+}
+
+Cannot_Vote_Map
+{
+Non puoi votare entro 3 minuti di una nuova mappa.
+}
+
+Weapon_Cannot_Be_Dropped
+{
+#Cstrike_TitlesTXT_Weapon_Cannot_Be_Dropped
+}
+
+Terrorist_Escaped
+{
+#Cstrike_TitlesTXT_Terrorist_Escaped
+}
+
+C4_Plant_At_Bomb_Spot
+{
+#Cstrike_TitlesTXT_C4_Plant_At_Bomb_Spot
+}
+
+C4_Plant_Must_Be_On_Ground
+{
+#Cstrike_TitlesTXT_C4_Plant_Must_Be_On_Ground
+}
+
+C4_Arming_Cancelled
+{
+#Cstrike_TitlesTXT_C4_Arming_Cancelled
+}
+
+Bomb_Planted
+{
+#Cstrike_TitlesTXT_Bomb_Planted
+}
+
+C4_Activated_At_Bomb_Spot
+{
+#Cstrike_TitlesTXT_C4_Activated_At_Bomb_Spot
+}
+
+Switch_To_BurstFire
+{
+#Cstrike_TitlesTXT_Switch_To_BurstFire
+}
+
+Switch_To_SemiAuto
+{
+#Cstrike_TitlesTXT_Switch_To_SemiAuto
+}
+
+Switch_To_FullAuto
+{
+#Cstrike_TitlesTXT_Switch_To_FullAuto
+}
+
+//***************************
+//** Training map messages **
+//***************************
+
+$position -1 -1
+$color 12 200 12
+$effect 0
+$fadein 0.2
+$holdtime 2
+$fadeout 1
+
+ALLENAMENTO 1
+{
+#Cstrike_TitlesTXT_TRAINING1
+}
+
+ALLENAMENTO 2
+{
+#Cstrike_TitlesTXT_TRAINING2
+}
+
+ALLENAMENTO 3
+{
+#Cstrike_TitlesTXT_TRAINING3
+}
+
+ALLENAMENTO 4
+{
+#Cstrike_TitlesTXT_TRAINING4
+}
+
+ALLENAMENTO 5
+{
+#Cstrike_TitlesTXT_TRAINING5
+}
+
+ALLENAMENTO 6
+{
+#Cstrike_TitlesTXT_TRAINING6
+}
+
+ALLENAMENTO 7
+{
+#Cstrike_TitlesTXT_TRAINING7
+}
+
+COMP
+{
+#Cstrike_TitlesTXT_COMP
+}
+
+//09.01.12. Updated Tutorial Text
+//****************************************************
+//** Training map messages for tuto0 **
+//****************************************************
+
+$position -1 -1
+$color 12 200 12
+$effect 0
+$fadein 0.2
+$holdtime 10
+$fadeout 1
+
+tuto01
+{
+#CSO_TitlesTXT_tuto01
+}
+
+
+tuto02
+{
+#CSO_TitlesTXT_tuto02
+}
+
+tuto03
+{
+#CSO_TitlesTXT_tuto03
+}
+
+tuto04
+{
+#CSO_TitlesTXT_tuto04
+}
+
+tuto05
+{
+#CSO_TitlesTXT_tuto05
+}
+
+tuto06
+{
+#CSO_TitlesTXT_tuto06
+}
+
+tuto07
+{
+#CSO_TitlesTXT_tuto07
+}
+
+tuto08
+{
+#CSO_TitlesTXT_tuto08
+}
+
+tuto09
+{
+#CSO_TitlesTXT_tuto09
+}
+
+tuto10
+{
+#CSO_TitlesTXT_tuto10
+}
+
+tuto11
+{
+#CSO_TitlesTXT_tuto11
+}
+
+tuto12
+{
+#CSO_TitlesTXT_tuto12
+}
+
+tuto13
+{
+#CSO_TitlesTXT_tuto13
+}
+
+tuto14
+{
+#CSO_TitlesTXT_tuto14
+}
+
+tuto15
+{
+#CSO_TitlesTXT_tuto15
+}
+
+tuto16
+{
+#CSO_TitlesTXT_tuto16
+}
+
+tuto17
+{
+#CSO_TitlesTXT_tuto17
+}
+
+
+// In-Game messages
+$position -1 0.65
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 2.0
+// How long it takes to fade out the message after holding
+$fadeout 0.5
+
+PARTITA SALVATA
+{
+#Cstrike_TitlesTXT_GAMESAVED
+}
+
+Game_Commencing
+{
+#Cstrike_TitlesTXT_Game_Commencing
+}
+
+Game_connected
+{
+#Cstrike_TitlesTXT_Game_connected
+}
+
+Game_disconnected
+{
+#Cstrike_TitlesTXT_Game_disconnected
+}
+
+Game_join_terrorist
+{
+#Cstrike_TitlesTXT_Game_join_terrorist
+}
+
+Game_join_ct
+{
+#Cstrike_TitlesTXT_Game_join_ct
+}
+
+Game_join_terrorist_auto
+{
+#Cstrike_TitlesTXT_Game_join_terrorist_auto
+}
+
+Game_join_ct_auto
+{
+#Cstrike_TitlesTXT_Game_join_ct_auto
+}
+
+Game_scoring
+{
+#Cstrike_TitlesTXT_Game_scoring
+}
+
+Game_idle_kick
+{
+#Cstrike_TitlesTXT_Game_idle_kick
+}
+
+Game_bomb_drop
+{
+#Cstrike_TitlesTXT_Game_bomb_drop
+}
+
+Game_bomb_pickup
+{
+#Cstrike_TitlesTXT_Game_bomb_pickup
+}
+
+Game_no_timelimit
+{
+#Cstrike_TitlesTXT_Game_no_timelimit
+}
+
+Game_timelimit
+{
+#Cstrike_TitlesTXT_Game_timelimit
+}
+
+Game_unknown_command
+{
+#Cstrike_TitlesTXT_Game_unknown_command
+}
+
+Game_in_position
+{
+#Cstrike_TitlesTXT_Game_in_position
+}
+
+Game_added_position
+{
+#Cstrike_TitlesTXT_Game_added_position
+}
+
+Game_teammate_kills
+{
+#Cstrike_TitlesTXT_Game_teammate_kills
+}
+
+Game_required_votes
+{
+#Cstrike_TitlesTXT_Game_required_votes
+}
+
+Game_radio
+{
+%s (RADIO): %s
+}
+
+Game_teammate_attack
+{
+%s ha attaccato un compagno di squadra
+}
+
+Game_kicked
+{
+#Cstrike_TitlesTXT_Game_kicked
+}
+
+Game_vote_cast
+{
+#Cstrike_TitlesTXT_Game_vote_cast
+}
+
+Game_vote_usage
+{
+Uso:  vota <id>
+}
+
+Game_vote_player_not_found
+{
+Il giocatore # %s non è stato trovato
+}
+
+Game_vote_players_on_your_team
+{
+Solo puoi votare per giocatori del tuo team.
+}
+
+Game_vote_not_yourself
+{
+Non puoi votare per espulsare te stesso!
+}
+
+Game_voted_for_map
+{
+Hai votato per la mappa # %s
+}
+
+Game_votemap_usage
+{
+Uso:  vota mappa <id>
+}
+
+Cannot_Vote_Need_More_People
+{
+Non puoi votare per una mappa da solo!
+}
+
+Map_Vote_Extend
+{
+#Cstrike_TitlesTXT_Map_Vote_Extend
+}
+
+Cannot_Vote_With_Less_Than_Three
+{
+Non puoi votare con meno di tre persone nel tuo team.
+}
+
+Game_will_restart_in
+{
+#Cstrike_TitlesTXT_Game_will_restart_in
+}
+
+Game_will_restart_in_console
+{
+Il gioco si riavverà in %s %s
+}
+
+Cover_me
+{
+#Cstrike_TitlesTXT_Cover_me
+}
+
+You_take_the_point
+{
+#Cstrike_TitlesTXT_You_take_the_point
+}
+
+Hold_this_position
+{
+#Cstrike_TitlesTXT_Hold_this_position
+}
+
+Regroup_team
+{
+#Cstrike_TitlesTXT_Regroup_team
+}
+
+Follow_me
+{
+#Cstrike_TitlesTXT_Follow_me
+}
+
+Taking_fire
+{
+#Cstrike_TitlesTXT_Taking_fire
+}
+
+Go_go_go
+{
+#Cstrike_TitlesTXT_Go_go_go
+}
+
+Team_fall_back
+{
+#Cstrike_TitlesTXT_Team_fall_back
+}
+
+Stick_together_team
+{
+#Cstrike_TitlesTXT_Stick_together_team
+}
+
+Get_in_position_and_wait
+{
+#Cstrike_TitlesTXT_Get_in_position_and_wait
+}
+
+Storm_the_front
+{
+#Cstrike_TitlesTXT_Storm_the_front
+}
+
+Report_in_team
+{
+#Cstrike_TitlesTXT_Report_in_team
+}
+
+Affirmative
+{
+#Cstrike_TitlesTXT_Affirmative
+}
+
+Roger_that
+{
+#Cstrike_TitlesTXT_Roger_that
+}
+
+Enemy_spotted
+{
+#Cstrike_TitlesTXT_Enemy_spotted
+}
+
+Need_backup
+{
+#Cstrike_TitlesTXT_Need_backup
+}
+
+Sector_clear
+{
+#Cstrike_TitlesTXT_Sector_clear
+}
+
+In_position
+{
+#Cstrike_TitlesTXT_In_position
+}
+
+Reporting_in
+{
+#Cstrike_TitlesTXT_Reporting_in
+}
+
+Get_out_of_there
+{
+#Cstrike_TitlesTXT_Get_out_of_there
+}
+
+Negative
+{
+#Cstrike_TitlesTXT_Negative
+}
+
+Enemy_down
+{
+#Cstrike_TitlesTXT_Enemy_down
+}
+
+Hostage_down
+{
+#Cstrike_TitlesTXT_Hostage_down
+}
+
+Fire_in_the_hole
+{
+#Cstrike_TitlesTXT_Fire_in_the_hole
+}
+
+Cant_buy
+{
+#Cstrike_TitlesTXT_Cant_buy
+}
+
+VIP_cant_buy
+{
+#Cstrike_TitlesTXT_VIP_cant_buy
+}
+
+CT_cant_buy
+{
+#Cstrike_TitlesTXT_CT_cant_buy
+}
+
+Terrorist_cant_buy
+{
+#Cstrike_TitlesTXT_Terrorist_cant_buy
+}
+
+Voto
+{
+%s :  %s (%s voto)
+}
+
+Voti
+{
+%s :  %s (%s voti)
+}
+
+Hint_press_buy_to_purchase
+{
+#Cstrike_TitlesTXT_Hint_press_buy_to_purchase
+}
+
+Hint_press_buy_to_purchase_without_autobuy
+{
+#CSO_Hint_press_buy_to_purchase_without_autobuy
+}
+
+Hint_use_nightvision
+{
+#Cstrike_TitlesTXT_Hint_use_nightvision
+}
+
+Hint_lost_money
+{
+#Cstrike_TitlesTXT_Hint_lost_money
+}
+
+Hint_removed_for_next_hostage_killed
+{
+#Cstrike_TitlesTXT_Hint_removed_for_next_hostage_killed
+}
+
+Hint_careful_around_hostages
+{
+#Cstrike_TitlesTXT_Hint_careful_around_hostages
+}
+
+Hint_careful_around_teammates
+{
+#Cstrike_TitlesTXT_Hint_careful_around_teammates
+}
+
+Hint_reward_for_killing_vip
+{
+#Cstrike_TitlesTXT_Hint_reward_for_killing_vip
+}
+
+Hint_win_round_by_killing_enemy
+{
+#Cstrike_TitlesTXT_Hint_win_round_by_killing_enemy
+}
+
+Hint_try_not_to_injure_teammates
+{
+#Cstrike_TitlesTXT_Hint_try_not_to_injure_teammates
+}
+
+Hint_you_are_in_targetzone
+{
+#Cstrike_TitlesTXT_Hint_you_are_in_targetzone
+}
+
+Hint_hostage_rescue_zone
+{
+#Cstrike_TitlesTXT_Hint_hostage_rescue_zone
+}
+
+Hint_terrorist_escape_zone
+{
+#Cstrike_TitlesTXT_Hint_terrorist_escape_zone
+}
+
+Hint_ct_vip_zone
+{
+#Cstrike_TitlesTXT_Hint_ct_vip_zone
+}
+
+Hint_terrorist_vip_zone
+{
+#Cstrike_TitlesTXT_Hint_terrorist_vip_zone
+}
+
+Hint_cannot_play_because_tk
+{
+#Cstrike_TitlesTXT_Hint_cannot_play_because_tk
+}
+
+Hint_use_hostage_to_stop_him
+{
+#Cstrike_TitlesTXT_Hint_use_hostage_to_stop_him
+}
+
+Hint_lead_hostage_to_rescue_point
+{
+#Cstrike_TitlesTXT_Hint_lead_hostage_to_rescue_point
+}
+
+Hint_you_have_the_bomb
+{
+#Cstrike_TitlesTXT_Hint_you_have_the_bomb
+}
+
+Hint_you_are_the_vip
+{
+#Cstrike_TitlesTXT_Hint_you_are_the_vip
+}
+
+Hint_out_of_ammo
+{
+#Cstrike_TitlesTXT_Hint_out_of_ammo
+}
+
+Hint_spotted_a_friend
+{
+#Cstrike_TitlesTXT_Hint_spotted_a_friend
+}
+
+Hint_spotted_an_enemy
+{
+#Cstrike_TitlesTXT_Hint_spotted_an_enemy
+}
+
+Hint_prevent_hostage_rescue
+{
+#Cstrike_TitlesTXT_Hint_prevent_hostage_rescue
+}
+
+Hint_rescue_the_hostages
+{
+#Cstrike_TitlesTXT_Hint_rescue_the_hostages
+}
+
+Hint_press_use_so_hostage_will_follow
+{
+#Cstrike_TitlesTXT_Hint_press_use_so_hostage_will_follow
+}
+
+CSO_ZombiSelected
+{
+#CSO_ZombiSelected
+}
+
+CSO_ZombiEvolution1
+{
+#CSO_ZombiEvolution1
+}
+
+CSO_ZombiEvolution2
+{
+#CSO_ZombiEvolution2
+}
+
+Amico
+{
+Amico
+}
+
+Nemico
+{
+Nemico
+}
+
+Ostaggio
+{
+Ostaggio
+}
+
+Salute
+{
+Salute
+}
+
+Map_descr_not_avail
+{
+#Cstrike_TitlesTXT_Map_descr_not_avail
+}
+
+Class_descr_not_avail
+{
+#Cstrike_TitlesTXT_Class_descr_not_avail
+}
+
+Title_terrorist_model_selection
+{
+#Cstrike_TitlesTXT_Title_terrorist_model_selection
+}
+
+Phoenix_Connexion
+{
+#Cstrike_TitlesTXT_Phoenix_Connexion
+}
+
+L337_Krew
+{
+#Cstrike_TitlesTXT_L337_Krew
+}
+
+Arctic_Avengers
+{
+#Cstrike_TitlesTXT_Arctic_Avengers
+}
+
+Guerilla_Warfare
+{
+#Cstrike_TitlesTXT_Guerilla_Warfare
+}
+
+Auto_Select
+{
+#Cstrike_TitlesTXT_Auto_Select
+}
+
+Title_ct_model_selection
+{
+#Cstrike_TitlesTXT_Title_ct_model_selection
+}
+
+Seal_Team_6
+{
+#Cstrike_TitlesTXT_Seal_Team_6
+}
+
+Title_seal_team
+{
+#Cstrike_TitlesTXT_Title_seal_team
+}
+
+GSG_9
+{
+#Cstrike_TitlesTXT_GSG_9
+}
+
+Title_gsg9
+{
+#Cstrike_TitlesTXT_Title_gsg9
+}
+
+SAS
+{
+#Cstrike_TitlesTXT_SAS
+}
+
+Title_sas
+{
+#Cstrike_TitlesTXT_Title_sas
+}
+
+GIGN
+{
+#Cstrike_TitlesTXT_GIGN
+}
+
+Title_gign
+{
+#Cstrike_TitlesTXT_Title_gign
+}
+
+Title_select_category_of_purchase
+{
+#Cstrike_TitlesTXT_Title_select_category_of_purchase
+}
+
+Title_equipment_selection
+{
+#Cstrike_TitlesTXT_Title_equipment_selection
+}
+
+Kevlar
+{
+#Cstrike_TitlesTXT_Kevlar
+}
+
+Kevlar_Vest
+{
+#Cstrike_TitlesTXT_Kevlar_Vest
+}
+
+Kevlar_Helmet
+{
+#Cstrike_TitlesTXT_Kevlar_Helmet
+}
+
+Kevlar_Vest_Ballistic_Helmet
+{
+#Cstrike_TitlesTXT_Kevlar_Vest_Ballistic_Helmet
+}
+
+Flashbang
+{
+#Cstrike_TitlesTXT_Flashbang
+}
+
+HE_Grenade
+{
+#Cstrike_TitlesTXT_HE_Grenade
+}
+
+High_Explosive_Grenade
+{
+#Cstrike_TitlesTXT_High_Explosive_Grenade
+}
+
+Smoke_Grenade
+{
+#Cstrike_TitlesTXT_Smoke_Grenade
+}
+
+Defusal_Kit
+{
+#Cstrike_TitlesTXT_Defusal_Kit
+}
+
+Bomb_Defusal_Kit
+{
+#Cstrike_TitlesTXT_Bomb_Defusal_Kit
+}
+
+Visione notturna
+{
+#Cstrike_TitlesTXT_NightVision
+}
+
+Nightvision_Goggles
+{
+#Cstrike_TitlesTXT_Nightvision_Goggles
+}
+
+TactShield
+{
+#Cstrike_TitlesTXT_TactShield
+}
+
+TactShield_Desc
+{
+#Cstrike_TitlesTXT_TactShield_Desc
+}
+
+Title_pistol_selection
+{
+#Cstrike_TitlesTXT_Title_pistol_selection
+}
+
+Pistole
+{
+#Cstrike_TitlesTXT_Pistols
+}
+
+Buy_pistols
+{
+#Cstrike_TitlesTXT_Buy_pistols
+}
+
+Title_shotgun_selection
+{
+#Cstrike_TitlesTXT_Title_shotgun_selection
+}
+
+Fucili a pompa
+{
+#Cstrike_TitlesTXT_Shotguns
+}
+
+Buy_shotguns
+{
+#Cstrike_TitlesTXT_Buy_shotguns
+}
+
+Title_smg_selection
+{
+#Cstrike_TitlesTXT_Title_smg_selection
+}
+
+Mitra
+{
+#Cstrike_TitlesTXT_SMGs
+}
+
+Buy_smgs
+{
+#Cstrike_TitlesTXT_Buy_smgs
+}
+
+Title_rifle_selection
+{
+#Cstrike_TitlesTXT_Title_rifle_selection
+}
+
+Fucili
+{
+#Cstrike_TitlesTXT_Rifles
+}
+
+Buy_rifles
+{
+#Cstrike_TitlesTXT_Buy_rifles
+}
+
+Title_machinegun_selection
+{
+#Cstrike_TitlesTXT_Title_machinegun_selection
+}
+
+Mitragliatrici
+{
+#Cstrike_TitlesTXT_MachineGuns
+}
+
+Buy_machineguns
+{
+#Cstrike_TitlesTXT_Buy_machineguns
+}
+
+Prim_Ammo
+{
+#Cstrike_TitlesTXT_Prim_Ammo
+}
+
+Buy_prim_ammo
+{
+#Cstrike_TitlesTXT_Buy_prim_ammo
+}
+
+Sec_Ammo
+{
+#Cstrike_TitlesTXT_Sec_Ammo
+}
+
+Buy_sec_ammo
+{
+#Cstrike_TitlesTXT_Buy_sec_ammo
+}
+
+Equipaggiamento
+{
+#Cstrike_TitlesTXT_Equipment
+}
+
+Buy_equipment
+{
+#Cstrike_TitlesTXT_Buy_equipment
+}
+
+Terrorist_Forces
+{
+#Cstrike_TitlesTXT_Terrorist_Forces
+}
+
+CT_Forces
+{
+#Cstrike_TitlesTXT_CT_Forces
+}
+
+VIP
+{
+#Cstrike_TitlesTXT_VIP
+}
+
+VITTORIE
+{
+#Cstrike_TitlesTXT_WINS
+}
+
+BOMBA
+{
+#Cstrike_TitlesTXT_BOMB
+}
+
+MORTO
+{
+#Cstrike_TitlesTXT_DEAD
+}
+
+// spaces are on purpose
+PUNTEGGI
+{
+#Cstrike_TitlesTXT_SCORES
+}
+
+Giocatore
+{
+#Cstrike_TitlesTXT_Player
+}
+
+Player_plural
+{
+#Cstrike_TitlesTXT_Player_plural
+}
+
+Got_defuser
+{
+#Cstrike_TitlesTXT_Got_defuser
+}
+
+Got_bomb
+{
+#Cstrike_TitlesTXT_Got_bomb
+}
+
+Mic_Volume
+{
+#Cstrike_TitlesTXT_Mic_Volume
+}
+
+Speaker_Volume
+{
+#Cstrike_TitlesTXT_Speaker_Volume
+}
+
+Voice_Properties
+{
+#Cstrike_TitlesTXT_Voice_Properties
+}
+
+Cannot_Be_Spectator
+{
+#Cstrike_TitlesTXT_Cannot_Be_Spectator
+}
+
+Map_Description_not_available
+{
+#Cstrike_TitlesTXT_Map_Description_not_available
+}
+
+Muto
+{
+#Cstrike_TitlesTXT_Muted
+}
+
+Non muto
+{
+#Cstrike_TitlesTXT_Unmuted
+}
+
+No_longer_hear_that_player
+{
+#Cstrike_TitlesTXT_No_longer_hear_that_player
+}
+
+OBS_NONE
+{
+#Cstrike_TitlesTXT_OBS_NONE
+}
+
+OBS_CHASE_LOCKED
+{
+#Cstrike_TitlesTXT_OBS_CHASE_LOCKED
+}
+
+OBS_CHASE_FREE
+{
+#Cstrike_TitlesTXT_OBS_CHASE_FREE
+}
+
+OBS_ROAMING
+{
+#Cstrike_TitlesTXT_OBS_ROAMING
+}
+
+OBS_IN_EYE
+{
+#Cstrike_TitlesTXT_OBS_IN_EYE
+}
+
+OBS_MAP_FREE
+{
+#Cstrike_TitlesTXT_OBS_MAP_FREE
+}
+
+OBS_MAP_CHASE
+{
+#Cstrike_TitlesTXT_OBS_MAP_CHASE
+}
+
+SPECT_OPTIONS
+{
+#Cstrike_TitlesTXT_SPECT_OPTIONS
+}
+
+CAM_OPTIONS
+{
+#Cstrike_TitlesTXT_CAM_OPTIONS
+}
+
+Name_change_at_respawn
+{
+Il tuo nome sarà cambiato dopo la tua prossima comparsa.
+}
+
+C4_Defuse_Must_Be_On_Ground
+{
+#Cstrike_TitlesTXT_C4_Defuse_Must_Be_On_Ground
+}
+
+// SDK 2.0 Spectator Menu
+
+Spec_Mode1
+{
+#Cstrike_TitlesTXT_Spec_Mode1
+}
+
+Spec_Mode2
+{
+#Cstrike_TitlesTXT_Spec_Mode2
+}
+
+Spec_Mode3
+{
+#Cstrike_TitlesTXT_Spec_Mode3
+}
+
+Spec_Mode4
+{
+#Cstrike_TitlesTXT_Spec_Mode4
+}
+
+Spec_Mode5
+{
+#Cstrike_TitlesTXT_Spec_Mode5
+}
+
+Spec_Mode6
+{
+#Cstrike_TitlesTXT_Spec_Mode6
+}
+
+Spec_NoTarget
+{
+#Cstrike_TitlesTXT_Spec_NoTarget
+}
+
+Spec_Help_Title
+{
+#Cstrike_TitlesTXT_Spec_Help_Title
+}
+
+Spec_Help_Text
+{
+#Cstrike_TitlesTXT_Spec_Help_Text
+}
+
+Spec_Slow_Motion
+{
+#Cstrike_TitlesTXT_Spec_Slow_Motion
+}
+
+Spec_Replay
+{
+#Cstrike_TitlesTXT_Spec_Replay
+}
+
+Spec_Auto
+{
+#Cstrike_TitlesTXT_Spec_Auto
+}
+
+Spec_Time
+{
+#Cstrike_TitlesTXT_Spec_Time
+}
+
+Spec_Map
+{
+#Cstrike_TitlesTXT_Spec_Map
+}
+
+Spectators
+{
+#Cstrike_TitlesTXT_Spectators
+}
+
+Non assegnato
+{
+#Cstrike_TitlesTXT_Unassigned
+}
+
+Only_CT_Can_Move_Hostages
+{
+#Cstrike_TitlesTXT_Only_CT_Can_Move_Hostages
+}
+
+Spec_Duck
+{
+#Cstrike_TitlesTXT_Spec_Duck
+}
+
+Spec_Not_Valid_Choice
+{
+#Cstrike_TitlesTXT_Spec_Not_Valid_Choice
+}
+
+Spec_Not_In_Spectator_Mode
+{
+#Cstrike_TitlesTXT_Spec_Not_In_Spectator_Mode
+}
+
+Spec_NoPlayers
+{
+#Cstrike_TitlesTXT_Spec_NoPlayers
+}
+
+Spec_ListPlayers
+{
+#Cstrike_TitlesTXT_Spec_ListPlayers
+}
+
+Selection_Not_Available
+{
+#Cstrike_TitlesTXT_Selection_Not_Available
+}
+
+Alias_Not_Avail
+{
+#Cstrike_TitlesTXT_Alias_Not_Avail
+}
+
+Spec_No_PIP
+{
+#Cstrike_TitlesTXT_Spec_No_PIP
+}
+
+Cstrike_Already_Own_Weapon
+{
+#Cstrike_TitlesTXT_Cstrike_Already_Own_Weapon
+}
+
+CSO_ZombiSelected
+{
+#CSO_ZombiSelected
+}
+
+CSO_ZombiEvolution1
+{
+#CSO_ZombiEvolution1
+}
+
+CSO_ZombiEvolution2
+{
+#CSO_ZombiEvolution2
+}
+
+CSO_ZBS_UseRevivalItem
+{
+#CSO_ZBS_UseRevivalItem
+}
+
+CSO_ZBS_NotCooled
+{
+#CSO_ZBS_NotCooled
+}
+
+CSO_ZBS_UseRetryItem
+{
+#CSO_ZBS_UseRetryItem
+}

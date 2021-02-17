@@ -1,0 +1,7 @@
+﻿Champion - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+- Haritadaki tüm düşman takım üyelerini öldür.
+- Bir takım yok edildiğinde kalan takım kazanır.

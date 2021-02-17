@@ -1,0 +1,6 @@
+﻿Estate - Deathmatch
+Carte créée par : Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Tuez tous les joueurs environnants.
+- Le joueur avec le plus de victimes remporte la victoire.

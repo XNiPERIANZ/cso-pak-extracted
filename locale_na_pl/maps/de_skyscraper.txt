@@ -1,0 +1,10 @@
+﻿Skyscraper - Instalowanie i demontaż materiałów wybuchowych
+Opracowana i wyprodukowana przez: Nexon
+Tekstury/Modelowanie/Edycja: Nexon
+
+Antyterroryści: Powstrzymaj terrorystów przed wysadzeniem skrzynek z bronią chemiczną. Członkowie zespołu muszą zdemontować wszystkie materiały wybuchowe podłożone w obszarze celu.
+
+Terroryści: Terroryści z C4 muszą wysadzić skrzynie z bronią chemiczną w jednym z dwóch miejsc, w których się znajdują.
+
+
+Inne: Na mapie znajdują się dwa obszary detonacji.

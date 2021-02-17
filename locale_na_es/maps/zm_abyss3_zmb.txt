@@ -1,0 +1,9 @@
+﻿Abismo 3 - Zombi
+
+Planificación/Producción: NEXON
+Textura/Revisión: NEXON
+
+Un año después del incidente en el Laboratorio Rex, se oyeron sonidos de máquinas provenientes de una fábrica cerrada cerca del laboratorio. Los miembros del equipo de seguridad ingresaron a la fábrica para investigar el ruido, pero perdieron contacto de radio durante más de una hora. Como respuesta, el gobierno infiltró agentes en la fábrica, los que descubrieron que se había convertido en una instalación para transformar cadáveres en Zombis. La respuesta al aumento en la cantidad de Zombis era la fábrica. 
+
+- Humanos: Sobrevivan los ataques zombis hasta que lleguen refuerzos. Vigilen de cerca a sus camaradas: pueden convertirse en Zombis. Tienen autorización para matar a todos los Zombis. 
+- Zombis: Los que se hayan convertido en Zombis, deben matar a los Humanos y convertirlos en Zombis. Los Zombis tienen más PV y más velocidad que los Humanos.

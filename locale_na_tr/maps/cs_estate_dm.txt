@@ -1,0 +1,6 @@
+﻿Estate - Ölüm Maçı
+
+Haritayı Yapan: Zaphod Beeblebrox (zaphod@mapcore.com)
+
+- Etrafındaki bütün oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

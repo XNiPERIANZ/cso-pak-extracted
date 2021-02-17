@@ -1,0 +1,7 @@
+﻿747 - Mata-mata
+
+Mapa criado por: Stephen "Judas" Superville (witchdawn@hotmail.com)
+Texturas criadas por: "The Postman" (heavengame@yahoo.com)
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

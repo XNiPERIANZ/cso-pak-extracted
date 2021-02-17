@@ -1,0 +1,17 @@
+﻿Cold Fear - Core: Beast 
+Planung/Produktion: Nexon
+Grafiken: Nexon
+
+
+Nach wiederholten Konflikten in der Polarregion, stoßen die Terroristen und die Counter-Terroristen eines Tages auf
+geheimnisvolle Erze.
+Nachdem sie festgestellt haben, dass die Erze geheime Kräfte besitzen, fangen beide an, die Erze zu untersuchen und schmieden währenddessen 
+Pläne, die Erze der anderen Partei zu zerstören, um die alleinige Herrschaft über diese neu entdeckten Kräfte zu erlangen.
+Aber die Kontrollschranken, die die starke Energie des Kerns unter Kontrolle halten sollen verzögern den Kampf und...
+während sie kämpfen,
+fangen Agenten, die Körperkontakt zu Erzfragmenten hatten, an zu mutieren. Der Krieg nimmt eine unerwartete Wendung...
+
+Zielvorgabe :
+Zerstört den Erzkern des Feindes.
+Der Erzkern wird durch Kontrollschranken geschützt. Greif das Kontrollgeräte an, dann könnt ihr den Erzkern kurzfristig angreifen. 
+Das Kontrollgerät wird nach 20 Sekunden reaktiviert.

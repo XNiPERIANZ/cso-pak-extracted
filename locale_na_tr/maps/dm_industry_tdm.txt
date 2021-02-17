@@ -1,0 +1,9 @@
+﻿Industry - Takım Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Hükümet, teröristlerin şehir merkezinde bulunan bir depoyu ana sığınak olarak kullandığına dair bazı istihbaratlar aldı. Anti-Teröristler ise Teröristleri durdurmak için saldırıya geçtiklerinde Teröristleri binanın içinde kendilerini bekler halde buldular. Teröristlerin gözcüleri de Anti-Teröristlerin düzenlediği saldırıyı doğruladı ve Teröristler geniş çaplı bir saldırı hazırlığındalar. 
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Belirlenmiş öldürme sayısına ulaşarak oyunu kazan.

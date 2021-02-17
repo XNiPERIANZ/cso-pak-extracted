@@ -1,0 +1,7 @@
+﻿Italy - Ölüm Maçı
+
+Haritayı Yapan: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Dokuları/Grafikleri Yapan: DigiChaos (digichaos@hotsheep.com)
+
+- Etrafındaki bütün oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

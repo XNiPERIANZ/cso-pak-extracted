@@ -1,0 +1,9 @@
+﻿Ruins - Annihilation
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+A sniper team dispatched to raid a secret Terrorist base located in the jungle is ambushed by a Terrorist sniper team hiding near the ruins.
+Having lost communication with support troops, both teams must now face each other using only their sniper weapons.
+
+- Eliminate all of the enemy snipers.

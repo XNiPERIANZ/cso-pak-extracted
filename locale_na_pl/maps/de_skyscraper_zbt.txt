@@ -1,0 +1,7 @@
+﻿Dust II (Dust 2) - Zombie Sojusz
+Mapa stworzona przez: DaveJ (http://www.johnsto.co.uk/)
+Tekstury stworzone przez: MacMan (MacManInfi@aol.com)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.
+- Otrzymuj przedmioty ze skrzynek, by zwiększać liczbę zabójstw.

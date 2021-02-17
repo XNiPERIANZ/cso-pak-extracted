@@ -1,0 +1,21 @@
+﻿Hitchhiking - Zombie Escape
+Planning et Production : Nexon
+Graphiques : Nexon
+
+Après la chute de la société Vanguard...
+Les forces restantes de David Black et Erica ont été portées disparues en mission.
+
+Pendant ce temps, un groupe inconnu a récupéré dans les ruines des données sur d'importantes recherches menées par Vanguard.
+
+Le mystérieux chef du groupe et ses hommes ont récupéré tout ce matériel avant de se diriger vers la région polaire.
+Cette mission, dont la destination n'est pas claire, semblait bien se dérouler jusqu'à une menace soudaine.
+Sur le chemin de la zone polaire, une infection mystérieuse a gagné le groupe.
+
+Et ce groupe inconnu, cerné par les cris de créatures mystérieuses,
+doit maintenant trouver une issue sans même savoir ce qui les poursuit.
+
+Objectif :
+
+Humains : Frayez-vous un chemin jusqu'au train situé au point d'exfiltration avant que le temps soit écoulé. Vous devez impérativement rester humain !
+
+Zombies : Infectez tous les Humains et rendez-vous au point de fuite pour empêcher les Humains de s'échapper avant la fin du compte à rebours.

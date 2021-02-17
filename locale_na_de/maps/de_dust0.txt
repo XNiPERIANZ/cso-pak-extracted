@@ -1,0 +1,25 @@
+﻿Dust 0 - Bomb Planting/Defusing
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+Counter-Terroristen: An einem strategisch wichtigen Ort im Mittleren Osten wurden terroristische Aktivitäten entdeckt.
+Die Team-Mitglieder müssen die Bomben, die an den vorgesehenen Orten platziert wurden, entschärfen und die Terroristen auslöschen.
+
+Terroristen: Ihr müsst die Aktivitäten der Counter-Terroristen eindämmen 
+und einer der zwei vorgesehenen Explosionsorte bombardieren.
+
+
+Hinweis: Es sind zwei Explosionsorte vorgesehen.
+
+
+
+
+
+
+
+
+
+
+
+
+

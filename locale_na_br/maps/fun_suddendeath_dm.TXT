@@ -1,0 +1,8 @@
+﻿Mobius - Sudden Death
+Mapa desenvolvido por: Nexon 
+Textura desenvolvida por: Nexon
+
+ - Elimine todos os jogadores próximos e sobreviva até o final.
+- Utilize as armas que surgirão durante certos períodos.
+- Uma explosão matará todo mundo depois de um minuto.
+- O jogador com o maior número de eliminações no final ganhará.

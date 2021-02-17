@@ -1,0 +1,7 @@
+﻿Office - Sojusz Zombie Anihilacja
+Autor Mapy: Hobbit (Hobbit@nodream.net)	
+Autor Tekstury: Sphinx and George_Pooshoes.
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

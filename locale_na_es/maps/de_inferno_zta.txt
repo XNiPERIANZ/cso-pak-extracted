@@ -1,0 +1,8 @@
+﻿Infierno - Aniquilación
+
+Mapa creado por: Chris Auty (Barney) (narby@counter-strike.net)
+Textura creada por: Valve software
+
+- Mata a todos los enemigos en el mapa.
+- Para ganar, completa la cantidad designada de rondas.
+- No resucitarás hasta que comience la ronda siguiente.

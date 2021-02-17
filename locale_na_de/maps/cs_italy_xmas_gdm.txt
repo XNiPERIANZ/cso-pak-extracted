@@ -1,0 +1,8 @@
+﻿Italy - Weihnachten - Waffen-Deathmatch
+
+Map erstellt von: Nexon
+Texturen/Grafiken erstellt von: Nexon
+
+Ziel
+– Du erhältst jedes Mal eine neue Waffe, wenn du eine bestimmte Menge an Kills mit der aktuellen Waffe erzielt hast.
+– Um zu gewinnen, musst du das gegnerische Team mit der letzten Granate eliminieren.

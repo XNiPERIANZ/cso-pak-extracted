@@ -1,0 +1,16 @@
+﻿Siege - Hostage Rescue
+Map erstellt von: N0TH1NG  (n0th1ng@mailcity.com)
+
+Counter-Terroristen: Dringt in die Einrichtung ein, in der die Kriegsgefangenen festgehalten werden und rettet sie. 
+Eliminiert die Terroristen und stellt dabei sicher, dass die Geiseln nicht zu Schaden kommen.
+
+Terroristen: Verhindert, dass die Counter-Terroristen die Geiseln befreien.
+
+Hinweis: Bei dieser Mission geht es um 4 Geiseln.
+
+
+
+
+
+
+

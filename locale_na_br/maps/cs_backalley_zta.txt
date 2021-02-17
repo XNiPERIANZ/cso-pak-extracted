@@ -1,0 +1,7 @@
+﻿Back Alley - Aniquilação
+
+Mapa criado por: TYR (tyr@barking-dog.com)
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

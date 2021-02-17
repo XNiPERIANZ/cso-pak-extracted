@@ -1,0 +1,8 @@
+﻿Vegas - Annihilation
+Produzione: +Cadaver+
+Texture: George_Pooshoes, JOeSmOe
+Revisione: Nexon
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

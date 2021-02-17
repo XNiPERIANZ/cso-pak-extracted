@@ -1,0 +1,13 @@
+Rhyzome(RHYZOME) - Zombie Escape
+Pensé, élaboré et développé par : Nexon
+Graphismes : Nexon
+
+Quand le virus zombie à commencé à faire des ravages,
+les groupes de civils, militaires et policiers survivants
+ont trouvé refuge en périphérie de la ville où ils ont construit des abris.
+
+Mais ils ne pouvaient pas échapper à ce fléau éternellement...
+
+Objectif
+Humains : atteignez l'héliport au bord de la falaise dans le temps imparti. Vous devez rester humain.
+Zombies : infectez tous les humains restants ou empêchez-les d'atteindre l'héliport dans le temps imparti.

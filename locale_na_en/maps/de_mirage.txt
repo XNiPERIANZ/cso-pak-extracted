@@ -1,0 +1,11 @@
+﻿Mirage (Mirage) - Placing and defusing explosives
+Map created by: Nexon
+Texture created by: Nexon
+
+Counter-Terrorist: Terrorists are making moves in a sensitive Middle East location.
+The enemy team must be wiped out and any bombs that have been planted must be defused.
+
+Terrorist: Push back the Counter-Terrorist forces and ensure at least one of the target sites is destroyed.
+
+
+Note: There are two bomb sites on this map.

@@ -1,0 +1,7 @@
+Sığınak (OyunOdası)
+
+- Çözücüler kullanılabilir ve gösterilen eşyalar elde edildiği zaman, diğer oyuncular bunları deneyebilirler.
+
+- Kullanıcılar, elde ettikleri eşyalar başka oyuncular tarafından kullanıldıkça mileage kazanırlar.
+
+- Silahlar atış poligonunda test edilebilir.

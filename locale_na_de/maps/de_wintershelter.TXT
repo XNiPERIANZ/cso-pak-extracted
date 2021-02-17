@@ -1,0 +1,12 @@
+﻿Snow Base - Lege / Entschärfe Bomben
+Map erstellt von: Nexon
+Texturen erstellt von: Nexon
+
+Anti-Terroristen: Terroristische Aktivitäten wurden in der Snow Base aufgespürt.
+Die Teammitglieder müssen alle platzierten Bomben im Zielbereich entschärfen und Terroristen ausschalten.
+
+Terroristen: Verhindert die Sabotage der Anti-Terroristen
+und stellt sicher, dass eines von zwei Bombenzielen in die Luft geht.
+
+
+Beachtet: Diese Map hat zwei Bombenziele.

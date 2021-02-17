@@ -1,0 +1,7 @@
+﻿La Havana - Rescate de rehenes
+
+Ido Magal *ido@valvesoftware.com*
+Macman *chrisa@valvesoftware.com*
+
+- Terroristas: Hay rehenes políticos retenidos en La Havana Vieja. Mantengan la posición hasta que finalice la ronda y llegue un helicóptero de escape.
+- Antiterroristas: Se aseguraron todas las áreas cercanas. Ahora deben rescatar a todos los rehenes antes de que los Terroristas escapen.

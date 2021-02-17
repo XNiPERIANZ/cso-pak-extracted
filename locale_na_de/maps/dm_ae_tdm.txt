@@ -1,0 +1,9 @@
+﻿Another Episode - Team Deathmatch
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+Der Geheimdienst hat durchblicken lassen, dass Terroristen in das Rex-Labor II eingedrungen sind, um nach dem Angriff aus das Rex-Labor I 
+weitere Terrorakte durchzuführen. Um die Terroristen aufzuhalten hat die Regierung eine Einheit auf das Dach entsandt, damit sie den Terroristen entgegentritt.
+
+Counter-Terroristen: Hindert die Terroristen daran, im Labor Schaden anzurichten.
+Terroristen: Eliminiert die Counter-Terroristen und dringt in das Labor ein.

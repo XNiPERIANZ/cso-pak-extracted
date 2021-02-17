@@ -1,0 +1,11 @@
+﻿Airstrip - Bomb Planting/Defusing
+
+Map Created By: Barney (aka narby) (narby@counter-strike.net)
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+- Counter-Terrorists: Prevent the Terrorists from planting a bomb inside the airstrip building.
+- Terrorists: Plant a C4 in the airstrip building to blow up the fuel tank and cargo warehouse.
+
+Note: There are two bombing sites on this map.
+
+

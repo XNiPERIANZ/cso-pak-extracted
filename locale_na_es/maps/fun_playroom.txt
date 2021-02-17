@@ -1,0 +1,7 @@
+Escondite (Sala de Juego)
+
+- Se pueden utilizar Decodificadores y cuando se obtienen los objetos en pantalla, otros usuarios pueden probarlos.
+
+- Los usuarios obtienen millaje adicional cuando los objetos que sacaron son utilizados por otros usuarios.
+
+- Las armas pueden ser probadas en el campo de tiro.

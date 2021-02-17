@@ -1,0 +1,8 @@
+﻿Prodigy - Podkładanie/Rozbrajanie Bomby
+Autor Mapy: Hobbit (hobbit@nodream.net)
+
+Antyterroryści: Powstrzymaj Terrorystów przed zbombardowaniem sali komputerowej lub dyspozytorni przewodu paliwowego. Członkowie drużyny muszą rozbroić wszystkie podłożone bomby.
+
+Terroryści: Terrorysta w posiadaniu C4 musi zbombardować jeden z dwóch celów.
+
+Uwaga: Na mapie są dwie strefy podkładania bomby.

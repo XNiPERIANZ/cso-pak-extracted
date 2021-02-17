@@ -1,0 +1,4 @@
+﻿Downed - Takım Ölüm Maçı
+
+- Haritadaki düşman takım oyuncularının hepsini öldürerek takım skorunu arttır.
+- Oyunu belirli sayıdaki düşmanı öldürmeyi başararak kazan.

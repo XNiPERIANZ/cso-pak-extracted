@@ -1,0 +1,9 @@
+﻿Industry - Team Deathmatch
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+The government has received intelligence indicating that the Terrorists have been using a large storage, located in the heart of the city, as their main stronghold. In order to stop the Terrorists, the Counter-Terrorists attacked the storage only to discover that Terrorists had been waiting for them inside of the building. Terrorist scouts have also verified the movements of the Counter-Terrorists and are preparing for an all-out attack.
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.

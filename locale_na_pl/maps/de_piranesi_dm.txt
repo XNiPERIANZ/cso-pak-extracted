@@ -1,0 +1,6 @@
+﻿Piranesi - Deathmatch
+Fingers - iikkak@valvesoftware.com
+Podziękowania dla Ido Magala za źródła tekstur
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

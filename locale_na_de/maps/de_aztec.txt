@@ -1,0 +1,13 @@
+﻿Aztec - Bomb Planting/Defusing
+Map erstellt von: Chris Auty (Barney) (narby@counter-strike.net)
+Textur erstellt von: Macman 
+
+Counter-Terroristen: Hindert die Terroristen an der Sprengung dieses historischen Ortes.
+
+Terroristen: Zerstört die historische Stätte der Azteken.
+
+Hinweis: Es sind zwei Explosionsorte vorgesehen.
+
+
+
+

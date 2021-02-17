@@ -1,0 +1,9 @@
+﻿Túnel - Combate mortal
+
+Planificación/Producción: NEXON
+Textura/Revisión: NEXON
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.
+
+Nota: Cada equipo tiene dos ubicaciones de refuerzo en este mapa.

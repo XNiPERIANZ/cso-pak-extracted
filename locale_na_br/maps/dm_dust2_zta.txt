@@ -1,0 +1,9 @@
+﻿Dust 2 - Aniquilação
+
+Mapa criado por: DaveJ (http://www.johnsto.co.uk/)
+Texturas criadas por: MacMan (MacManInfi@aol.com)
+Revisão do mapa: NEXON
+
+- Elimine todos os inimigos.
+- Ganhe completando o número determinado de rodadas.
+- Você reentrará até a próxima rodada começar.

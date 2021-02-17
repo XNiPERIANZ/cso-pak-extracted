@@ -1,0 +1,11 @@
+﻿Vertigo - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: Chris Auty (Barney) (fragged101@yahoo.com)
+Dokuları Yapan: Telnets ve J0esm0e
+
+Teröristler şu anda yapım aşamasında olan Rizzleton Kulesini bombalamayı planlıyor.
+
+- Anti-Teröristler: Binanın yok edilmesini engelleyin.
+- Teröristler: Bomba yerleştirerek binayı yok edin.
+
+Not: Binadan düşmemeye dikkat edin.

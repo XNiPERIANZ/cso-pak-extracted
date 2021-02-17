@@ -1,0 +1,7 @@
+﻿Lighthouse (Farero) - Gun Deathmatch
+Developed and produced by: Nexon
+Texture/Edited by: Nexon
+
+Objective
+- You get a new weapon when you reach a certain number of kills against enemies with that weapon.
+- To win, eliminate the enemy team with the final grenade given during the final moments of the game.

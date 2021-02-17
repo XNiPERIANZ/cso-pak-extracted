@@ -1,0 +1,10 @@
+﻿Ciudad perdida - Supervivencia
+
+Planificación/Producción: NEXON
+Mapeo/Revisión: NEXON
+
+Hacía más de dos meses que se había perdido el contacto con un equipo de investigación enviado a una ciudad en cuarentena por el virus Rex. Al llegar, la tropa de fuerzas especiales enviada por el gobierno para investigar la situación descubrió que la ciudad estaba llena de Zombis. Justo cuando estaban por informar el hallazgo, perdieron el contacto por radio y los Zombis comenzaron a atacarlos. Ahora, los sobrevivientes del primer ataque planean su último intento por seguir viviendo...
+
+- Sobrevive durante el mayor tiempo que puedas. Si mueren todos los jugadores, el juego finalizará.
+ Presiona la tecla [B] para comprar armas y equipamiento y para mejorar tus PV y ATQ.
+- Si al menos una persona sobrevive hasta el final de la ronda, todos los jugadores muertos revivirán para la próxima.

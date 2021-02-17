@@ -1,0 +1,6 @@
+﻿Arranha-céus - Duelo de Equipes
+Desenvolvido e produzido por: Nexon
+Textura/Modelagem/Edição por: Nexon
+
+- Elimine todos os jogadores próximos.
+- O jogador com o maior número de eliminações vence.

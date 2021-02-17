@@ -1,0 +1,9 @@
+﻿Village - Annihilation
+Planning/Production : Nexon
+Texture/Modélisation/Révision : Nexon
+
+Des renseignements de haut niveau indiquent la présence d'activités terroristes dans un petit village en périphérie de la ville.
+Une fois arrivés au village, les Antiterroristes font une découverte plutôt... intéressante.
+
+- Tuez tous les membres de l'équipe adverse sur la carte.
+- Quand une équipe est totalement décimée, l'équipe restante remporte la victoire.

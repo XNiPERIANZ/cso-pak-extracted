@@ -1,0 +1,6 @@
+﻿Prodigy - Takım Ölüm Maçı
+
+Haritayı Yapan: Hobbit (hobbit@nodream.net)
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Kazanmak için belirlenmiş öldürme sayısına ulaşın.

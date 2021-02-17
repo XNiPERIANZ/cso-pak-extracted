@@ -1,0 +1,11 @@
+﻿ 
+
+Sanctuary (Sanctuary) - Bomb Planting/Defusing
+ Production: Nexon
+
+Counter-Terroristen: Verhindert, dass die Terroristen die historischen Stätten sprengen. Teammitglieder müssen alle Bomben im Zielgebiet entschärfen.
+
+Terroristen: Ein Terrorist, der C4 bei sich hat, muss an einem der zwei vorgesehenen historischen Stätten eine Bombe platzieren.
+
+
+Etc.: Es sind zwei Ziele vorgesehen.

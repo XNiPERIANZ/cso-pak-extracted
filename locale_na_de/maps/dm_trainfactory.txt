@@ -1,0 +1,8 @@
+﻿Train Shed - Annihilation 
+Planung, Design und Entwicklung durch: Nexon
+Texturen, Modelle und Bearbeitung durch: Nexon
+
+Eine Bahnhofshalle. Ein lebensgefährlicher Kampf zwischen Terroristen und der Einheit der Counter-Terroristen findet hier statt.
+
+- Töte alle Mitglieder des feindlichen Teams auf der Map.
+- Ist ein Team ausgeschaltet, gewinnt das verbleibende Team.

@@ -1,0 +1,6 @@
+﻿Warehouse - Deathmatch
+Autore Mappa: Nexon
+Autore Texture: Nexon
+
+- Uccidi tutti i giocatori.
+- Il giocatore con il più alto numero di uccisioni alla fine del round, vince.

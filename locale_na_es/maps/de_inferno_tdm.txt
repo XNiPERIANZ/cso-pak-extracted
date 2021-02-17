@@ -1,0 +1,7 @@
+﻿Infierno - Combate mortal en equipo
+
+Mapa creado por: Chris Auty (Barney) (narby@counter-strike.net)
+Textura creada por: Valve software
+
+- Para elevar la puntuación de tu equipo, mata a todos los enemigos que se encuentren en el mapa.
+- Para ganar, debes alcanzar un número designado de muertes.

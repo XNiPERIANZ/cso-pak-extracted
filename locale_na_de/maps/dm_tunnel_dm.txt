@@ -1,0 +1,8 @@
+﻿Tunnel - Deathmatch
+Planung/Produktion: Nexon
+Textur/Bearbeitung: Nexon
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+Hinweis: Jedem Team stehen zwei Verstärkungs-Locations zur Verfügung.

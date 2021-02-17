@@ -1,0 +1,7 @@
+﻿Storm - Deathmatch
+Mappa creata da: FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+Texture creata da:  Fingers - jOeSmOe - MattC
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.

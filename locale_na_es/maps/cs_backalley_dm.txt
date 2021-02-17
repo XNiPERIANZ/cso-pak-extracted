@@ -1,0 +1,6 @@
+﻿Callejón trasero - Combate mortal
+
+Mapa creado por: TYR (tyr@barking-dog.com)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

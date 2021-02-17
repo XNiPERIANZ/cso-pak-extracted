@@ -1,0 +1,12 @@
+﻿Office - Deathmatch
+Map erstellt von: Hobbit (Hobbit@nodream.net)	
+Textur erstellt von: Sphinx and George_Pooshoes.
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+
+

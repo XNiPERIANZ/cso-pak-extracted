@@ -1,0 +1,9 @@
+﻿Assault - Hostage Rescue
+Mappa creata da: CryptR (lmuur@dlc.fi)
+
+Antiterroristi: Salvate gli ostaggi.
+Eliminate i Terroristi assicurandovi di non ferire gli ostaggi. Fate attenzione alle telecamere nascoste installate dappertutto.
+
+Terroristi: Impedite agli Antiterroristi di salvare gli ostaggi a ogni costo.
+
+Nota: Ci sono 4 ostaggi in questa missione. Salvateli tutti!

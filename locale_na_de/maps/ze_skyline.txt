@@ -1,0 +1,15 @@
+﻿Skyline - Zombie Escape
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+Nach dem Erhalt von Informationen des Geheimdienstes, die besagen, dass Zombies im Industriegebiet aufgetaucht sind,
+hat die Regierung sich entschieden, ein Untersuchungsteam zu entsenden um die Situation zu klären.
+
+Nachdem die Existenz von Zombies festgestellt wurde, hat sich die Regierung entschieden, Luftangriffe durchzuführen um das Gebiet dauerhaft zu sperren.
+
+Es ist nicht mehr viel Zeit, bevor die Bombardierung beginnt!
+Steige auf den Lastwagen, der am Fluchtpunkt auf dich wartet!
+
+Zielvorgabe:
+Menschen: Kämpft euch bis zum Fluchtpunkt durch! Ihr müsst um jeden Preis Menschen bleiben!
+Zombies: Infiziert alle Menschen oder geht zum Fluchtpunkt und verhindert dass die Menschen entkommen, bevor die Zeit abläuft.

@@ -1,0 +1,6 @@
+﻿Warehouse - Combate Mortal en Equipo
+Mapa desarrollado por: Nexon 
+Textura desarrollada por: Nexon
+
+ - Mata a todos los jugadores cercanos. 
+ - Gana el jugador con el mayor número de muertes al final.

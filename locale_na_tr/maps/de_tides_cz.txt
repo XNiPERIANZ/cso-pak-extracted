@@ -1,0 +1,6 @@
+﻿Tide - Bomba Yerleştirme/Etkisizleştirme
+
+- Anti-Teröristler: Teröristlerin bombalama teşebbüslerini durdurun.
+- Teröristler: Bombaları yerleştirin ve patlatın.
+
+Not: Bu görevde iki bombalama bölgesi vardır.

@@ -1,0 +1,7 @@
+﻿Prodigy - Yok Etme
+
+Haritayı Yapan: Hobbit (hobbit@nodream.net)
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş sayıdaki rauntları tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar canlanmayacaksın.

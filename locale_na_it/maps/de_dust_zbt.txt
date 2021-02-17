@@ -1,0 +1,7 @@
+﻿Dust
+Mappa creata da: DaveJ (http://www.johnsto.co.uk/)
+Texture creata da: MacMan (MacManInfi@aol.com)
+
+- Aumentate il punteggio del vostro team uccidendo tutti i membri del team nemico nella mappa.
+- Vincete raggiungendo un numero designato di uccisioni.
+- Il conteggio di uccisioni aumenterà se si ottiene una scatola di oggetti.

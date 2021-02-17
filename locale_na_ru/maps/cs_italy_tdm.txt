@@ -1,0 +1,8 @@
+﻿Italy - Team Deathmatch
+Создатель карты:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Создатель дизайна/графики карты:
+DigiChaos (digichaos@hotsheep.com)
+
+- Заработайте очки для команды убив всех членов команды противника на карте.
+- Победа по достижению определенного кол-во убийств.

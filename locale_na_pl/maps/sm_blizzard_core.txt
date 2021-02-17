@@ -1,0 +1,18 @@
+﻿Cold Fear - Rdzeń: Bestia 
+Planowanie i Produkcja: Nexon
+Grafika: Nexon
+
+
+Po wielu latach konfliktów w regionie polarnym, Terroryści i Antyterroryści napotkali pewnego dnia na złoża tajemniczej rudy.
+
+Po uświadomieniu sobie, że ruda ma w sobie tajemniczą moc, obydwie strony ruszyły z badaniami, próbując zniszczyć zasoby przeciwników, by zmonopolizować tę nowo odkrytą moc.
+
+Jednakże, bariery kontrolne zainstalowane by kontrolować potężną energię rdzenia powodują, że walki się przedłużyły i...
+
+po wejściu do walki,
+agenci, którzy weszli w fizyczny kontakt, by kontrolować potężną energię jądra zaczęli mutować, sprawiając, że wojna poszła w nieoczekiwanym kierunku...
+
+Cel:
+Zniszcz rdzeń wroga.
+Rdzeń jest chroniony przez bariery kontrolne.
+Zaatakuj urządzenie kontrolne, a sprawisz, że jądro stanie się tymczasowo wrażliwe na ataki. Urządzenie kontrolne reaktywuje się po 20 sekundach.

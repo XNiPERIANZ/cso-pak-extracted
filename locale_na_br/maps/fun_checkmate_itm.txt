@@ -1,0 +1,8 @@
+﻿Xeque-mate – Duelo de Equipes por Itens
+Criador do Mapa: Nexon
+Criador da textura: Nexon
+
+Algo perturbador acontece em uma sala quieta.
+
+Objetivo: Chegue ao alvo eliminando jogadores inimigos.
+Dica: Um ataque de área de efeito ou habilidades especiais podem ser usados depois de usar um item.

@@ -1,0 +1,7 @@
+﻿Nuke
+
+Haritayı Yapan: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Kazanmak için belirlenmiş öldürme sayısına ulaşın.
+- Eğer eşya kutusu ele geçirilirse öldürme sayısı artar.

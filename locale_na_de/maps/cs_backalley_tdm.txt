@@ -1,0 +1,13 @@
+﻿Back Alley - Team Deathmatch
+Map erstellt von: TYR (tyr@barking-dog.com)
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.
+
+
+
+
+
+
+
+

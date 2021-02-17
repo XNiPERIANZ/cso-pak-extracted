@@ -1,0 +1,11 @@
+﻿Camouflage - Resgate de Reféns
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+Forças terroristas remanescentes haviam se escondido em um edifício decadente que se pensava estar sendo usado para armazenamento. Quando o governo ficou sabendo deste fato, os terroristas atacaram um laboratório do governo próximo e fizeram 4 cientistas de reféns. Agora eles estão exigindo uma grande quantia em dinheiro em troca dos reféns e um helicóptero para fugirem.
+
+- Contraterroristas: Elimine todos os terroristas e resgate com segurança os reféns.
+- Terroristas: Evite que os contraterroristas resgatem os reféns.
+
+Observação: Há 4 reféns neste mapa.

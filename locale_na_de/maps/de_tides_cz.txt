@@ -1,0 +1,12 @@
+﻿Tide - Bomb Planting/Defusing
+
+Counter-Terroristen: Hindert die Terroristen am Versuch einen Bombenangriffs.
+
+Terroristen: Platziert und zündet Bomben.
+
+Hinweis: Bei dieser Mission sind zwei Detonationsorte vorgesehen.
+
+
+
+
+

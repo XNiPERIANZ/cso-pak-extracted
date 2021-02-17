@@ -1,0 +1,20 @@
+﻿Office (Office) - Hostage Rescue
+
+Map erstellt von: Hobbit (Hobbit@nodream.net)	
+Textur erstellt von: Sphinx and George_Pooshoes.
+
+Counter-Terroristen: Dringt in das Bürogebäude ein und rettet die Geiseln. 
+Eliminiert die Terroristen und stellt sicher, dass die Geiseln nicht verletzt werden.
+
+Terroristen: Hindert die Counter-Terroristen daran, die Geiseln zu retten.
+
+
+Hinweis: Diese Mission beinhaltet 4 Geiseln.
+
+
+
+
+
+
+
+

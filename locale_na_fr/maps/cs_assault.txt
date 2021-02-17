@@ -1,0 +1,10 @@
+﻿Assault - Hostage Rescue
+Carte créée par : CryptR (lmuur@dlc.fi)
+
+Antiterroristes : Libérez les otages.
+Éliminez les terroristes en vous assurant que les otages ne soient pas blessés.
+Méfiez-vous des caméras qui sont dissimulées un peu partout.
+
+Terroristes : Empêchez les Antiterroristes de sauver les otages à tout prix.
+
+Note : Il y a 4 otages dans cette mission. Sauvez-les tous !

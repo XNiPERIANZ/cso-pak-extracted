@@ -1,0 +1,8 @@
+﻿Dust 2 Annihilation - Annihilation
+Mappa creata da: DaveJ (http://www.johnsto.co.uk/)
+Texture creata da: MacMan (MacManInfi@aol.com)
+Revisione della mappa: Nexon
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

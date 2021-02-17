@@ -1,0 +1,10 @@
+﻿Office (Office) - Hostage Rescue
+
+Carte créée par : Hobbit (Hobbit@nodream.net)	
+Texture créée par : Sphinx and George_Pooshoes.
+
+Antiterroristes : Infiltrez les bureaux et libérez les otages. Éliminez les Terroristes en vous assurant que les otages ne soient pas blessés.
+
+Terroristes : Empêchez les Antiterroristes de sauver les otages.
+
+Note : Il y a 4 otages dans cette mission.

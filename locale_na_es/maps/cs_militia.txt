@@ -1,0 +1,8 @@
+﻿Milicia - Rescate de rehenes
+
+Mapa creado por: Andrew Aumann (andrewja@home.com)
+
+- Antiterroristas: Infiltren la Residencia de Cliff y rescaten a los rehenes. Eliminen a los Terroristas y asegúrense de que los rehenes no sufran daños.
+- Terroristas: Eviten que los Antiterroristas rescaten a los rehenes.
+
+Nota: Hay 4 rehenes en esta misión.

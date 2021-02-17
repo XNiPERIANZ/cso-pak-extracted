@@ -1,0 +1,11 @@
+﻿Gallery - Gun Deathmatch
+Planowanie/Produkcja: Nexon
+Tekstury/Modelowanie/Korekta: Nexon
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.
+
+Cel
+- Drużyna, która zabije członka przeciwnej drużyny ostatnim granatem wygrywa.
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Osiągnij wyznaczoną liczbę zabójstw przed upływem limitu czasu, by wygrać.

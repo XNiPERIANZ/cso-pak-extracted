@@ -1,0 +1,6 @@
+﻿Ruins - Team Deathmatch
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+- Erhöhe den Team-Punktestand indem Du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem Du eine vorgesehene Anzahl Tötungen erreichst.

@@ -1,0 +1,8 @@
+﻿Tunnel - Deathmatch
+Pianificazione/Produzione: Nexon
+Texture/Revisione: Nexon
+
+- Uccidete tutti i giocatori vicini.
+- Il giocatore con più uccisioni vince.
+
+Nota: Ogni team ha due ubicazioni di rinforzo in questa mappa.

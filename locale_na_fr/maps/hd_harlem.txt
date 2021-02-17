@@ -1,0 +1,9 @@
+﻿Hidden City - Hidden Mode
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Un mystérieux assassin masqué fait son apparition dans des bas quartiers désolés. 
+
+Objectif : Atteignez le score indiqué en tuant Hidden !
+
+Astuce : Hidden devient plus apparent au fil du temps, mais redevient invisible quand il tue un ennemi...

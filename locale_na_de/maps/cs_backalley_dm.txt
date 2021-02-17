@@ -1,0 +1,10 @@
+﻿Back Alley - Deathmatch
+Map erstellt von: TYR (tyr@barking-dog.com)
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+

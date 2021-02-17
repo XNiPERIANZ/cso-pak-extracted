@@ -1,0 +1,9 @@
+﻿Toscana - Colocación/Desactivación de bomba
+
+Mapa creado por: NEXON
+Textura creada por: NEXON
+
+- Antiterroristas: Se descubrió el cuartel general de los Terroristas en la base de Toscana, Italia. Ahora, los Terroristas intentarán bombardearla para destruir toda la evidencia. Los miembros del equipo deben desactivar todas las bombas colocadas en los sitios de bomba. Ejecuten un plan de sabotaje para evitar que los Terroristas logren su objetivo.
+- Terroristas: El Terrorista que posea C-4 debe detonarlo en uno de los dos sitios de bomba. Contengan el plan de sabotaje de los Antiterroristas y destruyan toda la evidencia que se relacione con la base.
+
+Nota: Hay dos sitios de bomba en este mapa.

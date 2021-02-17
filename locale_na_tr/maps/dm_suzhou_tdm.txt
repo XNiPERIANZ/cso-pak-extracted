@@ -1,0 +1,9 @@
+﻿Suzhou - Takım Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Çin hükümeti Teröristlerin şehir dışında bulunan Suzhou adlı kasabada uyuşturucu kaçakçılığı yaptığına dair istihbarat aldı. Anti-Teröristler, Teröristleri durdurmak için kasabaya saldırdıklarında ise Teröristleri saldırıya hazır halde buldular. Terörist gözcüleri de Anti-Teröristlerin saldırısını doğruladı. Teröristler geniş çaplı bir saldırı hazırlığındalar.
+
+- Haritadaki düşman takım üyelerini öldürerek takım skorunu yükselt.
+- Belirlenmiş öldürme sayısına ulaşarak oyunu kazan.

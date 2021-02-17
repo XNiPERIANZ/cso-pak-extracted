@@ -1,0 +1,7 @@
+﻿Torn - Deathmatch
+
+Map Created By: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Kill all nearby players.
+- The player with the most kills wins.

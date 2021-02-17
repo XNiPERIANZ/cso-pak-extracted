@@ -1,0 +1,9 @@
+﻿Blood Castle - Zombie Escape
+
+Map Created By: NEXON
+Texture Created By: NEXON
+
+An ominous aura seizes the troops, who were busy making repairs to an ancient castle. Upon receiving reports from the troops, an executive decision is made to classify the ancient castle as a Zombie Virus risk area and a large scale bombing campaign is carried out to permanently have it quarantined. Not much time remains until the bombings start... Your only objective is to escape at all cost!
+
+- Humans: Make your way to the escape location before time is up. You must remain a Human at all cost!
+- Zombies: Infect all the Humans or go to the escape location and prevent the Humans from getting away before time is up.

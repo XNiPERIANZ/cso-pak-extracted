@@ -1,0 +1,6 @@
+﻿Prodigy - Ölüm Maçı
+
+Haritayı Yapan: Hobbit (hobbit@nodream.net)
+
+- Yakındaki tüm düşmanları öldür.
+- En çok öldürme sayısına ulaşan oyuncu kazanır.

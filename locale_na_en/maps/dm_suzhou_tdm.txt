@@ -1,0 +1,9 @@
+﻿Suzhou - Team Deathmatch
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+The Chinese government has received intelligence indicating that Terrorists have been smuggling drugs in a town called Suzhou, located outside of the city. In order to stop the Terrorists, the Counter-Terrorists attacked the town only to discover that Terrorists had been waiting for them. Terrorist scouts have also verified the movement of the Counter-Terrorists and are preparing for an all-out attack.
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.

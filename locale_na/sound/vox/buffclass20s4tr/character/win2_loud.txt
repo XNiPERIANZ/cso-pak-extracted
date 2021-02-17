@@ -1,0 +1,29 @@
+Log updated: 	12/03/2020 19:09:44 
+Media: 		C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\win2.wav 
+Log file: 	C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\win2_loud.txt 
+Format: 	8-bit PCM data, 1 channels @ 22050 Hz
+Algorithm: 	Surround processing turned: OFF
+
+
+Loudness calculations: 
+
+              Pos.	     Time	Mom.(LUFS)	Short(LUFS)	Integ.(LUFS)	Dyn.(LU)
+
+            8192	00:00:00.371	-Inf.		-Inf.		-Inf.		  0.00
+           16384	00:00:00.743	-Inf.		-Inf.		-Inf.		  0.00
+           24576	00:00:01.114	-Inf.		-Inf.		-Inf.		  0.00
+           32768	00:00:01.486	-Inf.		-Inf.		-Inf.		  0.00
+           40960	00:00:01.857	-Inf.		-Inf.		-Inf.		  0.00
+           49152	00:00:02.229	-Inf.		-Inf.		-Inf.		  0.00
+           57344	00:00:02.600	-12.88		-21.63		-12.90		 22.80
+           65536	00:00:02.972	-11.08		-18.73		-12.05		 20.40
+           73728	00:00:03.343	-11.53		-17.01		-12.05		 22.10
+           81920	00:00:03.715	-10.35		-15.34		-11.66		  6.20
+           85019	00:00:03.855	-13.90		-15.34		-11.80		  6.30
+
+
+---------------------------
+Results:
+
+Mom. (max): 	-10.35 (LUFS) at 00:00:03.715
+Short (max): 	-15.34 (LUFS) at 00:00:03.855

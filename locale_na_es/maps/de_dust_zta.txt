@@ -1,0 +1,8 @@
+﻿Polvareda - Aniquilación
+
+Mapa creado por: DaveJ (http://www.johnsto.co.uk/)
+Textura creada por: MacMan (MacManInfi@aol.com)
+
+- Mata a todos los enemigos en el mapa.
+- Para ganar, completa la cantidad designada de rondas.
+- No resucitarás hasta que comience la ronda siguiente.

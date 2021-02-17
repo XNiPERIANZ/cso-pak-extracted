@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Bomb Planting/Defusing
+Carte créée par : Ritual Entertainment
+
+Antiterroristes : Empêchez les Terroristes de poser une bombe dans la propriété.
+
+Terroristes : Posez du C4 dans la propriété et faites-la exploser.

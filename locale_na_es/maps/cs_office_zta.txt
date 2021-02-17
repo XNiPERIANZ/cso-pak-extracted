@@ -1,0 +1,8 @@
+﻿Oficina - Aniquilación
+
+Mapa creado por: Hobbit (Hobbit@nodream.net)	
+Textura creada por: Sphinx y George_Pooshoes.
+
+- Mata a todos los enemigos en el mapa.
+- Para ganar, completa la cantidad designada de rondas.
+- No resucitarás hasta que comience la ronda siguiente.

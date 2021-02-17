@@ -1,0 +1,13 @@
+﻿Office - Team Deathmatch
+Map erstellt von: Hobbit (Hobbit@nodream.net)	
+Textur erstellt von: Sphinx and George_Pooshoes.
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.
+
+
+
+
+
+
+

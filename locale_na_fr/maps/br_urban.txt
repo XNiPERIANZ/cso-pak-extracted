@@ -1,0 +1,14 @@
+﻿Urban Assault (Urban Assault) - Battle Rush
+Carte créée par : Nexon
+Texture créée par : Nexon
+
+Scénario
+Le chef d'un groupe terroriste armé, aujourd'hui dans le couloir de la mort, va être utilisé comme cobaye dans une expérience menée par un laboratoire spécial.
+Les forces d'élite antiterroristes ont reçu pour mission de transférer le prisonnier jusqu'à un nouveau lieu.
+Les Terroristes ont obtenu les renseignements de cette mission de transport, et vont tenter de bloquer l'itinéraire pour secourir leur patron.
+
+Objectif
+Antiterroristes : Détruisez tous les obstacles le long de la route, et assurez la sécurité du prisonnier jusqu'au lieu de destination.
+Terroristes : Désactivez tous les dispositifs de rétention sur le véhicule qui transporte le patron.
+ 
+ 

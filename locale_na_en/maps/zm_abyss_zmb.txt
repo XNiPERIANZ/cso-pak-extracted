@@ -1,0 +1,10 @@
+﻿Abyss - Zombie
+
+Planning/Production: NEXON
+Texture/Revision: NEXON
+
+While conducting a mission in the B-2 area of Rex Laboratory, some members of the mission team fell into the B-1 area due to a C4 explosion. What they found were sealed subjects of a failed study.
+Unfortunately, the sealed subjects have been awakened by the explosion...
+
+- Humans: Survive the Zombie attacks until reinforcements arrive. Watch for fellow comrades who may turn into Zombies. You are authorized to kill all Zombies. 
+- Zombies: Those who have turned into Zombies must kill the Humans and turn them into Zombies. Zombies have higher HP and faster speeds than Humans.

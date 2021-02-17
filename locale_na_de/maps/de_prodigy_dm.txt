@@ -1,0 +1,10 @@
+﻿Prodigy - Deathmatch
+Map erstellt von: Hobbit (hobbit@nodream.net)
+
+- Tötet alle Spieler in der Nähe.
+- Der Spieler mit den meisten Tötungen gewinnt.
+
+
+
+
+

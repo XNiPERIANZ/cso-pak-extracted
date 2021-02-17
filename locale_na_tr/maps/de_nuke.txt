@@ -1,0 +1,8 @@
+﻿Nuke - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı Yapan: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Anti-Teröristler: Teröristlerin nükleer füzeyi bombalamalarını engelleyin. Düşman yukarıdan veya aşağıdan saldırabilir. Takım üyeleri bombalama bölgelerine yerleştirilmiş tüm bombaları etkisizleştirmelidir.
+- Teröristler: C4 sahibi teröristler nükleer füzeyi bombalamalıdır.
+
+Not: Bu haritada iki bombalama bölgesi vardır.

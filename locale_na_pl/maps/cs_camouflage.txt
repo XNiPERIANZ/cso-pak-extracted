@@ -1,0 +1,9 @@
+﻿Camouflage - Ratowanie Zakładników
+Planowanie/Produkcja: Nexon
+Tekstury/Modelowanie/Korekta: Nexon
+
+Resztki sił terrorystycznych ukrywały się w budynku, który wcześniej używano, jako magazyn. Gdy rząd się o tym dowiedział, terroryści zaatakowali pobliskie rządowe laboratorium i wzięli 4 naukowców na zakładników. Domagają się teraz dużej kwoty pieniędzy, w zamian za zakładników oraz helikoptera do ucieczki.
+Antyterroryści: Wyeliminujcie wszystkich terrorystów i uratujcie zakładników.
+Terroryści: Przerwijcie akcję ratunkową za wszelką cenę.
+
+Uwaga: Na tej mapie jest 4 zakładników.

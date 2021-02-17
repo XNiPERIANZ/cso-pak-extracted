@@ -1,0 +1,8 @@
+﻿Siege - Resgate de Reféns
+
+Mapa criado por: N0TH1NG (n0th1ng@mailcity.com)
+
+- Contraterroristas: Invada a propriedade onde prisioneiros de guerra estão sendo mantidos e resgate os reféns. Elimine os terroristas enquanto verifica se todos os reféns estão bem.
+- Terroristas: Evite que os contraterroristas resgatem os reféns.
+
+Observação: Há 4 reféns nesta missão.

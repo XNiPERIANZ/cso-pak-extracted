@@ -1,0 +1,7 @@
+﻿Moonlight - Ölüm Maçı
+
+Planlama/Yapım: NEXON
+Harita Yapımı/Düzenleme: NEXON
+
+- Yakındaki tüm oyuncuları öldür.
+- En çok sayıda düşman öldüren oyuncu kazanır.

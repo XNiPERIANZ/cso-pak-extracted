@@ -1,0 +1,7 @@
+﻿Aztec - Annihilation
+Mappa creata da: Chris Auty (Barney) (narby@counter-strike.net)
+Texture creata da: Macman 
+
+- Uccidete tutti i nemici nella mappa.
+- Vincete completando il numero designato di turni.
+- Non farete la ricomparsa fino a che inizi il seguente turno.

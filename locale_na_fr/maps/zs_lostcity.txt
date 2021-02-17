@@ -1,0 +1,12 @@
+﻿Lost City - Survival
+Planning/Production : Nexon
+Mapping/Révision : Nexon
+
+Le contact avec une équipe de recherche, envoyée pour enquêter dans une ville mise en quarantaine par le virus Rex, était perdu depuis plus de deux mois.
+Une unité des forces spéciales, dépêchée pour tirer cette affaire au clair, a constaté dès son arrivée que la ville était infestée de Zombies.
+Alors qu'ils allaient rapporter leurs découvertes, le contact radio s'est rompu et les Zombies ont commencé à attaquer.
+Maintenant, les survivants humains de la première attaque se préparent à mener leur dernier combat...
+
+- Survivez aussi longtemps que possible. La partie se termine si tous les joueurs meurent.
+- Appuyez sur la touche [B] pour acheter armes et équipement, ou améliorer vos valeurs de PV et ATT.
+- S'il ne reste qu'un seul survivant à la fin du round, tous les joueurs morts ressuscitent à la manche suivante.

@@ -1,0 +1,23 @@
+﻿Cold Fear - Core: Beast 
+Pianificazione e Produzione: Nexon
+Grafica: Nexon
+
+
+Dopo un reiterato conflitto nella regione polare, un giorno i Terroristi e 
+gli Antiterroristi si sono imbattuti in misteriosi minerali.
+
+Dopo aver capito che i minerali contenevano un misterioso potere, entrambi avevano cominciato a fare ricerche
+mentre ideavano un modo di distruggere i minerali dell'altro per poter monopolizzare il potere appena scoperto.
+
+Tuttavia, le barriere messe per controllare la potente energia del nucleo
+hanno causato un prolungamento del combattimento e,
+
+mentre erano ingaggiati in battaglia,
+degli agenti che erano entrati in contatto con i frammenti del minerale hanno cominciato a mutare,
+portando la guerra verso una direzione imprevista...
+
+Obiettivo:
+Distruggete il nucleo del nemico. 
+Il nucleo è protetto dalla barriera di controllo.
+Se attaccate il dispositivo di controllo, potrete attaccare temporaneamente il nucleo. Il dispositivo di controllo si riattiverà in 20 secondi.
+

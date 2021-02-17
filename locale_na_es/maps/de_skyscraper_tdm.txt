@@ -1,0 +1,6 @@
+﻿Rascacielos - Combate mortal en equipo
+Desarrollado y producido por: Nexon
+Textura/Modelado/Editado por: Nexon
+
+- Eleva la puntuación de tu equipo matando a todos los enemigos que se encuentren en el mapa.
+- Para ganar, debes alcanzar un número designado de asesinatos.

@@ -1,0 +1,13 @@
+﻿Toscana - Bomb Planting/Defusing
+Map erstellt von: Nexon
+Textur erstellt von: Nexon
+
+Counter-Terroristen: Die Basis in der Toskana, Italien, die von den Terroristen als Hauptquartier genutzt wurde, wurde entdeckt.
+Jetzt versuchen die Terroristen, sie zu sprengen um alle Beweise zu vernichten.
+Die Team-Mitglieder müssen alle Bomben entschärfen.
+Entwickelt einen Sabotage-Plan um die Terroristen daran zu hindern, ihr Ziel zu erreichen!
+
+Terroristen: Ein Terrorist der C4 hat muss es an einem der zwei vorgesehenen Ziele zünden.
+Verhindert den Plan der Terrorabwehr und zerstört alle Beweise, die auf die Basis verweisen!
+
+Hinweis: Es sind zwei Ziele vorgesehen.

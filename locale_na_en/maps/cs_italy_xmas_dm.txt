@@ -1,0 +1,8 @@
+﻿Italy - X-Mas - Deathmatch
+
+Map created by: Nexon
+Texture/graphics created by: Nexon
+
+Objective
+- Kill all enemy players.
+- The player with the most kills wins.

@@ -1,0 +1,7 @@
+﻿Chateau - Bomb Planting/Defusing
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Terrorists: Following the incident at Cobble, Lord William has decided to remodel his summer chateau. Stop him from completing the remodeling by planting a C4 in the front or back garden.
+- Counter-Terrorists: Prevent the Terrorists from planting the bomb and protect Lord William's property.

@@ -1,0 +1,6 @@
+﻿Dust II (Dust 2) – Match à mort par Équipe avec Objets
+Créateur de la carte: Dave J (http://www.johnsto.co.uk)
+Créateur de texture: MacMan (MacManInfi@aol.com)
+
+Objectif: Allez au point cible en éliminant les joueurs ennemis.
+Astuce: Une attaque de zone ou des capacités spéciales peuvent être utilisées tout en utilisant un objet.

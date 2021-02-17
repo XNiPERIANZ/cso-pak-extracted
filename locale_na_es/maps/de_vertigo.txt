@@ -1,0 +1,11 @@
+﻿Vértigo - Colocación/Desactivación de bomba
+
+Mapa creado por: Chris Auty (Barney) (fragged101@yahoo.com)
+Textura creada por: Telnets y J0esm0e
+
+Los Terroristas planean hacer explotar la Torre Rizzleton, que se encuentra en construcción.
+
+- Antiterroristas: Eviten que se destruya el edificio.
+- Terroristas: Planten una bomba en el edificio y destrúyanlo.
+
+Nota: Tengan cuidado, no se caigan.

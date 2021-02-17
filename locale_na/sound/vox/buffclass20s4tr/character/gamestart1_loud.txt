@@ -1,0 +1,23 @@
+Log updated: 	12/03/2020 19:05:19 
+Media: 		C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\gamestart1.wav 
+Log file: 	C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\gamestart1_loud.txt 
+Format: 	8-bit PCM data, 1 channels @ 22050 Hz
+Algorithm: 	Surround processing turned: OFF
+
+
+Loudness calculations: 
+
+              Pos.	     Time	Mom.(LUFS)	Short(LUFS)	Integ.(LUFS)	Dyn.(LU)
+
+            8192	00:00:00.371	-12.66		-21.42		-12.99		 21.50
+           16384	00:00:00.743	 -8.35		-15.80		-10.78		  6.30
+           24576	00:00:01.114	 -7.98		-14.14		-10.05		  8.00
+           32768	00:00:01.486	 -8.76		-12.61		 -9.88		  9.20
+           39139	00:00:01.775	 -9.59		-12.60		-10.14		  9.10
+
+
+---------------------------
+Results:
+
+Mom. (max): 	 -7.98 (LUFS) at 00:00:01.114
+Short (max): 	-12.60 (LUFS) at 00:00:01.775

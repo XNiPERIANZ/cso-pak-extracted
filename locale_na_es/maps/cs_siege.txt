@@ -1,0 +1,8 @@
+﻿Asedio - Rescate de rehenes
+
+Mapa creado por: N0TH1NG (n0th1ng@mailcity.com)
+
+- Antiterroristas: Infiltren la instalación donde retienen a los prisioneros de guerra y rescaten a los rehenes. Eliminen a los Terroristas y asegúrense de que los rehenes no sufran daños.
+- Terroristas: Eviten que los Antiterroristas rescaten a los rehenes.
+
+Nota: Hay 4 rehenes en esta misión.

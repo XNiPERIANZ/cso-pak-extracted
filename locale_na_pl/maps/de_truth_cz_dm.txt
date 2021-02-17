@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Deathmatch
+
+Autor Mapy: Ritual Entertainment
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

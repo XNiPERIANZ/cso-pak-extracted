@@ -1,0 +1,7 @@
+﻿La Havana - Combate mortal en equipo
+
+Ido Magal *ido@valvesoftware.com*
+Macman *chrisa@valvesoftware.com*
+
+- Para elevar la puntuación de tu equipo, mata a todos los enemigos que se encuentren en el mapa.
+- Para ganar, debes alcanzar un número designado de muertes.

@@ -1,0 +1,6 @@
+﻿Truth in Chaos - Deathmatch
+
+Map Created By: Ritual Entertainment
+
+- Kill all nearby players.
+- The player with the most kills wins.

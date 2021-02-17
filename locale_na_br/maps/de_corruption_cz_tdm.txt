@@ -1,0 +1,6 @@
+﻿Corruption - Duelo de Equipes
+
+por Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

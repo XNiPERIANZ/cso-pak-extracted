@@ -1,0 +1,12 @@
+﻿Heorgen - Kaçış
+Geliştiren ve üreten: Nexon
+Doku/Modelleme/Düzenleme: Nexon
+
+Salgın, Heorgen kasabasında ortaya çıkmıştı.
+
+Ay ışığıyla yıkanmış ve sisle örtülmüş kasabanın mütevazı sessizliği, orada can veren onca masum insanla ters düşüyordu.
+Gecenin sükuneti, yalnızca soğuk rüzgarın uğultusu ve anıt mezarda yanan loş lamba ışığıyla bozuluyordu.
+
+Hedef
+- İnsanlar: Heorgen kasabasında yer alan tüm Jeneratörleri aktif hale getirip kaçış rotasını açın ve kasabanın eteklerine kaçın.
+- Zombi: Hayatta kalan herkesi bulun ve kaçışlarını engellemek için onları etkisiz hale getirin.

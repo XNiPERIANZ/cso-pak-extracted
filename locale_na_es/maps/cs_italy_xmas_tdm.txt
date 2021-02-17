@@ -1,0 +1,8 @@
+﻿Italia - Navidad - Combate mortal en equipo
+
+Mapa creado por: Nexon
+Textura/gráficos creados por: Nexon
+
+Objetivo
+- Eleva la puntuación de tu equipo matando a todos los miembros del equipo enemigo que se encuentren en el mapa.
+- Para ganar, debes alcanzar el número objetivo de asesinatos.

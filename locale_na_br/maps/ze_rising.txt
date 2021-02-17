@@ -1,0 +1,11 @@
+RISING - Fuga Zumbi
+Planejado, desenhado e desenvolvido por: Nexon
+Gráficos: Nexon
+
+Para todos os sobreviventes, 
+Tem um helicóptero de resgate por perto. 
+Corra até o heliporto, sinalize para o resgate usando as luzes e escape.
+
+Objetivo
+Humanos: Escapar até o heliporto dentro do limite de tempo. Você deve se manter humano.
+Zumbis: Infectar todos os humanos restantes ou impedi-los de chegar ao heliporto dentro do limite de tempo.

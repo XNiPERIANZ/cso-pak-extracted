@@ -1,0 +1,6 @@
+﻿Santorini (Santorini) - Drużynowy Deathmatch
+Autor Mapy: Nexon
+Autor Tekstury: Nexon
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

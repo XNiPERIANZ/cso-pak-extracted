@@ -1,0 +1,7 @@
+﻿Siege
+
+Haritayı yapan: N0TH1NG (n0th1ng@mailcity.com)
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takımının skorunu yükselt.
+- Düşmanı belirtilen sayıda öldürerek kazan.
+- Eşya kutusu temin edilmişse öldürme sayısı artacaktır.

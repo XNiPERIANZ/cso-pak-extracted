@@ -1,0 +1,11 @@
+﻿Vertigo - Bomb Planting/Defusing
+
+Map Created By: Chris Auty (Barney) (fragged101@yahoo.com)
+Texture Created By: Telnets and J0esm0e
+
+The Terrorists are planning to bomb the Rizzleton Tower which is currently under construction.
+
+- Counter-Terrorists: Prevent the building from being destroyed.
+- Terrorists: Destroy the building by planting a bomb on it.
+
+Note: Be careful not to fall off the building.

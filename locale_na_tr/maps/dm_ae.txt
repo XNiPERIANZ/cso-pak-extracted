@@ -1,0 +1,9 @@
+﻿Another Episode - Yok etme
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzeltme: NEXON
+
+İstihbarat, Teröristlerin REX Laboratuvarı I'deki saldırıyı takiben Rex Laboratuvarı II'ye de terör saldırısında bulunmak için sızdıklarını tespit etti. Teröristleri durdurmak için, hükümet Terörist grubuyla yüzleşecek bir gücü çatıya indirdi.
+
+- Anti-Teröristler: Teröristlerin laboratuvara hasar vermesini engelleyin.
+- Teröristler: Anti-Teröristleri engelleyin ve laboratuvara sızın.

@@ -1,0 +1,7 @@
+﻿Industry
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+- Erhöhe den Team-Punktestand, indem du alle Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgesehen Anzahl Tötungen erreichst.
+- Der Tötungs-Zähler erhöht sich wenn eine Item-Box erhalten wurde.

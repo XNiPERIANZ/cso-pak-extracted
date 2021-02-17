@@ -1,0 +1,8 @@
+﻿Back Alley - Resgate de Reféns
+
+Mapa criado por: TYR (tyr@barking-dog.com)
+
+- Contraterroristas: Invada a base terrorista e leve os reféns para um lugar seguro. Elimine os terroristas e impeça qualquer dano aos reféns.
+- Terroristas: Evite que os contraterroristas resgatem os reféns.
+
+Observação: Há 4 reféns nesta missão.

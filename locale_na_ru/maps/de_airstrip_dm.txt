@@ -1,0 +1,7 @@
+﻿Airstrip - Deathmatch
+Создатель карты: Barney (aka narby) (narby@counter-strike.net)
+
+Особая благодарность Iikka Keranen, John Morello и Minh Le
+
+- Убить всех игроков рядом.
+- Игрок с наибольшим кол-вом убийств побеждает.

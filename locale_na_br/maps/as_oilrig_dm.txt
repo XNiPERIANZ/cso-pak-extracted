@@ -1,0 +1,8 @@
+﻿Oil Rig - Mata-mata
+
+Mapa criado por: MacMan (macmaninfi@aol.com)
+Texturas criadas por: MacMan
+Helicóptero Westland Wessex criado por: Agent Orange [agentorange@freemail.nl]
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

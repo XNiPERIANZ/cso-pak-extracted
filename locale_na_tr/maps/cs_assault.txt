@@ -1,0 +1,10 @@
+﻿Assault - Rehine Kurtarma
+
+Haritayı Yapan:  CryptR (lmuur@dlc.fi)
+
+Rehinelerin zarar görmemesini sağlarken, Teröristleri saf dışı bırak. Harita boyunca kurulmuş olan gizli kameralara dikkat et.
+
+- Anti-Teröristler: Rehineleri kurtar.
+- Teröristler: Anti-Teröristler'in rehineleri kurtarmasını engellemek için ne gerekiyorsa yap.
+
+Not: Bu görevde 4 rehine vardır. Hepsini kurtar!

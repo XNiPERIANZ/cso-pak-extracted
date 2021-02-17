@@ -1,0 +1,9 @@
+﻿Dust - Plantar/desarmar a bomba
+
+Mapa criado por: DaveJ (http://www.johnsto.co.uk/)
+Texturas criadas por: MacMan (MacManInfi@aol.com)
+
+- Contraterroristas: Evite que os terroristas plantem bombas nas caixas de armas químicas. Os membros da equipe devem desarmar todas as bombas plantadas nos locais de detonação.
+- Terroristas: Um terrorista em posse de um C4 deve explodir um dos dois locais onde as caixas de armas químicas estão localizadas.
+
+Observação: Há dois locais para plantar a bomba neste mapa.

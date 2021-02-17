@@ -1,0 +1,10 @@
+﻿Wolkenkratzer - Installation und Entschärfung von Sprengkörpern
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+Counter-Terroristen Hindere die Terroristen daran, Kisten mit chemischen Waffen zu sprengen. Teammitglieder müssen alle Sprengkörper in der Zielumgebung entschärfen.
+
+Terroristen: Die mit C4 ausgerüsteten Terroristen müssen chemische Waffenboxen an einem der 2 Bombenorte sprengen.
+
+
+Sonstiges: Es gibt zwei Sprengstellen auf dieser Map.

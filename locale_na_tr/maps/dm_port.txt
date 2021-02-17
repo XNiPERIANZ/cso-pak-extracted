@@ -1,0 +1,9 @@
+﻿The Port - Yok Etme
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Kargo konteynerleriyle dolu limanda Teröristlere karşı bir çatışma başlamak üzere. 
+
+- Haritadaki tüm düşman takım üyelerini öldür.
+- Bir takım yok edildiğinde kalan takım oyunu kazanır.

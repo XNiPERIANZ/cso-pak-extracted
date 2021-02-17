@@ -1,0 +1,6 @@
+﻿Militia - Ölüm Maçı
+
+Haritayı yapan: Andrew Aumann (andrewja@home.com)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok öldüren oyuncu kazanır.

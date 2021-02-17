@@ -1,0 +1,7 @@
+﻿Skyscraper - Zbrojny Deathmatch
+Opracowana i wyprodukowana przez: Nexon
+Tekstury/Modelowanie/Edycja: Nexon
+
+Cel:
+- Nowa broń jest przyznawana za każdym razem, gdy osiągasz określoną liczbę zabójstw przy użyciu poszczególnych broni.
+- Aby wygrać, wyeliminuj jednego z przeciwników za pomocą granatu, który jest rozdawany pod sam koniec gry.

@@ -1,0 +1,12 @@
+﻿Snow Base - Pose / Désamorçage de bombes
+Carte développée par : Nexon
+Textures développées par : Nexon
+
+Antiterroristes : des terroristes ont été détectés sur Snow Base.
+L'équipe doit éliminer toutes les bombes posées sur la zone cible et exterminer les terroristes.
+
+Terroristes : sabotez les activités des antiterroristes
+et faites sauter l'une des deux cibles à l'aide d'une bombe.
+
+
+Note : cette carte comporte deux cibles.

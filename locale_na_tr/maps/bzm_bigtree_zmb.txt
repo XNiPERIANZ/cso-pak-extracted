@@ -1,0 +1,9 @@
+﻿Big Tree - Zombi
+
+Planlama/Yapım: NEXON
+Dokular/Modelleme/Düzenleme: NEXON
+
+Zombi saldırıları ormana ulaştı. Bu umutsuz hayatta kalma savaşını, ormanın sadece siper olarak kullanılacak coğrafi özellikleri sonuçlandıracak.
+
+- İnsanlar: Birbirinizden ayrılmadan Büyük Ağacın çevresinde toplan ve zombilere karşı savaş!
+- Zombiler: İnsanlar... İnsanlara saldır...

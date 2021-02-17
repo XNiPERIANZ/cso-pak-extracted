@@ -1,0 +1,6 @@
+﻿Assault - Deathmatch
+
+Map Created By: CryptR (lmuur@dlc.fi)
+
+- Kill all nearby players.
+- The player with the most kills wins.

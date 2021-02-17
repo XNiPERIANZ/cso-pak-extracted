@@ -1,0 +1,5 @@
+﻿Siege - Drużynowy Deathmatch
+Autor Mapy: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Zwiększaj wynik drużyny zabijając wszystkich członków zespołu przeciwnego na mapie.
+- Wygraj zdobywając wyznaczoną liczbę zabójstw.

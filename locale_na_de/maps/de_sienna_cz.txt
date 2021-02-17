@@ -1,0 +1,12 @@
+﻿Sienna - Bombing/DefusingMission 
+
+Beschreibung: Nach neuen geheimdienstlichen Erkenntnissen ist die Stadt Sienna in Alarmbereitschaft.
+Jeder Ein- und Ausgang in die Stadt wurde beschränkt, um die terroristische Bedrohung zu verhindern.
+
+Terroristen: Dringt in die Stadt ein, indem ihr die zwei schwach gesicherten Eingänge in die Stadt findet und sie bombardiert.
+Counter-Terroristen: Verhindert, dass die Terroristen die Tore bombardieren und in die Stadt eindringen.
+
+Hinweis: Es gibt zwei Orte, die die Terroristen angreifen können.
+
+
+

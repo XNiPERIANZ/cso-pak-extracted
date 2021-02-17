@@ -1,0 +1,7 @@
+﻿Italy - Joseon Markets - Gun Deathmatch
+Developed and produced by: Nexon
+Texture/Modeling/Edited by: Nexon
+
+Objective
+- A new weapon is given each time you reach a certain number of kills with the current weapon.
+- To win, eliminate the enemy team with the final grenade.

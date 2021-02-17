@@ -1,0 +1,11 @@
+﻿Bunny Yard – Gun Deathmatch
+Autore: Nexon
+Texture/Modelli/Editing: Nexon
+
+Dopo varie operazioni completate con successo, il governo ne ha programmate altre per eliminare le forze terroriste rimaste.
+I Terroristi resistono con violenza, e si preparano ad un ultima sortita.
+
+Obbiettivo:
+- Vince la squadra che per prima ottiene un uccisione tramite Granata, l'arma finale.
+- Per guadagnare punti, i giocatori devono uccidere i membri della squadra avversaria.
+- La prima squadra che raggiunge il punteggio limite, vince.

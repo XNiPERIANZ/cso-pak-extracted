@@ -1,0 +1,9 @@
+﻿Dust 2 - Silahlı Ölüm Maçı
+
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları Yapan: MacMan (MacManInfi@aol.com)
+
+Hedef
+- Düşman takım üyesini son bir el bombasıyla öldüren takım kazanır.
+- Haritadaki tüm düşman takım üyelerini öldürerek takım skorunu yükseltin.
+- Kazanmak için süre limiti içinde belirlenmiş öldürme sayısına ulaşın.

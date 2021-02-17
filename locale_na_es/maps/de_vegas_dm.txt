@@ -1,0 +1,8 @@
+﻿Las Vegas - Combate mortal
+
+Producción: +Cadaver+
+Textura: George_Pooshoes, JOeSmOe
+Revisión: NEXON
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

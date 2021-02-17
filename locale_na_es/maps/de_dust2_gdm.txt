@@ -1,0 +1,9 @@
+﻿Polvareda 2 - Combate mortal con arma
+
+Mapa creado por: DaveJ (http://www.johnsto.co.uk/)
+Textura creada por: MacMan (MacManInfi@aol.com)
+
+Objetivo
+- Gana el equipo que mate a un miembro del equipo enemigo con una granada final.
+- Para elevar la puntuación de tu equipo, mata a todos los enemigos que se encuentren en el mapa.
+- Para ganar, obtén el conteo de muertes designado dentro del límite de tiempo.

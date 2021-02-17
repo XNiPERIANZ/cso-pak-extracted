@@ -1,0 +1,7 @@
+﻿Dust 2 - Deathmatch
+Autor Mapy: DaveJ (http://www.johnsto.co.uk/)
+Autor Tekstury: MacMan (MacManInfi@aol.com)
+Map Revision: Nexon
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

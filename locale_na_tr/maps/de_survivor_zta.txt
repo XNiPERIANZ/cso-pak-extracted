@@ -1,0 +1,8 @@
+﻿Survivor - Yok Etme
+
+Haritayı Yapan: Michael Visser nam-ı diğer 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com) www.lanmaniax.com
+
+- Haritadaki tüm düşmanları öldür.
+- Belirlenmiş raunt sayısını tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar yeniden canlanmayacaksın.

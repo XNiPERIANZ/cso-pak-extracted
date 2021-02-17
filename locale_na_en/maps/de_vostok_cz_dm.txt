@@ -1,0 +1,1 @@
+﻿Vostok - Deathmatch- Kill all nearby players.- The player with the most kills wins.

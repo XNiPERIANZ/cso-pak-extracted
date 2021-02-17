@@ -1,0 +1,8 @@
+﻿Vegas - Mata-mata
+
+Produzido por: +Cadaver+
+Texturas: George_Pooshoes, JOeSmOe
+Revisão: NEXON
+
+- Elimine todos os jogadores.
+- Ganha o jogador que conseguir mais eliminações.

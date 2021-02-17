@@ -1,0 +1,11 @@
+﻿Italy - Noël - Zombie
+
+Carte créée par : Nexon
+Textures/graphismes par : Nexon
+
+Au cours de l'affrontement entre les terroristes et les antiterroristes, d'étranges créatures mortes-vivantes se sont échappées du Rex Laboratory.
+Les humains doivent maintenant joindre leurs forces pour assurer leur survie.
+
+Objectif
+Humains : survivez aux attaques zombies jusqu'à la fin du décompte, ou tuez tous les Zombies.
+Zombies : tuez tous les Humains et transformez-les en Zombies. Les Zombies ont plus de PV et sont plus rapides que les Humains.

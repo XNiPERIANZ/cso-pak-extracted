@@ -1,0 +1,7 @@
+﻿Polvareda II(Polvareda 2) - Alianza Zombi
+Mapa creado por: DaveJ (http://www.johnsto.co.uk/)
+Textura creada por: MacMan (MacManInfi@aol.com)
+
+- Eleva la puntuación de tu equipo matando a todos los enemigos que se encuentren en el mapa.
+- Para ganar, debes alcanzar un número designado de asesinatos.
+- Obtén cajas de objetos para aumentar el número de asesinatos.

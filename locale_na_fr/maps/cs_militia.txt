@@ -1,0 +1,8 @@
+﻿Militia - Hostage Rescue
+Carte créée par : Andrew Aumann (andrewja@home.com)
+
+Antiterroristes : Infiltrez Cliff's Estate et libérez les otages. Éliminez les Terroristes en vous assurant que les otages ne soient pas blessés.
+
+Terroristes : Empêchez les Antiterroristes de sauver les otages.
+
+Note : Il y a 4 otages dans cette mission. 

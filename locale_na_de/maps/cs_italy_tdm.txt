@@ -1,0 +1,12 @@
+﻿Italy - Team Deathmatch
+Map erstellt von:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Textur/Grafiken erstellt von:
+DigiChaos (digichaos@hotsheep.com)
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.
+
+
+
+

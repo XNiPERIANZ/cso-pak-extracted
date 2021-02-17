@@ -1,0 +1,24 @@
+Log updated: 	12/03/2020 17:42:42 
+Media: 		C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\RevengeKill1.wav 
+Log file: 	C:\Users\benny\Desktop\?? ????\??? ?? ???\20-4 ??\????\vox\buffclass20s4tr\character\RevengeKill1_loud.txt 
+Format: 	8-bit PCM data, 1 channels @ 22050 Hz
+Algorithm: 	Surround processing turned: OFF
+
+
+Loudness calculations: 
+
+              Pos.	     Time	Mom.(LUFS)	Short(LUFS)	Integ.(LUFS)	Dyn.(LU)
+
+            8192	00:00:00.371	-11.67		-20.42		-14.08		 22.30
+           16384	00:00:00.743	-11.84		-19.13		-13.52		 10.10
+           24576	00:00:01.114	-14.00		-17.67		-13.83		 11.10
+           32768	00:00:01.486	-12.08		-15.96		-13.55		  6.50
+           40960	00:00:01.857	-13.44		-15.79		-13.62		  7.20
+           42615	00:00:01.932	-19.44		-15.71		-13.80		  7.20
+
+
+---------------------------
+Results:
+
+Mom. (max): 	-11.67 (LUFS) at 00:00:00.371
+Short (max): 	-15.71 (LUFS) at 00:00:01.932

@@ -1,0 +1,11 @@
+﻿Fastline - Team Deathmatch
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Erhöhe den Team-Punktestand, indem Du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.
+
+
+
+
+
+

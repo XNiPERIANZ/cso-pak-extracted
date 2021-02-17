@@ -1,0 +1,6 @@
+﻿Vertigo - Deathmatch
+Autor Mapy: Chris Auty (Barney) (fragged101@yahoo.com)
+Autor Tekstury: Telnets and J0esm0e
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

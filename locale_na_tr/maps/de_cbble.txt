@@ -1,0 +1,7 @@
+﻿Cobble - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuları yapan: MacMan (MacManInfi@aol.com)
+
+Anti-Teröristler: Teröristlerin Lord William'ın bahçesine bomba kurmalarını engelle.
+Teröristler: C4'e sahip olan Terörist haritada bulunan iki bomba kurma yerinden birine C4'ü yerleştirmelidir. Lord William saf dışı bırakılmalı.

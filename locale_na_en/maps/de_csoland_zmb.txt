@@ -1,0 +1,9 @@
+﻿CSN:S Land - Zombie
+Map created by: Nexon
+Texture created by: Nexon
+
+Unidentified creatures, possibly zombies, have been detected at the entrance to an abandoned amusement park.
+The only chance the survivors have is to take refuge inside the amusement park, position themselves for a final stand, and work together.
+
+Humans: Survive the zombie attacks until time runs out, or kill all the zombies.
+Zombies: Kill all the humans and turn them into zombies. Zombies have more HP and are faster than humans.

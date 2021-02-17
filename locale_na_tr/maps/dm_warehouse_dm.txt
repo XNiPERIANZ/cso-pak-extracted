@@ -1,0 +1,8 @@
+﻿Warehouse - Ölüm Maçı
+
+Geliştirici: Nexon
+Dokular: Nexon
+
+
+- Gördüğünüz tüm oyuncuları öldürün.
+- En çok kişiyi öldüren oyuncu kazanır.

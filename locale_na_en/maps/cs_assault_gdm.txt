@@ -1,0 +1,7 @@
+﻿Assault - Gun Deathmatch
+
+Map Created By: CryptR (lmuur@dlc.fi)
+
+- The team that kills an enemy team member with a final grenade wins.
+- Raise the team score by killing all enemy team members on the map.
+- Reach the designated kill count within the time limit to win.

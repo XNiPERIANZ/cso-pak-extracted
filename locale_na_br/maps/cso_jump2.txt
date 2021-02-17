@@ -1,0 +1,8 @@
+﻿Salto 2 - Desafio
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+- Ganha o jogador com o recorde mais rápido durante o tempo determinado.
+- Você será levado ao seu ponto de continuação mais recente se morrer ou cair.
+- Não há conflitos entre jogadores neste mapa.

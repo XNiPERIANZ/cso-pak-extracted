@@ -1,0 +1,9 @@
+﻿Abyss 3 - Zumbi
+
+Planejamento/Produção: NEXON
+Texturas/Revisão: NEXON
+
+Um ano após o incidente no Laboratório Rex, som de máquinas foi ouvido vindo da fábrica fechada localizada próxima ao laboratório. Para investigar o ruído, membros da equipe de segurança entraram na fábrica, mas o contato por rádio foi perdido há mais de uma hora. Em resposta, agentes do governo invadiram a fábrica e acabaram descobrindo que ela se tornou uma instalação de transformação de cadáveres em zumbis. O segredo por trás do número crescente de zumbis era a própria fábrica. 
+
+- Humanos: Sobreviva aos ataques zumbis até chegarem reforços. Cuidado com aliados que podem se transformar em zumbis. Você tem autorização para eliminar todos os zumbis. 
+- Zumbis: Aqueles que se transformaram em zumbis devem eliminar os humanos e transformá-los em zumbis também. Os zumbis têm mais vida e são mais rápidos que os humanos.

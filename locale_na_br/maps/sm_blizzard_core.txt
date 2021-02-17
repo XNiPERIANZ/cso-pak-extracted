@@ -1,0 +1,10 @@
+﻿Cold Fear - Núcleo: Fera 
+
+Planejamento e produção: NEXON
+Gráficos: NEXON
+
+Um dia, após vários conflitos na região polar, os terroristas e os contraterroristas encontraram minérios misteriosos. Após perceberem que os minérios continham um poder misterioso, ambos começaram uma investigação enquanto concebiam um plano para destruir os minérios uns dos outros para monopolizar o poder recém-descoberto. Entretanto, as barreiras de controle instaladas para controlar a poderosa energia do núcleo fizeram com que o combate se prolongasse e... durante a batalha, agentes que tiveram contato físico com os fragmentos do minério começam a sofrer uma mutação, fazendo com que a guerra tomasse um rumo inesperado...
+
+- Destrua o núcleo do inimigo. 
+- O núcleo está sendo protegido pela barreira de controle.
+- Ataque o dispositivo de controle e você poderá atacar o núcleo temporariamente. O dispositivo de controle será reativado em 20 segundos.

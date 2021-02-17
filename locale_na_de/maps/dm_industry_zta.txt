@@ -1,0 +1,7 @@
+﻿Industry - Annihilation
+Planung/Produktion: Nexon
+Textur/Modelling/Bearbeitung: Nexon
+
+- Töte alle Feinde.
+- Gewinne, indem du die vorgegebene Rundenanzahl erreichst.
+- Du kannst nicht erneut starten, bis die nächste Runde beginnt.

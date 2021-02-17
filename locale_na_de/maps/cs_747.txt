@@ -1,0 +1,12 @@
+﻿747 - Hostage Rescue
+Map erstellt von: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Textur erstellt von: "The Postman" 
+(heavengame@yahoo.com)
+
+Counter-Terroristen: Dringt in das Flugzeug ein und rettet die restlichen Geiseln.
+
+Terroristen: Verhindert die Rettung der Geiseln durch die Counter-Terroristen.
+
+Hinweis: Es befinden sich 5 Geiseln im Flugzeug.
+

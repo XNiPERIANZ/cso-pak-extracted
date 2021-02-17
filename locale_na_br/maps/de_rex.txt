@@ -1,0 +1,11 @@
+﻿Rex - Plantar/desarmar a bomba
+
+Planejamento/Produção: NEXON
+Texturas/Revisão: NEXON
+
+Quando a base de uma força terrorista remanescente foi descoberta, os terroristas atacaram um laboratório que estava conduzindo o projeto "Rex" e sequestraram seus cientistas. Após descobrirem a verdade por trás das bioarmas do governo que estavam sendo escondidas neste laboratório, eles decidiram destruir os documentos para deter seu desenvolvimento.
+
+- Contraterroristas: Evite que os terroristas plantem bombas neste laboratório. Membros da equipe devem desarmar qualquer bomba que for plantada nos locais de detonação.
+- Terroristas: Um terrorista em posse de um C4 deve bombardear um dos dois locais de detonação designados.
+
+Observação: Há dois locais para plantar bombas neste mapa.

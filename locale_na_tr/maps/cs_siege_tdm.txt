@@ -1,0 +1,6 @@
+﻿Siege - Takım Ölüm Maçı
+
+Haritayı yapan: N0TH1NG (n0th1ng@mailcity.com)
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takımının skorunu yükselt.
+- Düşmanı belirtilen sayıda öldürerek kazan.

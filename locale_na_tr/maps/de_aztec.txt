@@ -1,0 +1,9 @@
+﻿Aztec - Bomba Yerleştirme/Etkisizleştirme
+
+Haritayı yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuları yapan: Macman
+
+- Anti-Teröristler: Teröristlerin tarihi yeri havaya uçurmalarını engelle.
+- Teröristler: Aztek Tarihi Yeri'ni yok et.
+
+Not: Bu haritada 2 tane bomba kurma yeri bulunmaktadır.

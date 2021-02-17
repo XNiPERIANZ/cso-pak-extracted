@@ -1,0 +1,9 @@
+﻿Las Vegas - Aniquilación
+
+Producción: +Cadaver+
+Textura: George_Pooshoes, JOeSmOe
+Revisión: NEXON
+
+- Mata a todos los enemigos en el mapa.
+- Para ganar, completa la cantidad designada de rondas.
+- No resucitarás hasta que comience la ronda siguiente.

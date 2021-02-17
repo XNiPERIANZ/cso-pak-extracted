@@ -1,0 +1,11 @@
+﻿Tunnel - Mata-mata
+
+Planejamento/Produção: NEXON
+Texturas/Revisão: NEXON
+
+Os terroristas estão planejando explodir um túnel onde passa um trem para roubar o dinheiro e as armas que ele transporta.
+
+- Contraterroristas: Ataque os terroristas para evitar que eles alcancem seu objetivo.
+- Terroristas: Ataque os contraterroristas para que a missão dos terroristas siga de acordo com o plano.
+
+Observação: Cada equipe tem dois locais de reforço neste mapa.

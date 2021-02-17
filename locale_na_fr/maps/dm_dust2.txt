@@ -1,0 +1,7 @@
+﻿Dust 2 Annihilation - Annihilation
+Carte créée par : DaveJ (http://www.johnsto.co.uk/)
+Texture créée par : MacMan (MacManInfi@aol.com)
+Révision de la carte : Nexon
+
+- Tuez tous les membres de l'équipe adverse sur la carte.
+- Quand une équipe est totalement décimée, l'équipe restante remporte la victoire.

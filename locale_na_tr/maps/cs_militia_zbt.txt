@@ -1,0 +1,7 @@
+﻿Militia
+
+Haritayı yapan: Andrew Aumann (andrewja@home.com)
+
+- Haritadaki tüm düşman takım üyelerini öldürerek takımının skorunu yükselt.
+- Düşmanı belirtilen sayıda öldürerek kazan.
+- Eşya kutusu temin edilmişse öldürme sayısı artacaktır.

@@ -1,0 +1,9 @@
+﻿Industry 2 - Duelo de Equipes
+
+Planejamento/Produção: NEXON
+Texturas/Modelos/Revisão: NEXON
+
+O governo recebeu informações indicando que os terroristas estão usando um grande armazém, localizado fora da cidade, como sua principal fortaleza. Para deter os terroristas, os contraterroristas atacaram o armazém e acabaram descobrindo que os terroristas estavam esperando por eles dentro do prédio. Os batedores dos terroristas também analisaram os movimentos dos contraterroristas e estão preparando um ataque pra valer
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

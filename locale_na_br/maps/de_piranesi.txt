@@ -1,0 +1,9 @@
+﻿Piranesi - Plantar/desarmar a bomba
+
+Fingers - iikkak@valvesoftware.com
+Obrigado a Ido Magal pelas fontes de texturas
+
+História: Villa Piranesi é um lindo palácio que está sendo transformado em um museu para que possa ser aberto ao público. Diversas mobílias antigas e obras de arte estão sendo entregues no edifício.
+
+- Terroristas: Destrua as duas exposições mais importantes do museu (o relógio de sol no pátio da frente e o modelo de sistema solar localizado no jardim dos fundos) para que ele não possa ser aberto ao público.
+- Contraterroristas: Proteja este local histórico dos terroristas.

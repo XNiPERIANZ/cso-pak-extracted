@@ -1,0 +1,6 @@
+﻿Asalto - Combate mortal
+
+Mapa creado por: CryptR (lmuur@dlc.fi)
+
+- Mata a todos los jugadores cercanos.
+- El jugador con más muertes gana.

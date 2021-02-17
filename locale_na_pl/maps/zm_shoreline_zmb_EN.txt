@@ -1,0 +1,15 @@
+﻿Shoreline - Zombie
+Produkcja: Nexon
+Grafika : Nexon
+
+Siły specjalne wysłane by odkryć tajemniczą infekcję nie mogły zrobić nic, prócz wycofania się od zarażonych.
+
+Po ciągłym wycofywaniu grupa została zapędzona do małej bazy na wybrzeżu.
+
+Schowali się i oczekiwali na grupę ratunkowa.
+Jednakże, w ich grupie była osoba zarażona przez wirusa, która zaczęła zmieniać się w jednego z nich.
+Pozostali nie wiedzieli, co ich czeka.
+
+Cel
+Human: Przygotuj się na atak Zombie i zabezpiecz strefę bezpieczeństwa i przetrwaj do świtu.
+Zombie: Zaraź wszystkich.

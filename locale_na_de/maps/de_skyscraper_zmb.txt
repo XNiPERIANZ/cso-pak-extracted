@@ -1,0 +1,8 @@
+﻿Wolkenkratzer - Zombie
+Entwickelt und produziert von: Nexon
+Texturen/Modeling/Editing von: Nexon
+
+Während des Kampfs zwischen Terroristen und Counter-Terroristen wurden unidentifizierte Wesen entdeckt. Sie scheinen Zombies zu sein, die aus dem Rex-Labor entkommen sind. Die Menschen müssen jetzt zusammenhalten, um zu überleben.
+
+Menschen: Überlebe die Zombieangriffe für die verbleibende Zeit oder töte alle Zombies.
+Zombies: Diejenigen, die sich in Zombies verwandelt haben, müssen die Menschen töten und sie in Zombies verwandeln. Zombies haben mehr HP und bewegen sich schneller als Menschen.

@@ -1,0 +1,12 @@
+﻿Corruption - Team Deathmatch
+Von Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Erhöhe den Team-Punktestand, indem du alle sichtbaren Mitglieder des feindlichen Teams tötest.
+- Gewinne, indem du eine vorgegebene Anzahl Tötungen erreichst.
+
+
+
+
+
+
+

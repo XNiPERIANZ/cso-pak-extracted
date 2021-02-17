@@ -1,0 +1,9 @@
+﻿Aztec - Bomb Planting/Defusing
+Carte créée par : Chris Auty (Barney) (narby@counter-strike.net)
+Texture créée par : Macman 
+
+Antiterroristes : Empêchez les Terroristes de faire exploser ce site historique.
+
+Terroristes : Détruisez le site historique aztèque.
+
+Note : Il y a deux sites de bombe dans cette mission.

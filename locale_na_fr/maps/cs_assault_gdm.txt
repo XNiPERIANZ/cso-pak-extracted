@@ -1,0 +1,7 @@
+﻿Assault - Gun Deathmatch
+Carte créée par : CryptR (lmuur@dlc.fi)
+
+Objectif
+- L'équipe qui tue un membre de l'équipe adverse avec la grenade finale remporte la victoire.
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Atteignez le nombre indiqué de victimes dans le temps imparti pour gagner.

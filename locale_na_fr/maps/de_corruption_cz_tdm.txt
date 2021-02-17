@@ -1,0 +1,5 @@
+﻿Corruption - Team Deathmatch
+par Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Contribuez au score de l'équipe en tuant tous les membres de l'équipe adverse sur la carte.
+- Remportez la victoire en tuant un certain nombre d'ennemis.

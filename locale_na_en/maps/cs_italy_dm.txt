@@ -1,0 +1,7 @@
+﻿Italy - Deathmatch
+
+Map Created By: glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texture/Graphics Created By: DigiChaos (digichaos@hotsheep.com)
+
+- Kill all nearby players.
+- The player with the most kills wins.

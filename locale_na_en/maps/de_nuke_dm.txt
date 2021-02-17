@@ -1,0 +1,6 @@
+﻿Nuke - Deathmatch
+
+Map Created By: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Kill all nearby players.
+- The player with the most kills wins.

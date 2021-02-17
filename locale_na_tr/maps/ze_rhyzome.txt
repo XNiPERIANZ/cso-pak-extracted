@@ -1,0 +1,13 @@
+Rhyzome(RHYZOME) - Zombi Kaçış
+Planlama, tasarım ve geliştirme : Nexon
+Görüntüler: Nexon
+
+Zombi virüsü yayıldıktan sonra,
+hayatta kalan siviller, askerler ve polisler 
+şehir dışına kaçtılar ve orada kendi sığınaklarını inşa ettiler.
+
+Ancak zombi virüsünden sonsuza kadar kaçamayacaklar...
+
+Görev
+İnsanlar: Süre sınırı içerisinde uçurumun yanındaki helikopter pistine ulaşın. İnsan olarak kalmalısınız.
+Zombiler: Tüm insanlara virüs bulaştırın ya da süre sınırı içerisinde helikopter pistine kaçmalarına engel olun.

@@ -1,0 +1,7 @@
+﻿Cobble - Plantar/desarmar a bomba
+
+Mapa criado por: DaveJ (http://www.johnsto.co.uk/)
+Texturas criadas por: MacMan (MacManInfi@aol.com)
+
+- Contraterroristas: Evite que os terroristas detonem o jardim da propriedade do Lord William. Recentemente ele foi alvo de assassinato por motivos políticos. 
+- Terroristas: Um terrorista em posse de um C4 deve plantar uma bomba em um dos dois locais de detonação no mapa. Lord William deve ser eliminado.

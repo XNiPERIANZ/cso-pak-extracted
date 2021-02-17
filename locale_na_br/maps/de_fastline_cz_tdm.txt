@@ -1,0 +1,6 @@
+﻿Fastline - Duelo de Equipes
+
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Marque pontos para sua equipe eliminando membros da equipe inimiga.
+- Ganhe obtendo um determinado número de eliminações.

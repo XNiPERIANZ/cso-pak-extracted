@@ -1,0 +1,6 @@
+﻿Skyscraper - Deathmatch
+Opracowana i wyprodukowana przez: Nexon
+Tekstury/Modelowanie/Edycja: Nexon
+
+- Zabij wszystkich pobliskich graczy.
+- Gracz z największą ilością zabójstw wygrywa.

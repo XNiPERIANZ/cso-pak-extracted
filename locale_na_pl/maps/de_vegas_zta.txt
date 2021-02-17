@@ -1,0 +1,8 @@
+﻿Vegas - Sojusz Zombie Anihilacja
+Produkcja: +Cadaver+
+Texture: George_Pooshoes, JOeSmOe
+Revision: Nexon
+
+- Zabij wszystkich przeciwników na mapie.
+- Wygraj kończąc wyznaczoną liczbę rund. 
+- Nie odrodzisz się, dopóki nie rozpocznie się następna runda. 

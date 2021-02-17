@@ -1,0 +1,9 @@
+﻿Village - Annihilation
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+High-level intelligence indicates that the Terrorist activities have been detected in a small village outside of the city. Counter-Terrorists have arrived at the village to find the village quite... interesting.
+
+- Kill all enemy team members on the map.
+- When one team is annihilated, the remaining team wins.
