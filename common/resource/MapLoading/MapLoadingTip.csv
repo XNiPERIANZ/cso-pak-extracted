@@ -2239,3 +2239,7 @@
 1,268,14,1,Tooltip_Zombie3_05,#CSO_MaploadingTip_ZM3
 1,269,15,1,Tooltip_biolabs1,#CSO_MaploadingTip_Scen_biolabs1
 1,270,15,1,Tooltip_biolabs2,#CSO_MaploadingTip_Scen_biolabs2
+1,249,14,1,Tooltip_Zombie3_01,#CSO_MaploadingTip_ZM3_RANDOMRULE
+1,249,14,1,Tooltip_Zombie3_02,#CSO_MaploadingTip_ZM3_RANDOMRULE
+1,249,14,1,Tooltip_Zombie3_03,#CSO_MaploadingTip_ZM3_RANDOMRULE
+1,249,14,1,Tooltip_Zombie3_04,#CSO_MaploadingTip_ZM3_RANDOMRULE
