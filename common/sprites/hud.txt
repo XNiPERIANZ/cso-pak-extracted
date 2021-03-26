@@ -1,4 +1,4 @@
-959
+960
 selection				640 640hud3	0	180	170	45
 bucket1				640 640hud7	168	72	20	20
 bucket2				640 640hud7	188	72	20	20
@@ -758,6 +758,7 @@ d_y21s1jetgunmb		            640 640hud56	172	192 	48	16
 d_y21s1jetgunmc   	            640 640hud56	172	208 	48	16
 d_y21s1jetgunmd   	            640 640hud57	172	0 	48	16
 d_crossbowex21    	640 640hud57	172	16 	48	16
+d_sbmine		640 640hud57	172	32	48	16
 
 
 
