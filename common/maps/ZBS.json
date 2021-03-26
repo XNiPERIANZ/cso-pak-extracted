@@ -37,7 +37,7 @@
 				"ID": 0,
 				"Name": "extraatk",
 				"ItemID": 3619,
-				"Params": { "Damage": 150 }
+				"Params": { "Damage": 120 }
 			},
 			{
 				"ID": 1,
@@ -69,10 +69,10 @@
 				"Name": "survivalatk",
 				"ItemID": 3623,
 				"Params": {
-					"Interval": 10,
+					"Interval": 15,
 					"DMGPercent": 5,
-					"MaxCount": 60,
-					"MaxCountAdd": 20
+					"MaxCount": 20,
+					"MaxCountAdd": 8
 				}
 			},
 			{
@@ -80,7 +80,7 @@
 				"Name": "addbullet",
 				"ItemID": 3624,
 				"Params": {
-					"Percent": 4,
+					"Percent": 5,
 					"Clip": 5
 				}
 			},
@@ -89,8 +89,8 @@
 				"Name": "explosionbullet",
 				"ItemID": 3625,
 				"Params": {
-					"Range": 2,
-					"Damage": 100
+					"Range": 1.7,
+					"Damage": 80
 				}
 			},
 			{
@@ -99,7 +99,7 @@
 				"ItemID": 3626,
 				"Params": {
 					"MoneySecRatio": 0.001,
-					"DmgPercent": 50
+					"DmgPercent": 60
 				}
 			},
 			{
@@ -114,8 +114,8 @@
 				"ItemID": 3628,
 				"Params": {
 					"Range": 3,
-					"Damage": 200,
-					"CoolTime": 2
+					"Damage": 300,
+					"CoolTime": 3
 				}
 			},
 			{
@@ -149,7 +149,7 @@
 				"Name": "evadetrap",
 				"ItemID": 3632,
 				"Params": {
-					"Percent": 20
+					"Percent": 25
 				}
 			},
 			{
@@ -165,9 +165,9 @@
 				"Name": "walkslam",
 				"ItemID": 3634,
 				"Params": {
-					"MoveDist": 12,
+					"MoveDist": 9,
 					"Range": 5,
-					"Damage": 180
+					"Damage": 250
 				}
 			},
 			{
@@ -175,8 +175,8 @@
 				"Name": "slowdefence",
 				"ItemID": 3635,
 				"Params": {
-					"SlowDown": 20,
-					"DmgPercent": 15
+					"SlowDown": 10,
+					"DmgPercent": 10
 				}
 			},
 			{
@@ -230,7 +230,7 @@
 				"attackRange": 70,
 				"attackInterval": 5,
 				"maxHealth": 300000,
-				"maxArmor": 150000,
+				"maxArmor": 300000,
 				"maxSpeed": 250,
 				"bonusMoney": 16000,
 				"killType": 0
@@ -241,7 +241,7 @@
 				"attackRange": 80,
 				"attackInterval": 5,
 				"maxHealth": 600000,
-				"maxArmor": 300000,
+				"maxArmor": 600000,
 				"maxSpeed": 250,
 				"bonusMoney": 16000,
 				"killType": 0
@@ -252,7 +252,7 @@
 				"attackRange": 90,
 				"attackInterval": 4,
 				"maxHealth": 1400000,
-				"maxArmor": 700000,
+				"maxArmor": 1400000,
 				"maxSpeed": 250,
 				"bonusMoney": 16000,
 				"killType": 0
@@ -263,7 +263,7 @@
 				"attackRange": 120,
 				"attackInterval": 3,
 				"maxHealth": 3000000,
-				"maxArmor": 1500000,
+				"maxArmor": 3000000,
 				"maxSpeed": 250,
 				"bonusMoney": 16000,
 				"killType": 0
@@ -271,11 +271,11 @@
 			{
 				"difficulty": 6,
 				"attackDamage": 600,
-				"attackRange": 130,
+				"attackRange": 120,
 				"attackInterval": 3,
 				"maxHealth": 6000000,
-				"maxArmor": 3000000,
-				"maxSpeed": 300,
+				"maxArmor": 6000000,
+				"maxSpeed": 290,
 				"bonusMoney": 16000,
 				"killType": 0
 			}
@@ -295,16 +295,16 @@
 				"ID": 1,
 				"Name": "Doppelganger",
 				"Params": {
-					"Num": 2
+					"Num": 1
 				},
 				"Params4": {
-					"Num": 3
+					"Num": 2
 				},
 				"Params5": {
-					"Num": 5
+					"Num": 3
 				},
 				"Params6": {
-					"Num": 7
+					"Num": 4
 				}
 			},
 			{
@@ -370,20 +370,20 @@
 				"ID": 5,
 				"Name": "Teleport",
 				"Params": {
-					"CoolTime": 8
+					"CoolTime": 10
 				},
 				"Params5": {
-					"CoolTime": 5
+					"CoolTime": 9
 				},
 				"Params6": {
-					"CoolTime": 4
+					"CoolTime": 8
 				}
 			},
 			{
 				"ID": 6,
 				"Name": "FireWall",
 				"Params": {
-					"CoolTime": 16,
+					"CoolTime": 12,
 					"Damage": 100,
 					"Duration": 3
 				},
@@ -392,14 +392,14 @@
 					"Duration": 3
 				},
 				"Params5": {
-					"CoolTime": 12,
+					"CoolTime": 10,
 					"Damage": 200,
 					"Duration": 4
 				},
 				"Params6": {
-					"CoolTime": 10,
+					"CoolTime": 8,
 					"Damage": 250,
-					"Duration": 5
+					"Duration": 4
 				} 
 			},
 			{
@@ -440,7 +440,7 @@
 				},
 				"Params6": {
 					"CoolTime": 15,
-					"Duration": 5
+					"Duration": 4
 				}
 			},
 			{
@@ -465,11 +465,10 @@
 					"HP": 130
 				},
 				"Params5": {
-					"HP": 200,
-					"Bonus": 4
+					"HP": 200
 				},
 				"Params6": {
-					"HP": 300,
+					"HP": 250,
 					"Bonus": 4
 				}
 			},
@@ -488,7 +487,7 @@
 				"ID": 12,
 				"Name": "BlackHole",
 				"Params": {
-					"CoolTime": 18,
+					"CoolTime": 16,
 					"Range": 15,
 					"Damage": 30,
 					"PullPower" :  800,
@@ -505,7 +504,7 @@
 					"Damage": 120
 				},
 				"Params6" : {
-					"CoolTime": 9,
+					"CoolTime": 10,
 					"Damage": 150
 				}
 			},
