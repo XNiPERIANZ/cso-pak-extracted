@@ -163,3 +163,6 @@ id,resource,attach (0 : ¸Ó¸® / 1 : µî / 2 : °ñ¹Ý / 3 : ¾ó±¼),set id,attach_pos,s
 8466,y21s1snowman_back,1,0,1,0,0
 8467,y21s1snowhelmet_head,0,0,0,0,0
 8468,y21s1snowflower_back,1,0,1,0,0
+8490,buffclass21s1tr_back,1,0,1,0,0
+8491,buffclass21s1ct_back,1,0,1,0,0
+8492,coscsobackpack,1,0,1,0,0

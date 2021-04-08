@@ -540,3 +540,8 @@ v_dualsword.mdl,0,8454,resource/WeaponPaint/texture/y21s1$20@004_phantomslasher_
 v_dualsword.mdl,1,8454,resource/WeaponPaint/texture/y21s1$20@004_phantomslasher_01_v.bmp
 p_dualsword_a.mdl,0,8454,resource/WeaponPaint/texture/y21s1#256256phantom_slasher_dual_p.bmp
 p_dualsword_b.mdl,0,8454,resource/WeaponPaint/texture/y21s1#256256phantom_slasher_dual_p.bmp
+v_buffaug.mdl,0,8496,resource/WeaponPaint/texture/21rb01$20@004buffaug01_v.bmp
+v_buffaug.mdl,1,8496,resource/WeaponPaint/texture/21rb01$20@004buffaug02_v.bmp
+p_buffaug.mdl,0,8496,resource/WeaponPaint/texture/21rb#256255buffaug_p.bmp
+w_buffaug.mdl,0,8496,resource/WeaponPaint/texture/21rb#256255buffaug_p.bmp
+s_buffaug.mdl,0,8496,resource/WeaponPaint/texture/21rb#256255buffaug_p.bmp
