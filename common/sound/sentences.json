@@ -21,7 +21,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/roger1.wav", "radio/buffclass20s3tr/roger2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/roger1.wav", "radio/buffclass20s3ct/roger2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/roger1.wav", "radio/buffclass20s4tr/roger2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/roger1.wav", "radio/buffclass20s4ct/roger2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/roger1.wav", "radio/buffclass20s4ct/roger2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/roger1.wav", "radio/buffclass21s1tr/roger2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/roger1.wav", "radio/buffclass21s1ct/roger2.wav"]
 	},
 	
 	"MRAD_BACKUP": {
@@ -46,7 +48,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/fireassis1.wav", "radio/buffclass20s3tr/fireassis2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/fireassis1.wav", "radio/buffclass20s3ct/fireassis2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/fireassis1.wav", "radio/buffclass20s4tr/fireassis2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/fireassis1.wav", "radio/buffclass20s4ct/fireassis2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/fireassis1.wav", "radio/buffclass20s4ct/fireassis2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/fireassis1.wav", "radio/buffclass21s1tr/fireassis2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/fireassis1.wav", "radio/buffclass21s1ct/fireassis2.wav"]
 	},
 	
 	"MRAD_BLOW": {
@@ -71,7 +75,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/getout1.wav", "radio/buffclass20s3tr/getout2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/getout1.wav", "radio/buffclass20s3ct/getout2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/getout1.wav", "radio/buffclass20s4tr/getout2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/getout1.wav", "radio/buffclass20s4ct/getout2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/getout1.wav", "radio/buffclass20s4ct/getout2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/getout1.wav", "radio/buffclass21s1tr/getout2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/getout1.wav", "radio/buffclass21s1ct/getout2.wav"]
 	},
 	
 	"MRAD_BOMBDEF": {
@@ -94,7 +100,9 @@
 		"20s3tr": "radio/buffclass20s3tr/bombdefusing.wav",
 		"20s3ct": "radio/buffclass20s3ct/bombdefusing.wav",
 		"20s4tr": "radio/buffclass20s4tr/bombdefusing.wav",
-		"20s4ct": "radio/buffclass20s4ct/bombdefusing.wav"
+		"20s4ct": "radio/buffclass20s4ct/bombdefusing.wav",
+		"21s1tr": "radio/buffclass21s1tr/bombdefusing.wav",
+		"21s1ct": "radio/buffclass21s1ct/bombdefusing.wav"
 	},
 	
 	"MRAD_BOMBPL": {
@@ -117,7 +125,9 @@
 		"20s3tr": "radio/buffclass20s3tr/bombplanting.wav",
 		"20s3ct": "radio/buffclass20s3ct/bombplanting.wav",
 		"20s4tr": "radio/buffclass20s4tr/bombplanting.wav",
-		"20s4ct": "radio/buffclass20s4ct/bombplanting.wav"
+		"20s4ct": "radio/buffclass20s4ct/bombplanting.wav",
+		"21s1tr": "radio/buffclass21s1tr/bombplanting.wav",
+		"21s1ct": "radio/buffclass21s1ct/bombplanting.wav"
 	},
 	
 	"MRAD_CIRCLEBACK": {
@@ -150,7 +160,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/clear1.wav", "radio/buffclass20s3tr/clear2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/clear1.wav", "radio/buffclass20s3ct/clear2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/clear1.wav", "radio/buffclass20s4tr/clear2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/clear1.wav", "radio/buffclass20s4ct/clear2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/clear1.wav", "radio/buffclass20s4ct/clear2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/clear1.wav", "radio/buffclass21s1tr/clear2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/clear1.wav", "radio/buffclass21s1ct/clear2.wav"]
 	},
 	
 	"MRAD_COVERME": {
@@ -175,7 +187,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/coverme1.wav", "radio/buffclass20s3tr/coverme2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/coverme1.wav", "radio/buffclass20s3ct/coverme2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/coverme1.wav", "radio/buffclass20s4tr/coverme2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/coverme1.wav", "radio/buffclass20s4ct/coverme2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/coverme1.wav", "radio/buffclass20s4ct/coverme2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/coverme1.wav", "radio/buffclass21s1tr/coverme2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/coverme1.wav", "radio/buffclass21s1ct/coverme2.wav"]
 	},
 	
 	"MRAD_CTWIN": {
@@ -213,7 +227,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/enemydown1.wav", "radio/buffclass20s3tr/enemydown2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/enemydown1.wav", "radio/buffclass20s3ct/enemydown2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/enemydown1.wav", "radio/buffclass20s4tr/enemydown2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/enemydown1.wav", "radio/buffclass20s4ct/enemydown2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/enemydown1.wav", "radio/buffclass20s4ct/enemydown2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/enemydown1.wav", "radio/buffclass21s1tr/enemydown2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/enemydown1.wav", "radio/buffclass21s1ct/enemydown2.wav"]
 	},
 	
 	"MRAD_ENEMYSPOT": {
@@ -238,7 +254,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/enemys1.wav", "radio/buffclass20s3tr/enemys2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/enemys1.wav", "radio/buffclass20s3ct/enemys2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/enemys1.wav", "radio/buffclass20s4tr/enemys2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/enemys1.wav", "radio/buffclass20s4ct/enemys2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/enemys1.wav", "radio/buffclass20s4ct/enemys2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/enemys1.wav", "radio/buffclass21s1tr/enemys2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/enemys1.wav", "radio/buffclass21s1ct/enemys2.wav"]
 	},
 	
 	"MRAD_ESCAPED": {
@@ -270,7 +288,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/fallback1.wav", "radio/buffclass20s3tr/fallback2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/fallback1.wav", "radio/buffclass20s3ct/fallback2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/fallback1.wav", "radio/buffclass20s4tr/fallback2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/fallback1.wav", "radio/buffclass20s4ct/fallback2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/fallback1.wav", "radio/buffclass20s4ct/fallback2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/fallback1.wav", "radio/buffclass21s1tr/fallback2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/fallback1.wav", "radio/buffclass21s1ct/fallback2.wav"]
 	},
 	
 	"MRAD_FIREINHOLE": {
@@ -296,7 +316,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/fireinhole1.wav", "radio/buffclass20s3tr/fireinhole2.wav", "radio/buffclass20s3tr/fireinhole3.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/fireinhole1.wav", "radio/buffclass20s3ct/fireinhole2.wav", "radio/buffclass20s3ct/fireinhole3.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/fireinhole1.wav", "radio/buffclass20s4tr/fireinhole2.wav", "radio/buffclass20s4tr/fireinhole3.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/fireinhole1.wav", "radio/buffclass20s4ct/fireinhole2.wav", "radio/buffclass20s4ct/fireinhole3.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/fireinhole1.wav", "radio/buffclass20s4ct/fireinhole2.wav", "radio/buffclass20s4ct/fireinhole3.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/fireinhole1.wav", "radio/buffclass21s1tr/fireinhole2.wav", "radio/buffclass21s1tr/fireinhole3.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/fireinhole1.wav", "radio/buffclass21s1ct/fireinhole2.wav", "radio/buffclass21s1ct/fireinhole3.wav"]
 	},
 	
 	"MRAD_FOLLOWCOM": {
@@ -328,7 +350,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/followme1.wav", "radio/buffclass20s3tr/followme2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/followme1.wav", "radio/buffclass20s3ct/followme2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/followme1.wav", "radio/buffclass20s4tr/followme2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/followme1.wav", "radio/buffclass20s4ct/followme2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/followme1.wav", "radio/buffclass20s4ct/followme2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/followme1.wav", "radio/buffclass21s1tr/followme2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/followme1.wav", "radio/buffclass21s1ct/followme2.wav"]
 	},
 	
 	"MRAD_GETINPOS": {
@@ -353,7 +377,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/takeposition1.wav", "radio/buffclass20s3tr/takeposition2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/takeposition1.wav", "radio/buffclass20s3ct/takeposition2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/takeposition1.wav", "radio/buffclass20s4tr/takeposition2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/takeposition1.wav", "radio/buffclass20s4ct/takeposition2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/takeposition1.wav", "radio/buffclass20s4ct/takeposition2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/takeposition1.wav", "radio/buffclass21s1tr/takeposition2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/takeposition1.wav", "radio/buffclass21s1ct/takeposition2.wav"]
 	},
 	
 	"MRAD_GETOUT": {
@@ -386,7 +412,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/go1.wav", "radio/buffclass20s3tr/go2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/go1.wav", "radio/buffclass20s3ct/go2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/go1.wav", "radio/buffclass20s4tr/go2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/go1.wav", "radio/buffclass20s4ct/go2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/go1.wav", "radio/buffclass20s4ct/go2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/go1.wav", "radio/buffclass21s1tr/go2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/go1.wav", "radio/buffclass21s1ct/go2.wav"]
 	},
 	
 	"MRAD_GOGOGO": {
@@ -419,7 +447,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/Help1.wav", "radio/buffclass20s3tr/Help2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/Help1.wav", "radio/buffclass20s3ct/Help2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/Help1.wav", "radio/buffclass20s4tr/Help2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/Help1.wav", "radio/buffclass20s4ct/Help2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/Help1.wav", "radio/buffclass20s4ct/Help2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/Help1.wav", "radio/buffclass21s1tr/Help2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/Help1.wav", "radio/buffclass21s1ct/Help2.wav"]
 	},
 	
 	"MRAD_HOSDOWN": {
@@ -458,7 +488,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/arrived1.wav", "radio/buffclass20s3tr/arrived2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/arrived1.wav", "radio/buffclass20s3ct/arrived2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/arrived1.wav", "radio/buffclass20s4tr/arrived2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/arrived1.wav", "radio/buffclass20s4ct/arrived2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/arrived1.wav", "radio/buffclass20s4ct/arrived2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/arrived1.wav", "radio/buffclass21s1tr/arrived2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/arrived1.wav", "radio/buffclass21s1ct/arrived2.wav"]
 	},
 	
 	"MRAD_JOKE1": {
@@ -499,7 +531,9 @@
 		"20s3tr": "vox/buffclass20s3tr/character/gamestart2.wav",
 		"20s3ct": "vox/buffclass20s3ct/character/gamestart2.wav",
 		"20s4tr": "vox/buffclass20s4tr/character/gamestart2.wav",
-		"20s4ct": "vox/buffclass20s4ct/character/gamestart2.wav"
+		"20s4ct": "vox/buffclass20s4ct/character/gamestart2.wav",
+		"21s1tr": "vox/buffclass21s1tr/character/gamestart2.wav",
+		"21s1ct": "vox/buffclass21s1ct/character/gamestart2.wav"
 	},
 	
 	"MRAD_LOCKNLOAD": {
@@ -524,7 +558,9 @@
 		"20s3tr": "vox/buffclass20s3tr/character/gamestart3.wav",
 		"20s3ct": "vox/buffclass20s3ct/character/gamestart3.wav",
 		"20s4tr": "vox/buffclass20s4tr/character/gamestart3.wav",
-		"20s4ct": "vox/buffclass20s4ct/character/gamestart3.wav"
+		"20s4ct": "vox/buffclass20s4ct/character/gamestart3.wav",
+		"21s1tr": "vox/buffclass21s1tr/character/gamestart3.wav",
+		"21s1ct": "vox/buffclass21s1ct/character/gamestart3.wav"
 	},
 	
 	"MRAD_MATEDOWN": {
@@ -566,7 +602,9 @@
 		"20s3tr": "vox/buffclass20s3tr/character/gamestart1.wav",
 		"20s3ct": "vox/buffclass20s3ct/character/gamestart1.wav",
 		"20s4tr": "vox/buffclass20s4tr/character/gamestart1.wav",
-		"20s4ct": "vox/buffclass20s4ct/character/gamestart1.wav"
+		"20s4ct": "vox/buffclass20s4ct/character/gamestart1.wav",
+		"21s1tr": "vox/buffclass21s1tr/character/gamestart1.wav",
+		"21s1ct": "vox/buffclass21s1ct/character/gamestart1.wav"
 	},
 	
 	"MRAD_NEGATIVE": {
@@ -591,7 +629,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/negative1.wav", "radio/buffclass20s3tr/negative2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/negative1.wav", "radio/buffclass20s3ct/negative2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/negative1.wav", "radio/buffclass20s4tr/negative2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/negative1.wav", "radio/buffclass20s4ct/negative2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/negative1.wav", "radio/buffclass20s4ct/negative2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/negative1.wav", "radio/buffclass21s1tr/negative2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/negative1.wav", "radio/buffclass21s1ct/negative2.wav"]
 	},
 	
 	"MRAD_POINT": {
@@ -623,7 +663,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/position1.wav", "radio/buffclass20s3tr/position2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/position1.wav", "radio/buffclass20s3ct/position2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/position1.wav", "radio/buffclass20s4tr/position2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/position1.wav", "radio/buffclass20s4ct/position2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/position1.wav", "radio/buffclass20s4ct/position2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/position1.wav", "radio/buffclass21s1tr/position2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/position1.wav", "radio/buffclass21s1ct/position2.wav"]
 	},
 	
 	"MRAD_REGROUP": {
@@ -648,7 +690,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/regroup1.wav", "radio/buffclass20s3tr/regroup2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/regroup1.wav", "radio/buffclass20s3ct/regroup2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/regroup1.wav", "radio/buffclass20s4tr/regroup2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/regroup1.wav", "radio/buffclass20s4ct/regroup2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/regroup1.wav", "radio/buffclass20s4ct/regroup2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/regroup1.wav", "radio/buffclass21s1tr/regroup2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/regroup1.wav", "radio/buffclass21s1ct/regroup2.wav"]
 	},
 	
 	"MRAD_REPORTIN": {
@@ -673,7 +717,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/reportin1.wav", "radio/buffclass20s3tr/reportin2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/reportin1.wav", "radio/buffclass20s3ct/reportin2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/reportin1.wav", "radio/buffclass20s4tr/reportin2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/reportin1.wav", "radio/buffclass20s4ct/reportin2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/reportin1.wav", "radio/buffclass20s4ct/reportin2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/reportin1.wav", "radio/buffclass21s1tr/reportin2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/reportin1.wav", "radio/buffclass21s1ct/reportin2.wav"]
 	},
 	
 	"MRAD_REPRTINGIN": {
@@ -698,7 +744,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/allclear1.wav", "radio/buffclass20s3tr/allclear2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/allclear1.wav", "radio/buffclass20s3ct/allclear2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/allclear1.wav", "radio/buffclass20s4tr/allclear2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/allclear1.wav", "radio/buffclass20s4ct/allclear2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/allclear1.wav", "radio/buffclass20s4ct/allclear2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/allclear1.wav", "radio/buffclass21s1tr/allclear2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/allclear1.wav", "radio/buffclass21s1ct/allclear2.wav"]
 	},
 	
 	"MRAD_RESCUED": {
@@ -730,7 +778,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/roger1.wav", "radio/buffclass20s3tr/roger2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/roger1.wav", "radio/buffclass20s3ct/roger2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/roger1.wav", "radio/buffclass20s4tr/roger2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/roger1.wav", "radio/buffclass20s4ct/roger2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/roger1.wav", "radio/buffclass20s4ct/roger2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/roger1.wav", "radio/buffclass21s1tr/roger2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/roger1.wav", "radio/buffclass21s1ct/roger2.wav"]
 	},
 	
 	"MRAD_ROUNDDRAW": {
@@ -762,7 +812,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/staytogether1.wav", "radio/buffclass20s3tr/staytogether2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/staytogether1.wav", "radio/buffclass20s3ct/staytogether2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/staytogether1.wav", "radio/buffclass20s4tr/staytogether2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/staytogether1.wav", "radio/buffclass20s4ct/staytogether2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/staytogether1.wav", "radio/buffclass20s4ct/staytogether2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/staytogether1.wav", "radio/buffclass21s1tr/staytogether2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/staytogether1.wav", "radio/buffclass21s1ct/staytogether2.wav"]
 	},
 	
 	"MRAD_STORMFRONT": {
@@ -787,7 +839,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/stormfront1.wav", "radio/buffclass20s3tr/stormfront2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/stormfront1.wav", "radio/buffclass20s3ct/stormfront2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/stormfront1.wav", "radio/buffclass20s4tr/stormfront2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/stormfront1.wav", "radio/buffclass20s4ct/stormfront2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/stormfront1.wav", "radio/buffclass20s4ct/stormfront2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/stormfront1.wav", "radio/buffclass21s1tr/stormfront2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/stormfront1.wav", "radio/buffclass21s1ct/stormfront2.wav"]
 	},
 	
 	"MRAD_TAKEPOINT": {
@@ -812,7 +866,9 @@
 		"20s3tr": ["radio/buffclass20s3tr/takepoint1.wav", "radio/buffclass20s3tr/takepoint2.wav"],
 		"20s3ct": ["radio/buffclass20s3ct/takepoint1.wav", "radio/buffclass20s3ct/takepoint2.wav"],
 		"20s4tr": ["radio/buffclass20s4tr/takepoint1.wav", "radio/buffclass20s4tr/takepoint2.wav"],
-		"20s4ct": ["radio/buffclass20s4ct/takepoint1.wav", "radio/buffclass20s4ct/takepoint2.wav"]
+		"20s4ct": ["radio/buffclass20s4ct/takepoint1.wav", "radio/buffclass20s4ct/takepoint2.wav"],
+		"21s1tr": ["radio/buffclass21s1tr/takepoint1.wav", "radio/buffclass21s1tr/takepoint2.wav"],
+		"21s1ct": ["radio/buffclass21s1ct/takepoint1.wav", "radio/buffclass21s1ct/takepoint2.wav"]
 	},
 	
 	"MRAD_TERWIN": {
@@ -868,7 +924,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/emotion/hi1.wav", "vox/buffclass20s3tr/emotion/hi2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/emotion/hi1.wav", "vox/buffclass20s3ct/emotion/hi2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/emotion/hi1.wav", "vox/buffclass20s4tr/emotion/hi2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/emotion/hi1.wav", "vox/buffclass20s4ct/emotion/hi2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/emotion/hi1.wav", "vox/buffclass20s4ct/emotion/hi2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/emotion/hi1.wav", "vox/buffclass21s1tr/emotion/hi2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/emotion/hi1.wav", "vox/buffclass21s1ct/emotion/hi2.wav"]
 	},
 	"MRAD_EMOTION_INTERACTION": {
 		"19s1man": "vox/buffclass19s1tr/emotion/Interaction2.wav",
@@ -885,7 +943,8 @@
 		"19s4tr": ["vox/buffclass19s4tr/emotion/taunt1.wav", "vox/buffclass19s4tr/emotion/taunt2.wav"],
 		"19s4ct": ["vox/buffclass19s4ct/emotion/taunt1.wav", "vox/buffclass19s4ct/emotion/taunt2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/emotion/provoke1.wav", "vox/buffclass20s3ct/emotion/provoke2.wav"],
-		"20s4tr": ["vox/buffclass20s4tr/emotion/provoke1.wav", "vox/buffclass20s4tr/emotion/provoke2.wav"]
+		"20s4tr": ["vox/buffclass20s4tr/emotion/provoke1.wav", "vox/buffclass20s4tr/emotion/provoke2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/emotion/provoke1.wav", "vox/buffclass21s1tr/emotion/provoke2.wav"]
 	},
 	"MRAD_EMOTION_PROVOKE2": {
 		"man": "weapons/man_provoke2.wav",
@@ -914,7 +973,8 @@
 		"19s1woman": "vox/buffclass19s1ct/emotion/Anger.wav",
 		"19s2man": ["vox/buffclass19s2ct/emotion/angry1.wav", "vox/buffclass19s2ct/emotion/angry2.wav"],
 		"19s4tr": "vox/buffclass19s4tr/emotion/Anger1.wav",
-		"20s4tr": ["vox/buffclass20s4tr/emotion/Anger1.wav", "vox/buffclass20s4tr/emotion/Anger2.wav"]
+		"20s4tr": ["vox/buffclass20s4tr/emotion/Anger1.wav", "vox/buffclass20s4tr/emotion/Anger2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/emotion/Irritation1.wav", "vox/buffclass21s1ct/emotion/Irritation2.wav"]
 	},
 	"MRAD_EMOTION_DANCE": {
 		"man": "weapons/man_dance.wav",
@@ -922,7 +982,9 @@
 		"jin": "weapons/jsy_dance.wav",
 		"20s2tr": ["vox/buffclass20s2tr/emotion/dance1.wav", "vox/buffclass20s2tr/emotion/dance2.wav"],
 		"20s3tr": ["vox/buffclass20s3tr/emotion/dance1.wav", "vox/buffclass20s3tr/emotion/dance2.wav"],
-		"20s3ct": ["vox/buffclass20s3ct/emotion/dance1.wav", "vox/buffclass20s3ct/emotion/dance2.wav"]
+		"20s3ct": ["vox/buffclass20s3ct/emotion/dance1.wav", "vox/buffclass20s3ct/emotion/dance2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/emotion/dance1.wav", "vox/buffclass21s1tr/emotion/dance2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/emotion/dance1.wav", "vox/buffclass21s1ct/emotion/dance2.wav"]
 	},
 	"MRAD_EMOTION_SPECIAL": {
 		"man": "weapons/man_special.wav",
@@ -986,6 +1048,15 @@
 	"MRAD_EMOTION_STRETCHING": {
 		"20s4ct": ["vox/buffclass20s4ct/emotion/Stretching1.wav", "vox/buffclass20s4ct/emotion/Stretching2.wav"]
 	},
+	"MRAD_EMOTION_CURIOSITY": {
+		"21s1ct": ["vox/buffclass21s1ct/emotion/Curious1.wav", "vox/buffclass21s1ct/emotion/Curious2.wav"]
+	},
+	"MRAD_EMOTION_IRRITATION": {
+		"21s1tr": ["vox/buffclass21s1tr/emotion/Irritation1.wav", "vox/buffclass21s1tr/emotion/Irritation2.wav"]
+	},
+	"MRAD_EMOTION_ENCOURAGE": {
+		"21s1tr": ["vox/buffclass21s1tr/emotion/encourage1.wav", "vox/buffclass21s1tr/emotion/encourage2.wav"]
+	},
 	
 	// 인게임 알림 관련
 	"MRAD_HEADSHOT": {
@@ -1004,7 +1075,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/character/Headshot1.wav", "vox/buffclass20s3tr/character/Headshot2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/character/Headshot1.wav", "vox/buffclass20s3ct/character/Headshot2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/character/Headshot1.wav", "vox/buffclass20s4tr/character/Headshot2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/character/Headshot1.wav", "vox/buffclass20s4ct/character/Headshot2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/character/Headshot1.wav", "vox/buffclass20s4ct/character/Headshot2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/character/Headshot1.wav", "vox/buffclass21s1tr/character/Headshot2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/character/Headshot1.wav", "vox/buffclass21s1ct/character/Headshot2.wav"]
 	},
 	"MRAD_KNIFEKILL": {
 		"19s1man": "vox/buffclass19s1tr/character/meleekill.wav",
@@ -1022,7 +1095,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/character/MeleeKill1.wav", "vox/buffclass20s3tr/character/MeleeKill2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/character/MeleeKill1.wav", "vox/buffclass20s3ct/character/MeleeKill2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/character/MeleeKill1.wav", "vox/buffclass20s4tr/character/MeleeKill2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/character/MeleeKill1.wav", "vox/buffclass20s4ct/character/MeleeKill2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/character/MeleeKill1.wav", "vox/buffclass20s4ct/character/MeleeKill2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/character/MeleeKill1.wav", "vox/buffclass21s1tr/character/MeleeKill2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/character/MeleeKill1.wav", "vox/buffclass21s1ct/character/MeleeKill2.wav"]
 	},
 	"MRAD_REVENGE": {
 		"19s1man": "vox/buffclass19s1tr/character/revengeKill.wav",
@@ -1038,7 +1113,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/character/RevengeKill1.wav", "vox/buffclass20s3tr/character/RevengeKill2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/character/RevengeKill1.wav", "vox/buffclass20s3ct/character/RevengeKill2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/character/RevengeKill1.wav", "vox/buffclass20s4tr/character/RevengeKill2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/character/RevengeKill1.wav", "vox/buffclass20s4ct/character/RevengeKill2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/character/RevengeKill1.wav", "vox/buffclass20s4ct/character/RevengeKill2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/character/RevengeKill1.wav", "vox/buffclass21s1tr/character/RevengeKill2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/character/RevengeKill1.wav", "vox/buffclass21s1ct/character/RevengeKill2.wav"]
 	},
 	
 	// 좀비모드 스킬
@@ -1056,7 +1133,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/zombie/sprint_start1.wav", "vox/buffclass20s3tr/zombie/sprint_start2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/zombie/sprint_start1.wav", "vox/buffclass20s3ct/zombie/sprint_start2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/zombie/sprint_start1.wav", "vox/buffclass20s4tr/zombie/sprint_start2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/zombie/sprint_start1.wav", "vox/buffclass20s4ct/zombie/sprint_start2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/zombie/sprint_start1.wav", "vox/buffclass20s4ct/zombie/sprint_start2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/zombie/sprint_start1.wav", "vox/buffclass21s1tr/zombie/sprint_start2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/zombie/sprint_start1.wav", "vox/buffclass21s1ct/zombie/sprint_start2.wav"]
 	},
 	"MRAD_SPRINT_END": {
 		"man": "vox/man/sprint_end_default.wav",
@@ -1074,7 +1153,9 @@
 		"20s3tr": "vox/buffclass20s3tr/zombie/sprint_end.wav",
 		"20s3ct": "vox/buffclass20s3ct/zombie/sprint_end.wav",
 		"20s4tr": "vox/buffclass20s4tr/zombie/sprint_end.wav",
-		"20s4ct": "vox/buffclass20s4ct/zombie/sprint_end.wav"
+		"20s4ct": "vox/buffclass20s4ct/zombie/sprint_end.wav",
+		"21s1tr": "vox/buffclass21s1tr/zombie/sprint_end.wav",
+		"21s1ct": "vox/buffclass21s1ct/zombie/sprint_end.wav"
 	},
 	"MRAD_DEADLYSHOT": {
 		"19s1man": "vox/buffclass19s1tr/zombie/deadlyshot.wav",
@@ -1090,7 +1171,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/zombie/deadlyshot1.wav", "vox/buffclass20s3tr/zombie/deadlyshot2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/zombie/deadlyshot1.wav", "vox/buffclass20s3ct/zombie/deadlyshot2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/zombie/deadlyshot1.wav", "vox/buffclass20s4tr/zombie/deadlyshot2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/zombie/deadlyshot1.wav", "vox/buffclass20s4ct/zombie/deadlyshot2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/zombie/deadlyshot1.wav", "vox/buffclass20s4ct/zombie/deadlyshot2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/zombie/deadlyshot1.wav", "vox/buffclass21s1tr/zombie/deadlyshot2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/zombie/deadlyshot1.wav", "vox/buffclass21s1ct/zombie/deadlyshot2.wav"]
 	},
 	"MRAD_GAIN_MUTAION": {
 		"19s1man": ["vox/buffclass19s1tr/zombie/evolution1.wav", "vox/buffclass19s1tr/zombie/evolution2.wav"],
@@ -1106,7 +1189,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/zombie/evolution1.wav", "vox/buffclass20s3tr/zombie/evolution2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/zombie/evolution1.wav", "vox/buffclass20s3ct/zombie/evolution2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/zombie/evolution1.wav", "vox/buffclass20s4tr/zombie/evolution2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/zombie/evolution1.wav", "vox/buffclass20s4ct/zombie/evolution2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/zombie/evolution1.wav", "vox/buffclass20s4ct/zombie/evolution2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/zombie/evolution1.wav", "vox/buffclass21s1tr/zombie/evolution2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/zombie/evolution1.wav", "vox/buffclass21s1ct/zombie/evolution2.wav"]
 	},
 	"MRAD_BUFFCLASS_SKILL": {
 		"19s1man": "vox/buffclass19s1tr/emotion/Energyfield.wav",
@@ -1122,7 +1207,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/emotion/Energyfield1.wav", "vox/buffclass20s3tr/emotion/Energyfield2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/emotion/Energyfield1.wav", "vox/buffclass20s3ct/emotion/Energyfield2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/emotion/Energyfield1.wav", "vox/buffclass20s4tr/emotion/Energyfield2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/emotion/Energyfield1.wav", "vox/buffclass20s4ct/emotion/Energyfield2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/emotion/Energyfield1.wav", "vox/buffclass20s4ct/emotion/Energyfield2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/emotion/Energyfield1.wav", "vox/buffclass21s1tr/emotion/Energyfield2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/emotion/Energyfield1.wav", "vox/buffclass21s1ct/emotion/Energyfield2.wav"]
 	},
 	
 	// 상호작용 특수대사
@@ -1220,7 +1307,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/character/win1.wav", "vox/buffclass20s3tr/character/win2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/character/win1.wav", "vox/buffclass20s3ct/character/win2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/character/win1.wav", "vox/buffclass20s4tr/character/win2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/character/win1.wav", "vox/buffclass20s4ct/character/win2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/character/win1.wav", "vox/buffclass20s4ct/character/win2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/character/win1.wav", "vox/buffclass21s1tr/character/win2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/character/win1.wav", "vox/buffclass21s1ct/character/win2.wav"]
 	},
 	"MRAD_LOSE": {
 		"19s1man": ["vox/buffclass19s1tr/character/lose1.wav", "vox/buffclass19s1tr/character/lose2.wav"],
@@ -1236,7 +1325,9 @@
 		"20s3tr": ["vox/buffclass20s3tr/character/lose1.wav", "vox/buffclass20s3tr/character/lose2.wav"],
 		"20s3ct": ["vox/buffclass20s3ct/character/lose1.wav", "vox/buffclass20s3ct/character/lose2.wav"],
 		"20s4tr": ["vox/buffclass20s4tr/character/lose1.wav", "vox/buffclass20s4tr/character/lose2.wav"],
-		"20s4ct": ["vox/buffclass20s4ct/character/lose1.wav", "vox/buffclass20s4ct/character/lose2.wav"]
+		"20s4ct": ["vox/buffclass20s4ct/character/lose1.wav", "vox/buffclass20s4ct/character/lose2.wav"],
+		"21s1tr": ["vox/buffclass21s1tr/character/lose1.wav", "vox/buffclass21s1tr/character/lose2.wav"],
+		"21s1ct": ["vox/buffclass21s1ct/character/lose1.wav", "vox/buffclass21s1ct/character/lose2.wav"]
 	},
 	
 	// 피격, 사망(mp 재생)
@@ -1270,7 +1361,9 @@
 		"20s3tr": ["player/buffclass20s3tr/hit_flesh-1.wav", "player/buffclass20s3tr/hit_flesh-2.wav", "player/buffclass20s3tr/hit_flesh-3.wav"],
 		"20s3ct": ["player/buffclass20s3ct/f_hit_flesh-1.wav", "player/buffclass20s3ct/f_hit_flesh-2.wav", "player/buffclass20s3ct/f_hit_flesh-3.wav"],
 		"20s4tr": ["player/buffclass20s4tr/f_hit_flesh-1.wav", "player/buffclass20s4tr/f_hit_flesh-2.wav", "player/buffclass20s4tr/f_hit_flesh-3.wav"],
-		"20s4ct": ["player/buffclass20s4ct/f_hit_flesh-1.wav", "player/buffclass20s4ct/f_hit_flesh-2.wav", "player/buffclass20s4ct/f_hit_flesh-3.wav"]
+		"20s4ct": ["player/buffclass20s4ct/f_hit_flesh-1.wav", "player/buffclass20s4ct/f_hit_flesh-2.wav", "player/buffclass20s4ct/f_hit_flesh-3.wav"],
+		"21s1tr": ["player/buffclass21s1tr/f_hit_flesh-1.wav", "player/buffclass21s1tr/f_hit_flesh-2.wav", "player/buffclass21s1tr/f_hit_flesh-3.wav"],
+		"21s1ct": ["player/buffclass21s1ct/f_hit_flesh-1.wav", "player/buffclass21s1ct/f_hit_flesh-2.wav", "player/buffclass21s1ct/f_hit_flesh-3.wav"]
 	},
 	"VOICE_DEATH": {
 		"19s1man": ["player/buffclass19s1tr/die1.wav", "player/buffclass19s1tr/die2.wav"],
@@ -1288,6 +1381,8 @@
 		"20s3tr": ["player/buffclass20s3tr/die1.wav", "player/buffclass20s3tr/die2.wav"],
 		"20s3ct": ["player/buffclass20s3ct/die1.wav", "player/buffclass20s3ct/die2.wav"],
 		"20s4tr": ["player/buffclass20s4tr/die1.wav", "player/buffclass20s4tr/die2.wav"],
-		"20s4ct": ["player/buffclass20s4ct/die1.wav", "player/buffclass20s4ct/die2.wav"]
+		"20s4ct": ["player/buffclass20s4ct/die1.wav", "player/buffclass20s4ct/die2.wav"],
+		"21s1tr": ["player/buffclass21s1tr/die1.wav", "player/buffclass21s1tr/die2.wav"],
+		"21s1ct": ["player/buffclass21s1ct/die1.wav", "player/buffclass21s1ct/die2.wav"]
 	}
 }
