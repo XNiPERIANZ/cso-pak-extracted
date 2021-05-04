@@ -650,6 +650,43 @@ CSO_EmotionR
 0. İptal
 }
 
+
+CSO_EmotionT
+{
+\rDuygular\w
+1. "Selamlama"
+2. "Kışkırt"
+3. "Kıskan"
+4. "Dans"
+0. İptal
+}
+
+CSO_EmotionU
+{
+\rİfadeler\w
+1. "Karşıla"
+2. "Özet"
+3. "Kıskan"
+4. "Uzat"
+0. İptal
+}
+CSO_EmotionV
+{
+\rİfadeler\w1. "Karşıla"
+2. "Öfke"
+3. "Kışkırt"
+4. "Cesaretlendir"
+0. İptal
+}
+CSO_EmotionW
+{
+\rİfadeler\w1. "Karşıla"
+2. "Meraklı"
+3. "Öfke"
+4. "Dans"
+0. İptal
+}
+
 // weapon names
 
 // RIFLES

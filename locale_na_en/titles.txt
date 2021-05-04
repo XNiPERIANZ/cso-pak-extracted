@@ -588,7 +588,6 @@ CSO_EmotionL
 CSO_EmotionM
 {
 \rEmotions\w
-
 1. "Greeting"
 2. "Charming"
 3. "Transforming"
@@ -599,7 +598,6 @@ CSO_EmotionM
 CSO_EmotionN
 {
 \rEmotions\w
-
 1. "Greeting"
 2. "Charming"
 2. "Provoke"
@@ -630,7 +628,6 @@ CSO_EmotionP
 CSO_EmotionQ
 {
 \rEmotions\w
-
 1. "Salute"
 2. "Exercise"
 3. "Stumble"
@@ -641,7 +638,6 @@ CSO_EmotionQ
 CSO_EmotionR
 {
 \rEmotions\w
-
 1. "Salute"
 2. "Training"
 3. "Exercise"
@@ -667,16 +663,42 @@ CSO_EmotionT
 0. Cancel
 }
 
+
+
 CSO_EmotionU
 {
-\r이모션표현\w
-
-1. "인사"
-2. "브리핑"
-3. "질투"
-4. "스트레칭"
-0. 취소
+\rEmotes\w
+1. "Greet"
+2. "Brief"
+3. "Envy"
+4. "Stretch"
+0. Cancel
 }
+
+CSO_EmotionV
+{
+\rEmotes\w
+1. "Greet"
+2. "Anger"
+3. "Provoke"
+4. "Encourage"
+0. Cancel
+}
+
+CSO_EmotionW
+{
+\rEmotes\w
+1. "Greet"
+2. "Curious"
+3. "Anger"
+4. "Dance"
+0. Cancel
+}
+
+
+
+
+이 번역은 따로 전달 바랍니다.
 // weapon names
 
 // RIFLES

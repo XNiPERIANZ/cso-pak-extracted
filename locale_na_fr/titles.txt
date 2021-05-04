@@ -649,6 +649,52 @@ CSO_EmotionR
 0. Annuler
 }
 
+
+CSO_EmotionS
+{
+\rÉmotions\w
+1. ''Salutation''
+2. ''Provocation''
+3. ''Plaisanterie''
+4. ''Danse''
+0. Annuler
+}
+CSO_EmotionT
+{
+\rÉmotions\w
+1. ''Salutation''
+2. ''Provocation''
+3. ''Jalousie''
+4. ''Danse''
+0. Annuler
+}
+
+CSO_EmotionU
+{
+\rÉmotes\w
+1. ''Salutations''
+2. ''Information''
+3. ''Jalousie''
+4. ''Étirements''
+0. Annuler
+}
+CSO_EmotionV
+{
+\rÉmotes\w1. ''Salutations''
+2. ''Colère''
+3. ''Provocation''
+4. ''Encouragements''
+0. Annuler
+}
+CSO_EmotionW
+{
+\rÉmotes\w1. ''Salutations''
+2. ''Curiosité''
+3. ''Colère''
+4. ''Danse''
+0. Annuler
+}
+
 // weapon names
 
 // RIFLES

@@ -648,6 +648,42 @@ CSO_EmotionR
 0. Cancelar
 }
 
+CSO_EmotionT
+{
+\rEmociones\w
+1. «Saludo»
+2. «Provocación»
+3. «Envidia»
+4. «Baile»
+0. Cancelar
+}
+
+CSO_EmotionU
+{
+\rGestos\w
+1. «Saludo»
+2. «Informe»
+3. «Envidia»
+4. «Estiramiento»
+0. Cancelar
+}
+CSO_EmotionV
+{
+\rGestos\w1. «Saludo»
+2. «Enojo»
+3. «Provocación»
+4. «Apoyo»
+0. Cancelar
+}
+CSO_EmotionW
+{
+\rGestos\w1. «Saludo»
+2. «Curiosidad»
+3. «Enojo»
+4. «Baile»
+0. Cancelar
+}
+
 // weapon names
 
 // RIFLES

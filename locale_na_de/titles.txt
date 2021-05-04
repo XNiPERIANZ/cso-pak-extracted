@@ -648,6 +648,51 @@ CSO_EmotionR
 0. Abbrechen
 }
 
+CSO_EmotionS
+{
+\rGefühle\w
+1. „Gruß“
+2. „Provozieren“
+3. „Witz“
+4. „Tanzen“
+0. Abbrechen
+}
+CSO_EmotionT
+{
+\rGefühle\w
+1. „Gruß“
+2. „Provozieren“
+3. „Neidisch“
+4. „Tanzen“
+0. Abbrechen
+}
+
+CSO_EmotionU
+{
+\rEmotes\w
+1. „Grüße“
+2. „Keine Zeit“
+3. „Neidisch“
+4. „Dehnen“
+0. Abbrechen
+}
+CSO_EmotionV
+{
+\rEmotes\w1. „Grüße“
+2. „Ärger“
+3. „Provozieren“
+4. „Ermutigen“
+0. Abbrechen
+}
+CSO_EmotionW
+{
+\rEmotes\w1. „Grüße“
+2. „Neugier“
+3. „Ärger“
+4. „Tanzen“
+0. Abbrechen
+}
+
 // Waffen Namen
 
 // GEWEHRE

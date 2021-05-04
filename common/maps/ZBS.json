@@ -37,7 +37,7 @@
 				"ID": 0,
 				"Name": "extraatk",
 				"ItemID": 3619,
-				"Params": { "Damage": 120 }
+				"Params": { "Damage": 100 }
 			},
 			{
 				"ID": 1,
@@ -80,7 +80,7 @@
 				"Name": "addbullet",
 				"ItemID": 3624,
 				"Params": {
-					"Percent": 5,
+					"Percent": 7,
 					"Clip": 5
 				}
 			},
@@ -149,7 +149,7 @@
 				"Name": "evadetrap",
 				"ItemID": 3632,
 				"Params": {
-					"Percent": 25
+					"Percent": 30
 				}
 			},
 			{
@@ -167,7 +167,7 @@
 				"Params": {
 					"MoveDist": 9,
 					"Range": 5,
-					"Damage": 250
+					"Damage": 300
 				}
 			},
 			{
@@ -184,7 +184,7 @@
 				"Name": "lovemedikit",
 				"ItemID": 3636,
 				"Params": {
-					"CoolTime": 6
+					"CoolTime": 10
 				}
 			},
 			{
@@ -192,7 +192,7 @@
 				"Name": "loverevivalkit",
 				"ItemID": 3637,
 				"Params": {
-					"Percent":12
+					"Percent":15
 				}
 			},
 			{
@@ -200,6 +200,7 @@
 				"Name": "moremoney",
 				"ItemID": 3638,
 				"Params": {
+				"AddPercent":100
 				}
 			},
 			{
@@ -208,7 +209,50 @@
 				"ItemID": 3639,
 				"Params": {
 				}
+			},
+			{
+				"ID": 21,
+				"Name": "weaponhelper",
+				"ItemID":3640,
+				"Params":{}
+			},
+			{
+				"ID": 22,
+				"Name": "evasion",
+				"ItemID":3641,
+				"Params":{"Percent":10}
+			},
+			{
+				"ID": 23,
+				"Name": "extraaddon",
+				"ItemID":3642,
+				"Params":{}
+			},
+			{
+				"ID": 24,
+				"Name": "healer",
+				"ItemID":3643,
+				"Params":{"Range":6, "Percent":1, "MinHeal":3, "MaxHeal":100}
+			},
+			{
+				"ID": 25,
+				"Name": "avenger",
+				"ItemID":3644,
+				"Params":{"DmgPercent":3, "MaxPercent":60}
+			},
+			{
+				"ID": 26,
+				"Name": "groupbattle",
+				"ItemID":3645,
+				"Params":{"Dist":10, "DmgPercent":4}
+			},
+			{
+				"ID": 27,
+				"Name": "extrahealth",
+				"ItemID":3646,
+				"Params":{"HP":500}
 			}
+			
 		]
 	},
 	"ZBS_Elite": {
@@ -278,6 +322,17 @@
 				"maxSpeed": 290,
 				"bonusMoney": 16000,
 				"killType": 0
+			},
+			{
+				"difficulty": 7,
+				"attackDamage": 800,
+				"attackRange": 120,
+				"attackInterval": 3,
+				"maxHealth": 9000000,
+				"maxArmor": 9000000,
+				"maxSpeed": 290,
+				"bonusMoney": 16000,
+				"killType": 0
 			}
 		],
 		"Colors": [204, 51, 255],
@@ -305,13 +360,16 @@
 				},
 				"Params6": {
 					"Num": 4
+				},
+				"Params7": {
+					"Num": 4
 				}
 			},
 			{
 				"ID": 2,
 				"Name": "AttackUp",
 				"Params": {
-					"Percent": 30
+					"Percent": 20
 				}
 			},
 			{
@@ -335,6 +393,12 @@
 					"Damage": 450
 				},
 				"Params6": {
+					"CoolTime": 8,
+					"Speed": 200,
+					"HP": 8000,
+					"Damage": 600
+				},
+				"Params7": {
 					"CoolTime": 8,
 					"Speed": 200,
 					"HP": 8000,
@@ -364,6 +428,12 @@
 					"SpeedPercent": 30,
 					"SpeedDownDuration": 4,
 					"Damage": 300
+				},
+				"Params7": {
+					"CoolTime": 8,
+					"SpeedPercent": 30,
+					"SpeedDownDuration": 4,
+					"Damage": 400
 				}
 			},
 			{
@@ -376,6 +446,9 @@
 					"CoolTime": 9
 				},
 				"Params6": {
+					"CoolTime": 8
+				},
+				"Params7": {
 					"CoolTime": 8
 				}
 			},
@@ -400,7 +473,12 @@
 					"CoolTime": 8,
 					"Damage": 250,
 					"Duration": 4
-				} 
+				},
+				"Params7": {
+					"CoolTime": 8,
+					"Damage": 350,
+					"Duration": 4
+				}  
 			},
 			{
 				"ID": 7,
@@ -422,6 +500,10 @@
 				"Params6": {
 					"CoolTime": 5,
 					"Damage": 300
+				},
+				"Params7": {
+					"CoolTime": 5,
+					"Damage": 420
 				}
 			},
 			{
@@ -440,6 +522,10 @@
 				},
 				"Params6": {
 					"CoolTime": 15,
+					"Duration": 4
+				},
+				"Params7": {
+					"CoolTime": 12,
 					"Duration": 4
 				}
 			},
@@ -470,6 +556,10 @@
 				"Params6": {
 					"HP": 250,
 					"Bonus": 4
+				},
+				"Params7": {
+					"HP": 400,
+					"Bonus": 2
 				}
 			},
 			{
@@ -506,6 +596,10 @@
 				"Params6" : {
 					"CoolTime": 10,
 					"Damage": 150
+				},
+				"Params7" : {
+					"CoolTime": 10,
+					"Damage": 210
 				}
 			},
 			{
@@ -521,6 +615,9 @@
 					"SpeedDown": 50
 				},
 				"Params6": {
+					"SpeedDown": 60
+				},
+				"Params7": {
 					"SpeedDown": 70
 				}
 			}
