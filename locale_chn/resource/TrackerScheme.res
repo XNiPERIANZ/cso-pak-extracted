@@ -300,6 +300,7 @@
 	"CustomFontFiles"
 	{
 		"1"		"resource/Font/DF_GB_Y9.TTF"
+		"2"		"resource/Font/sarasa_ui_sc.ttf"
 	}
   	
 	"Fonts"
@@ -455,17 +456,6 @@
 				"tall"		"14"
 				"weight"		"0"
 				"symbol"		"1"
-			}
-		}
-		"MarlettSmall"
-		{
-			"1"
-			{
-				"name"		"Marlett"
-				"tall"		"10"
-				"weight"		"0"
-				"symbol"		"1"
-				"antialias"		"1"				
 			}
 		}
 		"EngineFont"

@@ -237,6 +237,7 @@
 	"CustomFontFiles"
 	{
 		"1"		"resource/Font/DF_GB_Y9.TTF"
+		"2"		"resource/Font/sarasa_ui_sc.ttf"
 	}
 	
 	"Fonts"
