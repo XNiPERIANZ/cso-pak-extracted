@@ -545,8 +545,6 @@ v_buffaug.mdl,1,8496,resource/WeaponPaint/texture/21rb01$20@004buffaug02_v.bmp
 p_buffaug.mdl,0,8496,resource/WeaponPaint/texture/21rb#256255buffaug_p.bmp
 w_buffaug.mdl,0,8496,resource/WeaponPaint/texture/21rb#256255buffaug_p.bmp
 s_buffaug.mdl,0,8496,resource/WeaponPaint/texture/21rb#256255buffaug_p.bmp
-<<<<<<< HEAD
-=======
 v_bloodhunter.mdl,2,8519,resource/WeaponPaint/texture/y21s2@004_bloodhunter_v.bmp
 p_bloodhunter.mdl,0,8519,resource/WeaponPaint/texture/y21s2#256256bloodhunter_p.bmp
 w_bloodhunter.mdl,0,8519,resource/WeaponPaint/texture/y21s2#256256bloodhunter_p.bmp
@@ -616,4 +614,3 @@ p_bendita.mdl,1,8520,resource/WeaponPaint/texture/y21s2#256256bendita_p.bmp
 v_lance.mdl,0,8520,resource/WeaponPaint/texture/y21s2$20@004_y20s4_buff01_v.bmp
 v_lance.mdl,1,8520,resource/WeaponPaint/texture/y21s2$20@004_y20s4_buff02_v.bmp
 p_lance.mdl,0,8520,resource/WeaponPaint/texture/y21s2#256256y20s4_buff_p.bmp
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf

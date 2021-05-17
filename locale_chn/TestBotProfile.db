@@ -333,11 +333,7 @@ Elite	"BOT_全员带恶人"
 	VoicePitch = 93
 End		
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Elite	"BOT_延续"
-=======
-Elite	"나랑친구하자"
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 98
 End	
 	
@@ -353,11 +349,7 @@ Elite	 "BOT_承包所有鱼塘"
 	VoicePitch = 89	
 End	
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Elite	 "BOT_单曲循环"
-=======
-Elite	 "충성충성카스"	
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 93	
 End	
 		
@@ -535,11 +527,7 @@ Expert	"BOT_挡在你前面"
 	VoicePitch = 93
 End		
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Expert	"BOT_流断了前世"
-=======
-Expert	"나랑친구하자"
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 98
 End	
 	
@@ -555,11 +543,7 @@ Expert	 "BOT_仅此而已"
 	VoicePitch = 89	
 End	
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Expert	 "BOT_假动作"
-=======
-Expert	 "충성충성카스"	
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 93	
 End	
 		
@@ -737,11 +721,7 @@ VeryHard	"BOT_越走越远"
 	VoicePitch = 93
 End		
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 VeryHard	"BOT_没有个性"
-=======
-VeryHard	"나랑친구하자"
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 98
 End	
 	
@@ -757,11 +737,7 @@ VeryHard	 "BOT_如烟消逝"
 	VoicePitch = 89	
 End	
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 VeryHard	 "BOT_纯手动玩游戏"
-=======
-VeryHard	 "충성충성카스"	
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 93	
 End	
 		
@@ -939,11 +915,7 @@ Hard	"BOT_只为你独唱"
 	VoicePitch = 93
 End		
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Hard	"BOT_消失的一"
-=======
-Hard	"나랑친구하자"
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 98
 End	
 	
@@ -959,11 +931,7 @@ Hard	 "BOT_走走走停"
 	VoicePitch = 89	
 End	
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Hard	 "BOT_别皱眉头"
-=======
-Hard	 "충성충성카스"	
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 93	
 End	
 		
@@ -1141,11 +1109,7 @@ Tough	"BOT_平淡如水"
 	VoicePitch = 93
 End		
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Tough	"BOT_人满为患"
-=======
-Tough	"나랑친구하자"
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 98
 End	
 	
@@ -1161,11 +1125,7 @@ Tough	 "BOT_动作真慢"
 	VoicePitch = 89	
 End	
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Tough	 "BOT_自导自演"
-=======
-Tough	 "충성충성카스"	
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 93	
 End	
 		
@@ -1343,11 +1303,7 @@ Normal	"BOT_满目山河"
 	VoicePitch = 93
 End		
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Normal	"BOT_抬头看烟花"
-=======
-Normal	"나랑친구하자"
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 98
 End	
 	
@@ -1363,11 +1319,7 @@ Normal	 "BOT_对不起咋说"
 	VoicePitch = 89	
 End	
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Normal	 "BOT_沧桑"
-=======
-Normal	 "충성충성카스"	
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 93	
 End	
 		
@@ -1545,11 +1497,7 @@ Fair	"BOT_我还在"
 	VoicePitch = 93
 End		
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Fair	"BOT_是他们的萝莉"
-=======
-Fair	"나랑친구하자"
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 98
 End	
 	
@@ -1565,11 +1513,7 @@ Fair	 "BOT_真怕认错人"
 	VoicePitch = 89	
 End	
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Fair	 "BOT_可曾有过遗憾"
-=======
-Fair	 "충성충성카스"	
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 93	
 End	
 		
@@ -1747,11 +1691,7 @@ Easy	"BOT_再战颠峰"
 	VoicePitch = 93
 End		
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Easy	"BOT_无能为力"
-=======
-Easy	"나랑친구하자"
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 98
 End	
 	
@@ -1767,11 +1707,7 @@ Easy	 "BOT_突然成了困兽"
 	VoicePitch = 89	
 End	
 
-<<<<<<< HEAD:locale_chn/TestBotProfile.db
 Easy	 "BOT_独行在路上"
-=======
-Easy	 "충성충성카스"	
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/TestBotProfile.db
 	VoicePitch = 93	
 End	
 		
