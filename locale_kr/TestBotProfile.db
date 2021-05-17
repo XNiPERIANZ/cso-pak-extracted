@@ -333,7 +333,7 @@ Elite	"파티하실분"
 	VoicePitch = 93
 End		
 
-Elite	"아저씨랑친구할래"
+Elite	"나랑친구하자"
 	VoicePitch = 98
 End	
 	
@@ -349,7 +349,7 @@ Elite	 "특이한아이디"
 	VoicePitch = 89	
 End	
 
-Elite	 "마약같은카스"	
+Elite	 "충성충성카스"	
 	VoicePitch = 93	
 End	
 		
@@ -527,7 +527,7 @@ Expert	"파티하실분"
 	VoicePitch = 93
 End		
 
-Expert	"아저씨랑친구할래"
+Expert	"나랑친구하자"
 	VoicePitch = 98
 End	
 	
@@ -543,7 +543,7 @@ Expert	 "특이한아이디"
 	VoicePitch = 89	
 End	
 
-Expert	 "마약같은카스"	
+Expert	 "충성충성카스"	
 	VoicePitch = 93	
 End	
 		
@@ -721,7 +721,7 @@ VeryHard	"파티하실분"
 	VoicePitch = 93
 End		
 
-VeryHard	"아저씨랑친구할래"
+VeryHard	"나랑친구하자"
 	VoicePitch = 98
 End	
 	
@@ -737,7 +737,7 @@ VeryHard	 "특이한아이디"
 	VoicePitch = 89	
 End	
 
-VeryHard	 "마약같은카스"	
+VeryHard	 "충성충성카스"	
 	VoicePitch = 93	
 End	
 		
@@ -915,7 +915,7 @@ Hard	"파티하실분"
 	VoicePitch = 93
 End		
 
-Hard	"아저씨랑친구할래"
+Hard	"나랑친구하자"
 	VoicePitch = 98
 End	
 	
@@ -931,7 +931,7 @@ Hard	 "특이한아이디"
 	VoicePitch = 89	
 End	
 
-Hard	 "마약같은카스"	
+Hard	 "충성충성카스"	
 	VoicePitch = 93	
 End	
 		
@@ -1109,7 +1109,7 @@ Tough	"파티하실분"
 	VoicePitch = 93
 End		
 
-Tough	"아저씨랑친구할래"
+Tough	"나랑친구하자"
 	VoicePitch = 98
 End	
 	
@@ -1125,7 +1125,7 @@ Tough	 "특이한아이디"
 	VoicePitch = 89	
 End	
 
-Tough	 "마약같은카스"	
+Tough	 "충성충성카스"	
 	VoicePitch = 93	
 End	
 		
@@ -1303,7 +1303,7 @@ Normal	"파티하실분"
 	VoicePitch = 93
 End		
 
-Normal	"아저씨랑친구할래"
+Normal	"나랑친구하자"
 	VoicePitch = 98
 End	
 	
@@ -1319,7 +1319,7 @@ Normal	 "특이한아이디"
 	VoicePitch = 89	
 End	
 
-Normal	 "마약같은카스"	
+Normal	 "충성충성카스"	
 	VoicePitch = 93	
 End	
 		
@@ -1497,7 +1497,7 @@ Fair	"파티하실분"
 	VoicePitch = 93
 End		
 
-Fair	"아저씨랑친구할래"
+Fair	"나랑친구하자"
 	VoicePitch = 98
 End	
 	
@@ -1513,7 +1513,7 @@ Fair	 "특이한아이디"
 	VoicePitch = 89	
 End	
 
-Fair	 "마약같은카스"	
+Fair	 "충성충성카스"	
 	VoicePitch = 93	
 End	
 		
@@ -1691,7 +1691,7 @@ Easy	"파티하실분"
 	VoicePitch = 93
 End		
 
-Easy	"아저씨랑친구할래"
+Easy	"나랑친구하자"
 	VoicePitch = 98
 End	
 	
@@ -1707,7 +1707,7 @@ Easy	 "특이한아이디"
 	VoicePitch = 89	
 End	
 
-Easy	 "마약같은카스"	
+Easy	 "충성충성카스"	
 	VoicePitch = 93	
 End	
 		
