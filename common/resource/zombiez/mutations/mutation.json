@@ -286,7 +286,7 @@
     "weight": 50,
     "param1": // 확률
     {
-      "base_value": 0.01,
+      "base_value": 0.015,
       "increment": 0.005,
       "increment_period": 2,
       "is_percent": true
@@ -343,7 +343,7 @@
     }
   },
   //접촉감염
-  //접촉하는 것만으로 감염 발생
+  //좀비 주변에 있는 인간에게 틱당 대미지
   {
     "team": 2,
     "weight": 5,
@@ -359,8 +359,10 @@
     },
     "param3": // 틱당 데미지
     {
-      "base_value": 200,
-      "increment": 20
+		"base_value": 0.15,
+		"increment": 0.01,
+		"increment_period": 2,
+		"is_percent": true
     }
   },
   //육체부활
@@ -397,8 +399,8 @@
     "weight": 100,
     "param1": // 이동속도 증가량
     {
-      "base_value": 50,
-      "increment": 5
+      "base_value": 40,
+      "increment": 6
     }
   },
   //강철머리
@@ -630,7 +632,7 @@
     "param2": // 피해 감쇄
     {
       "base_value": -0.1,
-      "increment": -0.015,
+      "increment": -0.01,
       "is_percent": true
     },
     "param3": // 넉백 감쇄

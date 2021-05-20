@@ -264,7 +264,15 @@
 269,hacker,,
 270,season8buy,,
 271,season8fin,trail,3
+<<<<<<< HEAD:locale_tw/resource/title/title.csv
 272,movietw,,
 273,SecuritySystem,,
 274,NewyearCollection,,
 275,buffclass21s1title,,
+=======
+273,SecuritySystem,,
+274,NewyearCollection,,
+275,buffclass21s1title,,
+276,season9buy,,
+277,season9fin,trail,3
+>>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/resource/Title/title.csv
