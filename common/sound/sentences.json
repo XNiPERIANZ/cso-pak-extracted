@@ -1291,6 +1291,11 @@
 	{
 		"20s4ct": "vox/buffclass20s4ct/skill/tiamat2.wav"
 	},
+	"MRAD_XTRACKERMD":
+	{
+		"21s1ct":["vox/buffclass21s1ct/skill/xtrakermd1.wav", "vox/buffclass21s1ct/skill/xtrakermd2.wav"],
+		"21s1tr":["vox/buffclass21s1tr/skill/xtrakermd1.wav", "vox/buffclass21s1tr/skill/xtrakermd2.wav"]
+	},
 
 
 	"MRAD_WIN": {

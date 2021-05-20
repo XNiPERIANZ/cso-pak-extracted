@@ -166,3 +166,12 @@ id,resource,attach (0 : ¸Ó¸® / 1 : µî / 2 : °ñ¹Ý / 3 : ¾ó±¼),set id,attach_pos,s
 8490,buffclass21s1tr_back,1,0,1,0,0
 8491,buffclass21s1ct_back,1,0,1,0,0
 8492,coscsobackpack,1,0,1,0,0
+<<<<<<< HEAD
+=======
+8508,y21s2headcosa,0,0,0,0,0
+8509,y21s2headcosb,0,0,11,0,0
+8510,y21s2backcosa,1,0,1,0,0
+8511,y21s2backcosb,1,0,1,0,0
+8512,y21s2petcosa,1,0,1,0,0
+8513,y21s2petcosb,1,0,1,0,0
+>>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf
