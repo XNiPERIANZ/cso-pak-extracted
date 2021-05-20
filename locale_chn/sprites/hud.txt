@@ -1,4 +1,8 @@
+<<<<<<< HEAD:locale_chn/sprites/hud.txt
 990
+=======
+966
+>>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:common/sprites/hud.txt
 selection				640 640hud3	0	180	170	45
 bucket1				640 640hud7	168	72	20	20
 bucket2				640 640hud7	188	72	20	20
@@ -764,8 +768,11 @@ d_y21s2lockongunma			640 640hud57	172	80	48	16
 d_y21s2lockongunmb			640 640hud57	172	96	48	16
 d_y21s2lockongunmc			640 640hud57	172	112	48	16
 d_y21s2lockongunmd			640 640hud57	172	128	48	16
+<<<<<<< HEAD:locale_chn/sprites/hud.txt
 
 
+=======
+>>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:common/sprites/hud.txt
 
 
 
