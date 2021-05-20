@@ -695,35 +695,10 @@ CSO_EmotionW
 0. Cancel
 }
 
-<<<<<<< HEAD:locale_na_en/titles.txt
 
 
 
 ÀÌ ¹ø¿ªÀº µû·Î Àü´Þ ¹Ù¶ø´Ï´Ù.
-=======
-CSO_EmotionV
-{
-\rì´ëª¨ì…˜í‘œí˜„\w
-
-1. "ì¸ì‚¬"
-2. "ì§œì¦"
-3. "ë„ë°œ"
-4. "ê²©ë ¤"
-0. ì·¨ì†Œ
-}
-
-CSO_EmotionW
-{
-\rì´ëª¨ì…˜í‘œí˜„\w
-
-1. "ì¸ì‚¬"
-2. "í˜¸ê¸°ì‹¬"
-3. "ì§œì¦"
-4. "ëŒ„ìŠ¤"
-0. ì·¨ì†Œ
-}
-
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf:locale_kr/titles.txt
 // weapon names
 
 // RIFLES

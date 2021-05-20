@@ -218,7 +218,6 @@ CT,TR,C4A,C4B,Hostage,Rescue,VIP,Start,Finish,1,2,3,4,5,Red,Blue,barricade,weapo
 245,cs_estate,LoadingBg_CS_Estate,0 920 223,1 695 293,4 700 254,5 926 264,,,,,,,,,,,,,,
 246,cs_militia,LoadingBg_CS_Militia,0 930 243,1 611 240,4 632 156,4 577 212,5 938 274,,,,,,,,,,,,,
 247,zm_lakepark,LoadingBg_zm_lakepark,,,,,,,,,,,,,,,,,,
-249,de_dust,LoadingBg_DE_Dust,0 947 269,1 578 148,2 779 94,3 947 209,17 786 359,17 548 192,17 574 140,,,,,,,,,,,
 251,de_vertigo,LoadingBg_DE_Vertigo,0 944 140,1 807 98,2 929 178,3 640 83,,,,,,,,,,,,,,
 252,zm_cantera,LoadingBg_zm_cantera,,,,,,,,,,,,,,,,,,
 253,ptn_villa,LoadingBg_ptn_villa,,,,,,,,,,,,,,,,,,
