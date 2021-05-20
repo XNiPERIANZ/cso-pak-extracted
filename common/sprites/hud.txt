@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-961
-=======
 966
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf
 selection				640 640hud3	0	180	170	45
 bucket1				640 640hud7	168	72	20	20
 bucket2				640 640hud7	188	72	20	20
@@ -764,16 +760,11 @@ d_y21s1jetgunmd   	            640 640hud57	172	0 	48	16
 d_crossbowex21    	640 640hud57	172	16 	48	16
 d_sbmine		640 640hud57	172	32	48	16
 d_summonknifeex  			640 640hud57	172	48	48	16
-<<<<<<< HEAD
-
-
-=======
 d_jetgunex			640 640hud57	172	64 	48	16
 d_y21s2lockongunma			640 640hud57	172	80	48	16
 d_y21s2lockongunmb			640 640hud57	172	96	48	16
 d_y21s2lockongunmc			640 640hud57	172	112	48	16
 d_y21s2lockongunmd			640 640hud57	172	128	48	16
->>>>>>> 0fde06ecc091bd17fea52af9d60484efc84edcbf
 
 
 
