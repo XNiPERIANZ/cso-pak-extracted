@@ -1,5 +1,5 @@
 [
-  //돈벌레
+  //돈벌레 id:00
   //라운드 시작 시 변이 소유자의 달러가 param1 증감
   {
     "team": 0,
@@ -8,9 +8,24 @@
     {
       "base_value": 1000,
       "increment": 500
-    }
+    },
+	"LV2":	//레벨2 파라미터는 기존 레벨1의 동일 파라미터와 합산된 수치가 적용됩니다.
+	{
+		"param1":
+		{
+			"base_value": 250,
+			"increment": 125
+		}
+	},
+	"Boost":	//가속 파라미터는 기본 파라미터와 무관하게 별도로 적용.
+	{
+		"param1":	//즉시 획득하는 달러
+		{
+			"base_value":5000
+		}
+	}
   },
-  //인파이터
+  //인파이터 id:01
   //슬롯 3 근접 무기로 공격 시 원거리에 폭발 발생
   {
     "team": 1,
@@ -42,9 +57,27 @@
     "param6": // 쿨타임(차징 무기의 무한 연사를 막기 위한 처리)
     {
       "base_value": 0.5
-    }
+    },
+	"LV2":
+	{
+		"param1": // 거리
+		{
+		"base_value": 20
+		},
+		"param2": // 범위
+		{
+		"base_value": 15
+		}
+	},
+	"Boost":	
+	{
+		"param1":	//폭발 대미지 증가 배율
+		{
+			"base_value":3.0
+		}
+	}
   },
-  //탄창증식
+  //탄환증식 id:02
   //잔탄 최대치 및 소유량 증가
   {
     "team": 1,
@@ -59,7 +92,7 @@
       "base_value": 999
     }
   },
-  //고속장전
+  //고속장전 id:03
   //장전 속도 증가
   {
     "team": 1,
@@ -76,7 +109,7 @@
       "is_percent": true
     }
   },
-  //투명장전
+  //투명장전 id:04
   //장전 시 일시적으로 은신 상태로 변환
   {
     "team": 1,
@@ -97,18 +130,32 @@
       "increment": 0.05
     }
   },
-  //치타
+  //치타 id:05
   //이동 속도 상시 증가
   {
     "team": 0,
     "weight": 25,
     "param1": // 이동 속도 증가량
     {
-      "base_value": 8,
+      "base_value": 6,
       "increment": 2
-    }
+    },
+	"LV2":
+	{
+		"param1": // 이동 속도 증가량
+		{
+			"base_value": 6
+		}
+	},
+	"Boost":
+	{
+		"param1":	//이동 속도 증가량
+		{
+			"base_value": 60
+		}
+	}
   },
-  //캥거루
+  //캥거루 id:06
   //점프력 상시 증가
   {
     "team": 0,
@@ -117,9 +164,16 @@
     {
       "base_value": 30,
       "increment": 5
-    }
+    },
+	"LV2":
+	{
+		"param1": // 점프력 증가량
+		{
+			"base_value": 10
+		}
+	}
   },
-  //재생강화
+  //재생강화 id:07
   //비전투 상황에서 체력 회복(기본 기능과 개별 적용)
   {
     "team": 0,
@@ -133,9 +187,24 @@
     {
       "base_value": 10,
       "increment": 5
-    }
+    },
+	"LV2":
+	{
+		"param2": // 초 당 회복량
+		{
+			"base_value": 5
+		}
+	},
+	"Boost":
+	{
+		"param1":	//초 당 회복되는 비율(최대체력 대비)
+		{
+			"base_value" : 0.03,
+			"is_percent": true
+		}
+	}
   },
-  //정면돌격
+  //일점돌파 id:08
   //돌격 소총 사용 시, 앞으로 전진하고 있으면 전투 능력 향상
   {
     "team": 1,
@@ -157,9 +226,17 @@
       "base_value": 4,
       "increment": 1,
       "increment_period": 2
-    }
+    },
+	"LV2":
+	{
+		"param1": // 공격력
+		{
+			"base_value": 12
+		}
+	}
   },
-  //부스터
+  
+  //부스터 id:09
   //기관단총 장비 시 이동 속도 증가 및 추가 버프
   {
     "team": 1,
@@ -183,9 +260,16 @@
       "base_value": 40,
       "increment": 5,
       "increment_period": 2
-    }
+    },
+	"LV2":
+	{
+		 "param2": // 추가 가속 발동을 위한 요구 이동 거리
+		{
+			"base_value": -1000
+		}
+	}
   },
-  //탄환 생성
+  //탄환생성 id:10
   //장전 시 일정 확률로 탄 추가 생성
   {
     "team": 1,
@@ -201,9 +285,24 @@
       "base_value": 0.45,
       "increment": 0.05,
       "is_percent": true
-    }
+    },
+	"LV2":
+	{
+		 "param2":  // 추가 생성 분량
+		{
+			"base_value": 0.15
+		}
+	},
+	"Boost":
+	{
+		"param1":	//발동 확률
+		{
+			"base_value": 1
+		}
+	}
   },
-  //사냥 본능
+  
+  //사냥본능 id:11
   //주기적으로 범위 내 적 플레이어를 표적으로 지정, 대상에 대한 전투 능력 향상
   {
     "team": 0,
@@ -219,8 +318,8 @@
     },
     "param3": // (인간) 추가 공격력
     {
-      "base_value": 4.2,
-      "increment": 2.1
+      "base_value": 4.0,
+      "increment": 2.0
     },
     "param4": // (인간) 추가 넉백
     {
@@ -243,15 +342,44 @@
       "base_value": -0.25,
       "increment": -0.06,
       "is_percent": true
-    }
+    },
+	"LV2":
+	{
+		"param3": // (인간) 추가 공격력
+		{
+			"base_value": 4.0
+		},
+		 "param5": // (좀비) 추가 이동 속도
+		{
+			"base_value": 4.25
+		}
+	}
   },
-  //더블점프
+  //더블점프 id:12
   //공중에서 추가 점프 가능
   {
     "team": 0,
-    "weight": 25
+    "weight": 50,
+	 "param1": // 두번째 점프 증가량
+    {
+      "base_value": 0
+    },
+	"LV2":
+	{
+		"param1":
+		{
+			"base_value":0.25
+		}
+	},
+	"Boost":
+	{
+		"param1":	//두번째 점프 증가량
+		{
+			"base_value":0.75
+		}
+	}
   },
-  //폭발 탄환
+  //폭발탄환 id:13
   //일정 수량의 탄 발사 시, 다음 탄환이 탄착점에 폭발을 유발
   {
     "team": 1,
@@ -264,22 +392,38 @@
     },
     "param2": // 폭발 범위
     {
-      "base_value": 64
+      "base_value": 128
     },
     "param3": // 폭발 피해(무기 공격력의 %)
     {
       "base_value": 0.35,
       "increment": 0.05,
       "is_percent": true
-    }
+    },
+	"LV2":
+	{
+		"param3": // 폭발 피해(무기 공격력의 %)
+		{
+			"base_value":0.5,
+			"is_percent":true
+		}
+	},
+	"Boost":
+	{
+		"param1":	//폭발 확률
+		{
+			"base_value": 0.25,
+			"is_percent":true
+		}
+	}
   },
-  //강화 유전자
+  //강화 유전자 id:14
   //감염 시 숙주 단계로 자동 진화
   {
     "team": 2,
-    "weight": 50
+    "weight": 100
   },
-  //버티기
+  //버티기 id:15
   //피격 시 일정 확률로 모든 넉백과 경직을 무시합니다.
   {
     "team": 2,
@@ -296,9 +440,25 @@
       "base_value": 0.75,
       "increment": 0.25,
       "increment_period": 2
-    }
+    },
+	"LV2":
+	{
+		"param1":	// 확률
+		{
+			"base_value": 0.015,
+			"is_percent":true
+		}
+	},
+	"Boost":
+	{
+		"param1":	// 확률
+		{
+			"base_value":0.25,
+			"is_percent":true
+		}
+	}
   },
-  //화염탄
+  //발화탄 id:16
   //저격 소총 사용 시, 적에게 불을 붙임
   {
     "team": 1,
@@ -314,7 +474,7 @@
       "base_value": 1,
       "is_percent": true
     },
-    "param3": // 화염 지속 시간
+    "param3": // 발화 지속 시간
     {
       "base_value": 1.5,
       "increment": 0.25
@@ -329,9 +489,16 @@
       "base_value": 0.02,
       "increment": 0.01,
       "is_percent": true
-    }
+    },
+	"LV2":
+	{
+		 "param3": // 발화 지속 시간
+		{
+			"base_value": 2.5
+		}
+	}
   },
-  //체력증가
+  //체력증가 id:17
   //세션 중 최대체력 증가
   {
     "team": 0,
@@ -342,7 +509,7 @@
       "increment": 200
     }
   },
-  //접촉감염
+  //접촉감염 id:18
   //좀비 주변에 있는 인간에게 틱당 대미지
   {
     "team": 2,
@@ -365,45 +532,72 @@
 		"is_percent": true
     }
   },
-  //육체부활
-  //사망 시 리스폰 가능
+  //깨우침 id:19
+  //헤드샷을 맞으면 스킬 쿨타임 감소(좀비)
   {
     "team": 2,
     "weight": 200,
-    "param1": // 부활 대기 시간
+    "param1": // 감소 확률
     {
-      "base_value": 10,
-      "increment": -1
+      "base_value": 0.03,
+      "increment": 0.005,
+	  "is_percent": true
     },
-    "param2": // 즉시 부활로 변환하기 위해 필요한 요구치
+    "param2": // 최대 감소 확률
     {
-      "base_value": 3
-    }
+      "base_value": 0.08
+    },
+	"param3": //감소 쿨타임(퍼센트)
+	{
+		"base_value":0.1,
+		"is_percent":true
+	}
   },
-  //강철갑옷
+  //강철갑옷 id:20
   //방어구 수치 증가
   {
     "team": 2,
     "weight": 100,
     "param1": // 방어구 증가량
     {
-      "base_value": 0.2,
-      "increment": 0.05,
+      "base_value": 0.05,
+      "increment": 0.04,
       "is_percent": true
-    }
+    },
+	"LV2":
+	{
+		"param1": // 방어구 증가량
+		{
+		"base_value": 0.15
+		}
+	}
   },
-  //오리발
+  //오리발 id:21
   //앉은 상태에서 이동 속도 증가
   {
     "team": 2,
-    "weight": 100,
+    "weight": 25,
     "param1": // 이동속도 증가량
     {
-      "base_value": 40,
-      "increment": 6
-    }
+      "base_value": 20,
+      "increment": 4
+    },
+	"LV2":
+	{
+		"param1": // 이동속도 증가량
+		{
+			"base_value": 12
+		}
+	},
+	"Boost":
+	{
+		"param1": // 이동속도 증가량
+		{
+			"base_value": 120
+		}
+	}
   },
-  //강철머리
+  //강철머리 id:22
   //헤드샷 피해 감소
   {
     "team": 2,
@@ -413,15 +607,30 @@
       "base_value": -0.04,
       "increment": -0.03,
       "is_percent": true
-    }
+    },
+	"LV2":
+	{
+		"param1": // 피해 감쇄량
+		{
+			"base_value": -0.06
+		}
+	},
+	"Boost":
+	{
+		"param1": // 피해 감쇄량
+		{
+			"base_value": -0.5,
+			"is_percent": true
+		}
+	}
   },
-  //명사수
+  //명사수 id:23
   //저격 소총 사용 시 탄이 언제나 조준선 중앙에 명중
   {
     "team": 1,
     "weight": 100
   },
-  // 육감
+  // 육감 id:24
   // 좀비 등장 param1초 전, param2 범위 내에서 좀비 숙주가 등장하는 것을 미리 감지
   {
     "team": 1,
@@ -436,35 +645,41 @@
       "base_value": 250
     }
   },
-  //영웅등장
+  //영웅등장 id:25
   //변이 소유자에 한해 영웅/사이드킥 클래스가 활성화
   {
     "team": 0,
     "weight": 25
   },
-  //열광
+  
+  //열광 id:26
   //변이 소유자에 한해 사기충전/분노가 활성화
   {
     "team": 0,
     "weight": 100
   },
-  //스페셜리스트
+  //스페셜리스트 id:27
   //변이 소유자에 한해 스킬 활성화
   {
     "team": 1,
     "weight": 100
   },
-  //강제추락
-  //사다리에 매달린 적 공격 시 상대를 떨어뜨림
+  //강제추락 id:28
+  //공중에 있는 적을 공격할 때 일정 확률로 떨어뜨립니다. 사다리는 100%확률
+
   {
     "team": 1,
-    "weight": 25,
+    "weight": 100,
     "param1": // 사다리 사용 불가 유지 시간
     {
       "base_value": 1
-    }
+    },
+	"param2":	//공중일때 적 떨어트리는 확률
+	{
+		"base_value": 0.25
+	}
   },
-  //적응력
+  //적응력 id:29
   //언제든지 좀비 변경 가능
   {
     "team": 2,
@@ -474,9 +689,16 @@
       "base_value": 0.2,
       "increment": 0.04,
       "is_percent": true
-    }
+    },
+	"LV2":
+	{
+		"param1": // 변화 시 남는 체력
+		{
+		"base_value": 0.3
+		}
+	}
   },
-  //백신탄
+  //백신탄 id:30
   //연막탄 투척 시, 백신탄으로 대체되며 범위 공격
   {
     "team": 1,
@@ -494,9 +716,16 @@
     {
       "base_value": 20,
       "increment": 10
-    }
+    },
+	"LV2":
+	{
+		"param1": // 백신 영향 범위
+		{
+			"base_value": 40
+		}
+	}
   },
-  //폭탄배낭
+  //폭탄배낭 id:31
   //일정 주기로 수류탄 자동 생성
   {
     "team": 1,
@@ -523,7 +752,7 @@
       "increment_period": 6
     }
   },
-  //폭격지원
+  //폭격지원 id:32
   //수류탄 폭발 시 일정 확률로 벙커 버스터 폭격 지원
   {
     "team": 1,
@@ -535,7 +764,7 @@
       "is_percent": true
     }
   },
-  //치명타
+  //치명타 id:33
   //공격 시 일정 확률로 추가 피해를 주는 치명타 발생
   {
     "team": 1,
@@ -551,20 +780,35 @@
       "base_value": 1,
       "increment": 0.02,
       "is_percent": true
-    }
+    },
+	"LV2":
+	{
+		"param1":// 발동 확률
+		{
+			"base_value":0.04
+		}
+	},
+	"Boost":
+	{
+		"param1":// 가속시 발동 확률
+		{
+			"base_value":0.25,
+			"is_percent": true
+		}
+	}
   },
-  //강철총알
+  //강철총알 id:34
   //공격력이 증가합니다.
   {
     "team": 1,
-    "weight": 50,
+    "weight": 25,
     "param1": // 추가 피해
     {
       "base_value": 10,
       "increment": 1
     }
   },
-  //연발탄
+  //연발탄 id:35
   //수류탄 투척 시 추가적인 탄 생성하여 자동 투척.
   {
     "team": 1,
@@ -580,18 +824,18 @@
       "base_value": 1
     }
   },
-  //생체폭탄
+  //생체폭탄 id:36
   //일정량의 피해를 받으면 좀비 폭탄 생성
   {
     "team": 2,
-    "weight": 50,
+    "weight": 100,
     "param1": // 피해치
     {
       "base_value": 4000,
       "increment": 150
     }
   },
-  //화염구
+  //화염구 id:37
   //저격 소총 사용 시, 화염구를 발사함
   {
     "team": 1,
@@ -618,13 +862,27 @@
     {
       "base_value": 5,
       "increment": -0.2
-    }
+    },
+	"LV2":
+	{
+		 "param4": // 투사 속도
+		{
+			"base_value": 800
+		}
+	},
+	"Boost":
+	{
+		"param1":	//쿨타임
+		{
+			"base_value":1
+		}
+	}
   },
-  //코끼리
+  //코끼리 id:38
   //걷거나 앉아서 이동할 때 방어력이 상승합니다.
   {
     "team": 2,
-    "weight": 25,
+    "weight": 50,
     "param1": // 이동 요구 시간
     {
       "base_value": 0.1
@@ -646,9 +904,16 @@
       "base_value": 0.1,
       "increment": 0.03,
       "is_percent": true
-    }
+    },
+	"LV2":
+	{
+		"param2": // 피해 감쇄
+		{
+			"base_value": -0.1
+		}
+	}
   },
-  //냉각탄
+  //냉각탄 id:39
   //섬광탄 투척 시, 냉각탄으로 대체되며 범위 매즈
   {
     "team": 1,
@@ -668,7 +933,7 @@
       "increment": 0.1
     }
   },
-  //이카루스
+  //이카루스 id:40
   //공중에서 천천히 하강
   {
     "team": 0,
@@ -691,7 +956,7 @@
       "base_value": 2
     }
   },
-  //관통탄
+  //관통탄 id:41
   //탄의 관통율과 총기의 아머 관통율 증가
   {
     "team": 1,
@@ -707,11 +972,11 @@
       "increment": 1.62
     }
   },
-  //소수정예
+  //소수정예 id:42
   //인간의 수가 감소 할수록 공격력과 이동속도 증가
   {
     "team": 1,
-    "weight": 25,
+    "weight": 100,
     "param1": // 공격력 증가
     {
       "base_value": 0.52
@@ -721,7 +986,7 @@
       "base_value": 0.7
     }
   },
-  //머니파워
+  //머니파워 id:43
   //소지하고 있는 달러가 많을 수록 공격력이 증가 합니다.
   {
     "team": 1,
@@ -735,22 +1000,33 @@
       "base_value": 1000
     }
   },
-  //장인의 손길
-  //연속으로 같은 총 사용시 공격력 증가
-  {
+  //장인의손길 id:44
+  //연속으로 같은 총 사용시 공격력 증가 ->(시즌2) 스킬 쿨타임 감소
+   {
     "team": 1,
-    "weight": 25,
-    "param1": // 연속 판단 횟수
+    "weight": 50,
+    "param1": // 감소 퍼센트
     {
-      "base_value": 4
+      "base_value": 0.05,
+	   "is_percent": true
     },
-    "param2": // 공격력 증가 계수
-    {
-      "base_value": 1.5,
-      "increment": 1
-    }
+	"LV2":
+	{
+		"param1": // 감소 퍼센트
+		{
+			"base_value": 0.05
+		}
+	},
+	"Boost":
+	{
+		"param1": //감소 퍼센트
+		{
+			"base_value" : 0.5,
+			"is_percent": true
+		}
+	}
   },
-  //체력강탈
+  //체력강탈 id:45
   //인간 감염시 본인+주변 HP 회복
   {
     "team": 2,
@@ -765,7 +1041,7 @@
       "increment": 1.55
     }
   },
-  //폭탄 강화
+  //폭탄강화 id:46
   //좀비 폭탄의 데미지, 넉백 증가
   {
     "team": 2,
@@ -777,18 +1053,29 @@
     },
     "param2": // 넉백 증가 계수
     {
-      "base_value": 0.35,
-      "increment": 0.9
-    }
+      "base_value": 0.1,
+      "increment": 0.015
+    },
+	"LV2":
+	{
+		"param1": // 데미지 증가 계수
+		{
+			"base_value": 2
+		},
+		"param2": // 넉백 증가 계수
+		{
+			"base_value": 0.4
+		}
+	}
   },
-  //발톱강화
+  //발톱강화 id:47
   //좀비 사거리 증가
   {
     "team": 2,
     "weight": 100,
     "param1": // 사거리 증가 계수
     {
-      "base_value": 15
+      "base_value": 12
     },
     "param2": // 이펙트 duration
     {
@@ -797,9 +1084,23 @@
     "param3": // 이펙트 delay
     {
       "base_value": 0.2
-    }
+    },
+	"LV2":
+	{
+		"param1": // 사거리 증가 계수
+		{
+			"base_value": 8
+		}
+	},
+	"Boost":
+	{
+		"param1":	//사거리
+		{
+			"base_value":30
+		}
+	}
   },
-  //스킬진화
+  //스킬진화 id:48
   //좀비 스킬 쿨타임 감소
   {
     "team": 2,
@@ -809,7 +1110,7 @@
       "base_value": 20
     }
   },
-  //강철피부
+  //강철피부 id:49
   //피격 시 일정 확률로 데미지 무효
   {
     "team": 2,
@@ -818,9 +1119,16 @@
     {
       "base_value": 1,
       "increment": 1.15
-    }
+    },
+	"LV2":
+	{
+		"param1": // 무효 확률 계수
+		{
+			"base_value": 2
+		}
+	}
   },
-  // 지식인
+  // 지식인 id:50
   // 좀비킬, 인간감염시에 경험치 획득
   {
     "team": 0,
@@ -833,14 +1141,14 @@
     "param2": // 좀비가 인간을 감염했을때 경험치 % 증가량
     {
       "base_value": 11550,
-      "increment": -550
+      "increment": -500
     }
   },
-  // 좀폭 지급
+  // 좀폭지급 id:51
   // 일정시간마다 좀폭 지급
   {
     "team": 2,
-    "weight": 25,
+    "weight": 50,
     "param1": // 빨간 폭탄(second)
     {
       "base_value": 20,
@@ -852,17 +1160,28 @@
       "increment": -0.8
     }
   },
-  // 복수
+  // 복수 id:52
   // 사망시 바라보고있는 방향으로 좀폭투척
   {
     "team": 2,
-    "weight": 50
+    "weight": 100,
+	"LV2": 
+	{
+	},
+	"Boost":
+	{
+		"param1":
+		{
+			"base_value": 0.05,
+			"is_percent": true
+		}
+	}
   },
-  //.좀폭 방어
+  // 폭탄방어 id:53
   //좀비 폭탄의 데미지, 넉백 감소
   {
     "team": 1,
-    "weight": 25,
+    "weight": 100,
     "param1": // 데미지 감소 계수
     {
       "base_value": 1,
@@ -872,21 +1191,28 @@
     {
       "base_value": 0.35,
       "increment": 0.9
-    }
+    },
+	"LV2":
+	{
+		"param1": // 데미지 감소 계수
+		{
+			"base_value": 2
+		}
+	}
   },
-  //고통의 기억
+  //고통의기억 id:54
   //자신을 죽인 플레이어로부터 받는 피해 감소
   {
     "team": 2,
-    "weight": 25,
+    "weight": 100,
     "param1": // 받는 피해 감소
     {
       "base_value": 0.5,
-      "increment": 0,
+      "increment": 0.01,
       "is_percent": true
     }
   },
-  //보급품 감염
+  //보급품감염 id:55
   //인간 보급상자에 폭발물 설치
   {
     "team": 2,
@@ -896,5 +1222,326 @@
       "base_value": 5,
       "increment": 0
     }
+  },
+  //변종 id:56
+  //좀비 스킬 추가 획득
+  {
+	"team":2,
+	"weight":100
+  },
+  //분노의질주 id:57
+  //체력이 적을때 속도 증가
+  {
+	"team": 2,
+    "weight": 100,
+	"param1":	//체력 기준점
+	{
+		"base_value":0.2,
+		"is_percent":true
+	},
+	"param2":	//속도 증가량
+	{
+		"base_value":0.2,
+		"is_percent":true
+	},
+	"param3":	//경직넉백 감소
+	{
+		"base_value": -0.25,
+		"is_percent":true
+	}
+  },
+  //할인쿠폰 id:58
+  //달러 소비 감소
+  {
+	"team":0,
+	"weight":100,
+	"param1": //소비 감소 퍼센트
+	{
+		"base_value":0.1,
+		"is_percent":true
+	}
+  },
+  //퀵체인지 id:59
+  //무기 교체 속도 증가
+  {
+	"team":1,
+	"weight":100,
+	"param1": //교체 속도 증가 퍼센트
+	{
+		"base_value":0.25,
+		"is_percent":true
+	},
+	"LV2":
+	{
+		"param1": //교체 속도 추가 증가 퍼센트
+		{
+			"base_value":0.25
+		}
+	},
+	"Boost":
+	{
+		"param1": //교체시 대미지 증가
+		{
+			"base_value":8.0,
+			"is_percent":true
+		},
+		"param2": //쿨타임
+		{
+			"base_value":5
+		}
+	}
+  },
+  //해방자 id:60
+  {
+	"team":2,
+	"weight":100,
+	"param1":	//최대 중첩
+	{
+		"base_value":5
+	},
+	"param2":	//중첩당 경직, 넉백
+	{
+		"base_value":-0.05,
+		"is_percent":true
+	},
+	"param3":	//중첩당 이동 속도
+	{
+		"base_value":0.05,
+		"is_percent":true
+	},
+	"param4":	//감염시 체력 회복(최대체력 비례)
+	{
+		"base_value":0.02,
+		"is_percent":true
+	},
+	"param5":	//외곽선 표시 중첩수
+	{
+		"base_value":3
+	}
+  },
+  //얼리어답터 id:61
+  {
+	"team":0,
+	"weight":100,
+	"param1":	//해금 레벨 감소치
+	{
+		"base_value":1
+	}
+  },
+  //더블임팩트 id:62
+  {
+	"team":1,
+	"weight":100,
+	"param1":	//확률
+	{
+		"base_value":0.02,
+		"is_percent":true
+	},
+	"LV2":
+	{
+		"param1":	//추가 확률
+		{
+			"base_value":0.03
+		}
+	},
+	"Boost":
+	{
+		"param1":	//확률
+		{
+			"base_value":0.1,
+			"is_percent":true
+		}
+	}
+  },
+  //그물탄 id:63
+  {
+	"team":1,
+	"weight":100,
+	"param1":	//확률
+	{
+		"base_value":0.01,
+		"is_percent":true
+	},
+	"param2":	//그물 중력값
+	{
+		"base_value" : 25
+	},
+	"param3":	//지속시간
+	{
+		"base_value":0.25
+	},
+	"param4":	//그물 속도
+	{
+		"base_value":2000
+	},
+	"LV2":
+	{
+		"param1":	//확률
+		{
+			"base_value":0.015
+		}
+	},
+	"Boost":
+	{
+		"param1": //추가 대미지 퍼센트
+		{
+			"base_value":0.25,
+			"is_percent":true
+		}
+	}
+  },
+
+  //공격적 투자 id:64
+  {
+	"team":2,
+	"weight":100,
+	"param1": //달러 획득 비율
+	{
+		"base_value":0.5,
+		"is_percent":true
+	}
+  },
+  //독성구름 id:65
+  {
+	"team":2,
+	"weight":100,
+	"param1": // 영향 범위
+    {
+      "base_value": 120
+    },
+    "param2": // 대미지
+    {
+      "base_value": 200,
+      "increment": 50
+    },
+	"param3":	//체력 회복
+	{
+		"base_value":500,
+		"increment":20
+	},
+    "param4": //  지속 시간
+    {
+      "base_value": 0.4,
+      "increment": 0.1
+    }
+  },
+   //물어와 id:66
+  {
+	"team":2,
+	"weight":100,
+	"param1":	//체력
+	{
+		"base_value":1000
+	},
+	"param2":	//공격력
+	{
+		"base_value":100
+	},
+	"param3":	//이동속도
+	{
+		"base_value":220
+	},
+	"LV2":
+	{
+		"param1":	//체력
+		{
+			"base_value":1000
+		}
+	}
+	
+  },
+   //비상탈출 id:67
+  {
+	"team":1,
+	"weight":25,
+	"param1":	//무적 시간
+	{
+		"base_value":2
+	},
+	"param2":	//위로 쏘아보내는 속도
+	{
+		"base_value": 1000
+	},
+	"param3":	//넉백 범위
+	{
+		"base_value": 220
+	},
+	"param4":	//넉백 파워 (수평)
+	{
+		"base_value":1500
+	},
+	"param5":	//넉백 파워(수직)
+	{
+		"base_value": 400
+	}
+  },
+  //갈고리폭탄 id:68
+  {
+	"team":2,
+	"weight":100,
+	"param1":	//넉백 파워 (수평)
+	{
+		"base_value": 350
+	},
+	"param2":	//넉백 파워(수직)
+	{
+		"base_value": 100
+	}
+  },
+  //유리대포 id:69
+  {
+	"team":1,
+	"weight":100,
+	"param1":	//공격력 증가
+	{
+		"base_value":0.1,
+		"is_percent":true
+	},
+	"param2": // 받는 피해량 증가
+	{
+		"base_value":0.25,
+		"is_percent":true
+	}
+  },
+  //바쁜일상 id:70
+  {
+	"team":1,
+	"weight":100,
+	"param1":	//공격력 증가
+	{
+		"base_value":0.05,
+		"is_percent": true
+	}
+  },
+    //다크니스 id: 71
+  {
+	"team":2,
+	"weight":100,
+	"param1":	//선택 확률
+	{
+		"base_value":0.1,
+		"is_percent":true
+	},
+	"param2":	//다크니스 노멀 좀비 대시 속도 증가량
+	{
+		"base_value":95
+	},
+	"param3":	//다크니스 스피드 좀비 대시 속도 증가량
+	{
+		"base_value":10
+	},
+	"param4":	//다크니스 헤비 좀비 대시 속도 증가량
+	{
+		"base_value":-80
+	},
+	"param5":	//다크니스 히든 좀비 대시 속도 증가량
+	{
+		"base_value":40
+	},
+	"param6":	//다크니스 스핀 좀비 대시 속도 증가량
+	{
+		"base_value":95
+	}
   }
+  
 ]
