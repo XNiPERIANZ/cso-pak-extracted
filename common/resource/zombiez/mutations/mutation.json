@@ -669,14 +669,19 @@
 
   {
     "team": 1,
-    "weight": 100,
+    "weight": 25,
     "param1": // 사다리 사용 불가 유지 시간
     {
       "base_value": 1
     },
 	"param2":	//공중일때 적 떨어트리는 확률
 	{
-		"base_value": 0.25
+		"base_value": 0.05,
+		"is_percent": true
+	},
+	"param3":	//쿨타임
+	{
+		"base_value": 5
 	}
   },
   //적응력 id:29
@@ -1045,7 +1050,7 @@
   //좀비 폭탄의 데미지, 넉백 증가
   {
     "team": 2,
-    "weight": 50,
+    "weight": 25,
     "param1": // 데미지 증가 계수
     {
       "base_value": 1,
@@ -1294,7 +1299,7 @@
   //해방자 id:60
   {
 	"team":2,
-	"weight":100,
+	"weight":25,
 	"param1":	//최대 중첩
 	{
 		"base_value":5
@@ -1356,7 +1361,7 @@
   //그물탄 id:63
   {
 	"team":1,
-	"weight":100,
+	"weight":50,
 	"param1":	//확률
 	{
 		"base_value":0.01,
@@ -1373,6 +1378,10 @@
 	"param4":	//그물 속도
 	{
 		"base_value":2000
+	},
+	"param5":	//쿨타임
+	{
+		"base_value":5
 	},
 	"LV2":
 	{
@@ -1404,15 +1413,15 @@
   //독성구름 id:65
   {
 	"team":2,
-	"weight":100,
+	"weight":25,
 	"param1": // 영향 범위
     {
-      "base_value": 120
+      "base_value": 80
     },
     "param2": // 대미지
     {
-      "base_value": 200,
-      "increment": 50
+      "base_value": 20,
+      "increment": 5
     },
 	"param3":	//체력 회복
 	{
@@ -1421,8 +1430,12 @@
 	},
     "param4": //  지속 시간
     {
-      "base_value": 0.4,
+      "base_value": 0.2,
       "increment": 0.1
+    },
+    "param5": //  발생 빈도
+    {
+      "base_value": 0.5
     }
   },
    //물어와 id:66
@@ -1431,7 +1444,7 @@
 	"weight":100,
 	"param1":	//체력
 	{
-		"base_value":1000
+		"base_value":500
 	},
 	"param2":	//공격력
 	{
@@ -1445,7 +1458,7 @@
 	{
 		"param1":	//체력
 		{
-			"base_value":1000
+			"base_value":500
 		}
 	}
 	
@@ -1499,7 +1512,7 @@
 	},
 	"param2": // 받는 피해량 증가
 	{
-		"base_value":0.25,
+		"base_value":0.15,
 		"is_percent":true
 	}
   },
@@ -1519,7 +1532,7 @@
 	"weight":100,
 	"param1":	//선택 확률
 	{
-		"base_value":0.1,
+		"base_value":0.3,
 		"is_percent":true
 	},
 	"param2":	//다크니스 노멀 좀비 대시 속도 증가량
