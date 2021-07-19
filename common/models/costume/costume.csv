@@ -172,3 +172,5 @@ id,resource,attach (0 : ¸Ó¸® / 1 : µî / 2 : °ñ¹Ý / 3 : ¾ó±¼),set id,attach_pos,s
 8511,y21s2backcosb,1,0,1,0,0
 8512,y21s2petcosa,1,0,1,0,0
 8513,y21s2petcosb,1,0,1,0,0
+8528,buffclass21s2tr_back,1,0,1,0,0
+8529,buffclass21s2ct_head,0,0,11,0,0
