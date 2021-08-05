@@ -1,0 +1,60 @@
+"resource/voxel/Voxel_Fullbrowser"
+{
+	"respawn_icon"
+	{
+	}
+	"playtime_icon"
+	{
+	}
+	"maxplayernum_icon"
+	{
+	}
+	"resettrigger_icon"
+	{
+	}
+	"friendlyfire_icon"
+	{
+	}
+	"playercollision_icon"
+	{
+	}
+	"enabletps_icon"
+	{
+	}
+	"minplayernum_icon"
+	{
+	}
+	"endrule_icon"
+	{
+	}
+	"initback_icon"
+	{
+	}
+	"humandestroy_icon"
+	{
+	}
+	"zombidestroy_icon"
+	{
+	}
+	"zombiseethru_icon"
+	{
+	}	
+	"respawnTime_icon"
+	{
+	}
+	"defeatbywipe_icon"
+	{
+	}
+	"attackType_icon"
+	{
+		"image"	"resource/voxel/upicon"
+	}
+	"LevelSetting_icon"
+	{
+		"image"	"resource/voxel/newicon"
+	}
+	"DiffSetting_icon"
+	{
+		"image"	"resource/voxel/newicon"
+	}
+}

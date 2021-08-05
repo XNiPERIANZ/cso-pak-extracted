@@ -7332,3 +7332,12 @@ Y bio_light06
 C bio_wall01       
 C bio_wall01_1     
 C bio_wall02       
+
+//-----------------------------------------------------------
+// zs_deadmall.wad
+//-----------------------------------------------------------
+
+C dd_frame01
+C dd_roof01
+C dd_shutter01
+Y dd_sign01
