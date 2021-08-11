@@ -1894,7 +1894,7 @@
  		"FORTRESS_A_TORTURE04":		1895,
  		"FORTRESS_A_TORTURE05":		1896,
  		"FORTRESS_A_BRIDGE02":		1897,
-
+		"CUTSCENE_CAMERA":			1898,
 
 
 		
@@ -2007,7 +2007,8 @@
 		"SCENARIOTX_SHOP" : 102,
 		"SCENARIOTX_MINISHOP" : 103,
 		"SCENARIOTX_GACHA" : 104,
-		"SCENARIOTX_SPECIALIST" : 105
+		"SCENARIOTX_SPECIALIST" : 105,
+		"CUTSCENE_CAMERA" : 106
 	},
 	"VoxelMoveType": {
 		"NONE": 0,
@@ -31867,6 +31868,16 @@
 			"mdl": {
 				"filename": "models/voxel/fortress/fortress_a_bridge02.mdl"
 			}
+		},
+		{
+			"id": "CUTSCENE_CAMERA",
+			"entity_type": "CUTSCENE_CAMERA",
+			"display_type": "MDL",			
+			"play_hide": true,
+			"aux_bit": 2,
+			"mdl": {
+				"filename": "models/voxel/common/common_a_broadcam01.mdl"
+			}			
 		}
 	]
 }

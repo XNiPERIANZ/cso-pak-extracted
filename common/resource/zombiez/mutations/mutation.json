@@ -100,7 +100,7 @@
     "param1": // 장전 속도 증가
     {
       "base_value": 0.32,
-      "increment": 0.04,
+      "increment": 0.03,
       "is_percent": true
     },
     "param2": // 자동 장전 활성화를 위한 장전 가속 요구치
@@ -417,7 +417,7 @@
 		}
 	}
   },
-  //강화 유전자 id:14
+  //강화유전자 id:14
   //감염 시 숙주 단계로 자동 진화
   {
     "team": 2,
@@ -427,7 +427,7 @@
   //피격 시 일정 확률로 모든 넉백과 경직을 무시합니다.
   {
     "team": 2,
-    "weight": 50,
+    "weight": 100,
     "param1": // 확률
     {
       "base_value": 0.015,
@@ -445,7 +445,7 @@
 	{
 		"param1":	// 확률
 		{
-			"base_value": 0.015,
+			"base_value": 0.05,
 			"is_percent":true
 		}
 	},
@@ -481,7 +481,7 @@
     },
     "param4": // 화염 초 당 피해량
     {
-      "base_value": 20,
+      "base_value": 200,
       "increment": 20
     },
     "param5": // 화염 지속 중 이동 속도 감쇄
@@ -513,7 +513,7 @@
   //좀비 주변에 있는 인간에게 틱당 대미지
   {
     "team": 2,
-    "weight": 5,
+    "weight": 25,
     "param1": // 데미지 주기
     {
       "base_value": 0.4,
@@ -521,8 +521,8 @@
     },
     "param2": // 범위 (반지름)
     {
-      "base_value": 1.8,
-      "increment": 0
+      "base_value": 1.15,
+      "increment": 0.05
     },
     "param3": // 틱당 데미지
     {
@@ -634,7 +634,7 @@
   // 좀비 등장 param1초 전, param2 범위 내에서 좀비 숙주가 등장하는 것을 미리 감지
   {
     "team": 1,
-    "weight": 200,
+    "weight": 100,
     "param1": // 발동 시간
     {
       "base_value": 5,
@@ -651,7 +651,6 @@
     "team": 0,
     "weight": 25
   },
-  
   //열광 id:26
   //변이 소유자에 한해 사기충전/분노가 활성화
   {
@@ -676,7 +675,7 @@
     },
 	"param2":	//공중일때 적 떨어트리는 확률
 	{
-		"base_value": 0.05,
+		"base_value": 0.03,
 		"is_percent": true
 	},
 	"param3":	//쿨타임
@@ -764,7 +763,7 @@
     "weight": 100,
     "param1": // 발동 확률
     {
-      "base_value": 0.01,
+      "base_value": 0.03,
       "increment": 0.01,
       "is_percent": true
     }
@@ -837,7 +836,7 @@
     "param1": // 피해치
     {
       "base_value": 4000,
-      "increment": 150
+      "increment": -50
     }
   },
   //화염구 id:37
@@ -847,7 +846,7 @@
     "weight": 100,
     "param1": // 피해량
     {
-      "base_value": 800,
+      "base_value": 2000,
       "increment": 100
     },
     "param2": // 범위
@@ -1133,20 +1132,20 @@
 		}
 	}
   },
-  // 지식인 id:50
-  // 좀비킬, 인간감염시에 경험치 획득
+  // 지식인 id:50 , 지식인 획득 시 경험치 공식을 지식인 스펙으로 대체됨
+  // 좀비킬, 인간감염시에 경험치 획득 //
   {
     "team": 0,
     "weight": 100,
-    "param1": // 인간이 좀비를 죽였을때 경험치
+    "param1": // 인간이 좀비를 죽였을때 경험치 (참조 : 인간 킬 경험치는 없음 )
     {
-      "base_value": 1050,
-      "increment": -50
+      "base_value": 3050,
+      "increment": -150
     },
-    "param2": // 좀비가 인간을 감염했을때 경험치 % 증가량
+    "param2": // 좀비가 인간을 감염했을때 경험치 % 증가량 (참조 : 감염 경험치 = 10500(500))
     {
-      "base_value": 11550,
-      "increment": -500
+      "base_value": 11050,
+      "increment": -550
     }
   },
   // 좀폭지급 id:51
@@ -1194,9 +1193,14 @@
     },
     "param2": // 넉백 감소 계수
     {
-      "base_value": 0.35,
+      "base_value": 9.5,
       "increment": 0.9
     },
+	"param3": //화면 떨림 적용 수준(0(off) ~ 100(on))
+	{
+		"base_value":0.15,
+		"is_percent":true
+	},
 	"LV2":
 	{
 		"param1": // 데미지 감소 계수
@@ -1242,6 +1246,7 @@
 	"param1":	//체력 기준점
 	{
 		"base_value":0.2,
+		"increment": 0.01,
 		"is_percent":true
 	},
 	"param2":	//속도 증가량
@@ -1413,15 +1418,15 @@
   //독성구름 id:65
   {
 	"team":2,
-	"weight":25,
+	"weight":50,
 	"param1": // 영향 범위
     {
       "base_value": 80
     },
     "param2": // 대미지
     {
-      "base_value": 20,
-      "increment": 5
+      "base_value": 45,
+      "increment": 12
     },
 	"param3":	//체력 회복
 	{
@@ -1430,7 +1435,7 @@
 	},
     "param4": //  지속 시간
     {
-      "base_value": 0.2,
+      "base_value": 1.35,
       "increment": 0.1
     },
     "param5": //  발생 빈도
