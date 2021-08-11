@@ -2133,3 +2133,7 @@
 1,249,14,1,Tooltip_Zombie3_02,#CSO_MaploadingTip_ZM3_RANDOMRULE
 1,249,14,1,Tooltip_Zombie3_03,#CSO_MaploadingTip_ZM3_RANDOMRULE
 1,249,14,1,Tooltip_Zombie3_04,#CSO_MaploadingTip_ZM3_RANDOMRULE
+1,271,55,1,Tooltip_playroom_01,#CSO_MaploadingTip_Playroom
+1,271,55,1,Tooltip_playroom_02,#CSO_MaploadingTip_Playroom
+1,272,15,1,Tooltip_deadmall1,#CSO_MaploadingTip_Scen_deadmall1
+1,273,15,1,Tooltip_deadmall2,#CSO_MaploadingTip_Scen_deadmall2
