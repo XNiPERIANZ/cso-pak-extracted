@@ -159,7 +159,7 @@
   //점프력 상시 증가
   {
     "team": 0,
-    "weight": 25,
+    "weight": 50,
     "param1": // 점프력 증가량
     {
       "base_value": 30,
@@ -359,7 +359,7 @@
   //공중에서 추가 점프 가능
   {
     "team": 0,
-    "weight": 50,
+    "weight": 25,
 	 "param1": // 두번째 점프 증가량
     {
       "base_value": 0
@@ -394,17 +394,17 @@
     {
       "base_value": 128
     },
-    "param3": // 폭발 피해(무기 공격력의 %)
+    "param3": // 폭발 피해(무기 공격력의 %) 0.35→0.20
     {
-      "base_value": 0.35,
+      "base_value": 0.20,
       "increment": 0.05,
       "is_percent": true
     },
 	"LV2":
 	{
-		"param3": // 폭발 피해(무기 공격력의 %)
+		"param3": // 폭발 피해(무기 공격력의 %) 0.5→0.8
 		{
-			"base_value":0.5,
+			"base_value":0.8,
 			"is_percent":true
 		}
 	},
@@ -519,10 +519,10 @@
       "base_value": 0.4,
       "increment": 0
     },
-    "param2": // 범위 (반지름)
+    "param2": // 범위 (반지름) 1.15(0.05)
     {
-      "base_value": 1.15,
-      "increment": 0.05
+      "base_value": 0.3,
+      "increment": 0.1
     },
     "param3": // 틱당 데미지
     {
@@ -816,7 +816,7 @@
   //수류탄 투척 시 추가적인 탄 생성하여 자동 투척.
   {
     "team": 1,
-    "weight": 100,
+    "weight": 50,
     "param1": // 추가 탄
     {
       "base_value": 1,
@@ -964,15 +964,15 @@
   //탄의 관통율과 총기의 아머 관통율 증가
   {
     "team": 1,
-    "weight": 50,
+    "weight": 100,
     "param1": // 관통 가능 거리 증가
     {
       "base_value": 1.15,
       "increment": 1.4
     },
-    "param2": // 아머 관통율 증가
+    "param2": // 아머 관통율 증가 1.35→17.5
     {
-      "base_value": 1.35,
+      "base_value": 17.5,
       "increment": 1.62
     }
   },
@@ -1034,7 +1034,7 @@
   //인간 감염시 본인+주변 HP 회복
   {
     "team": 2,
-    "weight": 50,
+    "weight": 100,
     "param1": // 회복 범위
     {
       "base_value": 100
@@ -1091,16 +1091,16 @@
     },
 	"LV2":
 	{
-		"param1": // 사거리 증가 계수
+		"param1": // 사거리 증가 계수 8→12
 		{
-			"base_value": 8
+			"base_value": 12
 		}
 	},
 	"Boost":
 	{
-		"param1":	//사거리
+		"param1":	//사거리 30→60
 		{
-			"base_value":30
+			"base_value":60
 		}
 	}
   },
@@ -1304,7 +1304,7 @@
   //해방자 id:60
   {
 	"team":2,
-	"weight":25,
+	"weight":100,
 	"param1":	//최대 중첩
 	{
 		"base_value":5
@@ -1411,7 +1411,7 @@
 	"weight":100,
 	"param1": //달러 획득 비율
 	{
-		"base_value":0.5,
+		"base_value":0.75,
 		"is_percent":true
 	}
   },
@@ -1461,9 +1461,9 @@
 	},
 	"LV2":
 	{
-		"param1":	//체력
+		"param1":	//체력 
 		{
-			"base_value":500
+			"base_value":1000
 		}
 	}
 	
