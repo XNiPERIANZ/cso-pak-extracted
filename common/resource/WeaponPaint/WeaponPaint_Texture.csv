@@ -667,6 +667,15 @@ v_buffsg552.mdl,2,8543,resource/WeaponPaint/texture/y21s3$20@004_moon.bmp
 p_buffsg552.mdl,0,8543,resource/WeaponPaint/texture/y21s3#256256buffsg552_p.bmp
 w_buffsg552.mdl,0,8543,resource/WeaponPaint/texture/y21s3#256256buffsg552_p.bmp
 s_buffsg552.mdl,0,8543,resource/WeaponPaint/texture/y21s3#256256buffsg552_p.bmp
+v_buffsg552_d3a3.mdl,0,8543,resource/WeaponPaint/texture/y21s3$20@004_buffsg552_01.bmp
+v_buffsg552_d3a3.mdl,1,8543,resource/WeaponPaint/texture/y21s3$20@001_buffsg552_02.bmp
+v_buffsg552_d3a3.mdl,2,8543,resource/WeaponPaint/texture/y21s3$20@004_moon.bmp
+p_buffsg552_d3a3.mdl,0,8543,resource/WeaponPaint/texture/y21s3#256256buffsg552_p.bmp
+w_buffsg552_d3a3.mdl,0,8543,resource/WeaponPaint/texture/y21s3#256256buffsg552_p.bmp
+s_buffsg552_d3a3.mdl,0,8543,resource/WeaponPaint/texture/y21s3#256256buffsg552_p.bmp
 v_runeblade.mdl,0,8543,resource/WeaponPaint/texture/y21s3$20@001_runeblade_v01.bmp
 v_runeblade.mdl,1,8543,resource/WeaponPaint/texture/y21s3$20@001_runeblade_v02.bmp
 p_runeblade.mdl,0,8543,resource/WeaponPaint/texture/y21s3runeblade_p.bmp
+v_runeblade_d3f3.mdl,0,8543,resource/WeaponPaint/texture/y21s3$20@001_runeblade_v01.bmp
+v_runeblade_d3f3.mdl,1,8543,resource/WeaponPaint/texture/y21s3$20@001_runeblade_v02.bmp
+p_runeblade_d3f3.mdl,0,8543,resource/WeaponPaint/texture/y21s3runeblade_p.bmp
