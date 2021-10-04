@@ -701,6 +701,26 @@ CSO_EmotionW
 0. 取消
 }
 
+CSO_EmotionX
+{
+\r表情\w
+1. "打招呼"
+2. "生气"
+3. "挑衅"
+4. "玩笑"
+0. 取消
+}
+
+CSO_EmotionY
+{
+\r表情\w
+1. "打招呼"
+2. "祈祷"
+3. "玩笑"
+4. "愤怒"
+0. 取消
+}
+
 // weapon names
 
 // RIFLES

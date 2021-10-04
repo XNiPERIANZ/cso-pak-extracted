@@ -28,18 +28,21 @@
 
 "1" "#Cstrike_HELP"
 {
-	CUSTOM		"1" "#Cstrike_Time_Left" 		"timeleft"
-	"2" "#Cstrike_Adjust_Crosshair" 	"adjust_crosshair"
-	"3" "#Cstrike_Use_Left_Hand" 		"cl_righthand 0"
-	"4" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
+	CUSTOM		"1" "#Cstrike_Map_Desc"	"!MAPBRIEFING"
+	"2" "#Cstrike_Time_Left" 		"timeleft"
+	"3" "#Cstrike_Adjust_Crosshair" 	"adjust_crosshair"
+	"4" "#Cstrike_Use_Left_Hand" 		"cl_righthand 0"
+	"5" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
 }
 
 
 "2" "#Cstrike_CHANGE_TEAM"	"chooseteam"
 
+"3" "#Cstrike_CHANGE_CLASS"	"changeclass"
+
 // Here are the rest of the buttons and submenus
 // You can change these safely if you want.
-"3" "#Cstrike_TEAM_MESSAGE"
+"4" "#Cstrike_TEAM_MESSAGE"
 {
 	// Map Specific
 
@@ -222,7 +225,7 @@
      "6" "#Cstrike_Need_Backup"		"say_team '需要掩护！'"
 }
 
-"4" "#Cstrike_DROP_CURRENT_ITEM" 	"drop"
+"5" "#Cstrike_DROP_CURRENT_ITEM" 	"drop"
 
 
 
