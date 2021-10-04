@@ -1,0 +1,230 @@
+﻿// Command Menu definition
+// 
+// Basic Format:
+//		"<Bound Key>" "<Button Text>" "<Command sent to server>"
+//
+// 
+//
+//
+// Buttons can also open up submenus, as follows:
+// {
+// 	"Some More Options",
+//	{
+//		...
+//	}
+// }
+//
+//
+// Buttons preceded with "CUSTOM" are handled in special ways. They can only be moved
+// around or deleted.
+//
+//
+// Limitations:
+//		Maximum of 40 menus.
+//		Maximum of 100 buttons per menu.
+
+//--------------------------------------------------------
+// Everything below here is editable
+
+"1" "#Cstrike_HELP"
+{
+	CUSTOM		"1" "#Cstrike_Map_Desc"	"!MAPBRIEFING"
+	"2" "#Cstrike_Time_Left" 		"timeleft"
+	"3" "#Cstrike_Adjust_Crosshair" 	"adjust_crosshair"
+	"4" "#Cstrike_Use_Left_Hand" 		"cl_righthand 0"
+	"5" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
+}
+
+
+"2" "#Cstrike_CHANGE_TEAM"	"chooseteam"
+
+// Here are the rest of the buttons and submenus
+// You can change these safely if you want.
+"3" "#Cstrike_TEAM_MESSAGE"
+{
+	// Map Specific
+
+	MAP cs_siege "1" "#Cstrike_Map_Siege"
+	{
+		"1" "#Cstrike_take_underground"	"say_team '지하실을 확보하라!'"
+		"2" "#Cstrike_enemy_garage" 		"say_team '주차장에 적 발견!'"
+		"3" "#Cstrike_rush_hostage_room"   	"say_team '인질 방으로 러쉬!'"
+		"4" "#Cstrike_snipers_watch_out" 	"say_team '저격수를 조심하라!'"
+		"5" "#Cstrike_take_upper_route"  	"say_team '위쪽 이동로로 이동하라'"
+	}
+
+	MAP de_train "1" "#Cstrike_train"
+	{
+		"1" "#Cstrike_rush_trainyard" 		"say_team '열차 정류장 폭파 목표로 러쉬!'"
+		"2" "#Cstrike_rush_enclosed"		"say_team '실내 폭파 목표로 러쉬!'
+		"3" "#Cstrike_flank_them"   		"say_team '측면 우회 공격!'"
+		"4" "#Cstrike_bomb_site_secure"  	"say_team '폭파 목표 확보!'"
+		"5" "#Cstrike_lend_me_blaster"  	"say_team '블래스터 빌려줘!'"
+	}
+
+	MAP de_vertigo "1" "#Cstrike_vertigo"
+	{
+		"1" "#Cstrike_rush_upper_level" 	"say_team '윗층으로 러쉬!'"
+		"2" "#Cstrike_rush_lower_level" 	"say_team '아래층으로 러쉬!'"
+		"3" "#Cstrike_flank_them"   		"say_team '측면 우회 공격!'"
+		"4" "#Cstrike_snipers_watch_out"	"say_team '저격수를 조심하라!'"
+		"5" "#Cstrike_bomb_site_secure"  	"say_team '폭파 목표 확보!'"
+	}
+
+	MAP de_prodigy "1" "#Cstrike_prodigy"
+	{
+		"1" "#Cstrike_rush_to_pipes" 		"say_team '파이프로 러쉬'"
+		"2" "#Cstrike_rush_to_lab" 		"say_team '연구실로 러쉬!'"
+		"3" "#Cstrike_take_the hallway"   	"say_team '복도를 확보하라!'"
+		"4" "#Cstrike_flank_them"		"say_team '측면 우회 공격!'"
+		"5" "#Cstrike_take_the_apc"  		"say_team '장갑차 이동로를 확보하라!'"
+	}
+
+	MAP de_aztec "1" "#Cstrike_aztec"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team '다리를 확보하라!'"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team '폭파 목표에 적 발견'"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team '폭파 목표로 러쉬'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team '폭파 목표 확보!'"
+		"5" "#Cstrike_take_water_route"  	"say_team '수로를 통해 이동하라!'"
+	}
+
+	MAP de_inferno "1" "#Cstrike_inferno"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team '다리를 확보하라!'"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team '폭파 목표에 적 발견'"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team '폭파 목표로 러쉬'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team '폭파 목표 확보!'"
+		"5" "#Cstrike_take_water_route"  	"say_team '수로를 통해 이동하라!'"
+	}
+
+	MAP cs_office "1" "#Cstrike_office"
+	{
+		"1" "#Cstrike_take_back_route"		"say_team '뒤쪽 길을 통해 이동하라!'"
+		"2" "#Cstrike_rush_to_hostages"	"say_team '인질 위치로 러쉬!'"
+		"3" "#Cstrike_do_it_for_manilov"		"say_team '매닐로프를 위하여!'"
+		"4" "#Cstrike_take_front_route"		"say_team '전면 이동로를 통해 이동하라!'"
+		"5" "#Cstrike_flank_them"		"say_team '측면 우회 공격!'"
+	}
+
+	MAP cs_backalley "1" "#Cstrike_backalley"
+	{
+		"1" "#Cstrike_flank_them"		"say_team '측면 우회 공격!'"
+		"2" "#Cstrike_enemy_overhead" 	"say_team '위쪽에 적 출현!'"
+		"3" "#Cstrike_rush_to_hostages"	"say_team '인질 위치로 러쉬!'"
+		"4" "#Cstrike_go_you_blaster"		"say_team '죽어라!'"
+		"5" "#Cstrike_taking_heavy_fire"		"say_team '적의 집중 사격을 받고 있다!'"
+	}
+
+	MAP cs_747 "1" "#Cstrike_747"
+	{
+		"1" "#Cstrike_rush_the_plane'"		"say_team '비행기로 러쉬'"
+		"2" "#Cstrike_meet_in_terminal"		"say_team '터미널로 집결'"
+		"3" "#Cstrike_enemy_outside_plane"	"say_team '비행기 외부에 적 발견'"
+		"4" "#Cstrike_enemy_in_cargo"  	"say_team '화물칸에 적 발견!'"
+		"5" "#Cstrike_flank_them"		"say_team '측면 우회 공격!'"
+	}
+
+	MAP as_oilrig "1" "#Cstrike_oilrig"
+	{
+		"1" "#Cstrike_rush_to_chopper" 	"say_team '헬기로 러쉬!'"
+		"2" "#Cstrike_to_the_elevator" 		"say_team '엘리베이터로 이동'"
+		"3" "#Cstrike_vip_spotted"   		"say_team 'VIP 발견!'"
+		"4" "#Cstrike_sniper_spotted"  		"say_team '저격수 발견'"
+		"5" "#Cstrike_protect_the_vip"  		"say_team 'VIP를 보호하라'"
+	}
+
+	MAP cs_assault "1" "#Cstrike_assault"
+	{
+		"1" "#Cstrike_rush_the_building" 	"say_team '빌딩으로 러쉬!'"
+		"2" "#Cstrike_take_the_vents" 		"say_team '환기구를 확보하라!'"
+		"3" "#Cstrike_enemy_in_vents"   	"say_team '환기구 내에 적 발견!'"
+		"4" "#Cstrike_rush_hostage_room"	"say_team '인질 방으로 러쉬!'"
+		"5" "#Cstrike_team_regroup"  		"say_team '팀! 재정비하라!'"
+	}
+
+	MAP de_nuke "1" "#Cstrike_nuke"
+	{
+		"1" "#Cstrike_go_to_main_hall" 		"say_team '메인 홀로 이동하라'"
+		"2" "#Cstrike_go_to_basement" 		"say_team '지하실로 이동하라'"
+		"3" "#Cstrike_flank_yard"   		"say_team '마당을 우회하라'"
+		"4" "#Cstrike_flank_comm_room"  	"say_team '통신실을 우회하라'"
+		"5" "#Cstrike_at_entrance_hall"  	"say_team '입구에 있음'"
+	}
+
+	MAP de_cbble "1" "#Cstrike_cbble"
+	{
+		"1" "#Cstrike_heading_central_hall" 	"say_team '중앙 복도로 이동중'"
+		"2" "#Cstrike_heading_underpass" 	"say_team '지하도로 이동중'"
+		"3" "#Cstrike_sniper_in_tower"   	"say_team '타워에 저격수 출현'"
+		"4" "#Cstrike_bomb_target_secure"  	"say_team '폭파 목표 지역 확보'"
+		"5" "#Cstrike_guard_start_area"  	"say_team '시작 지역을 방어하라'"
+	}
+
+	MAP de_dust "1" "#Cstrike_dust"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team '복도로 이동중'"
+		"2" "#Cstrike_heading_underpass" 	"say_team '지하도로 이동중'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team '폭파 목표 A 확보'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team '폭파 목표 B 확보'"
+		"5" "#Cstrike_sniper_at_underpass"  	"say_team '지하도에 저격수 출현'"
+	}
+
+	MAP de_dust2 "1" "#Cstrike_dust2"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team '복도로 이동중'"
+		"2" "#Cstrike_heading_underpass" 	"say_team '지하도로 이동중'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team '폭파 목표 A 확보'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team '폭파 목표 B 확보'"
+		"5" "#Cstrike_heading_to_tunnel"  	"say_team '터널로 이동 중'"
+	}
+
+	MAP cs_italy "1" "#Cstrike_italy"
+	{
+		"1" "#Cstrike_meet_at_market" 		"say_team '시장으로 집결'"
+		"2" "#Cstrike_rush_the_house" 		"say_team '집으로 러쉬'"
+		"3" "#Cstrike_head_to_wine_cellar"   	"say_team '와인 창고로 이동하라'"
+		"4" "#Cstrike_rush_long_passage"  	"say_team '긴 통로로 러쉬'"
+		"5" "#Cstrike_hostages_rescued"  	"say_team '인질 구출 중'"
+	}
+
+	MAP cs_estate "1" "#Cstrike_estate"
+	{
+		"1" "#Cstrike_go_to_sewer" 		"say_team '하수도로 이동하라'"
+		"2" "#Cstrike_enemy_on_first_story" 	"say_team '1층에 적 출현'"
+		"3" "#Cstrike_enemy_on_sec_story"   	"say_team '2층에 적 출현'"
+		"4" "#Cstrike_enemy_in_back"  		"say_team '후방에 적 출현'"
+		"5" "#Cstrike_enemy_in_front"  		"say_team '전방에 적 출현'"
+	}
+	
+	MAP as_tundra "1" "#Cstrike_tundra"
+	{
+		"1" "#Cstrike_use_sec_route" 		"say_team '2차 이동로로 이동하라'"
+		"2" "#Cstrike_use_primary_route" 	"say_team '1차 이동로로 이동하라'"
+		"3" "#Cstrike_snipers_watch_out"	"say_team '저격수를 조심하라!'"
+		"4" "#Cstrike_rush_to_apc"  		"say_team '장갑차로 러쉬'"
+		"5" "#Cstrike_rush_to_chopper"  	"say_team '헬기로 러쉬!'"
+	}	
+
+	MAP cs_militia "1" "#Cstrike_militia"
+	{
+		"1" "#Cstrike_meet_at_garage" 		"say_team '차고 환기구에서 집결'"
+		"2" "#Cstrike_meet_front_house" 	"say_team '집 앞으로 집결'"
+		"3" "#Cstrike_meet_backyard"   		"say_team '뒷마당으로 집결'"
+		"4" "#Cstrike_enemy_topside"  		"say_team '위쪽에 적 출현!'"
+		"5" "#Cstrike_enemy_sewers"  		"say_team '하수도에 적 출현!'"
+	}
+
+
+     "2" "#Cstrike_Acknowledged"	"say_team '알았다'"
+     "3" "#Cstrike_Negative"		"say_team '실행 불가'"
+     "4" "#Cstrike_Go"			"say_team '고 고 고!'"
+     "5" "#Cstrike_On_My_Way"		"say_team '이동 중'"
+     "6" "#Cstrike_Need_Backup"		"say_team '지원 요청'"
+}
+
+"4" "#Cstrike_DROP_CURRENT_ITEM" 	"drop"
+
+
+
+
