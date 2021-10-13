@@ -1,0 +1,26 @@
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+black		detail/dt_stone1	10	10.0256	256	no
+sky		detail/dt_stone1	10	10.0256	256	no
+ruins_wall10	detail/dt_stone1	10	10.0256	256	no
+ruins_wall11	detail/dt_stone1	10	10.0256	256	no
+{vtg_ladder01	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall02	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall04	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall05	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall23	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall28	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall31	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall33	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall35	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall42	detail/dt_wood1	10	10.0256	256	no
+r_mili_wall44a	detail/dt_stone1	10	10.0256	256	no
+{r_mili_wall48	detail/dt_wood1	10	10.0256	256	no
+de_king_wood11	detail/dt_wood1	10	10.0256	256	no
+ver_r_door_01	detail/dt_wood1	10	10.0256	256	no
+ver_r_icon_01	detail/dt_wood1	10	10.0256	256	no
+ver_r_road_01	detail/dt_wood1	10	10.0256	256	no
+ver_r_road_02	detail/dt_wood1	10	10.0256	256	no
+WWD013		detail/dt_wood1	10	10.0256	256	no
+{desert_matal01	detail/dt_stone1	10	10.0256	256	no
+{king_ladder02	detail/dt_wood1	10	10.0256	256	no

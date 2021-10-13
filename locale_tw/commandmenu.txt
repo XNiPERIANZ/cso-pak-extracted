@@ -35,10 +35,11 @@
 	"5" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
 }
 
+"2" "#Cstrike_CHANGE_CLASS"	"changeclass"
 
 // Here are the rest of the buttons and submenus
 // You can change these safely if you want.
-"2" "#Cstrike_TEAM_MESSAGE"
+"3" "#Cstrike_TEAM_MESSAGE"
 {
 	// Map Specific
 
@@ -221,7 +222,7 @@
      "6" "#Cstrike_Need_Backup"		"say_team '需要後援'"
 }
 
-"3" "#Cstrike_DROP_CURRENT_ITEM" 	"drop"
+"4" "#Cstrike_DROP_CURRENT_ITEM" 	"drop"
 
 
 
