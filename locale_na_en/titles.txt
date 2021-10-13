@@ -695,10 +695,26 @@ CSO_EmotionW
 0. Cancel
 }
 
+CSO_EmotionX
+{
+\rEmotes\w
+1. "Greeting"
+2. "Happy"
+3. "Provoke"
+4. "Joke"
+0. Cancel
+}
 
+CSO_EmotionY
+{
+\rEmotes\w
+1. "Greeting"
+2. "Pray"
+3. "Joke"
+4. "Rage"
+0. Cancel
+}
 
-
-이 번역은 따로 전달 바랍니다.
 // weapon names
 
 // RIFLES

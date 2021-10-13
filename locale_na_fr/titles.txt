@@ -695,6 +695,26 @@ CSO_EmotionW
 0. Annuler
 }
 
+CSO_EmotionX
+{
+\rÉmotes\w
+1. ''Salutation''
+2. ''Content''
+3. ''Provocation''
+4. ''Plaisanterie''
+0. Annuler
+}
+
+CSO_EmotionY
+{
+\rÉmotes\w
+1. ''Salutation''
+2. ''Prière''
+3. ''Plaisanterie''
+4. ''Rage''
+0. Annuler
+}
+
 // weapon names
 
 // RIFLES

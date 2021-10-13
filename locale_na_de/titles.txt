@@ -678,7 +678,8 @@ CSO_EmotionU
 }
 CSO_EmotionV
 {
-\rEmotes\w1. „Grüße“
+\rEmotes\w
+1. „Grüße“
 2. „Ärger“
 3. „Provozieren“
 4. „Ermutigen“
@@ -686,12 +687,37 @@ CSO_EmotionV
 }
 CSO_EmotionW
 {
-\rEmotes\w1. „Grüße“
+\rEmotes\w
+1. „Grüße“
 2. „Neugier“
 3. „Ärger“
 4. „Tanzen“
 0. Abbrechen
+
+CSO_EmotionX
+{
+\rEmotes\w
+1. „Gruß“
+2. „Fröhlich“
+3. „Provozieren“
+4. „Witz“
+0. Abbrechen
 }
+
+CSO_EmotionY
+{
+\rEmotes\w
+1. „Gruß“
+2. „Gebet“
+3. „Witz“
+4. „Wut“
+0. Abbrechen
+}
+
+}
+
+
+
 
 // Waffen Namen
 

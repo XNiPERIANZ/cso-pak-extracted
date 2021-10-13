@@ -687,6 +687,26 @@ CSO_EmotionW
 0. İptal
 }
 
+CSO_EmotionX
+{
+\rİfadeler\w
+1. ''Selamlama''
+2. ''Mutlu''
+3. ''Kışkırt''
+4. ''Şaka''
+0. İptal
+}
+
+CSO_EmotionY
+{
+\rİfadeler\w
+1. ''Selamlama''
+2. ''Dua''
+3. ''Şaka''
+4. ''Öfke''
+0. İptal
+}
+
 // weapon names
 
 // RIFLES

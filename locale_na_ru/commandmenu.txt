@@ -35,6 +35,7 @@
 	"5" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
 }
 
+"2" "#Cstrike_CHANGE_CLASS"	"changeclass"
 
 //"2" "#Cstrike_CHANGE_TEAM"	"Выбрать команду"
 
