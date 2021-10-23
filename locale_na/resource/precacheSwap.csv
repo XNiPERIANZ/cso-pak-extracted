@@ -6,3 +6,5 @@ models/v_eventbomb.mdl,models/v_heartbomb.mdl
 models/p_eventbomb.mdl,models/p_heartbomb.mdl
 sound/weapons/eventbomb_exp.wav,sound/weapons/heartbomb_explosion.wav
 sprites/wpn_eventbomb.spr,sprites/wpn_heartbomb.spr
+models/supplybox.mdl,models/supplybox_Halloween.mdl
+models/supplybox4.mdl,models/supplybox_Halloween.mdl
