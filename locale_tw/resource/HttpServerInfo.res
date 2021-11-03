@@ -4,9 +4,6 @@
 
 	"WebServer_0"
 	{
-		"HTTPServerURL" "http://10.255.4.78:3000"
+		"HTTPServerURL" "http://210.208.90.66:3001"
 	}
 }
-
-
-
