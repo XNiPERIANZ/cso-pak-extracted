@@ -1,0 +1,13 @@
+// overview description file for de_skyscraper_xmas.bsp
+global 
+{
+	ZOOM	1.33
+	ORIGIN	-264.00 -256.00 960.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_skyscraper.bmp"
+	HEIGHT -288
+}

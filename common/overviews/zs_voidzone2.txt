@@ -1,0 +1,14 @@
+// overview description file for zs_voidzone2.bsp
+
+global 
+{
+	ZOOM	0.0
+	ORIGIN	0.00	0.00	0.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/null.bmp"
+	HEIGHT 0
+}
