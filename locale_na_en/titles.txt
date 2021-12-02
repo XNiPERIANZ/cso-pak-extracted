@@ -715,6 +715,27 @@ CSO_EmotionY
 0. Cancel
 }
 
+CSO_EmotionZ
+{
+\rEmotes\w
+1. "Greeting"
+2. "Happy"
+3. "Sadness"
+4. "Confidence"
+0. Cancel
+}
+CSO_EmotionAA
+{
+\rEmotes\w
+1. "Greeting"
+2. "Happy"
+3. "Provoke"
+4. "Confidence"
+0. Cancel
+}
+
+
+
 // weapon names
 
 // RIFLES

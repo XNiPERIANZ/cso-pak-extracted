@@ -703,6 +703,24 @@ CSO_EmotionY
 4. «Furia»
 0. Cancelar
 }
+CSO_EmotionZ
+{
+\rGestos\w
+1. «Saludo»
+2. «Alegría»
+3. «Tristeza»
+4. «Confianza»
+0. Cancelar
+}
+CSO_EmotionAA
+{
+\rGestos\w
+1. «Saludo»
+2. «Alegría»
+3. «Provocación»
+4. «Confianza»
+0. Cancelar
+}
 
 // weapon names
 

@@ -714,6 +714,24 @@ CSO_EmotionY
 4. ''Rage''
 0. Annuler
 }
+CSO_EmotionZ
+{
+\rÉmotes\w
+1. ''Salutation''
+2. ''Content''
+3. ''Tristesse''
+4. ''Confiance''
+0. Annuler
+}
+CSO_EmotionAA
+{
+\rÉmotes\w
+1. ''Salutation''
+2. ''Content''
+3. ''Provocation''
+4. ''Confiance''
+0. Annuler
+}
 
 // weapon names
 

@@ -7343,7 +7343,7 @@ C dd_shutter01
 Y dd_sign01
 
 //-----------------------------------------------------------
-// zs_electron.wad
+// zs_electron.wad + zs_voidzone.wad
 //-----------------------------------------------------------
 
 C	black
@@ -7445,3 +7445,20 @@ W	ver_r_road_02
 W	WWD013
 G	{desert_matal01
 W	{king_ladder02
+
+//-----------------------------------------------------------
+// de_skyscraper_xmas.wad
+//-----------------------------------------------------------
+
+X	sk_bottom01
+W	sk_menu01
+M	sk_metal01
+M	sk_metal02
+M	sk_toilet
+W	sk_wall05
+Y	sk_wall06
+Y	sk_wall08
+Y	{sk_shutter01
+
+
+

@@ -713,8 +713,26 @@ CSO_EmotionY
 4. „Wut“
 0. Abbrechen
 }
-
+CSO_EmotionZ
+{
+\rEmotes\w
+1. „Gruß“
+2. „Fröhlich“
+3. „Trauer“
+4. „Selbstvertrauen“
+0. Abbrechen
 }
+CSO_EmotionAA
+{
+\rEmotes\w
+1. „Gruß“
+2. „Fröhlich“
+3. „Provozieren“
+4. „Selbstvertrauen“
+0. Abbrechen
+}
+
+
 
 
 

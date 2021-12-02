@@ -89,3 +89,7 @@
 264,#CSO_junkhouse_event3,NoRibbon,
 267,#CSO_assault_halloween_event_randomrule,ZombieRandomRuleMode,
 267,#CSO_assault_halloween_event_randomrule,NoRibbon,
+280,#CSO_deadmall1_FrozenEvent,FrozenWrath,
+280,#CSO_deadmall1_FrozenEvent,NoRibbon,
+281,#CSO_deadmall2_FrozenEvent,FrozenWrath,
+281,#CSO_deadmall2_FrozenEvent,NoRibbon,

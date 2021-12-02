@@ -706,6 +706,24 @@ CSO_EmotionY
 4. ''Öfke''
 0. İptal
 }
+CSO_EmotionZ
+{
+\rİfadeler\w
+1. ''Selamlama''
+2. ''Mutlu''
+3. ''Üzgün''
+4. ''Emin''
+0. İptal
+}
+CSO_EmotionAA
+{
+\rİfadeler\w
+1. ''Selamlama''
+2. ''Mutlu''
+3. ''Kışkırt''
+4. ''Emin''
+0. İptal
+}
 
 // weapon names
 
