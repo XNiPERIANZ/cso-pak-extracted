@@ -749,6 +749,29 @@ CSO_EmotionY
 0. 取消
 }
 
+CSO_EmotionZ
+{
+\r情緒表現\w
+
+1. "問候"
+2. "高興"
+3. "難過"
+4. "有自信"
+0. 取消
+}
+
+CSO_EmotionAA
+{
+\r情緒表現\w
+
+1. "問候"
+2. "高興"
+3. "挑釁"
+4. "有自信"
+0. 取消
+}
+
+
 // weapon names
 
 // RIFLES

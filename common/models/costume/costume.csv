@@ -183,3 +183,11 @@ id,resource,attach (0 : ¸Ó¸® / 1 : µî / 2 : °ñ¹Ý / 3 : ¾ó±¼),set id,attach_pos,s
 8556,coscsohipsack,2,0,16,0,0
 8561,buffclass21s3tr_back,1,0,1,0,0
 8562,buffclass21s3ct_back,1,0,1,0,0
+8574,buffclass21s4tr_back,1,0,1,0,0
+8575,buffclass21s4ct_pelvis,2,0,2,0,0
+8592,y21s4headcosa,0,0,0,0,0
+8593,y21s4backcosa,1,0,1,0,0
+8594,y21s4backcosb,1,0,1,0,0
+8595,y21s4pelviscosa,2,0,2,0,0
+8596,y21s4pelviscosb,2,0,2,0,0
+8597,y21s4petcosa,1,0,1,0,0
