@@ -1,6 +1,6 @@
 "Playlist"
 {
-	"Splash"	"CSOnline_STUDIO.mp3"
+	"Splash"	"CSO_Chn_Anniversary_21.mp3"
 	"RoundWin"	"CSO_Result.mp3"
 	"RoundLose"	"turncrank_flash.mp3"
 	"MatchWin"	"thinice_success.mp3"
