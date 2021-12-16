@@ -1,0 +1,13 @@
+// overview description file for zm_harbor.bsp
+global 
+{
+	ZOOM	1.66
+	ORIGIN	-625.00 0.64 1440.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_harbor.bmp"
+	HEIGHT 0
+}

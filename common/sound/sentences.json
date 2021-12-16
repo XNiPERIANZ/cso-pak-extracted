@@ -1141,7 +1141,8 @@
 		"19s1woman": "vox/buffclass19s1ct/emotion/Laughter.wav",
 		"19s2man": "vox/buffclass19s2ct/emotion/Laughter.wav",
 		"19s2woman": "vox/buffclass19s2tr/emotion/Laughter.wav",
-		"19s4tr": "vox/buffclass19s4tr/emotion/Laughter1.wav"
+		"19s4tr": "vox/buffclass19s4tr/emotion/Laughter1.wav",
+		"21s2ct": ["vox/buffclass21s2ct/emotion/pleasure1.wav", "vox/buffclass21s2ct/emotion/pleasure2.wav"]
 	},
 	"MRAD_EMOTION_ANGRY": {
 		"man": "weapons/man_angry.wav",
