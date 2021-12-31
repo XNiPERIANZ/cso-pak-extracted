@@ -1,4 +1,4 @@
-1001
+1006
 selection				640 640hud3	0	180	170	45
 bucket1				640 640hud7	168	72	20	20
 bucket2				640 640hud7	188	72	20	20
@@ -775,6 +775,11 @@ d_y21s3cannonexmd		640 640hud60	172	32	48	16
 d_buffsg552ex		            640 640hud60	172	48	48	16
 d_huntbow	            640 640hud60	172	64	48	16
 d_bufffiveseven			640 640hud12	222	176	32	16
+d_skullt9			            640 640hud60	172	80 	48	16
+d_y21s4janusa			640 640hud60	172	96 	48	16
+d_y21s4janusb			640 640hud60	172	112 	48	16
+d_y21s4janusc			640 640hud60	172	128 	48	16
+d_y21s4janusd			640 640hud60	172	144 	48	16
 
 
 

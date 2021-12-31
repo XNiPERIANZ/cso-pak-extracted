@@ -720,12 +720,12 @@ p_buffaug.mdl,0,8585,resource/WeaponPaint/texture/y21s4#256255buffaug_p.bmp
 w_buffaug.mdl,0,8585,resource/WeaponPaint/texture/y21s4#256255buffaug_p.bmp
 s_buffaug.mdl,0,8585,resource/WeaponPaint/texture/y21s4#256255buffaug_p.bmp
 v_speargun.mdl,0,8586,resource/WeaponPaint/texture/y21s4speargun_v.bmp
+v_speargun.mdl,3,8586,resource/WeaponPaint/texture/y21s4speargun_v.bmp
 p_speargun.mdl,0,8586,resource/WeaponPaint/texture/y21s4#256256speargun_p.bmp
-w_speargun.mdl,0,8586,resource/WeaponPaint/texture/y21s4#256256speargun_p.bmp
-s_speargun.mdl,0,8586,resource/WeaponPaint/texture/y21s4#256256speargun_p.bmp
-v_speargun.mdl,1,8586,resource/WeaponPaint/texture/y21s4#256256speargun_p.bmp
 p_speargun.mdl,1,8586,resource/WeaponPaint/texture/y21s4#256256speargun_p.bmp
+w_speargun.mdl,0,8586,resource/WeaponPaint/texture/y21s4#256256speargun_p.bmp
 w_speargun.mdl,1,8586,resource/WeaponPaint/texture/y21s4#256256speargun_p.bmp
+s_speargun.mdl,0,8586,resource/WeaponPaint/texture/y21s4#256256speargun_p.bmp
 s_speargun.mdl,1,8586,resource/WeaponPaint/texture/y21s4#256256speargun_p.bmp
 v_kronos12.mdl,2,8585,resource/WeaponPaint/texture/y21s4argus12_v.bmp
 v_kronos12.mdl,3,8585,resource/WeaponPaint/texture/y21s4$0b_argus3_dotsight_v_02.bmp

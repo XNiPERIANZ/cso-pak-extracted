@@ -460,7 +460,7 @@
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"10"
 				"weight"		"0"
 				"range"		"0x0000 0x017F"
@@ -469,7 +469,7 @@
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"12"
 				"weight"		"0"
 				"range"		"0x0000 0x017F"
@@ -478,7 +478,7 @@
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"15"
 				"weight"		"0"
 				"range"		"0x0000 0x017F"

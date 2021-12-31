@@ -432,7 +432,7 @@
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"18"
 				"weight"		"1000"
 				"antialias"		"0"
@@ -442,7 +442,7 @@
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"16"
 				"weight"		"1000"
 				"antialias"		"0"
@@ -462,7 +462,7 @@
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"12"
 				"weight"		"600"
 				"yres"		"480 599"
@@ -470,7 +470,7 @@
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"13"
 				"weight"		"600"
 				"yres"		"600 767"
@@ -478,7 +478,7 @@
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"14"
 				"weight"		"600"
 				"yres"		"768 1023"
@@ -486,7 +486,7 @@
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"20"
 				"weight"		"600"
 				"yres"		"1024 1199"
@@ -494,7 +494,7 @@
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Sarasa UI SC"
 				"tall"		"24"
 				"weight"		"600"
 				"yres"		"1200 6000"

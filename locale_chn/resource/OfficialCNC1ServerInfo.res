@@ -1,6 +1,6 @@
 "ServerInfo"
 {
-  "server_cnt" "8"
+  "server_cnt" "6"
   
   "server0"
   {
