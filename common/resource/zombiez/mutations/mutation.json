@@ -90,7 +90,14 @@
     "param2": // 무한 상태 변환을 위한 잔탄 요구치
     {
       "base_value": 999
-    }
+    },
+	"Additional":
+	{
+		"Competitive":
+		{
+			"GuaranteeLv":15
+		}
+	}
   },
   //고속장전 id:03
   //장전 속도 증가
@@ -421,7 +428,18 @@
   //감염 시 숙주 단계로 자동 진화
   {
     "team": 2,
-    "weight": 100
+    "weight": 100,
+	"Additional":
+	{
+		"Normal":
+		{
+			"GuaranteeLv":30
+		},
+		"Competitive":
+		{
+			"GuaranteeLv":30
+		}
+	}
   },
   //버티기 id:15
   //피격 시 일정 확률로 모든 넉백과 경직을 무시합니다.
@@ -455,6 +473,13 @@
 		{
 			"base_value":0.25,
 			"is_percent":true
+		}
+	},
+	"Additional":
+	{
+		"Competitive":
+		{
+			"GuaranteeLv":10
 		}
 	}
   },
@@ -507,7 +532,14 @@
     {
       "base_value": 400,
       "increment": 200
-    }
+    },
+	"Additional":
+	{
+		"Competitive":
+		{
+			"GuaranteeLv":35
+		}
+	}
   },
   //접촉감염 id:18
   //좀비 주변에 있는 인간에게 틱당 대미지
@@ -649,19 +681,45 @@
   //변이 소유자에 한해 영웅/사이드킥 클래스가 활성화
   {
     "team": 0,
-    "weight": 25
+    "weight": 25,
+	"Additional":
+	{
+		"Competitive":
+		{
+			"Removal":1
+		}
+	}
   },
   //열광 id:26
   //변이 소유자에 한해 사기충전/분노가 활성화
   {
     "team": 0,
-    "weight": 100
+    "weight": 100,
+	"Additional":
+	{
+		"Normal":
+		{
+			"FixLv":20
+		},
+		"Competitive":
+		{
+			"FixLv":20
+		}
+	}
   },
   //스페셜리스트 id:27
   //변이 소유자에 한해 스킬 활성화
   {
     "team": 1,
-    "weight": 100
+    "weight": 100,
+	"Additional":
+	{
+		"Competitive":
+		{
+			"FixLv":1
+		}
+		//Normal : 옵션에 따라 지식인과 스페셜리스트 중 하나 확정지급
+	}
   },
   //강제추락 id:28
   //공중에 있는 적을 공격할 때 일정 확률로 떨어뜨립니다. 사다리는 100%확률
@@ -699,6 +757,17 @@
 		"param1": // 변화 시 남는 체력
 		{
 		"base_value": 0.3
+		}
+	},
+	"Additional":
+	{
+		"Normal":
+		{
+			"GuaranteeLv":25
+		},
+		"Competitive":
+		{
+			"GuaranteeLv":25
 		}
 	}
   },
@@ -1102,6 +1171,13 @@
 		{
 			"base_value":60
 		}
+	},
+	"Additional":
+	{
+		"Competitive":
+		{
+			"GuaranteeLv":5
+		}
 	}
   },
   //스킬진화 id:48
@@ -1219,7 +1295,14 @@
       "base_value": 0.5,
       "increment": 0.01,
       "is_percent": true
-    }
+    },
+	"Additional":
+	{
+		"Competitive":
+		{
+			"Removal":1
+		}
+	}
   },
   //보급품감염 id:55
   //인간 보급상자에 폭발물 설치
@@ -1230,7 +1313,14 @@
     {
       "base_value": 5,
       "increment": 0
-    }
+    },
+	"Additional":
+	{
+		"Competitive":
+		{
+			"Removal":1
+		}
+	}
   },
   //변종 id:56
   //좀비 스킬 추가 획득
@@ -1559,6 +1649,13 @@
 	"param6":	//다크니스 스핀 좀비 대시 속도 증가량
 	{
 		"base_value":95
+	},
+	"Additional":
+	{
+		"Competitive":
+		{
+			"Removal":1
+		}
 	}
   }
   
