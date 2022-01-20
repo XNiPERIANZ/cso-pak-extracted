@@ -1902,6 +1902,7 @@
 		"ZBE_KNOCKBACK_RATE_AREA_2x1x2": 1903,
 		"ZBE_KNOCKBACK_RATE_AREA_3x1x3": 1904,
 		"BREAKABLE_PROP": 1905,
+		"TROPHY_JUNGLE" : 1906,
 		
 		
 		"??DEBUG_DIR": 2003,
@@ -32054,6 +32055,52 @@
 			"mdl": {
 				"filename": "models/voxel/common/common_a_brokenmdl01.mdl"
 			}		
+		},
+		{
+			"id": "TROPHY_JUNGLE",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 4, 4, 7 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","TROPHY_JUNGLE","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/trophy/trophy_jungle.mdl"
+			}
 		}
 	]
 }

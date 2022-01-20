@@ -7461,4 +7461,49 @@ Y	sk_wall08
 Y	{sk_shutter01
 
 
+//-----------------------------------------------------------
+// dm_cargoship.wad
+//-----------------------------------------------------------
+
+M {dm_tfence01
+M {dm_tfence02
+M {dm_tground02
+M dm_boxb01
+M dm_boxb02
+M dm_boxg01
+M dm_boxg02
+M dm_boxr01
+M dm_boxr02
+M dm_boxw01
+M dm_boxw02
+M dm_boxy01
+M dm_boxy02
+D dm_pbox01
+M dm_tground01
+C dm_tstone01
+M dm_twall01
+M dm_twall02
+M dm_twall03
+M dm_twall04
+M dm_twall05
+M dm_twall06
+M dm_twall07
+M dm_twall08
+M dm_twall09
+M dm_twall10
+M dm_twall11
+M dm_twall12
+M dm_twall13
+M dm_twall14 
+M dm_twall15
+M dm_twall16
+M dm_twall17
+M dm_twall18 
+M dm_twall19
+M dm_twall20 
+M dm_twall21
+M dm_twall22
+M dm_twall23
+Y dm_twindow01
+W dm_wbox01
 
