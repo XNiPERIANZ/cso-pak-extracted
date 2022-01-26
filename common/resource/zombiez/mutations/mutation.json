@@ -365,7 +365,7 @@
   //더블점프 id:12
   //공중에서 추가 점프 가능
   {
-    "team": 0,
+    "team": 2,
     "weight": 25,
 	 "param1": // 두번째 점프 증가량
     {
@@ -437,7 +437,7 @@
 		},
 		"Competitive":
 		{
-			"GuaranteeLv":30
+			"GuaranteeLv":28
 		}
 	}
   },
@@ -479,7 +479,7 @@
 	{
 		"Competitive":
 		{
-			"GuaranteeLv":10
+			"GuaranteeLv":32
 		}
 	}
   },
@@ -537,7 +537,7 @@
 	{
 		"Competitive":
 		{
-			"GuaranteeLv":35
+			"GuaranteeLv":36
 		}
 	}
   },
@@ -548,7 +548,7 @@
     "weight": 25,
     "param1": // 데미지 주기
     {
-      "base_value": 0.4,
+      "base_value": 0.7,
       "increment": 0
     },
     "param2": // 범위 (반지름) 1.15(0.05)
@@ -767,7 +767,7 @@
 		},
 		"Competitive":
 		{
-			"GuaranteeLv":25
+			"GuaranteeLv":24
 		}
 	}
   },
@@ -904,8 +904,8 @@
     "weight": 100,
     "param1": // 피해치
     {
-      "base_value": 4000,
-      "increment": -50
+      "base_value": 5000,
+      "increment": 100
     }
   },
   //화염구 id:37
@@ -1026,7 +1026,7 @@
     },
     "param4": // 쿨타임
     {
-      "base_value": 2
+      "base_value": 3
     }
   },
   //관통탄 id:41
@@ -1127,7 +1127,7 @@
     "param2": // 넉백 증가 계수
     {
       "base_value": 0.1,
-      "increment": 0.015
+      "increment": 0.01
     },
 	"LV2":
 	{
@@ -1176,7 +1176,7 @@
 	{
 		"Competitive":
 		{
-			"GuaranteeLv":5
+			"GuaranteeLv":7
 		}
 	}
   },
@@ -1231,13 +1231,13 @@
     "weight": 50,
     "param1": // 빨간 폭탄(second)
     {
-      "base_value": 20,
+      "base_value": 25,
       "increment": -0.5
     },
     "param2": // 초록 폭탄(second)
     {
       "base_value": 30,
-      "increment": -0.8
+      "increment": -0.5
     }
   },
   // 복수 id:52
@@ -1607,7 +1607,7 @@
 	},
 	"param2": // 받는 피해량 증가
 	{
-		"base_value":0.15,
+		"base_value":0.1,
 		"is_percent":true
 	}
   },
