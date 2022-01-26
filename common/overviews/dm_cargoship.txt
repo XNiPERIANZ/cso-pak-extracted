@@ -1,0 +1,13 @@
+// overview description file for dm_cargoship.bsp
+global 
+{
+	ZOOM	1.37
+	ORIGIN	-82.58 0.00 480.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_cargoship.bmp"
+	HEIGHT 0
+}

@@ -1,4 +1,4 @@
-1006
+1008
 selection				640 640hud3	0	180	170	45
 bucket1				640 640hud7	168	72	20	20
 bucket2				640 640hud7	188	72	20	20
@@ -780,6 +780,8 @@ d_y21s4janusa			640 640hud60	172	96 	48	16
 d_y21s4janusb			640 640hud60	172	112 	48	16
 d_y21s4janusc			640 640hud60	172	128 	48	16
 d_y21s4janusd			640 640hud60	172	144 	48	16
+d_pianogunex			640 640hud60	172	160 	48	16
+d_revivegun			640 640hud60	172	176 	48	16
 
 
 
