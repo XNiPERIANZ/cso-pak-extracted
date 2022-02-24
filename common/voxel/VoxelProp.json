@@ -1903,7 +1903,47 @@
 		"ZBE_KNOCKBACK_RATE_AREA_3x1x3": 1904,
 		"BREAKABLE_PROP": 1905,
 		"TROPHY_JUNGLE" : 1906,
-		
+		"CAVE_A_GROUND01": 1907,
+		"CAVE_A_GROUND01_SLOPE": 1908,
+		"CAVE_A_GROUND01_SLOPE_R": 1909,
+		"CAVE_A_GROUND02": 1910,
+		"CAVE_A_GROUND02_SLOPE": 1911,
+		"CAVE_A_GROUND02_SLOPE_R": 1912,
+		"CAVE_A_GROUND03": 1913,
+		"CAVE_A_GROUND03_SLOPE": 1914,
+		"CAVE_A_GROUND03_SLOPE_R": 1915,
+		"CAVE_A_GROUND04": 1916,
+		"CAVE_A_GROUND04_SLOPE": 1917,
+		"CAVE_A_GROUND04_SLOPE_R": 1918,
+		"CAVE_A_WALL01": 1919,
+		"CAVE_A_WALL01_SLOPE": 1920,
+		"CAVE_A_WALL01_SLOPE_R": 1921,
+		"CAVE_A_WALL02": 1922,
+		"CAVE_A_WALL02_SLOPE": 1923,
+		"CAVE_A_WALL02_SLOPE_R": 1924,
+		"CAVE_A_WALL03": 1925,
+		"CAVE_A_WALL03_SLOPE": 1926,
+		"CAVE_A_WALL03_SLOPE_R": 1927,
+		"CAVE_A_WALL04": 1928,
+		"CAVE_A_WALL04_SLOPE": 1929,
+		"CAVE_A_WALL04_SLOPE_R": 1930,
+		"CAVE_A_CRYSTAL01": 1931,
+		"CAVE_A_CRYSTAL02": 1932,
+		"CAVE_A_CRYSTAL03": 1933,
+		"CAVE_A_CRYSTAL04": 1934,
+		"CAVE_A_CRYSTAL05": 1935,
+		"CAVE_A_CRYSTAL06": 1936,
+		"CAVE_A_CRYSTAL07": 1937,
+		"CAVE_A_GIDUNG01": 1938,
+		"CAVE_A_GIDUNG02": 1939,
+		"CAVE_A_GIDUNG03": 1940,
+		"CAVE_A_GIDUNG04": 1941,
+		"CAVE_A_GIDUNG05": 1942,
+		"CAVE_A_GIDUNG06": 1943,
+		"CAVE_A_GIDUNG07": 1944,
+		"CAVE_A_STALACTITE01": 1945,
+		"CAVE_A_STALACTITE02": 1946,
+	
 		
 		"??DEBUG_DIR": 2003,
 		"??DEBUG_MDL": 2004
@@ -32100,6 +32140,666 @@
 			],
 			"mdl": {
 				"filename": "models/voxel/trophy/trophy_jungle.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND01",
+			"move_type": "BOX",
+			"light_type": "BLOCKED",
+			"display_type": "BOX",
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground01.tga", 
+					"gridstep_W": 2,
+					"gridstep_H": 2
+				}
+		
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND01_SLOPE",
+			"move_type": "SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground01.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND01_SLOPE_R",
+			"move_type": "REVERSED_SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "REVERSED_SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground01.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND02",
+			"move_type": "BOX",
+			"light_type": "BLOCKED",
+			"display_type": "BOX",
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground02.tga", 
+					"gridstep_W": 2,
+					"gridstep_H": 2
+				}
+		
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND02_SLOPE",
+			"move_type": "SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground02.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND02_SLOPE_R",
+			"move_type": "REVERSED_SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "REVERSED_SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground02.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND03",
+			"move_type": "BOX",
+			"light_type": "BLOCKED",
+			"display_type": "BOX",
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground03.tga", 
+					"gridstep_W": 2,
+					"gridstep_H": 2
+				}
+		
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND03_SLOPE",
+			"move_type": "SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground03.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND03_SLOPE_R",
+			"move_type": "REVERSED_SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "REVERSED_SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground03.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND04",
+			"move_type": "BOX",
+			"light_type": "BLOCKED",
+			"display_type": "BOX",
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground04.tga", 
+					"gridstep_W": 2,
+					"gridstep_H": 2
+				}
+		
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND04_SLOPE",
+			"move_type": "SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground04.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_GROUND04_SLOPE_R",
+			"move_type": "REVERSED_SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "REVERSED_SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_ground04.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_WALL01",
+			"move_type": "BOX",
+			"light_type": "BLOCKED",
+			"display_type": "BOX",
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall01.tga", 
+					"gridstep_W": 2,
+					"gridstep_H": 2
+				}
+		
+			}
+		},
+		{
+			"id": "CAVE_A_WALL01_SLOPE",
+			"move_type": "SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall01.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_WALL01_SLOPE_R",
+			"move_type": "REVERSED_SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "REVERSED_SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall01.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_WALL02",
+			"move_type": "BOX",
+			"light_type": "BLOCKED",
+			"display_type": "BOX",
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall02.tga", 
+					"gridstep_W": 2,
+					"gridstep_H": 2
+				}
+		
+			}
+		},
+		{
+			"id": "CAVE_A_WALL02_SLOPE",
+			"move_type": "SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall02.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_WALL02_SLOPE_R",
+			"move_type": "REVERSED_SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "REVERSED_SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall02.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_WALL03",
+			"move_type": "BOX",
+			"light_type": "BLOCKED",
+			"display_type": "BOX",
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall03.tga", 
+					"gridstep_W": 2,
+					"gridstep_H": 2
+				}
+		
+			}
+		},
+		{
+			"id": "CAVE_A_WALL03_SLOPE",
+			"move_type": "SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall03.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_WALL03_SLOPE_R",
+			"move_type": "REVERSED_SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "REVERSED_SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall03.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_WALL04",
+			"move_type": "BOX",
+			"light_type": "BLOCKED",
+			"display_type": "BOX",
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall04.tga", 
+					"gridstep_W": 2,
+					"gridstep_H": 2
+				}
+		
+			}
+		},
+		{
+			"id": "CAVE_A_WALL04_SLOPE",
+			"move_type": "SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall04.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_WALL04_SLOPE_R",
+			"move_type": "REVERSED_SLOPE",
+			"light_type": "SLOPE_BLOCKED",
+			"display_type": "REVERSED_SLOPE",
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/cave/cave_a_wall04.tga"
+				}
+			}
+		},
+		{
+			"id": "CAVE_A_CRYSTAL01",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 2, 2 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_CRYSTAL01",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_crystal01.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_CRYSTAL02",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 2, 1 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_CRYSTAL02"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_crystal02.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_CRYSTAL03",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 3, 3, 3 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_CRYSTAL03","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_crystal03.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_CRYSTAL04",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,						
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_crystal04.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_CRYSTAL05",
+			"move_type": "NONE",
+			"display_type": "MDL",
+			"aux_bit": 2,						
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_crystal05.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_CRYSTAL06",
+			"move_type": "NONE",
+			"display_type": "MDL",
+			"aux_bit": 2,						
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_crystal06.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_CRYSTAL07",
+			"move_type": "NONE",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 7, 7, 5 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","CAVE_A_CRYSTAL07","EMPTY","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY",
+				"EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY",
+				"EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY",
+				"EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY",
+				"EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_crystal07.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_GIDUNG01",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 2, 6 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_GIDUNG01",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_gidung01.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_GIDUNG02",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 2, 8 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_GIDUNG02",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_gidung02.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_GIDUNG03",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 1, 1, 7 ],
+			"group": [
+				"CAVE_A_GIDUNG03",
+
+				"__FAKE_BOX",
+
+				"__FAKE_BOX",
+
+				"__FAKE_BOX",
+
+				"__FAKE_BOX",
+
+				"__FAKE_BOX",
+
+				"__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_gidung03.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_GIDUNG04",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 3, 3, 3 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_GIDUNG04","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_gidung04.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_GIDUNG05",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 3, 2, 2 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_GIDUNG05","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_gidung05.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_GIDUNG06",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 2, 6 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_GIDUNG06",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_gidung06.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_GIDUNG07",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 3, 3, 3 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_GIDUNG07","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_gidung07.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_STALACTITE01",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 2, 3 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_STALACTITE01",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_stalactite01.mdl"
+			}
+		},
+		{
+			"id": "CAVE_A_STALACTITE02",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 3, 3, 3 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","CAVE_A_STALACTITE02","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/cave/cave_a_stalactite02.mdl"
 			}
 		}
 	]

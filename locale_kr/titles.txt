@@ -752,6 +752,27 @@ CSO_EmotionAA
 0. 취소
 }
 
+CSO_EmotionAB
+{
+\r이모션표현\w
+
+1. "인사"
+2. "기쁨"
+3. "도발"
+4. "댄스"
+0. 취소
+}
+
+CSO_EmotionAC
+{
+\r이모션표현\w
+
+1. "인사"
+2. "도발"
+3. "응원"
+4. "농담"
+0. 취소
+}
 // weapon names
 
 // RIFLES
