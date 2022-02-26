@@ -349,8 +349,8 @@ p_m950.mdl,0,8410,resource/WeaponPaint/texture/@y20s3m950_#256256m950_p.bmp
 p_m950.mdl,1,8410,resource/WeaponPaint/texture/@y20s3m950_#256256m950_p.bmp
 p_m950.mdl,2,8410,resource/WeaponPaint/texture/@y20s3m950_#256256m950_p.bmp
 s_m950.mdl,0,8410,resource/WeaponPaint/texture/@y20s3m950_#256256m950_p.bmp
-s_m950.mdl,1,8410,resource/WeaponPaint/texture/@y20s3m950_#256256m950_p.bmp
 s_m950.mdl,2,8410,resource/WeaponPaint/texture/@y20s3m950_#256256m950_p.bmp
+s_m950.mdl,3,8410,resource/WeaponPaint/texture/@y20s3m950_#256256m950_p.bmp
 v_cannonex.mdl,0,8410,resource/WeaponPaint/texture/y20s3cannonexdragon_$20@004_cannonexdragon.bmp
 v_cannonex.mdl,1,8410,resource/WeaponPaint/texture/y20s3dragon_wing_$20@004_dragon_wing.bmp
 v_cannonex.mdl,2,8410,resource/WeaponPaint/texture/y20s3cannonex_$20@004_cannonex_v.bmp
@@ -659,8 +659,8 @@ w_m950.mdl,0,8543,resource/WeaponPaint/texture/y21s3#256256m950_p.bmp
 w_m950.mdl,1,8543,resource/WeaponPaint/texture/y21s3#256256m950_p.bmp
 w_m950.mdl,2,8543,resource/WeaponPaint/texture/y21s3#256256m950_p.bmp
 s_m950.mdl,0,8543,resource/WeaponPaint/texture/y21s3#256256m950_p.bmp
-s_m950.mdl,1,8543,resource/WeaponPaint/texture/y21s3#256256m950_p.bmp
 s_m950.mdl,2,8543,resource/WeaponPaint/texture/y21s3#256256m950_p.bmp
+s_m950.mdl,3,8543,resource/WeaponPaint/texture/y21s3#256256m950_p.bmp
 v_buffsg552.mdl,0,8543,resource/WeaponPaint/texture/y21s3$20@004_buffsg552_01.bmp
 v_buffsg552.mdl,1,8543,resource/WeaponPaint/texture/y21s3$20@001_buffsg552_02.bmp
 v_buffsg552.mdl,2,8543,resource/WeaponPaint/texture/y21s3$20@004_moon.bmp
