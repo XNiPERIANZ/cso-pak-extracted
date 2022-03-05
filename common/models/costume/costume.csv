@@ -192,3 +192,5 @@ id,resource,attach (0 : ¸Ó¸® / 1 : µî / 2 : °ñ¹Ý / 3 : ¾ó±¼),set id,attach_pos,s
 8596,y21s4pelviscosb,2,0,2,0,0
 8597,y21s4petcosa,1,0,1,0,0
 8619,letteringglass_face,0,0,11,0,0
+8631,buffclass22s1tr_back,1,0,1,0,0
+8632,buffclass22s1ct_head,0,0,11,0,0
