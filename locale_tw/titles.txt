@@ -771,7 +771,27 @@ CSO_EmotionAA
 0. 取消
 }
 
+CSO_EmotionAB
+{
+\r情緒表現\w
 
+1. "問候"
+2. "開心"
+3. "挑釁"
+4. "跳舞"
+0. 取消
+}
+
+CSO_EmotionAC
+{
+\r情緒表現\w
+
+1. "問候"
+2. "挑釁"
+3. "加油"
+4. "開玩笑"
+0. 取消
+}
 // weapon names
 
 // RIFLES
