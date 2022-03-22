@@ -722,6 +722,25 @@ CSO_EmotionAA
 0. Cancelar
 }
 
+CSO_EmotionAB
+{
+\rGestos\w
+1. «Saludo»
+2. «Alegría»
+3. «Provocación»
+4. «Baile»
+0. Cancelar
+}
+CSO_EmotionAC
+{
+\rGestos\w
+1. «Saludo»
+2. «Provocación»
+3. «Aclamación»
+4. «Broma»
+0. Cancelar
+}
+
 // weapon names
 
 // RIFLES

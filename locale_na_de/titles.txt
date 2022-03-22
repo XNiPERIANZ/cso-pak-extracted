@@ -732,6 +732,24 @@ CSO_EmotionAA
 0. Abbrechen
 }
 
+CSO_EmotionAB
+{
+\rEmotes\w
+1. „Gruß“
+2. „Fröhlich“
+3. „Provozieren“
+4. „Tanzen“
+0. Abbrechen
+}
+CSO_EmotionAC
+{
+\rEmotes\w
+1. „Gruß“
+2. „Provozieren“
+3. „Jubel“
+4. „Witz“
+0. Abbrechen
+}
 
 
 

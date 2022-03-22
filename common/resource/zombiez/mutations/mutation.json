@@ -1292,7 +1292,7 @@
     "weight": 100,
     "param1": // 받는 피해 감소
     {
-      "base_value": 0.5,
+      "base_value": 0.3,
       "increment": 0.01,
       "is_percent": true
     },
@@ -1382,7 +1382,7 @@
 	{
 		"param1": //교체시 대미지 증가
 		{
-			"base_value":8.0,
+			"base_value":5.0,
 			"is_percent":true
 		},
 		"param2": //쿨타임

@@ -734,6 +734,24 @@ CSO_EmotionAA
 0. Cancel
 }
 
+CSO_EmotionAB
+{
+\rEmotes\w
+1. "Greeting"
+2. "Happy"
+3. "Provoke"
+4. "Dance"
+0. Cancel
+}
+CSO_EmotionAC
+{
+\rEmotes\w
+1. "Greeting"
+2. "Provoke"
+3. "Cheer"
+4. "Joke"
+0. Cancel
+}
 
 
 // weapon names

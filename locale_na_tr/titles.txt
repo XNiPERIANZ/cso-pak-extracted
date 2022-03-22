@@ -724,6 +724,24 @@ CSO_EmotionAA
 4. ''Emin''
 0. İptal
 }
+CSO_EmotionAB
+{
+\rİfadeler\w
+1. ''Selamlama''
+2. ''Mutlu''
+3. ''Kışkırt''
+4. "Dans"
+0. İptal
+}
+CSO_EmotionAC
+{
+\rİfadeler\w
+1. ''Selamlama''
+2. "Kışkırt"
+3. "Neşe"
+4. ''Şaka''
+0. İptal
+}
 
 // weapon names
 

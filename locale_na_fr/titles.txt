@@ -732,6 +732,24 @@ CSO_EmotionAA
 4. ''Confiance''
 0. Annuler
 }
+CSO_EmotionAB
+{
+\rÉmotes\w
+1. ''Salutation''
+2. ''Content''
+3. ''Provocation''
+4. ''Danse''
+0. Annuler
+}
+CSO_EmotionAC
+{
+\rÉmotes\w
+1. ''Salutation''
+2. ''Provocation''
+3. "Encouragements"
+4. ''Plaisanterie''
+0. Annuler
+}
 
 // weapon names
 
