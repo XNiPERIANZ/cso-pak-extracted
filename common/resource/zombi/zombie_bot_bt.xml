@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<BehaviorTree>
+  <!-- ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 히어로 모드 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ -->
+  <!-- 히어로 모드 게임 시작 전 -->
+  <Root name='zbbot_prepareForStart'>
+    <ZBBot_BT_BuyWeapon_HeroMode />
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' />
+    </Selector>
+    <ZBBot_BT_Look />
+  </Root>
+
+  <!-- 히어로 모드 인간 -->
+  <Root name='zbbot_human'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look />
+    <Selector>
+      <ZBBot_BT_Human_Throwing_Grenade  grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- 히어로 모드 인간 쉬움 -->
+  <Root name='zbbot_human_0'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0' accuracyMax='0.4'/>
+    <Selector>
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- 히어로 모드 인간 보통 -->
+  <Root name='zbbot_human_1'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.2' accuracyMax='0.7'/>
+    <Selector>
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- 히어로 모드 인간 어려움 -->
+  <Root name='zbbot_human_2'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.7' accuracyMax='1'/>
+    <Selector>
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- 히어로 모드 좀비 -->
+  <Root name='zbbot_zombie'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look />
+    <Selector>
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- 히어로 모드 좀비 쉬움 -->
+  <Root name='zbbot_zombie_0' hp='0.7' armor='0.7' maxspeed='1'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0' accuracyMax='0.4'/>
+    <Selector>
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- 히어로 모드 좀비 보통 -->
+  <Root name='zbbot_zombie_1' hp='1' armor='1' maxspeed='1'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.2' accuracyMax='0.7'/>
+    <Selector>
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- 히어로 모드 좀비 어려움 -->
+  <Root name='zbbot_zombie_2' hp='1.3' armor='1.3' maxspeed='1'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.7' accuracyMax='1'/>
+    <Selector>
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ Z 모드 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ -->
+  <!-- Z 모드 게임 시작 전 -->
+  <Root name='zbbot_prepareForStart_z'>
+    <ZBBot_BT_BuyWeapon_ZMode />
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' />
+    </Selector>
+    <ZBBot_BT_Look />
+  </Root>
+
+  <!-- Z 모드 인간 -->
+  <Root name='zbbot_human_z'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look />
+    <Selector>
+      <ZBBot_BT_ZModeLevelUp />
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- Z 모드 인간 쉬움 -->
+  <Root name='zbbot_human_z_0'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0' accuracyMax='0.4'/>
+    <Selector>
+      <ZBBot_BT_ZModeLevelUp />
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- Z 모드 인간 보통 -->
+  <Root name='zbbot_human_z_1'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.2' accuracyMax='0.7'/>
+    <Selector>
+      <ZBBot_BT_ZModeLevelUp />
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- Z 모드 인간 어려움 -->
+  <Root name='zbbot_human_z_2'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.7' accuracyMax='1'/>
+    <Selector>
+      <ZBBot_BT_ZModeLevelUp />
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- Z 모드 좀비 -->
+  <Root name='zbbot_zombie_z'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look />
+    <Selector>
+      <ZBBot_BT_ZModeLevelUp />
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- Z 모드 좀비 쉬움 -->
+  <Root name='zbbot_zombie_z_0'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0' accuracyMax='0.4'/>
+    <Selector>
+      <ZBBot_BT_ZModeLevelUp />
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- Z 모드 좀비 보통 -->
+  <Root name='zbbot_zombie_z_1'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.2' accuracyMax='0.7'/>
+    <Selector>
+      <ZBBot_BT_ZModeLevelUp />
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- Z 모드 좀비 어려움 -->
+  <Root name='zbbot_zombie_z_2'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.7' accuracyMax='1'/>
+    <Selector>
+      <ZBBot_BT_ZModeLevelUp />
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 좀비 라이즈 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ -->
+  <Root name='zbbot_prepareForStart_zb5'>
+    <ZBBot_BT_BuyWeapon_HeroMode />
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' />
+    </Selector>
+    <ZBBot_BT_Look />
+  </Root>
+
+  <!-- 좀비 라이즈: 인간 쉬움 -->
+  <Root name='zbbot_human_zb5_0'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0' accuracyMax='0.4'/>
+    <Selector>
+      <ZBBot_BT_Zombi5_LevelUp />
+      <ZBBot_BT_Zombi5_UsingHuamnSkill />
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- 좀비 라이즈: 인간 보통 -->
+  <Root name='zbbot_human_zb5_1'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.2' accuracyMax='0.7'/>
+    <Selector>
+      <ZBBot_BT_Zombi5_LevelUp />
+      <ZBBot_BT_Zombi5_UsingHuamnSkill />
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- 좀비 라이즈: 인간 어려움 -->
+  <Root name='zbbot_human_zb5_2'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' giveUpRatioToSafeArea='35' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.7' accuracyMax='1'/>
+    <Selector>
+      <ZBBot_BT_Zombi5_LevelUp />
+      <ZBBot_BT_Zombi5_UsingHuamnSkill />
+      <ZBBot_BT_Human_Throwing_Grenade grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Human_Shoot />
+    </Selector>
+  </Root>
+
+  <!-- 좀비 라이즈: 좀비 쉬움 -->
+  <Root name='zbbot_zombie_zb5_0' hp='0.7' armor='0.7' maxspeed='1'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0' accuracyMax='0.4'/>
+    <Selector>
+      <ZBBot_BT_Zombi5_LevelUp />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- 좀비 라이즈: 좀비 보통 -->
+  <Root name='zbbot_zombie_zb5_1' hp='1' armor='1' maxspeed='1'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.2' accuracyMax='0.7'/>
+    <Selector>
+      <ZBBot_BT_Zombi5_LevelUp />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+  <!-- 좀비 라이즈: 좀비 어려움 -->
+  <Root name='zbbot_zombie_zb5_2' hp='1.3' armor='1.3' maxspeed='1'>
+    <ZBBot_BT_PrepareToZombie earlyZombieRange='175' />
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.7' accuracyMax='1'/>
+    <Selector>
+      <ZBBot_BT_Zombi5_LevelUp />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+  
+    <!-- 자동 사냥 히어로 모드 (좀비) -->
+  <Root name='autoplay_zbh_zombie' hp='1' armor='1' maxspeed='1'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0.2' accuracyMax='0.7'/>
+    <Selector>
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+</BehaviorTree>

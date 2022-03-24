@@ -1581,6 +1581,17 @@
 	"param5":	//넉백 파워(수직)
 	{
 		"base_value": 400
+	},
+	"Additional":
+	{
+		"Normal":
+		{
+			"Removal":1
+		},
+		"Competitive":
+		{
+			"Removal":1
+		}
 	}
   },
   //갈고리폭탄 id:68
