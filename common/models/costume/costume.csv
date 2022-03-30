@@ -194,3 +194,7 @@ id,resource,attach (0 : ¸Ó¸® / 1 : µî / 2 : °ñ¹Ý / 3 : ¾ó±¼),set id,attach_pos,s
 8619,letteringglass_face,0,0,11,0,0
 8631,buffclass22s1tr_back,1,0,1,0,0
 8632,buffclass22s1ct_head,0,0,11,0,0
+8640,y22s1parkhairband_head_m,0,0,0,0,0
+8641,y22s1parkballoon_back,1,0,2,0,0
+8642,y22s1parksnackbag_pelvis,2,0,2,0,0
+8644,csoearplug_head,0,0,17,0,0
