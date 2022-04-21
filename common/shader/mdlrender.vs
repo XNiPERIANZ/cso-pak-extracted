@@ -120,7 +120,7 @@ void main()
 	vs_out.color = color;
 	
 	// Texture Coordinate
-	vs_out.texCoord = (aTexCoord + texOffset.xy) * texOffset.zw;
+	vs_out.texCoord = aTexCoord * texOffset.zw + texOffset.xy;
 
 	// Cubemap
 #ifdef CSO_ENV

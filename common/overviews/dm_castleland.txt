@@ -1,0 +1,13 @@
+// overview description file for dm_castleland.bsp
+global 
+{
+	ZOOM	1.40
+	ORIGIN	160.00 -56.00 656.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_castleland.bmp"
+	HEIGHT -352
+}
