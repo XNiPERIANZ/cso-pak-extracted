@@ -1,7 +1,8 @@
 layout(location=0) in vec3 aPos;
 layout(location=1) in vec2 aTexCoord;
 layout(location=2) in vec3 aLightmapCoord;
-layout(location=3) in vec4 aColor;
+layout(location=3) in vec2 aDetailCoord;
+layout(location=4) in vec4 aColor;
 
 uniform int Switch;
 uniform mat4 ModelView;
@@ -14,6 +15,7 @@ out VAR
     vec4 color;
     vec2 texCoord;
     vec3 lightmapCoord;
+    vec2 detailCoord;
     float fogFactor;
 } vs_out;
 
@@ -31,6 +33,7 @@ void main()
     
     vs_out.texCoord = aTexCoord;
     vs_out.lightmapCoord = aLightmapCoord;
+    vs_out.detailCoord = aDetailCoord;
 
     float fogFactor = 1.0;
     if( bool(Switch & SWITCH_FOG) )

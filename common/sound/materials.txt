@@ -7507,3 +7507,25 @@ M dm_twall23
 Y dm_twindow01
 W dm_wbox01
 
+//-----------------------------------------------------------
+// cs_estate_child.wad
+//-----------------------------------------------------------
+
+C child_road01
+C child_road02
+C child_road03
+C child_wall01
+C child_wall02
+C child_wall03
+C child_wall04
+C child_wall05
+C child_wall06
+C child_wall07
+C child_wall08
+
+//-----------------------------------------------------------
+// dm_castleland.wad
+//-----------------------------------------------------------
+
+Y cl_win01
+Y cl_win02
