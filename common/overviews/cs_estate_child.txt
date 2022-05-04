@@ -1,0 +1,13 @@
+// overview description file for cs_estate_child.bsp
+global 
+{
+	ZOOM	1.95
+	ORIGIN	-176.00 -912.00 0.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_estate_child.bmp"
+	HEIGHT -816
+}
