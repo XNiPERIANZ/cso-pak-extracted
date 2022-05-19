@@ -198,3 +198,5 @@ id,resource,attach (0 : ¸Ó¸® / 1 : µî / 2 : °ñ¹Ý / 3 : ¾ó±¼),set id,attach_pos,s
 8641,y22s1parkballoon_back,1,0,2,0,0
 8642,y22s1parksnackbag_pelvis,2,0,2,0,0
 8644,csoearplug_head,0,0,17,0,0
+8661,buffclass22s2tr_face,0,0,18,0,0
+8662,buffclass22s2ct_face,0,0,19,0,0
