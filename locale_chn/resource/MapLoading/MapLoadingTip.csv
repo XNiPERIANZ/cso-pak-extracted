@@ -2520,3 +2520,15 @@
 1,294,14,1,Tooltip_ZM3_PROTECTION,#CSO_MaploadingTip_ZM3_PROTECTION
 1,295,14,1,Tooltip_ZM3_PROTECTION,#CSO_MaploadingTip_ZM3_PROTECTION
 1,296,14,1,Tooltip_ZM3_PROTECTION,#CSO_MaploadingTip_ZM3_PROTECTION
+1,297,3,1,Tooltip_Original_DE,#CSO_MaploadingTip_ORIGINAL_DE
+1,297,0,1,Tooltip_Original_DE,#CSO_MaploadingTip_ORIGINAL_DE
+1,297,1,1,Tooltip_Deathmatch,#CSO_MaploadingTip_DM
+1,297,2,1,Tooltip_TeamDeathmatch,#CSO_MaploadingTip_TDM
+1,297,4,1,Tooltip_Deathmatch,#CSO_MaploadingTip_DM_BOT
+1,297,5,1,Tooltip_TeamDeathmatch,#CSO_MaploadingTip_TDM_BOT
+1,297,22,1,Tooltip_GDM_01,#CSO_MaploadingTip_GDM_01
+1,297,22,1,Tooltip_GDM_02,#CSO_MaploadingTip_GDM_02
+1,297,23,1,Tooltip_basic_01,#CSO_MaploadingTip_basic_01
+1,297,23,1,Tooltip_basic_02,#CSO_MaploadingTip_basic_02
+1,297,23,1,Tooltip_basic_03,#CSO_MaploadingTip_basic_03
+1,297,40,1,Tooltip_Allstar_01,#CSO_MaploadingTip_Allstar

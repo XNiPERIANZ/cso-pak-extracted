@@ -1033,6 +1033,7 @@ Id,NAME,CATEGORY,ICON,DETAIL ICON,BLOCK COST,"SIGNAL(0=없음,1=신호발신,2=신호수�
 1899,TROPHY_MIDDLEAGE,1,voxel/icon/decoration/vxltrophytheme11.tga,voxel/icon/decoration/vxltrophytheme11_l.tga,1,0,0,8558,,0,contest21_1 (vxltrophytheme11),,
 1900,TROPHY_GERRARD,1,voxel/icon/decoration/vxltrophytheme12.tga,voxel/icon/decoration/vxltrophytheme12_l.tga,1,0,0,8570,,0,contest21_2 (vxltrophytheme12),,
 1906,TROPHY_JUNGLE,1,voxel/icon/decoration/vxltrophytheme13.tga,voxel/icon/decoration/vxltrophytheme13_l.tga,1,0,0,8624,,0,contest21_3 (vxltrophytheme13),,
+1947,TROPHY_MINE,1,voxel/icon/decoration/vxltrophytheme14.tga,voxel/icon/decoration/vxltrophytheme14_l.tga,1,0,0,8665,,0,contest22_1 (vxltrophytheme14),,
 1203,COMMON_A_CONSOLEDESK01,1,voxel/icon/decoration/common_a_consoledesk01.tga,voxel/icon/decoration/common_a_consoledesk01_l.tga,1,0,0,0,,0,KOR_20180809,,
 1204,COMMON_A_CONSOLEDESK02,1,voxel/icon/decoration/common_a_consoledesk02.tga,voxel/icon/decoration/common_a_consoledesk02_l.tga,1,0,0,0,,0,KOR_20180809,,
 1205,COMMON_A_STORAGECLOSET01,1,voxel/icon/decoration/common_a_storagecloset01.tga,voxel/icon/decoration/common_a_storagecloset01_l.tga,1,0,0,0,,0,KOR_20180809,,
