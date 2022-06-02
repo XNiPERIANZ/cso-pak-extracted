@@ -1,0 +1,13 @@
+// overview description file for de_market.bsp
+global 
+{
+	ZOOM	2.40
+	ORIGIN	-3.64 -7.41 240.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_market.bmp"
+	HEIGHT 0
+}

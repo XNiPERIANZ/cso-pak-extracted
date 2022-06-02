@@ -751,6 +751,24 @@ CSO_EmotionAC
 0. Abbrechen
 }
 
+CSO_EmotionAD
+{
+\rEmotes\w
+1. "Gruß"
+2. "Tanzen"
+3. "Provozieren"
+4. "Wartung"
+0. Abbrechen
+}
+CSO_EmotionAE
+{
+\rEmotes\w
+1. "Gruß"
+2. "Wartung"
+3. "Ruhe"
+4. "Tanzen"
+0. Abbrechen
+}
 
 
 

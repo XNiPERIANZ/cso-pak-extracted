@@ -690,56 +690,74 @@ CSO_EmotionW
 CSO_EmotionX
 {
 \rİfadeler\w
-1. ''Selamlama''
-2. ''Mutlu''
-3. ''Kışkırt''
-4. ''Şaka''
+1. "Selamlama"
+2. "Mutlu"
+3. "Kışkırt"
+4. "Şaka"
 0. İptal
 }
 
 CSO_EmotionY
 {
 \rİfadeler\w
-1. ''Selamlama''
-2. ''Dua''
-3. ''Şaka''
-4. ''Öfke''
+1. "Selamlama"
+2. "Dua"
+3. "Şaka"
+4. "Öfke"
 0. İptal
 }
 CSO_EmotionZ
 {
 \rİfadeler\w
-1. ''Selamlama''
-2. ''Mutlu''
-3. ''Üzgün''
-4. ''Emin''
+1. "Selamlama"
+2. "Mutlu"
+3. "Üzgün"
+4. "Emin"
 0. İptal
 }
 CSO_EmotionAA
 {
 \rİfadeler\w
-1. ''Selamlama''
-2. ''Mutlu''
-3. ''Kışkırt''
-4. ''Emin''
+1. "Selamlama"
+2. "Mutlu"
+3. "Kışkırt"
+4. "Emin"
 0. İptal
 }
 CSO_EmotionAB
 {
 \rİfadeler\w
-1. ''Selamlama''
-2. ''Mutlu''
-3. ''Kışkırt''
+1. "Selamlama"
+2. "Mutlu"
+3. "Kışkırt"
 4. "Dans"
 0. İptal
 }
 CSO_EmotionAC
 {
 \rİfadeler\w
-1. ''Selamlama''
+1. "Selamlama"
 2. "Kışkırt"
 3. "Neşe"
-4. ''Şaka''
+4. "Şaka"
+0. İptal
+}
+CSO_EmotionAD
+{
+\rİfadeler\w
+1. "Selamlama"
+2. "Dans"
+3. "Kışkırt"
+4. "Bakım"
+0. İptal
+}
+CSO_EmotionAE
+{
+\rİfadeler\w
+1. "Selamlama"
+2. "Bakım"
+3. "Dinlen"
+4. "Dans"
 0. İptal
 }
 

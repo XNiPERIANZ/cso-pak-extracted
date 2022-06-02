@@ -753,7 +753,24 @@ CSO_EmotionAC
 0. Cancel
 }
 
-
+CSO_EmotionAD
+{
+\rEmotes\w
+1. "Greeting"
+2. "Dance"
+3. "Provoke"
+4. "Maintenance"
+0. Cancel
+}
+CSO_EmotionAE
+{
+\rEmotes\w
+1. "Greeting"
+2. "Maintenance"
+3. "Rest"
+4. "Dance"
+0. Cancel
+}
 // weapon names
 
 // RIFLES
