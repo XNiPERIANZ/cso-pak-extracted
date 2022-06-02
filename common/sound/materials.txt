@@ -7529,3 +7529,16 @@ C child_wall08
 
 Y cl_win01
 Y cl_win02
+
+//-----------------------------------------------------------
+// de_market.wad
+//-----------------------------------------------------------
+
+M mk_adback
+M mk_ceiling01
+mk_shutter01
+M mk_shutter02
+M mk_wall01
+Y mk_wall02_3
+Y mk_wall02_4
+W mk_wood01

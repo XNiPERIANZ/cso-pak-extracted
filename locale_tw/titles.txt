@@ -792,6 +792,27 @@ CSO_EmotionAC
 4. "開玩笑"
 0. 取消
 }
+CSO_EmotionAD
+{
+\r動作表情\w
+
+1. "打招呼"
+2. "跳舞"
+3. "挑釁"
+4. "整理"
+0. 取消
+}
+
+CSO_EmotionAE
+{
+\r動作表情\w
+
+1. "打招呼"
+2. "整理"
+3. "休息"
+4. "跳舞"
+0. 取消
+}
 // weapon names
 
 // RIFLES

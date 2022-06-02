@@ -1943,6 +1943,7 @@
 		"CAVE_A_GIDUNG07": 1944,
 		"CAVE_A_STALACTITE01": 1945,
 		"CAVE_A_STALACTITE02": 1946,
+		"TROPHY_MINE": 1947,
 	
 		
 		"??DEBUG_DIR": 2003,
@@ -32800,6 +32801,52 @@
 			],
 			"mdl": {
 				"filename": "models/voxel/cave/cave_a_stalactite02.mdl"
+			}
+		},
+		{
+			"id": "TROPHY_MINE",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 4, 4, 7 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","TROPHY_MINE","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/trophy/trophy_mine.mdl"
 			}
 		}
 	]

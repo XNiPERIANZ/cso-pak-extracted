@@ -61,7 +61,8 @@
 				"Params": {
 					"Dist": 7,
 					"Width": 2,
-					"Damage": 250
+					"Damage": 250,
+					"DamageAdd" : 75
 				}
 			},
 			{
@@ -157,7 +158,8 @@
 				"Name": "speedup",
 				"ItemID": 3633,
 				"Params": {
-					"Percent": 10
+					"Percent": 10, "PercentAdd" : 10,
+					"MaxPercent":20
 				}
 			},
 			{
@@ -238,13 +240,18 @@
 				"ID": 25,
 				"Name": "avenger",
 				"ItemID":3644,
-				"Params":{"DmgPercent":3, "MaxPercent":60}
+				"Params":{
+				"DmgPercent":3, "DmgPercentAdd":3,
+				"MaxPercent":60}
 			},
 			{
 				"ID": 26,
 				"Name": "groupbattle",
 				"ItemID":3645,
-				"Params":{"Dist":10, "DmgPercent":4}
+				"Params":{
+				"Dist":10,
+				"DmgPercent":4, "DmgPercentAdd":4
+				}
 			},
 			{
 				"ID": 27,
