@@ -1,0 +1,44 @@
+{
+    "ingameID": 523,
+    "resourceName": "lasersg",
+    "wpnClassName": "lasersg",
+    "drawSeq": 2,
+    "pAnimSeq": "m249",
+    "firstAmmoType": "lasersg",
+    "secondAmmoType": "lasersg_b",
+    "maxClip": 40,
+    "weight": 20,
+    "slot": 1,
+    "position": 1,
+    "ratio": 1.3,
+    "maxSpeed": 240,
+    "distance": 4,
+    "delta": 3,
+    "seriesID": -1,
+    "kbGround": 600,
+    "kbJump": 550,
+    "kbFJump": 650,
+    "kbDucking": 550,
+    "kbModifier": 0.4,
+    "accSpeed": 0,
+    "accuracy": "ACC_2",
+    "properties": [
+        "WPN_USE_BOTH",
+        "WPN_LARGE_FLINCH",
+        "WPN_SHOTGUN"
+    ],
+    "basketPos": 0,
+    "price": 4000,
+    "usableMap": [
+        "EMT_DE",
+        "EMT_CS"
+    ],
+    "team": [
+        "ETT_CT",
+        "ETT_TER"
+    ],
+    "buyMenuType": "BMT_SHOTGUN",
+    "classFlag": [
+        -1
+    ]
+}

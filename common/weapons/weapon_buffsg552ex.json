@@ -1,0 +1,13 @@
+{
+    "ingameID": 514,
+    "resourceName": "buffsg552ex",
+    "baseWpnName": "buffsg552",
+    "wpnClassName": "buffsg552ex",
+    "drawSeq": 2,
+    "pAnimSeq": "mp5",
+    "properties": [
+        "WPN_USE_BOTH",
+        "WPN_LARGE_FLINCH",
+        "WPN_ASSAULT_RIFLE"
+    ]
+}

@@ -1814,6 +1814,8 @@
 	
 	// 피격, 사망(mp 재생)
 	"VOICE_HURT_HEAD": {
+		"man": ["player/headshot1.wav", "player/headshot2.wav","player/headshot3.wav"],
+		"woman": ["player/F_headshot1.wav", "player/F_headshot2.wav","player/F_headshot3.wav"],
 		"19s1man": ["player/buffclass19s1tr/headshot1.wav", "player/buffclass19s1tr/headshot2.wav"],
 		"19s1woman": ["player/buffclass19s1ct/headshot1.wav", "player/buffclass19s1ct/headshot2.wav"],
 		"19s2man": ["player/buffclass19s2ct/headshot1.wav", "player/buffclass19s2ct/headshot2.wav"],
@@ -1843,6 +1845,8 @@
 		"buffdefault":["player/$buffclassname/headshot1.wav", "player/$buffclassname/headshot2.wav"]
 	},
 	"VOICE_HURT_FLESH": {
+		"man": ["player/bhit_flesh-1.wav", "player/bhit_flesh-2.wav","player/bhit_flesh-3.wav"],
+		"woman": ["player/F_bhit_flesh-1.wav", "player/F_bhit_flesh-2.wav","player/F_bhit_flesh-3.wav"],
 		"19s1man": ["player/buffclass19s1tr/hit_flesh-1.wav", "player/buffclass19s1tr/hit_flesh-2.wav", "player/buffclass19s1tr/hit_flesh-3.wav"],
 		"19s1woman": ["player/buffclass19s1ct/f_hit_flesh-1.wav", "player/buffclass19s1ct/f_hit_flesh-2.wav", "player/buffclass19s1ct/f_hit_flesh-3.wav"],
 		"19s2man": ["player/buffclass19s2ct/hit_flesh-1.wav", "player/buffclass19s2ct/hit_flesh-2.wav", "player/buffclass19s2ct/hit_flesh-3.wav"],
@@ -1859,7 +1863,7 @@
 		"20s3ct": ["player/buffclass20s3ct/f_hit_flesh-1.wav", "player/buffclass20s3ct/f_hit_flesh-2.wav", "player/buffclass20s3ct/f_hit_flesh-3.wav"],
 		"20s4tr": ["player/buffclass20s4tr/f_hit_flesh-1.wav", "player/buffclass20s4tr/f_hit_flesh-2.wav", "player/buffclass20s4tr/f_hit_flesh-3.wav"],
 		"20s4ct": ["player/buffclass20s4ct/f_hit_flesh-1.wav", "player/buffclass20s4ct/f_hit_flesh-2.wav", "player/buffclass20s4ct/f_hit_flesh-3.wav"],
-		"21s1tr": ["player/buffclass21s1tr/f_hit_flesh-1.wav", "player/buffclass21s1tr/f_hit_flesh-2.wav", "player/buffclass21s1tr/f_hit_flesh-3.wav"],
+		"21s1tr": ["player/buffclass21s1tr/hit_flesh-1.wav", "player/buffclass21s1tr/hit_flesh-2.wav", "player/buffclass21s1tr/hit_flesh-3.wav"],
 		"21s1ct": ["player/buffclass21s1ct/f_hit_flesh-1.wav", "player/buffclass21s1ct/f_hit_flesh-2.wav", "player/buffclass21s1ct/f_hit_flesh-3.wav"],
 		"21s2tr": ["player/buffclass21s2tr/f_hit_flesh-1.wav", "player/buffclass21s2tr/f_hit_flesh-2.wav", "player/buffclass21s2tr/f_hit_flesh-3.wav"],
 		"21s2ct": ["player/buffclass21s2ct/f_hit_flesh-1.wav", "player/buffclass21s2ct/f_hit_flesh-2.wav", "player/buffclass21s2ct/f_hit_flesh-3.wav"],
@@ -1872,6 +1876,8 @@
 		"buffdefault":["player/$buffclassname/hit_flesh-1.wav", "player/$buffclassname/hit_flesh-2.wav", "player/$buffclassname/hit_flesh-3.wav", "player/$buffclassname/f_hit_flesh-1.wav", "player/$buffclassname/f_hit_flesh-2.wav", "player/$buffclassname/f_hit_flesh-3.wav"]
 	},
 	"VOICE_DEATH": {
+		"man": ["player/die1.wav", "player/die2.wav","player/die3.wav","player/death6.wav"],
+		"woman": ["player/F_die1.wav", "player/F_die2.wav","player/F_die3.wav"],
 		"19s1man": ["player/buffclass19s1tr/die1.wav", "player/buffclass19s1tr/die2.wav"],
 		"19s1woman": ["player/buffclass19s1ct/die1.wav", "player/buffclass19s1ct/die2.wav"],
 		"19s2man": ["player/buffclass19s2ct/die1.wav", "player/buffclass19s2ct/die2.wav"],

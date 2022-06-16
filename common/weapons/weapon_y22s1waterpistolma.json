@@ -1,0 +1,13 @@
+{
+    "ingameID": 521,
+    "resourceName": "y22s1waterpistolma",
+    "baseWpnName": "waterpistol",
+    "wpnClassName": "y22s1waterpistol",
+    "drawSeq": 5,
+    "pAnimSeq": "onehanded",
+    "maxClip": 50,
+    "firstAmmoType": "y22s1waterpistolma",
+    "secondAmmoType": "cloaking_thunderpistol",
+    "price": 1500,
+    "kbModifier": 0.6
+}

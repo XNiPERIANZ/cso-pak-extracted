@@ -1,0 +1,10 @@
+{
+    "ingameID": 507,
+    "resourceName": "pianogunex",
+    "baseWpnName": "pianogun",
+    "wpnClassName": "pianogunex",
+    "drawSeq": 8,
+    "firstAmmoType": "pianogun",
+    "pAnimSeq": "pianogun",
+    "useCustomDeploy": true
+}
