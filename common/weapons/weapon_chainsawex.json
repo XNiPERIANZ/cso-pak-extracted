@@ -1,0 +1,24 @@
+{
+    "ingameID": 525,
+    "resourceName": "chainsawex",
+    "baseWpnName": "chainsaw",
+    "wpnClassName": "chainsawex",
+    "useCustomDeploy": true,
+    "firstAmmoType": "chainsawex",
+    "drawSeq": 2,
+    "pAnimSeq": "chainsaw",
+    "ratio": 1.8,
+    "maxSpeed": 260,
+	"maxClip": 300,
+    "kbGround": 290,
+    "kbJump": 85,
+    "kbFJump": 50,
+    "kbDucking": 150,
+    "kbModifier": 0.25,
+    "price": 5750,
+    "properties": [
+        "WPN_USE_BOTH",
+        "WPN_LARGE_FLINCH",
+        "WPN_EQUIPMENT"
+    ]
+}

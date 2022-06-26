@@ -1,0 +1,10 @@
+{
+    "ingameID": 524,
+    "resourceName": "voidpistolex",
+    "wpnClassName": "voidpistolex",
+    "baseWpnName": "voidpistol",
+    "useCustomDeploy": true,
+    "drawSeq": 15,
+    "pAnimSeq": "onehanded",
+    "maxClip": 60
+}

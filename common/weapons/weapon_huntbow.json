@@ -1,0 +1,23 @@
+{
+    "ingameID": 513,
+    "resourceName": "huntbow",
+    "baseWpnName": "bow",
+    "wpnClassName": "huntbow",
+    "drawSeq": 4,
+    "pAnimSeq": "slingshot",
+    "maxClip": 250,
+    "price": 6500,
+    "kbGround": 2550,
+    "kbJump": 500,
+    "kbFJump": 800,
+    "kbDucking": 650,
+    "kbModifier": 0.5,
+    "useCustomDeploy": true,
+    "maxSpeed": 240,
+    "properties": [
+        "WPN_USE_BOTH",
+        "WPN_LARGE_FLINCH",
+        "WPN_ASSAULT_RIFLE",
+        "WPN_HIDE_CROSSHAIR"
+    ]
+}

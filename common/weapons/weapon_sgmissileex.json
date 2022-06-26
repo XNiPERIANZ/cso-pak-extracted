@@ -1,0 +1,11 @@
+{
+    "ingameID": 494,
+    "resourceName": "sgmissileex",
+    "baseWpnName": "sgmissile",
+    "wpnClassName": "sgmissileex",
+    "drawSeq": 6,
+    "pAnimSeq": "m249",
+    "useCustomDeploy": true,
+    "firstAmmoType": "sgmissileex_buckshot",
+    "maxClip": 45
+}

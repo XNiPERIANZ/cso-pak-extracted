@@ -1,0 +1,13 @@
+// overview description file for zm_nostalgia.bsp
+global 
+{
+	ZOOM	1.39
+	ORIGIN	0.00 -323.78 944.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_nostalgia.bmp"
+	HEIGHT -192
+}

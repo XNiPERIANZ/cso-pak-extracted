@@ -1,0 +1,9 @@
+{
+    "ingameID": 527,
+    "resourceName": "y22s2sfpistol",
+    "baseWpnName": "sfpistol",
+    "wpnClassName": "y22s2sfpistol",
+    "drawSeq": 4,
+    "pAnimSeq": "onehanded",
+    "secondAmmoType": "y22s2sfpistol_b"
+}

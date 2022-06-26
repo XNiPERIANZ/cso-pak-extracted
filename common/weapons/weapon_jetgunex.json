@@ -1,0 +1,11 @@
+{
+    "ingameID": 506,
+    "resourceName": "jetgunex",
+    "baseWpnName": "jetgun",
+    "wpnClassName": "jetgunex",
+    "drawSeq": 3,
+    "pAnimSeq": "dualpistols",
+    "useCustomDeploy": true,
+    "ratio": 1.35,
+    "maxSpeed": 270
+}

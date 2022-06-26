@@ -1,0 +1,11 @@
+{
+    "ingameID": 496,
+    "resourceName": "y21s1jetgunma",
+    "baseWpnName": "jetgun",
+    "wpnClassName": "y21s1jetgunma",
+    "drawSeq": 2,
+    "pAnimSeq": "dualpistols",
+    "maxClip": 30,
+    "firstAmmoType": "jetgun_bear",
+    "maxSpeed": 245
+}

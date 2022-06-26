@@ -1,0 +1,13 @@
+{
+    "ingameID": 505,
+    "resourceName": "y21s2lockongunmd",
+    "baseWpnName": "lockongun",
+    "wpnClassName": "y21s2lockongunmd",
+    "drawSeq": 6,
+    "pAnimSeq": "mp5",
+    "maxClip": 50,
+    "firstAmmoType": "50bmg_lockongunmd",
+    "maxSpeed": 230,
+    "useCustomDeploy": true,
+    "price": 5000
+}
