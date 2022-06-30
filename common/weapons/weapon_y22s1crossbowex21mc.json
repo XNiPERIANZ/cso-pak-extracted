@@ -1,0 +1,10 @@
+{
+    "ingameID": 522,
+    "resourceName": "y22s1crossbowex21mc",
+    "baseWpnName": "crossbowex21",
+    "wpnClassName": "y22s1crossbowex",
+    "drawSeq": 4,
+    "pAnimSeq": "mp5",
+    "price": 5000,
+    "maxSpeed": 240
+}

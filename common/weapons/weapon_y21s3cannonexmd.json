@@ -1,0 +1,18 @@
+{
+    "ingameID": 512,
+    "resourceName": "y21s3cannonexmd",
+    "baseWpnName": "cannonex",
+    "wpnClassName": "y21s3cannonexmd",
+    "drawSeq": 2,
+    "pAnimSeq": "carbine",
+    "useCustomDeploy": true,
+    "price": 6200,
+    "ratio": 1.7,
+    "maxSpeed": 235,
+    "kbGround": 1600,
+    "kbJump": 900,
+    "kbFJump": 1000,
+    "kbDucking": 650,
+    "kbModifier": 0.3,
+    "maxClip": 60
+}
