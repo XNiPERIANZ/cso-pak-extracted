@@ -200,3 +200,7 @@ id,resource,attach (0 : ¸Ó¸® / 1 : µî / 2 : °ñ¹Ý / 3 : ¾ó±¼),set id,attach_pos,s
 8644,csoearplug_head,0,0,17,0,0
 8661,buffclass22s2tr_face,0,0,18,0,0
 8662,buffclass22s2ct_face,0,0,19,0,0
+8690,y22s2headcos,0,0,19,0,0
+8691,y22s2backcos,1,0,1,0,0
+8692,y22s2pelviscos,2,0,2,0,0
+8693,csomask_head,0,0,13,0,0

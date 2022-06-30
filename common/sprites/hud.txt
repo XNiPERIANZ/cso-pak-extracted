@@ -1,4 +1,4 @@
-989
+994
 selection				640 640hud3	0	180	170	45
 bucket1				640 640hud7	168	72	20	20
 bucket2				640 640hud7	188	72	20	20
@@ -788,6 +788,11 @@ d_y22s1holyswordmb		640 640hud60	172	208 	48	16
 d_y22s1crossbowex21mc		640 640hud60	172	192 	48	16
 d_whipsword			640 640hud61	172	0 	48	16
 d_voidpistolex			640 640hud12	222	192	32	16
+d_lasersg     			640 640hud61	172	48 	48	16
+d_chainsawex     			640 640hud61	172	64 	48	16
+d_y22s2lunarcannon     		640 640hud61	172	16 	48	16
+d_y22s2sfsword         		640 640hud61	172	32 	48	16
+d_y22s2sfpistol      		640 640hud12	222	208 	32	16
 
 
 

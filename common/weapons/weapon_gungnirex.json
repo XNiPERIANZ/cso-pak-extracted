@@ -1,0 +1,9 @@
+{
+    "ingameID": 492,
+    "resourceName": "gungnirex",
+    "baseWpnName": "gungnir",
+    "wpnClassName": "gungnirex",
+    "drawSeq": 2,
+    "pAnimSeq": "m249",
+    "useCustomDeploy": true
+}

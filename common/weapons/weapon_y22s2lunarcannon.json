@@ -1,0 +1,9 @@
+{
+  "ingameID": 526,
+  "resourceName": "y22s2lunarcannon",
+  "baseWpnName": "gatlingex",
+  "wpnClassName": "y22s2lunarcannon",
+  "drawSeq": 4,
+  "pAnimSeq": "m249",
+  "secondAmmoType": "y22s2lunarcannon_b"
+}

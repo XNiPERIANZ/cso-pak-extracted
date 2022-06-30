@@ -1,0 +1,8 @@
+{
+    "ingameID": 486,
+    "resourceName": "laserfistex",
+    "baseWpnName": "laserfist",
+    "wpnClassName": "laserfistex",
+    "drawSeq": 9,
+    "pAnimSeq": "dualpistols"
+}
