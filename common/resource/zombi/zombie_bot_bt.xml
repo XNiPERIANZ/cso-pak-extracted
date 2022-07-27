@@ -385,14 +385,29 @@
     </Selector>
   </Root>
   
-    <!-- 자동 사냥 히어로 모드 (좀비) -->
-  <Root name='autoplay_zbh_zombie' hp='1' armor='1' maxspeed='1'>
+    <!-- 자동 사냥 히어로 모드 -->
+  <Root name='autoplay_zbh_zombie'>
     <ZBBot_BT_FindTarget findTargetInterval='1.5' />
     <Selector>
       <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
       <ZBBot_BT_Move repathRange='80' needRunRange='185' />
     </Selector>
     <ZBBot_BT_Look accuracyMin='0.2' accuracyMax='0.7'/>
+    <Selector>
+      <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
+      <ZBBot_BT_Zombie_UsingSKill />
+      <ZBBot_BT_Zombie_Attack attackRange='150' attackInterval='0.5' primaryAttackRatio='65' jumpAttackRatio='5'/>
+    </Selector>
+  </Root>
+
+    <!-- 자동 사냥 Z 모드 좀비 -->
+  <Root name='autoplay_zbz_zombie'>
+    <ZBBot_BT_FindTarget findTargetInterval='1.5' />
+    <Selector>
+      <ZBBot_BT_AvoidTeamPlayer minRange='40.0' />
+      <ZBBot_BT_Move repathRange='80' needRunRange='185' />
+    </Selector>
+    <ZBBot_BT_Look accuracyMin='0' accuracyMax='0.7'/>
     <Selector>
       <ZBBot_BT_Zombie_Throwing_ZombieBomb grenadeInterval='15' grenadeThrowingTime='1' grenadeMinRange='300' grenadeMaxRange='1200' />
       <ZBBot_BT_Zombie_UsingSKill />

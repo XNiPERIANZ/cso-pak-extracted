@@ -1,0 +1,13 @@
+{
+	"ingameID": 528,
+		"resourceName" : "divinetitan",
+		"wpnClassName" : "divinetitan",
+		"baseWpnName" : "patroldrone",
+		"useCustomDeploy" : true,
+		"drawSeq" : 4,
+		"pAnimSeq" : "dragontail",
+		"maxClip" : 100,
+		"maxSpeed": 260,
+		"secondAmmoType" : "divinetitangauge",
+		"price": 9000
+}

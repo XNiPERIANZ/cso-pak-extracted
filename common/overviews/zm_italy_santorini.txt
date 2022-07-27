@@ -1,0 +1,14 @@
+// overview description file for zm_italy_santorini.bsp
+
+global 
+{
+	ZOOM	1.35
+	ORIGIN	-96	32	432
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_italy_santorini.bmp"
+	HEIGHT	0
+}

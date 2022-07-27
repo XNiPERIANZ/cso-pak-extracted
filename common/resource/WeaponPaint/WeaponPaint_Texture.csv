@@ -459,6 +459,9 @@ p_summonknife_a.mdl,0,8452,resource/WeaponPaint/texture/@summonknifena1_#256256s
 p_summonknife_a.mdl,1,8452,resource/WeaponPaint/texture/@summonknifena1_#128128summonknife_p_blade.bmp
 p_summonknife_b.mdl,0,8452,resource/WeaponPaint/texture/@summonknifena1_#256256summonknife_skin_p.bmp
 p_summonknife_b.mdl,1,8452,resource/WeaponPaint/texture/@summonknifena1_#128128summonknife_p_blade.bmp
+p_summonknife_charging.mdl,0,8452,resource/WeaponPaint/texture/$0b_summonknifena1_p.bmp
+p_summonknife_charging.mdl,1,8452,resource/WeaponPaint/texture/@summonknifena1_#256256summonknife_skin_p.bmp
+p_summonknife_charging.mdl,2,8452,resource/WeaponPaint/texture/@summonknifena1_#128128summonknife_p_blade.bmp
 v_mp5.mdl,0,8379,resource/WeaponPaint/texture/@y20s2MP5-gold-1model.bmp
 p_mp5_2.mdl,0,8379,resource/WeaponPaint/texture/@y20s2MP5-gold-3model.bmp
 w_mp5_2.mdl,0,8379,resource/WeaponPaint/texture/@y20s2MP5-gold-3model.bmp
@@ -843,3 +846,6 @@ w_mgsm.mdl,0,8686,resource/WeaponPaint/texture/y22s2#256256mgsmback_p.bmp
 w_mgsm.mdl,1,8686,resource/WeaponPaint/texture/y22s2#256256mgsm_p.bmp
 s_mgsm.mdl,0,8686,resource/WeaponPaint/texture/y22s2#256256mgsm_p.bmp
 s_mgsm.mdl,1,8686,resource/WeaponPaint/texture/y22s2#256256mgsmback_p.bmp
+ef_mgsm_launcher.mdl,0,8686,resource/WeaponPaint/texture/y22s2mgsm02_v.bmp
+ef_mgsm_launcher.mdl,1,8686,resource/WeaponPaint/texture/y22s2$0b_msgmeffectblue_v.bmp
+ef_mgsm_launcher.mdl,2,8686,resource/WeaponPaint/texture/y22s2$0b_msgmeffectred_v.bmp

@@ -1,0 +1,12 @@
+{
+    "ingameID": 529,
+    "resourceName": "sgdrillex",
+    "baseWpnName": "sgdrill",
+    "wpnClassName": "sgdrillex",
+    "useCustomDeploy": true,
+    "drawSeq": 4,
+    "pAnimSeq": "skull8",
+    "secondAmmoType": "sgdrillex_b",
+	"maxClip": 50,
+	"firstAmmoType": "sgdrillex_buckshot"
+}
