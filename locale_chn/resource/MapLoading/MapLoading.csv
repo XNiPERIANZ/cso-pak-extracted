@@ -266,4 +266,5 @@ CT,TR,C4A,C4B,Hostage,Rescue,VIP,Start,Finish,1,2,3,4,5,Red,Blue,barricade,weapo
 296,dm_castleland,LoadingBg_dm_castleland,,,,,,,,,,,,,,,
 297,de_market,LoadingBg_de_market,0 490 186,1 932 250,2 725 230,,,,,,,,,,,,
 298,zm_nostalgia,LoadingBg_zm_nostalgia,,,,,,,,,,,,,,,
+299,dm_hacienda,loadingbg_dm_hacienda,,,,,,,,,,,,,,,
 300,zm_italy_santorini,LoadingBg_zm_italy_santorini,,,,,,,,,,,,,,,

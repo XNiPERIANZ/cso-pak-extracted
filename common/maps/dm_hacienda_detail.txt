@@ -1,0 +1,3 @@
+
+dm_hacienda	detail/dt_conc	10		10
+
