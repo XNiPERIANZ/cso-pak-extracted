@@ -1,0 +1,13 @@
+// overview description file for dm_hacienda.bsp
+global 
+{
+	ZOOM	1.49
+	ORIGIN	-110.45 125.50 644.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_hacienda.bmp"
+	HEIGHT 0
+}
