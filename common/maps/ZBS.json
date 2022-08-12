@@ -123,10 +123,7 @@
 				"ID": 10,
 				"Name": "movedefence",
 				"ItemID": 3629,
-				"Params": { 
-					"Damage": 7,
-					"Percent": 10
-				}
+				"Params": {"Damage": 7, "Percent": 10, "PercentAdd": 10}
 			},
 			{
 				"ID": 11,
@@ -222,7 +219,7 @@
 				"ID": 22,
 				"Name": "evasion",
 				"ItemID":3641,
-				"Params":{"Percent":10}
+				"Params": {"Percent":10, "PercentAdd":10}
 			},
 			{
 				"ID": 23,

@@ -1756,7 +1756,12 @@
 	"22s2ct": ["vox/buffclass22s2ct/skill/skill2.wav"],
 	"22s2tr": ["vox/buffclass22s2tr/skill/skill1.wav"]
 	},
-
+	"MRAD_LASERSG":
+	{
+    "22s3ct": [ "vox/buffclass22s3ct/skill/skill1.wav", "vox/buffclass22s3ct/skill/skill2.wav" ],
+    "22s3tr": [ "vox/buffclass22s3tr/skill/skill1.wav", "vox/buffclass22s3tr/skill/skill2.wav" ]
+	},
+	
 	"MRAD_WIN": {
 		"19s1man": ["vox/buffclass19s1tr/character/win1.wav", "vox/buffclass19s1tr/character/win2.wav"],
 		"19s1woman": ["vox/buffclass19s1ct/character/win1.wav", "vox/buffclass19s1ct/character/win2.wav"],
