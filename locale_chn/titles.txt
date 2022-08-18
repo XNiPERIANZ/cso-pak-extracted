@@ -781,7 +781,26 @@ CSO_EmotionAE
 4. "跳舞"
 0. 取消
 }
- 
+
+CSO_EmotionAF
+{
+\r表情\w
+1. "打招呼"
+2. "撒娇"
+3. "出场"
+4. "跳舞"
+0. 取消
+}
+
+CSO_EmotionAG
+{
+\r表情\w
+1. "打招呼"
+2. "自信"
+3. "出场"
+4. "挑衅"
+0. 取消
+}
 // weapon names
 
 // RIFLES
