@@ -769,6 +769,24 @@ CSO_EmotionAE
 4. "Tanzen"
 0. Abbrechen
 }
+CSO_EmotionAF
+{
+\rEmotes\w
+1. "Gruß"
+2. "Fröhlich"
+3. "Action-Pose"
+4. "Tanzen"
+0. Abbrechen
+}
+CSO_EmotionAG
+{
+\rEmotes\w
+1. "Gruß"
+2. "Jubel"
+3. "Action-Pose"
+4. "Provozieren"
+0. Abbrechen
+}
 
 
 

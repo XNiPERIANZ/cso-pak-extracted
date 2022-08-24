@@ -758,6 +758,24 @@ CSO_EmotionAE
 4. "Baile"
 0. Cancelar
 }
+CSO_EmotionAF
+{
+\rGestos\w
+1. "Saludo"
+2. "Alegría"
+3. "Pose de acción"
+4. "Baile"
+0. Cancelar
+}
+CSO_EmotionAG
+{
+\rGestos\w
+1. "Saludo"
+2. "Porras"
+3. "Pose de acción"
+4. "Provocación"
+0. Cancelar
+}
 
 // weapon names
 

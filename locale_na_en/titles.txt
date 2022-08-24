@@ -771,6 +771,26 @@ CSO_EmotionAE
 4. "Dance"
 0. Cancel
 }
+
+CSO_EmotionAF
+{
+\rEmotes\w
+1. "Greeting"
+2. "Happy"
+3. "Action Pose"
+4. "Dance"
+0. Cancel
+}
+CSO_EmotionAG
+{
+\rEmotes\w
+1. "Greeting"
+2. "Cheer"
+3. "Action Pose"
+4. "Provoke"
+0. Cancel
+}
+
 // weapon names
 
 // RIFLES
