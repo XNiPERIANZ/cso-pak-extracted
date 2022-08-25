@@ -1,4 +1,4 @@
-996
+1003
 selection				640 640hud3	0	180	170	45
 bucket1				640 640hud7	168	72	20	20
 bucket2				640 640hud7	188	72	20	20
@@ -1046,3 +1046,12 @@ dollarNum_9_new_on	   	640 640hud8	                135   194  13  18
 zombie_icon_new_off             640 640hud8	                187   161  32  24
 zombie_icon_new_on              640 640hud8	                219   161  32  24
 
+// 좀시이벤트 어빌리티 포인트 아이콘
+
+zsevt_ability			640 640hud8	220	0	26	25
+zsevt_ability000			640 640hud8	0	212	26	25
+zsevt_ability001			640 640hud8	26	212	26	25
+zsevt_ability002			640 640hud8	52	212	26	25
+zsevt_ability003			640 640hud8	78	212	26	25
+zsevt_ability004			640 640hud8	104	212	26	25
+zsevt_ability005			640 640hud8	130	212	26	25
