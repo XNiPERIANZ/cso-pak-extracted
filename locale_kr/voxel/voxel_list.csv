@@ -1534,7 +1534,7 @@ Id,NAME,CATEGORY,ICON,DETAIL ICON,BLOCK COST,"SIGNAL(0=없음,1=신호발신,2=신호수�
 71,ROUND_FAIL,3,voxel/icon/trigger/round_fail.tga,,1,3,0,0,page=trigger.txt&scroll=round_fail,0,,,
 82,ANNOUNCE,3,voxel/icon/trigger/announce.tga,,1,2,0,0,page=trigger.txt&scroll=ANNOUNCE,0,,,
 161,COUNTDOWN,3,voxel/icon/trigger/countdown.tga,,1,2,0,0,page=trigger.txt&scroll=COUNTDOWN,0,,,
-252,MP3,3,voxel/icon/trigger/mp3.tga,,1,2,7,0,page=trigger.txt&scroll=MP3,0,,,
+252,MP3,3,voxel/icon/trigger/mp3.tga,,1,2,7,0,page=trigger.txt&scroll=MP3,2,,,
 610,EMITSOUND,3,voxel/icon/trigger/emitsound.tga,,1,2,7,0,page=trigger.txt&scroll=EMITSOUND,0,,,
 79,PUSH_1x1x1,3,voxel/icon/trigger/push_1x1x1.tga,,1,2,0,0,page=trigger.txt&scroll=push,0,,,
 80,PUSH_2x2x2,3,voxel/icon/trigger/push_2x2x2.tga,,1,2,0,0,page=trigger.txt&scroll=push,0,,,
