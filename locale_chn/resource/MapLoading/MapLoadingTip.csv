@@ -2657,3 +2657,5 @@
 1,4,56,1,Tooltip_Zombi_teamcontrol03,#CSO_MaploadingTip_Zombi_teamcontrol
 1,4,56,1,Tooltip_Zombi_teamcontrol04,#CSO_MaploadingTip_Zombi_teamcontrol
 1,4,56,1,Tooltip_Zombi_teamcontrol05,#CSO_MaploadingTip_Zombi_teamcontrol
+1,304,15,1,Tooltip_neoncity1,#CSO_MaploadingTip_Scen_neoncity1
+1,305,15,1,Tooltip_neoncity2,#CSO_MaploadingTip_Scen_neoncity2
