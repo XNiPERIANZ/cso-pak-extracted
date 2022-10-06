@@ -1,0 +1,16 @@
+{
+  "ingameID": 530,
+  "resourceName": "wondercannonex",
+  "baseWpnName": "wondercannon",
+  "wpnClassName": "wondercannonex",
+  "drawSeq": 2,
+  "pAnimSeq": "m249",
+  "useCustomDeploy": true,
+  "ratio": 1.3,
+  "maxSpeed": 240,
+  "kbGround": 750,
+  "kbJump": 550,
+  "kbFJump": 750,
+  "kbDucking": 550,
+  "kbModifier": 0.4
+}
