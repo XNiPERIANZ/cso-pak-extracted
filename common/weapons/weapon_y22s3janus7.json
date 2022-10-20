@@ -1,0 +1,9 @@
+{
+    "ingameID": 532,
+    "resourceName": "y22s3janus7",
+    "baseWpnName": "janus7",
+    "wpnClassName": "y22s3janus7",
+    "drawSeq": 2,
+    "pAnimSeq": "m249",
+    "useCustomDeploy": true
+}
