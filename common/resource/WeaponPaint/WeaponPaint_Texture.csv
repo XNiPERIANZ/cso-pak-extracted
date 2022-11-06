@@ -424,6 +424,8 @@ w_ksg12.mdl,0,8448,resource/WeaponPaint/texture/@chn12th #256256keltec_256.bmp
 w_ksg12.mdl,1,8448,resource/WeaponPaint/texture/@chn12th #256256keltec_256.bmp
 w_ksg12.mdl,2,8448,resource/WeaponPaint/texture/@chn12th #256256keltec_256.bmp
 s_ksg12.mdl,0,8448,resource/WeaponPaint/texture/@chn12th #256256keltec_256.bmp
+s_ksg12.mdl,1,8448,resource/WeaponPaint/texture/@chn12th #256256keltec_256.bmp
+s_ksg12.mdl,2,8448,resource/WeaponPaint/texture/@chn12th #256256keltec_256.bmp
 v_spas12.mdl,0,8448,resource/WeaponPaint/texture/@chn12thspas-12.bmp
 p_spas12.mdl,0,8448,resource/WeaponPaint/texture/@chn12thspas-12 pmodel.bmp
 w_spas12.mdl,0,8448,resource/WeaponPaint/texture/@chn12thspas-12 pmodel.bmp
@@ -849,3 +851,29 @@ s_mgsm.mdl,1,8686,resource/WeaponPaint/texture/y22s2#256256mgsmback_p.bmp
 ef_mgsm_launcher.mdl,0,8686,resource/WeaponPaint/texture/y22s2mgsm02_v.bmp
 ef_mgsm_launcher.mdl,1,8686,resource/WeaponPaint/texture/y22s2$0b_msgmeffectblue_v.bmp
 ef_mgsm_launcher.mdl,2,8686,resource/WeaponPaint/texture/y22s2$0b_msgmeffectred_v.bmp
+v_kronos12.mdl,2,8710,resource/WeaponPaint/texture/y22s3argus12_v.bmp
+p_kronos12.mdl,0,8710,resource/WeaponPaint/texture/y22s3#256256argus12_p.bmp
+w_kronos12.mdl,0,8710,resource/WeaponPaint/texture/y22s3#256256argus12_p.bmp
+s_kronos12.mdl,0,8710,resource/WeaponPaint/texture/y22s3#256256argus12_p.bmp
+v_awp.mdl,0,8710,resource/WeaponPaint/texture/y22s3awp.bmp
+p_awp.mdl,0,8710,resource/WeaponPaint/texture/y22s3#256256awp_p.bmp
+w_awp.mdl,0,8710,resource/WeaponPaint/texture/y22s3#256256awp_p.bmp
+s_awp.mdl,0,8710,resource/WeaponPaint/texture/y22s3#256256awp_p.bmp
+v_rockbreaker.mdl,3,8710,resource/WeaponPaint/texture/y22s3rockbreaker_v.bmp
+p_rockbreaker.mdl,0,8710,resource/WeaponPaint/texture/y22s3#256256rockbreaker_p.bmp
+w_rockbreaker.mdl,0,8710,resource/WeaponPaint/texture/y22s3#256256rockbreaker_p.bmp
+s_rockbreaker.mdl,0,8710,resource/WeaponPaint/texture/y22s3#256256rockbreaker_p.bmp
+v_skull1.mdl,0,8710,resource/WeaponPaint/texture/y22s3skull-1.bmp
+p_skull1.mdl,0,8710,resource/WeaponPaint/texture/y22s3skull-1_p.bmp
+w_skull1.mdl,0,8710,resource/WeaponPaint/texture/y22s3skull-1_p.bmp
+s_skull1.mdl,0,8710,resource/WeaponPaint/texture/y22s3skull-1_p.bmp
+v_stormgiant.mdl,0,8710,resource/WeaponPaint/texture/y22s3$20@003_sg_2.bmp
+v_stormgiant.mdl,1,8710,resource/WeaponPaint/texture/y22s3$20@003_sg_3.bmp
+v_stormgiant.mdl,2,8710,resource/WeaponPaint/texture/y22s3$20@001_sg_1.bmp
+p_stormgiant.mdl,0,8710,resource/WeaponPaint/texture/y22s3storm_giant_p.bmp
+w_stormgiant.mdl,0,8710,resource/WeaponPaint/texture/y22s3storm_giant_p.bmp
+s_stormgiant.mdl,0,8710,resource/WeaponPaint/texture/y22s3storm_giant_p.bmp
+v_stormgiant_d3a3.mdl,0,8710,resource/WeaponPaint/texture/y22s3$20@003_sg_2.bmp
+v_stormgiant_d3a3.mdl,1,8710,resource/WeaponPaint/texture/y22s3$20@003_sg_3.bmp
+v_stormgiant_d3a3.mdl,2,8710,resource/WeaponPaint/texture/y22s3$20@001_sg_1.bmp
+p_stormgiant_d3a3.mdl,0,8710,resource/WeaponPaint/texture/y22s3storm_giant_p.bmp

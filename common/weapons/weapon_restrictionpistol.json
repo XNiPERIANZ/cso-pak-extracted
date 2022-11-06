@@ -1,0 +1,45 @@
+{
+    "ingameID": 531,
+    "resourceName": "restrictionpistol",
+    "wpnClassName": "restrictionpistol",
+    "drawSeq": 2,
+    "pAnimSeq": "onehanded",
+    "useCustomDeploy": true,
+    "firstAmmoType": "restrictionpistol",
+    "secondAmmoType": "nonebuy",
+    "maxClip": 50,
+    "weight": 5,
+    "slot": 2,
+    "position": 1,
+    "ratio": 1.5,
+    "maxSpeed": 255, 
+    "distance": 8,
+    "delta": 3,
+    "seriesID": -1,
+    "kbGround": 420,
+    "kbJump": 380,
+    "kbFJump": 380,
+    "kbDucking": 250,
+    "kbModifier": 0.8,
+    "accSpeed": 0,
+    "accuracy": "ACC_3",
+    "properties": [
+        "WPN_USE_BOTH",
+        "WPN_SMALL_FLINCH",
+        "WPN_PISTOL"
+    ],
+    "basketPos": 2,
+    "price": 2000,
+    "usableMap": [
+        "EMT_DE",
+        "EMT_CS"
+    ],
+    "team": [
+        "ETT_CT",
+        "ETT_TER"
+    ],
+    "buyMenuType": "BMT_PISTOL",
+    "classFlag": [
+        -1
+    ]
+}
