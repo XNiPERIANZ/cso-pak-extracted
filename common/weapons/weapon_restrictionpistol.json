@@ -6,7 +6,7 @@
     "pAnimSeq": "onehanded",
     "useCustomDeploy": true,
     "firstAmmoType": "restrictionpistol",
-    "secondAmmoType": "noclip",
+    "secondAmmoType": "nonebuy",
     "maxClip": 50,
     "weight": 5,
     "slot": 2,

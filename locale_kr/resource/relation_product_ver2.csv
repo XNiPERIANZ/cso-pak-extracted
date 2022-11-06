@@ -197,6 +197,7 @@ relation_product_id,"reference item id
 30002,47,1,,ETA,0,,,,1,0,,,
 30001,46,1,,IRA,0,,,,1,0,,,
 30000,,0,,ResetPcbangEvent,0,,,ResetPcbang,0,0,,,
+20229,,,,g5decoder5classdecoder3couponset,,,,weaponticket,,,,,
 20228,,,,g5decoder5classdecoder5couponset,,,,weaponticket,,,,,
 20227,,,,cdecoder3sgmexskullt9d15couponset,,,,weaponticket,,,,,
 20226,,,,seasonpass1g5decoder5set,,,,weaponticket,,,,,
