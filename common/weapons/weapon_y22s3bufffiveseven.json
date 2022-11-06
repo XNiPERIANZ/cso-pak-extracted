@@ -1,0 +1,11 @@
+{
+    "ingameID": 533,
+    "resourceName": "y22s3bufffiveseven",
+    "baseWpnName": "bufffiveseven",
+    "wpnClassName": "y22s3bufffiveseven",
+    "drawSeq": 12,
+    "pAnimSeq": "onehanded",
+    "useCustomDeploy": true,
+    "firstAmmoType": "y22s3bufffiveseven",
+    "maxSpeed": 250
+}

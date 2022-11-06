@@ -1943,8 +1943,59 @@
 		"CAVE_A_GIDUNG07": 1944,
 		"CAVE_A_STALACTITE01": 1945,
 		"CAVE_A_STALACTITE02": 1946,
-		"TROPHY_MINE": 1947,
-	
+		"TROPHY_MINE": 1947,		
+		"CUSTOM_NORMAL_BLOCK":  1948,
+		"AUTO_QUEST": 1949,	
+		"MONSTER_BOSS_AMPSUIT": 1950,
+		"MONSTER_BOSS_INFECTEDTITAN": 1951,
+		"COUNT_BREAKABLE": 1952,
+		"__PLAYER_COUNT_AREA": 1953,
+		"PLAYER_COUNT_AREA_1x1x1": 1954,
+		"PLAYER_COUNT_AREA_2x1x2": 1955,
+		"PLAYER_COUNT_AREA_3x1x3": 1956,
+		"PLAYER_COUNT_AREA_2x2x1": 1957,
+		"PLAYER_COUNT_AREA_3x3x1": 1958,
+		"SCORE_COUNT": 1959,
+		"KEY_PATTERN": 1960,
+		"CARD_MATCH": 1961,
+		"ZOMBIE_FIND": 1962,
+		"LAP_TIME": 1963,
+		"__TRIGGER_AREA": 1964,
+		"TRIGGER_AREA_1x1x1": 1965,
+		"TRIGGER_AREA_2x1x2": 1966,
+		"TRIGGER_AREA_3x1x3": 1967,
+		"TRIGGER_AREA_2x2x1": 1968,
+		"TRIGGER_AREA_3x3x1": 1969,
+		"PARTY_A_BALLOON02": 1970,
+		"PARTY_A_BEAR01": 1971,
+		"PARTY_A_BEAR02": 1972,
+		"PARTY_A_FLAG01": 1973,
+		"PARTY_A_FLAG02": 1974,
+		"PARTY_A_FLAG03": 1975,
+		"PARTY_A_FLAG04": 1976,
+		"PARTY_A_FLAG05": 1977,
+		"PARTY_A_FLAG06": 1978,
+		"PARTY_A_FLAG07": 1979,
+		"PARTY_A_FLAG08": 1980,
+		"PARTY_A_RAINBOW01": 1981,
+		"PARTY_A_SIGN01": 1982,
+		"PARTY_A_SIGN02": 1983,
+		"PARTY_A_TREASUREBOX01": 1984,
+		"PARTY_A_MOVING01": 1985,
+		"PARTY_A_MOVING02": 1986,	
+		"PARTY_A_WINDMILL01": 1987,
+		"PARTY_A_CARRIAGE01": 1988,
+		"PARTY_A_TICKETBOOTH01": 1989,
+		"PARTY_A_POPCORNMACHINE01": 1990,
+		"PARTY_A_PIERROTDOOR01": 1991,
+		"PARTY_A_BEAR03": 1992,
+		"PARTY_A_BEAR04": 1993,		
+		
+		"__REPEATABLE_OBJECTAREA": 1996,
+		"REPEATABLE_OBJECTAREA_1x1x1": 1997,
+		"REPEATABLE_OBJECTAREA_2x2x1": 1998,
+		"REPEATABLE_OBJECTAREA_3x1x3": 1999,
+		"PASSBOMB": 2000,
 		
 		"??DEBUG_DIR": 2003,
 		"??DEBUG_MDL": 2004
@@ -2058,7 +2109,19 @@
 		"SCENARIOTX_SPECIALIST" : 105,
 		"CUTSCENE_CAMERA" : 106,
 		"ZBE_KNOCKBACK_RATE_AREA": 107,
-		"BREAKABLE_PROP": 108
+		"BREAKABLE_PROP": 108,
+		"CUSTOM_NORMAL_BLOCK": 109,
+		"AUTO_QUEST": 110,
+		"COUNT_BREAKABLE": 111,
+		"PLAYER_COUNT_AREA": 112,
+		"SCORE_COUNT": 113,
+		"KEY_PATTERN": 114,
+		"CARD_MATCH": 115,
+		"ZOMBIE_FIND": 116,
+		"LAP_TIME": 117,
+		"TRIGGER_AREA": 118,
+		"REPEATABLE_OBJECTAREA": 119,
+		"PASSBOMB": 120
 	},
 	"VoxelMoveType": {
 		"NONE": 0,
@@ -18814,7 +18877,7 @@
 				"filename": "models/voxel/common/zomtal01_a_fallingspike01.mdl"
 			},
 			"param_i" : [0, 500],
-			"param_i_comment" : ["????", "???"]
+			"param_i_comment" : ["시작속도", "가속도"]
 		},
 		{
 			"id": "ZOMTAL01_A_PENDULUMBLADE01",
@@ -18849,7 +18912,7 @@
 				"filename": "models/voxel/common/zomtal01_a_spikepiston01.mdl"
 			},
 			"param_i" : [10, 1],
-			"param_i_comment" : ["%???", "??? ?? ??"]		
+			"param_i_comment" : ["%데미지", "데미지 대상 타입"]	
 		},
 		{
 			"id": "ZOMTAL01_BB_GR01",
@@ -18872,7 +18935,7 @@
 				"filename": "models/voxel/common/zomtal01_b_arrow01.mdl"
 			},
 			"param_i" : [10, 10, 1200, 4000],
-			"param_i_comment" : ["???", "??? ??? ? ?", "???", "?? ??"]
+			"param_i_comment" : ["데미지", "데미지 사거리 칸 수", "넉백치", "화살 속도"]
 		},
 		{
 			"id": "ZOMTAL01_BB_WALL03",
@@ -18918,7 +18981,7 @@
 				"filename": "models/voxel/common/zomtal01_b_firetrap01.mdl"
 			},
 			"param_i" : [20],
-			"param_i_comment" : ["%???"]
+			"param_i_comment" : ["%데미지"]
 		},
 		{
 			"id": "ZOMTAL01_BB_WALL06",
@@ -19464,7 +19527,7 @@
 				"filename": "models/voxel/common/zomtal01_c_spining.mdl"
 			},
 			"param_i" : [10, 0, 1, 0, 10, 0],	
-			"param_i_comment" : ["???", "%???", "??? ?? ??", "??? ????? ???", "??? ??? ??", "?? 90? ?? ??"]
+			"param_i_comment" : ["데미지", "%데미지", "데미지 대상 타입", "데미지 입힐때까지 딜레이", "데미지 입히는 주기", "모델 90도 회전 여부"]
 		},
 		{
 			"id": "ZOMTAL01_CC_SPINING_02",
@@ -19484,7 +19547,7 @@
 				"filename": "models/voxel/common/zomtal01_c_spining02.mdl"
 			},
 			"param_i" : [10, 0, 1, 0, 10],	
-			"param_i_comment" : ["???", "%???", "??? ?? ??", "??? ????? ???", "??? ??? ??"]
+			"param_i_comment" : ["데미지", "%데미지", "데미지 대상 타입", "데미지 입힐때까지 딜레이", "데미지 입히는 주기"]
 		},
 		{
 			"id": "ZOMTAL01_CC_SPIKE22",
@@ -19509,7 +19572,7 @@
 				"filename": "models/voxel/common/zomtal01_c_spike22.mdl"
 			},
 			"param_i" : [25],
-			"param_i_comment" : ["????"]
+			"param_i_comment" : ["이동속도"]
 		},
 		{
 			"id": "ZOMTAL01_CC_SPIKE33",
@@ -19536,7 +19599,7 @@
 				"filename": "models/voxel/common/zomtal01_c_spike33.mdl"
 			},
 			"param_i" : [25],
-			"param_i_comment" : ["????"]
+			"param_i_comment" : ["이동속도"]
 		},
 		{
 			"id": "ZOMTAL01_CC_BOTTOMSPIKE01",
@@ -19556,7 +19619,7 @@
 				"filename": "models/voxel/common/zomtal01_c_bottomspike01.mdl"
 			},
 			"param_i" : [10, 0, 1, 5, 10],
-			"param_i_comment" : ["???", "%???", "??? ?? ??", "??? ????? ???", "??? ??? ??"],
+			"param_i_comment" : ["데미지", "%데미지", "데미지 대상 타입", "데미지 입힐때까지 딜레이", "데미지 입히는 주기"],
 			"param_s": ["models/voxel/common/zomtal01_c_bottomspike01_1.mdl", "CEIL"]
 		},
 		{
@@ -19670,7 +19733,7 @@
 				}
 			},
 			"param_i" : [10, 0, 1, 0, 10],
-			"param_i_comment" : ["???", "%???", "??? ?? ??", "??? ????? ???", "??? ??? ??"]	
+			"param_i_comment" : ["데미지", "%데미지", "데미지 대상 타입", "데미지 입힐때까지 딜레이", "데미지 입히는 주기"]
 		},			
 		{
 			"id": "CUSTOM_DAMAGE_02",
@@ -19691,7 +19754,7 @@
 				}
 			},
 			"param_i" : [10, 0, 1, 0, 10],
-			"param_i_comment" : ["???", "%???", "??? ?? ??", "??? ????? ???", "??? ??? ??"]			
+			"param_i_comment" : ["데미지", "%데미지", "데미지 대상 타입", "데미지 입힐때까지 딜레이", "데미지 입히는 주기"]
 		},		
 		{
 			"id": "CUSTOM_DAMAGE_03",
@@ -19713,7 +19776,7 @@
 				}
 			},
 			"param_i" : [10, 0, 1, 0, 10],
-			"param_i_comment" : ["???", "%???", "??? ?? ??", "??? ????? ???", "??? ??? ??"]
+			"param_i_comment" : ["데미지", "%데미지", "데미지 대상 타입", "데미지 입힐때까지 딜레이", "데미지 입히는 주기"]
 		},		
 		{
 			"id": "ZOMTAL_GUIDE_01",
@@ -20914,7 +20977,7 @@
 				"__FAKE_EMPTY", "HALLOWEEN_HANDTRAP"
 			],
 			"param_i" : [10, 0, 1, 5, 10],
-			"param_i_comment" : ["???", "%???", "??? ?? ??", "??? ????? ???", "??? ??? ??"],
+			"param_i_comment" : ["데미지", "%데미지", "데미지 대상 타입", "데미지 입힐때까지 딜레이", "데미지 입히는 주기"],
 			"param_s" : ["models/voxel/halloween/halloween_handtrap.mdl", "FLOOR"]
 		},
 		{
@@ -32848,6 +32911,1011 @@
 			"mdl": {
 				"filename": "models/voxel/trophy/trophy_mine.mdl"
 			}
-		}
+		},		
+		{
+			"id": "CUSTOM_NORMAL_BLOCK",
+			"entity_type": "CUSTOM_NORMAL_BLOCK",
+			"move_type": "DOOR",
+			"display_type": "BOX_ROT_LATER",	
+			"mat_type": "M",
+			"mat": {
+				"top": {
+					"texture1": "voxel/assault/assault_a_ground02.tga"
+				}
+			}
+		},
+		{
+			"id": "AUTO_QUEST",
+			"entity_type": "AUTO_QUEST",	
+			"display_type": "MDL",
+			"play_hide": true,
+			"aux_bit": 2,
+			"mdl": {
+				"filename": "models/voxel/partyblock/sand_a_partyquestblock01.mdl"
+			},
+			"use_offset": [ 0, 0, 8 ]		
+		},
+		{
+			"id": "MONSTER_BOSS_AMPSUIT",
+			"entity_type": "MONSTER_BOSS",
+			"play_hide": true,
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 5, 5, 5 ],
+			"group": [
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"MONSTER_BOSS_AMPSUIT",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY"
+			],
+			"mdl": {
+				"filename": "models/monster/zbs_bossL_big09.mdl",
+				"pivot": [ 80, 0, -32 ],
+				"sequence": 1,	
+				"alpha": 128,
+				"skin": 0
+			},
+			"param_s": "AmpSuit"
+		},		
+		{
+			"id": "MONSTER_BOSS_INFECTEDTITAN",
+			"entity_type": "MONSTER_BOSS",
+			"play_hide": true,
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 3, 3, 5 ],
+			"group": [
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"MONSTER_BOSS_INFECTEDTITAN",	"__FAKE_EMPTY",
+				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",	"__FAKE_EMPTY"
+			],
+			"mdl": {
+				"filename": "models/monster/zbs_bossL_big07.mdl",
+				"pivot": [ 40, 0, -32 ],
+				"sequence": 5,	
+				"alpha": 128,
+				"skin": 0,
+				"studioevent": false
+			},
+			"param_s": "InfectedTitan"
+		},		
+		{
+			"id": "COUNT_BREAKABLE",
+			"entity_type": "COUNT_BREAKABLE",
+			"move_type": "DOOR",
+			"display_type": "BOX_ROT_LATER",	
+			"mat_type": "M",
+			"mat": {
+				"top": {
+					"texture1": "voxel/assault/assault_a_ground02.tga"
+				}
+			}
+		},		
+		{
+			"id": "__PLAYER_COUNT_AREA",
+			"move_type": "NONE",
+			"display_type": "BOX",
+			"culling_id": "__PLAYER_COUNT_AREA",
+			"play_hide": true,
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkgreen.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}
+		},
+			{
+			"id": "PLAYER_COUNT_AREA_1x1x1",
+			"entity_type": "PLAYER_COUNT_AREA",
+			"display_type": "BOX",
+			"culling_id": "__PLAYER_COUNT_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkgreen.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},		
+		{
+			"id": "PLAYER_COUNT_AREA_2x1x2",
+			"entity_type": "PLAYER_COUNT_AREA",
+			"display_type": "BOX",
+			"culling_id": "__PLAYER_COUNT_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 2, 1, 2 ],
+			"group": [
+				"__PLAYER_COUNT_AREA",	"PLAYER_COUNT_AREA_2x1x2",
+				"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkgreen.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},		
+		{
+			"id": "PLAYER_COUNT_AREA_3x1x3",
+			"entity_type": "PLAYER_COUNT_AREA",
+			"display_type": "BOX",
+			"culling_id": "__PLAYER_COUNT_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 3, 1, 3 ],
+			"group": [
+				"__PLAYER_COUNT_AREA",	"PLAYER_COUNT_AREA_3x1x3",	"__PLAYER_COUNT_AREA",
+				"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA",
+				"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkgreen.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},
+		{
+			"id": "PLAYER_COUNT_AREA_2x2x1",
+			"entity_type": "PLAYER_COUNT_AREA",
+			"display_type": "BOX",
+			"culling_id": "__PLAYER_COUNT_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 2, 2, 1 ],
+			"group": [
+				"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA",
+				"__PLAYER_COUNT_AREA",	"PLAYER_COUNT_AREA_2x2x1"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkgreen.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},		
+		{
+			"id": "PLAYER_COUNT_AREA_3x3x1",
+			"entity_type": "PLAYER_COUNT_AREA",
+			"display_type": "BOX",
+			"culling_id": "__PLAYER_COUNT_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 3, 3, 1 ],
+			"group": [
+				"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA",
+				"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA",	"__PLAYER_COUNT_AREA",
+				"__PLAYER_COUNT_AREA",	"PLAYER_COUNT_AREA_3x3x1",	"__PLAYER_COUNT_AREA"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkgreen.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},
+		{
+			"id": "SCORE_COUNT",
+			"entity_type": "SCORE_COUNT",
+			"aux_bit": 2,
+			"size": [ 2, 2, 1 ],
+			"group": [
+				"__FAKE_EMPTY",	"__FAKE_EMPTY",
+				"__FAKE_EMPTY",	"SCORE_COUNT"
+			]
+		},		
+		{
+			"id": "KEY_PATTERN",
+			"display_type": "BILLBOARD",
+			"culling_id": "KEY_PATTERN",
+			"play_hide": true,
+			"entity_type": "KEY_PATTERN",
+			"billboard": {
+				"bb_type": "VIEWDIR_ORIENTED",
+				"width": 40,
+				"height": 40,
+				"filename": "voxel/play/keyboard_pattern.tga",
+				"blend": "TRANS_ALPHA"
+			}			
+		},		
+		{
+			"id": "CARD_MATCH",
+			"entity_type": "CARD_MATCH",						
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_matchblock01.mdl"
+			},
+			"use_offset": [ 0, 0, 8 ]					
+		},
+		{
+			"id": "ZOMBIE_FIND",
+			"entity_type": "ZOMBIE_FIND",						
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_magnifier01.mdl"
+			}					
+		},		
+		{
+			"id": "LAP_TIME",
+			"display_type": "BILLBOARD",
+			"culling_id": "LAP_TIME",
+			"play_hide": true,
+			"entity_type": "LAP_TIME",
+			"billboard": {
+				"bb_type": "VIEWDIR_ORIENTED",
+				"width": 40,
+				"height": 40,
+				"filename": "voxel/play/laptime.tga",
+				"blend": "TRANS_ALPHA"
+			}			
+		},
+				{
+			"id": "__TRIGGER_AREA",
+			"move_type": "NONE",
+			"display_type": "BOX",
+			"culling_id": "__TRIGGER_AREA",
+			"play_hide": true,
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkyellow01.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}
+		},
+			{
+			"id": "TRIGGER_AREA_1x1x1",
+			"entity_type": "TRIGGER_AREA",
+			"display_type": "BOX",
+			"culling_id": "__TRIGGER_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkyellow01.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},		
+		{
+			"id": "TRIGGER_AREA_2x1x2",
+			"entity_type": "TRIGGER_AREA",
+			"display_type": "BOX",
+			"culling_id": "__TRIGGER_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 2, 1, 2 ],
+			"group": [
+				"__TRIGGER_AREA",	"TRIGGER_AREA_2x1x2",
+				"__TRIGGER_AREA",	"__TRIGGER_AREA"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkyellow01.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},		
+		{
+			"id": "TRIGGER_AREA_3x1x3",
+			"entity_type": "TRIGGER_AREA",
+			"display_type": "BOX",
+			"culling_id": "__TRIGGER_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 3, 1, 3 ],
+			"group": [
+				"__TRIGGER_AREA",	"TRIGGER_AREA_3x1x3",	"__TRIGGER_AREA",
+				"__TRIGGER_AREA",	"__TRIGGER_AREA",	"__TRIGGER_AREA",
+				"__TRIGGER_AREA",	"__TRIGGER_AREA",	"__TRIGGER_AREA"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkyellow01.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},
+		{
+			"id": "TRIGGER_AREA_2x2x1",
+			"entity_type": "TRIGGER_AREA",
+			"display_type": "BOX",
+			"culling_id": "__TRIGGER_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 2, 2, 1 ],
+			"group": [
+				"__TRIGGER_AREA",	"__TRIGGER_AREA",
+				"__TRIGGER_AREA",	"TRIGGER_AREA_2x2x1"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkyellow01.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},		
+		{
+			"id": "TRIGGER_AREA_3x3x1",
+			"entity_type": "TRIGGER_AREA",
+			"display_type": "BOX",
+			"culling_id": "__TRIGGER_AREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 3, 3, 1 ],
+			"group": [
+				"__TRIGGER_AREA",	"__TRIGGER_AREA",	"__TRIGGER_AREA",
+				"__TRIGGER_AREA",	"__TRIGGER_AREA",	"__TRIGGER_AREA",
+				"__TRIGGER_AREA",	"TRIGGER_AREA_3x3x1",	"__TRIGGER_AREA"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_darkyellow01.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},
+		
+		{
+			"id": "__REPEATABLE_OBJECTAREA",
+			"move_type": "NONE",
+			"display_type": "BOX",
+			"culling_id": "__REPEATABLE_OBJECTAREA",
+			"play_hide": true,
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_grey.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}
+		},
+		{
+			"id": "REPEATABLE_OBJECTAREA_1x1x1",
+			"entity_type": "REPEATABLE_OBJECTAREA",
+			"display_type": "BOX",
+			"culling_id": "__REPEATABLE_OBJECTAREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_grey.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},				
+		{
+			"id": "REPEATABLE_OBJECTAREA_3x1x3",
+			"entity_type": "REPEATABLE_OBJECTAREA",
+			"display_type": "BOX",
+			"culling_id": "__REPEATABLE_OBJECTAREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 3, 1, 3 ],
+			"group": [
+				"__REPEATABLE_OBJECTAREA",	"REPEATABLE_OBJECTAREA_3x1x3",	"__REPEATABLE_OBJECTAREA",
+				"__REPEATABLE_OBJECTAREA",	"__REPEATABLE_OBJECTAREA",	"__REPEATABLE_OBJECTAREA",
+				"__REPEATABLE_OBJECTAREA",	"__REPEATABLE_OBJECTAREA",	"__REPEATABLE_OBJECTAREA"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_grey.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},
+		{
+			"id": "REPEATABLE_OBJECTAREA_2x2x1",
+			"entity_type": "REPEATABLE_OBJECTAREA",
+			"display_type": "BOX",
+			"culling_id": "__REPEATABLE_OBJECTAREA",
+			"play_hide": true,
+			"aux_bit": 2,
+			"size": [ 2, 2, 1 ],
+			"group": [
+				"__REPEATABLE_OBJECTAREA",	"__REPEATABLE_OBJECTAREA",
+				"__REPEATABLE_OBJECTAREA",	"REPEATABLE_OBJECTAREA_2x2x1"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/area_grey.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			}			
+		},				
+		{
+			"id": "PASSBOMB",
+			"entity_type": "PASSBOMB",						
+			"display_type": "MDL",
+			"aux_bit": 2,			
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_bomb01.mdl"
+			},
+			"use_offset": [ 0, 0, 0 ]						
+		},	
+		{
+			"id": "PARTY_A_BALLOON02",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,						
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_balloon02.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_BEAR01",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 3, 3, 4 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","PARTY_A_BEAR01","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_bear01.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_BEAR02",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 2, 3 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","PARTY_A_BEAR02",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_bear02.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_FLAG01",
+			"move_type": "NONE",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 4, 1, 1 ],	
+			"group": [
+				"__FAKE_EMPTY","__FAKE_EMPTY","PARTY_A_FLAG01","__FAKE_EMPTY"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_flag01.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_FLAG02",
+			"move_type": "NONE",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 2 ],	
+			"group": [
+				"__FAKE_EMPTY","PARTY_A_FLAG02",
+
+				"__FAKE_BOX","__FAKE_BOX"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_flag02.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_FLAG03",
+			"move_type": "NONE",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 2 ],	
+			"group": [
+				"__FAKE_EMPTY","PARTY_A_FLAG03",
+
+				"__FAKE_BOX","__FAKE_BOX"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_flag03.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_FLAG04",
+			"move_type": "NONE",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 2 ],	
+			"group": [
+				"__FAKE_EMPTY","PARTY_A_FLAG04",
+
+				"__FAKE_BOX","__FAKE_BOX"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_flag04.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_FLAG05",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 8 ],	
+			"group": [
+				"__FAKE_BOX","PARTY_A_FLAG05",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_flag05.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_FLAG06",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 8 ],	
+			"group": [
+				"__FAKE_BOX","PARTY_A_FLAG06",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_flag06.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_FLAG07",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 8 ],	
+			"group": [
+				"__FAKE_BOX","PARTY_A_FLAG07",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_flag07.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_FLAG08",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 8 ],	
+			"group": [
+				"__FAKE_BOX","PARTY_A_FLAG08",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_flag08.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_RAINBOW01",
+			"move_type": "NONE",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 16, 1, 8 ],	
+			"group": [
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","PARTY_A_RAINBOW01","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+
+				"EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"EMPTY","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY",
+
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY","EMPTY","EMPTY"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_rainbow01.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_SIGN01",
+			"move_type": "FENCE_B0",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 2 ],
+			"group": [
+				"__FAKE_FENCE_B0","PARTY_A_SIGN01",
+
+				"__FAKE_FENCE_B0","__FAKE_FENCE_B0"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_sign01.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_SIGN02",
+			"move_type": "FENCE_B0",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 2 ],
+			"group": [
+				"__FAKE_FENCE_B0","PARTY_A_SIGN02",
+
+				"__FAKE_FENCE_B0","__FAKE_FENCE_B0"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_sign02.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_TREASUREBOX01",
+			"move_type": "SLAB_0",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 1, 2 ],
+			"group": [
+				"__FAKE_BOX","PARTY_A_TREASUREBOX01",
+
+				"__FAKE_SLAB_0","__FAKE_SLAB_0"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_treasurebox01.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_WINDMILL01",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 5, 5, 7 ],	
+			"group": [
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"EMPTY","__FAKE_BOX","PARTY_A_WINDMILL01","__FAKE_BOX","EMPTY",
+
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY"
+			],					
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_windmill01.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_CARRIAGE01",
+			"move_type": "SLOPE",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 7, 4, 4 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_SLOPE",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_SLOPE",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_SLOPE",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","PARTY_A_CARRIAGE01","__FAKE_BOX","__FAKE_BOX","__FAKE_SLOPE",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"__FAKE_BOX","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"__FAKE_BOX","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"__FAKE_EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"__FAKE_EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_carriage01.mdl"
+			}
+		},
+		{
+            "id": "PARTY_A_TICKETBOOTH01",
+            "move_type": "BOX",
+            "display_type": "MDL",
+            "aux_bit": 2,
+            "size": [ 3, 2, 3 ],
+            "group": [
+                "__FAKE_BOX","EMPTY","__FAKE_BOX",
+                "__FAKE_BOX","PARTY_A_TICKETBOOTH01","__FAKE_BOX",
+                "__FAKE_BOX","EMPTY","__FAKE_BOX",
+                "__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+                "__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+                "__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_ticketbooth01.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_POPCORNMACHINE01",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 1, 1, 2 ],
+			"group": [
+				"PARTY_A_POPCORNMACHINE01",
+
+				"__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_popcornmachine01.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_PIERROTDOOR01",
+			"move_type": "NONE",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 6, 3, 6 ],
+			"group": [
+				"EMPTY","__FAKE_BOX","EMPTY","EMPTY","__FAKE_BOX","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"EMPTY","EMPTY","EMPTY","PARTY_A_PIERROTDOOR01","EMPTY","EMPTY",
+
+				"EMPTY","__FAKE_BOX","EMPTY","EMPTY","__FAKE_BOX","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"EMPTY","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","__FAKE_BOX","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+
+				"EMPTY","EMPTY","__FAKE_BOX","__FAKE_BOX","EMPTY","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY",
+				"EMPTY","EMPTY","EMPTY","EMPTY","EMPTY","EMPTY"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_pierrotdoor01.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_BEAR03",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 3, 3, 4 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","PARTY_A_BEAR03","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_bear03.mdl"
+			}
+		},
+		{
+			"id": "PARTY_A_BEAR04",
+			"move_type": "BOX",
+			"display_type": "MDL",
+			"aux_bit": 2,
+			"size": [ 2, 2, 3 ],
+			"group": [
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","PARTY_A_BEAR04",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX",
+
+				"__FAKE_BOX","__FAKE_BOX",
+				"__FAKE_BOX","__FAKE_BOX"
+			],
+			"mdl": {
+				"filename": "models/voxel/partyblock/party_a_bear04.mdl"
+				}
+		},
+	    {
+			"id": "PARTY_A_MOVING01",
+			"entity_type": "TRANSIT",
+			"display_type": "BOX",			
+			"culling_id": "__TRANSIT",
+			"play_hide": true,			
+			"aux_bit": 2,
+			"size": [ 2, 2, 1 ],
+			"group": [
+				"__TRANSIT",	"__TRANSIT",
+				"__TRANSIT",	"PARTY_A_MOVING01"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/transit.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			},
+			"mdl" : {
+				"filename": "models/voxel/partyblock/transit_party01.mdl"
+			},
+			"use_offset": [ 0, 0, 20 ]
+		},
+        {
+			"id": "PARTY_A_MOVING02",
+			"entity_type": "TRANSIT",
+			"display_type": "BOX",			
+			"culling_id": "__TRANSIT",
+			"play_hide": true,			
+			"aux_bit": 2,
+			"size": [ 3, 3, 1 ],
+			"group": [
+				"__TRANSIT",	"__TRANSIT",		"__TRANSIT",
+				"__TRANSIT",	"__TRANSIT",		"__TRANSIT",				
+				"__TRANSIT",	"PARTY_A_MOVING02",	"__TRANSIT"
+			],
+			"mat": {
+				"top": {
+					"texture1": "voxel/play/transit.tga",
+					"blend": "TRANS_ALPHA"
+				}
+			},
+			"mdl" : {
+				"filename": "models/voxel/partyblock/transit_party02.mdl"
+			},
+			"use_offset": [ 0, 0, 20 ]
+		    
+        }		
 	]
 }
