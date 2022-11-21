@@ -818,6 +818,27 @@ CSO_EmotionAG
 0. 취소
 }
 
+CSO_EmotionAH
+{
+\r이모션표현\w
+
+1. "인사"
+2. "찬양"
+3. "도발"
+4. "사랑"
+0. 취소
+}
+
+CSO_EmotionAI
+{
+\r이모션표현\w
+
+1. "인사"
+2. "짜증"
+3. "댄스"
+4. "도발"
+0. 취소
+}
 // weapon names
 
 // RIFLES

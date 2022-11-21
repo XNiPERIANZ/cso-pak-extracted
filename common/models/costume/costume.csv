@@ -211,3 +211,5 @@ id,resource,attach (0 : ¸Ó¸® / 1 : µî / 2 : °ñ¹Ý / 3 : ¾ó±¼),set id,attach_pos,s
 8715,y22s3backcos,1,0,1,0,0
 8716,y22s3pelviscos,2,0,2,0,0
 8735,csospraykit_pelvis,2,0,2,0,0
+8749,buffclass22s4tr_back,1,0,1,0,0
+8750,buffclass22s4ct_back,1,0,1,0,0

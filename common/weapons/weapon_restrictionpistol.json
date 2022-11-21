@@ -23,6 +23,9 @@
     "kbModifier": 0.8,
     "accSpeed": 0,
     "accuracy": "ACC_3",
+    "attribute": [
+        "WPN_ATTR_SCEN_INFINITE_AMMO"
+    ],
     "properties": [
         "WPN_USE_BOTH",
         "WPN_SMALL_FLINCH",

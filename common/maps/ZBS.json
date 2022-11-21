@@ -116,6 +116,7 @@
 				"Params": {
 					"Range": 3,
 					"Damage": 300,
+					"DamageAdd": 300,
 					"CoolTime": 3
 				}
 			},
@@ -191,7 +192,8 @@
 				"Name": "loverevivalkit",
 				"ItemID": 3637,
 				"Params": {
-					"Percent":15
+					"Percent":15,
+					"PercentAdd":4
 				}
 			},
 			{

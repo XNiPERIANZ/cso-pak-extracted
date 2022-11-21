@@ -7769,3 +7769,28 @@ C zs82_wall75
 C zs82_wall76
 Y zs82_win01
 Y zs82_win02
+
+//-----------------------------------------------------------
+// dm_skygarden.wad
+//-----------------------------------------------------------
+
+M {sg_wall27
+M {sg_wall28
+S scroll_sgwater0
+W sg_ground06
+D sg_ground09
+Y sg_light01
+Y sg_light02
+W sg_wall11
+M sg_wall12
+M sg_wall13
+M sg_wall15
+W sg_wall16
+M sg_wall22
+M sg_wall30
+W sg_wall31
+W sg_wall32
+W sg_wall33
+Y sg_wall34
+Y sg_window01
+Y sg_window02

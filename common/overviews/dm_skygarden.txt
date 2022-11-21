@@ -1,0 +1,13 @@
+// overview description file for dm_skygarden.bsp
+global 
+{
+	ZOOM	1.75
+	ORIGIN	0.89 -333.41 -64.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_skygarden.bmp"
+	HEIGHT 0
+}
